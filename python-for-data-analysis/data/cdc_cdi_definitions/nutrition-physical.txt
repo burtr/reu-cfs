@@ -1,0 +1,1519 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Nutrition, Physical Activity, and Weight Status
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Census tracts with healthier food retailers within ½ mile of boundary
+	•	Computer use among high school students
+	•	Farmers markets that accept Supplemental Nutrition Assistance Program (SNAP) benefits
+	•	Farmers markets that accept Women and Infant Children (WIC) farmers market nutrition program coupons
+	•	Healthy weight among adults aged ≥ 18 years
+	•	Healthy weight among high school students
+	•	Infants breastfed at 6 months
+	•	Live births occurring at Baby Friendly Facilities
+	•	Mean maternity practices in infant nutrition and care (mPINC) score
+	•	Median daily frequency of fruit consumption among adults aged ≥18 years
+	•	Median daily frequency of fruit consumption among high school students
+	•	Median daily frequency of vegetable consumption among adults aged ≥18 years
+	•	Median daily frequency of vegetable consumption among high school students
+	•	Meeting aerobic physical activity guidelines among high school students
+	•	Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged ≥18 years
+	•	Meeting aerobic physical activity guidelines for substantial health benefits among adults aged ≥18 years
+	•	Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged ≥18 years
+	•	No leisure-time physical activity among adults aged ≥18 years
+	•	Number of farmers markets per 100,000 residents
+	•	Obesity among adults aged ≥18 years
+	•	Obesity among high school students
+	•	Overweight or obesity among adults aged ≥18 years
+	•	Overweight or obesity among high school students
+	•	Overweight or obesity among women aged 18-44 years
+	•	Participation in daily school physical education classes among high school students
+	•	Pre-pregnancy overweight or obesity
+	•	Presence of regulations pertaining to avoiding sugar in early care and education settings
+	•	Presence of regulations pertaining to screen time in early care and education settings
+	•	Presence of regulations pertaining to serving fruit in early care and education settings
+	•	Presence of regulations pertaining to serving vegetables in early care and education settings
+	•	Receiving formula supplementation within the first 2 days of life among breastfed infants
+	•	Secondary schools that allow community-sponsored use of physical activity facilities by youth outside of normal school hours
+	•	Secondary schools that allow students to purchase soda or fruit drinks
+	•	Secondary schools that allow students to purchase sports drinks
+	•	Secondary schools that offer less healthy foods as competitive foods
+	•	Soda consumption among high school students
+	•	State child care regulation supports onsite breastfeeding
+	•	Television viewing among high school students
+Census tracts with healthier food retailers within ½ mile of boundary
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+All residents.
+Numerator:
+The number of Census tracts with at least one healthier food retailer (at least one supermarket, supercenter, larger grocery store, warehouse club, or fruit and vegetable specialty stores) located within the tract or within 1/2-mile.  Note: Two separate national-level directories on retail food stores were used to develop a comprehensive list of healthier food retailers in the U.S: InfoUSA, a proprietary source of individual store listings, current as of June 2011 and a list of stores authorized to accept Supplemental Nutrition Assistance Program (SNAP) benefits as of January 2012.  The following InfoUSA stores were defined as healthier food retailers using several criteria including 2007 North American Industry Classification Codes (NAICS), annual sales volume, and annual employees on payroll: larger grocery stores and supermarkets (stores classified as NAICS 445110 with ≥10 annual payroll employees or ≥$2 million in annual sales); other chain supermarkets, supercenters, and warehouse clubs (NAICS 445, 452112, and 452910 whose company names matched a name on a list of national supermarket/supercenter chains; fruit and vegetable specialty food stores (NAICS 445230). NAICS descriptions are available at http://www.census.gov/eos/www/naics. The following stores identified through the SNAP application process were defined as healthier food retailers: supermarkets, supercenters, warehouse clubs, large grocery stores, or fruit and vegetable specialty stores.  Date accessed June 1, 2012. Further details on methodology for identifying healthier food retailers are available upon request.
+Denominator:
+Total number of Census tracts.  Census Tract Boundaries, 2010 U.S. Census Bureau. Available at http://www.census.gov/geo/www/tiger/tgrshp2010/tgrshp2010.html. Date accessed June 1, 2012.
+Measures of Frequency:
+Percentage of Census tracts
+Time Period of Case Definition:
+Current year
+Background:
+One measure of access to fruits and vegetables is the percentage of census tracts in states that have a typical healthier food retailer (at least one supermarket, supercenter, larger grocery store, warehouse club, or fruit and vegetable specialty stores) located within the tract or within a 1/2-mile. A census tract is a small and relatively permanent subdivision of counties that is similar in population and economic characteristics and living conditions. On average supermarkets, supercenters, larger grocery stores, warehouse clubs, and fruit and vegetable specialty stores stock a wide selection of affordable, high quality fruits and vegetables. In 2011, 70% of U.S. Census tracts had a healthy food retailer within ½ mile of boundary.1
+Significance:
+Having access to stores that sell fruits and vegetables and other healthier foods may increase consumption of fruits and vegetables and other healthier foods among adults.2
+Limitations of Indicator:
+Neighborhoods identified as not having at least one healthier food retailer might still have access to healthier foods if smaller stores (e.g. convenience stores, corner stores, etc.) that provide a wide selection and adequate quantity of affordable produce and other items. However, since there is not a systematic way to identify smaller retailers offering healthier foods at a national level, they are not included as a healthier food retailer in this metric. Residents may have additional access to produce in their neighborhoods through farmers markets and farm stands. However, these venues are not captured in this analysis as they may not be available year round.
+Data Resources:
+InfoUSA; USDA listing of SNAP authorized retailers; Census Tract Boundaries, 2010 U.S. Census Bureau.
+Limitations of Data Resources:
+Evidence suggests that secondary data may only capture 55-68% of food outlets that truly exist in an area and store misclassification is also common. However, two independent data sources were used to reduce inaccuracies in store operational status and store misclassification. 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-4 (Developmental):  Increase the proportion of Americans who have access to a food retail outlet that sells a variety of foods that are encouraged by the Dietary Guidelines for Americans.
+Related CDI Topic Area:
+ 
+	1.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013.
+	2.	Larson NI, Story MT, Nelson MC. Neighborhood environments: disparities in access to healthy foods in the U.S. American journal of preventive medicine. 2009;36:74–81. 
+ 
+ Top of Page
+Computer use among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 who report playing video or computer games or using a computer for 3 or more hours/day on an average school day for something that was not school work. 
+Denominator:
+Students in grades 9–12 who report playing video or computer games or using a computer for any number of hours, including zero, on an average school day for something that was not school work (excludes missing data).
+Measures of Frequency:
+Biennial (odd years) prevalence on an average school day with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Average school day.
+Background:
+In 2011, 31.1% of students in grades 9–12 played video or computer games or used a computer for 3 or more hours on an average school day.1
+Significance:
+In 2011, the American Academy of Pediatrics updated a 2001policy statement that recommended limiting total non-educational screen time (including television viewing) to no more than 2 hours per day.2 
+Limitations of Indicator:
+Indicator does not capture time spent viewing TV or hand-held devices.   However, based on Kaiser Family Foundation data, of the approximate 7.5 hours of screen time viewed per day by 8-18 year-olds, 2.75 hours is computer and video game time.3  Also, indicator intervals are not aligned with the American Academy of Pediatrics guidelines of 2 hours or less of screen time per day,2,4 so survey results cannot be compared to them.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.5 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-8.3.3:  Increase the proportion of adolescents in grades 9 through 12 who use a computer or play computer games outside of school (for non-school work) for no more than 2 hours a day.
+Related CDI Topic Area:
+Cardiovascular Disease; Diabetes; Nutrition, Physical Activity, and Weight Status
+	1.	Centers for Disease Control and Prevention, Youth on line: high school YRBS. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://apps.nccd.cdc.gov/youthonline/App/Results.aspx?TT=&OUT=&SID=HS&QID=H80&LID=&YID=&LID2=&YID2=&COL=&ROW1=&ROW2=&HT=&LCT=&FS= &FR=&FG=&FSL=&FRL=&FGL=&PV=&TST=&C1=&C2=&QP=G&DP=&VA=CI&CS=Y&SYID=&EYID=&SC=&SO=  
+	2.	American Academy of Pediatrics.  Policy Statement—Children, Adolescents, Obesity and the Media.  Pediatrics.  2011;128(1):201-208.
+	3.	Rideout VJ, Foehr UG, Roberts DF.  GENERATION M2: Media in the Lives of 8- to 18-Year-Olds. Menlo Park, CA: Kaiser Family Foundation; 2010.
+	4.	American Academy of Pediatrics. Children, adolescents, and television. Pediatrics. 2001;107(2):423-426.
+	5.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4). 
+ 
+ Top of Page
+Farmers markets that accept Supplemental Nutrition Assistance Program (SNAP) benefits
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Supplemental Nutrition Assistance Program (SNAP) participants.
+Numerator:
+The number of Farmers markets that accept SNAP benefits.
+Denominator:
+Total number of Farmers markets.
+Measures of Frequency:
+Percentage of Farmers markets.
+Time Period of Case Definition:
+Current year.
+Background:
+Farmers markets are a mechanism for purchasing foods from local farms and can augment access to fruits and vegetables from typical retail stores or provide a retail venue for fruits and vegetables in areas lacking such stores. Increasing access to farmers markets includes increasing access to persons with lower household incomes. In 2012, 21% of farmers markets accepted SNAP benefits.1
+Significance:
+Farmers markets that accept nutrition assistance program benefits, such as SNAP, Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) Farmers Market Nutrition Program (FMNP) coupons, and WIC Cash Value Vouchers (CVV), improve access to fruits and vegetables for individuals and families with lower incomes.
+Limitations of Indicator:
+None noted.
+Data Resources:
+United States Department of Agriculture, Agricultural Marketing Service. USDA National Farmers’ Market Directory.
+Limitations of Data Resources:
+None noted.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Overarching Conditions
+	1.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013. 
+ 
+ Top of Page
+Farmers markets that accept Women and Infant Children (WIC) farmers market nutrition program coupons
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Special Nutrition Program for Women, Infants, and Children (WIC) Enrollees.
+Numerator:
+Number of farmers markets that accept WIC farmers market nutrition program coupons.
+Denominator:
+Total number of farmers markets.
+Measures of Frequency:
+Percentage of farmers markets.
+Time Period of Case Definition:
+Current year.
+Background:
+Farmers markets are a mechanism for purchasing foods from local farms and can augment access to fruits and vegetables from typical retail stores or provide a retail venue for fruits and vegetables in areas lacking such stores. Increasing access to farmers markets includes increasing access to persons with lower household incomes who are participating in the WIC program. In 2012, 25.8% of farmers markets accepted WIC farmers market nutrition program coupons.1
+Significance:
+Farmers markets that accept nutrition assistance program benefits, such as Supplemental Nutrition Assistance Program (SNAP), WIC, Farmers Market Nutrition Program (FMNP) coupons, and WIC Cash Value Vouchers (CVV), improve access to fruits and vegetables for individuals and families with lower incomes.
+Limitations of Indicator:
+None noted.
+Data Resources:
+United States Department of Agriculture, Agricultural Marketing Service. USDA National Farmers’ Market Directory.
+Limitations of Data Resources:
+None noted.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Overarching Conditions; Reproductive Health
+	1.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013. 
+ 
+ Top of Page
+Healthy weight among adults aged ≥ 18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years who have a body mass index (BMI) 18.5-24.9 kg/m² calculated from self-reported weight and height.  Exclude the following:
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+	•	Pregnant women
+Denominator:
+Respondents aged ≥ 18 years for whom BMI can be calculated from their self-reported weight and height (excluding unknowns or refusals to provide weight or height, and exclusions listed below):
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+	•	Pregnant women
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2012, state prevalences (including the District of Columbia) for healthy weight ranged from 28.5% to 46.0% based on self-reported BRFSS data.2
+Significance:
+Being at a healthy weight is associated with more favorable health outcomes (lowered risk for development of hypertension, dyslipidemia, diabetes, heart disease, and certain cancers),3 greater longevity,4 and lowered health care costs.5
+Limitations of Indicator:
+Self-reports of height and weight lead to lower BMI estimates compared to estimates obtained when  height and weight are measured.6-7   
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-8:  Increase the proportion of adults who are at a healthy weight.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention.  Behavioral Risk Factor Surveillance System: Pralence and Trends Data:  Overweight and Obesity (BMI) – 2012.  Available at http://apps.nccd.cdc.gov/brfss/list.asp?cat=OB&yr=2012&qkey=8261&state=All .
+	3.	National Heart, Lung, and Blood Institute. Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults: The Evidence Report. Obes Res. 1998;6(Suppl 2):51S–209S.
+	4.	Adams KF, Schatzkin A, Harris TB, Kipnis V, Mouw T, Ballard-Barbash R, Hollenbeck A, and Leitzmann M.  Overweight, obesity, and mortality in a large prospective cohort of persons 50 to 71 years old.  New Eng J Med.  2006;355(8):763-778.
+	5.	Finkelstein EA, Trogdon JG, Cohen JW, Dietz W. Annual medical spending attributable to obesity: payer-and service-specific estimates. Health Aff. 2009; 28(5):w822–w831.
+	6.	Kuczmarski MF, Kuczmarski RJ, Matthew Najjar.  Effects of age on validity of self-reported height, weight, and body mass index:  Findings from the third National Health and Nutrition Examination Survey, 1988-1994.  J Am Diet Assoc. 2001,101:28-34
+	7.	Merrill RM and Richardson JS.  Validity of self-reported height, weight, and body mass index:  Findings from the National Health and Nutrition Examination Survey, 2001-2006.  Prev Chronic Dis; 2009, 6:(4):A121 
+ 
+ Top of Page
+Healthy weight among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 with a body mass index (BMI) at the sex- and age-specific 5th percentile to less than the 85th percentile from CDC Growth Charts: United States.1
+Denominator:
+Students in grades 9–12 who answer height, weight, sex and age questions.  YRBSS self-reported height and weight are edited for plausibility.  Age- and sex-specific weight, height, and BMI cutpoints are used to exclude implausible values. Details can be found at ftp://ftp.cdc.gov/pub/data/YRBS/2011/YRBS_2011_National_User_Guide.pdf starting on page 3.  Details on editing for plausibility start on page 5.
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2011, 69% of high school students in the United States were healthy weight.2
+Significance:
+Being at healthy weight in adolescence is associated with lower risk of obesity during adulthood.3
+Limitations of Indicator:
+Self-reported data are associated with biased prevalence estimates for weight status.4
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.5 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-10:  Reduce the proportion of children and adolescents who are considered obese (NWS-10.4 is specific for adolescents aged 12–19 years.)
+Related CDI Topic Area:
+School Health
+	1.	Kuczmarksi RJ, Ogden CL, Grummer-Strawn LM, et al. CDC growth charts: United States. Washington, DC: US Department of Health and Human Services, CDC, National Center for Health Statistics. Advance data; December 4, 2000 (revised). Publication no. 314. http://www.cdc.gov/nchs/data/ad/ad314.pdf
+	2.	Analysis of data from:  Centers for Disease Control and Prevention (CDC). Youth Risk Behavior Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	3.	Whitaker RC, Wright JA, Pepe MS, Seidel KD, Dietz WH. Predicting obesity in young adulthood from childhood and parental obesity. N Engl J Med. Sep 25 1997;337(13):869-873.
+	4.	Sherry B, Jefferds ME, Grummer-Strawn LM. Accuracy of adolescent self-report of height and weight in assessing overweight status: a literature review. Arch Pediatr Adolesc Med. 2007 Dec;161(12):1154-61.
+	5.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Infants breastfed at 6 months
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Infants.
+Numerator:
+Number of caregivers of children born in a cohort year who indicate their child was breastfed any amount at 6 months of age
+Denominator:
+Number of children aged 19-35 months born in the same cohort year.
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+At 6 months of age.
+Background:
+Among U.S. infants born in 2010, 49.0% were breastfed at 6 months and 16.4% were exclusively breastfed for 6 months; 27.0% were breastfed for 12 months. 1
+Significance:
+Breastfeeding is associated with health benefits for mother and infant.2 Mothers who breastfeed have a reduced risk of developing breast and ovarian cancer, and infants who are breastfed may be less likely to experience a variety of infections and to develop chronic conditions, including obesity during childhood.2 The American Academy of Pediatrics recommends exclusive breastfeeding for about the first six months of life with continued breastfeeding for at least the first year.3
+Limitations of Indicator:
+No limitations noted.
+Data Resources:
+National Immunization Survey, CDC, NCIRD, NCHS. Breastfeeding estimates are released by CDC’s Division of Nutrition, Physical Activity, and Obesity (DNPAO) each August in the CDC Breastfeeding Report Card and on the DNPAO website (http://www.cdc.gov/breastfeeding/data/NIS_data/index.htm).
+Limitations of Data Resources:
+As with data from all self-reported sample surveys, National Immunization Survey data might be subject to systematic error resulting from noncoverage (e.g., e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  Although socio-demographic and state specific rates are available each year on the national sample, sample size per state does not permit for calculation of yearly rates by socio-demographic strata within states.  However, CDC’s DNPAO combines multiple birth years to report socio-demographic specific rates within a state. These estimates will be released on the DNPAO website in 2014.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective MICH-21.2:  Increase the proportion of infants who are breastfed at 6 months.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Centers for Disease Control and Prevention (2013). Breastfeeding Report Card - United States, 2013.
+	2.	Ip, S., et al. (2007). Breastfeeding and maternal and infant health outcomes in developed countries. Evid Rep Technol Assess (Full Rep.) (153): 1-186.
+	3.	American Academy of Pediatrics (2012). Breastfeeding and the use of human milk. Pediatrics 129(3): e827-e841. 
+ 
+ Top of Page
+Live births occurring at Baby Friendly Facilities
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Infants.
+Numerator:
+Number of annual live births occurring at facilities designated as Baby Friendly (hospitals and birthing centers that offer an optimal level of care for lactation based on the WHO/UNICEF Ten Steps to Successful Breastfeeding for Hospitals)1.
+Denominator:
+Number of annual live births.
+Measures of Frequency:
+Annual percentage of live births.
+Time Period of Case Definition:
+Current year.
+Background:
+From June 2012 to June 2013, an estimated 7.15% of infants were born in facilities designated as Baby Friendly.2 
+Significance:
+Breastfeeding is associated with health benefits for mother and infant. The American Academy of Pediatrics recommends exclusive breastfeeding for about the first six months of life with continued breastfeeding for at least the first year. 3 For women who plan to breastfeed, the hospital experience is critical because experiences and support during the first hours and days after birth influence their later ability to continue breastfeeding.4-5 In 1991, the World Health Organization (WHO) and United Nations Children’s Fund (UNICEF) developed the Baby-Friendly Hospital Initiative to encourage and recognize hospitals and birthing centers that offer an optimal level of care for lactation based on the WHO/UNICEF Ten Steps to Successful Breastfeeding for Hospitals.6 These evidence-based steps outline best practices in hospital settings to help mothers initiate and continue breastfeeding, thus increasing exclusivity and duration of breastfeeding well beyond the hospital stay.4-5 The American Academy of Pediatrics endorsed the Ten Steps to Successful Breastfeeding in 2009 and the White House Task Force on Childhood Obesity Report to the President recommended improving maternity care practices in 2010. 7-8
+Limitations of Indicator:
+No limitations noted.
+Data Resources:
+CDC’s Division of Nutrition, Physical Activity, and Obesity (DNPAO) Breastfeeding Report Card.
+Limitations of Data Resources:
+Not all states may be represented.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective MICH-24:  Increase the proportion of live births that occur in facilities that provide recommended care for lactating mothers and their babies.
+Related CDI Topic Area:
+Reproductive Health
+	1.	World Health Organization (1989). The Ten Steps to Successful Breastfeeding, Protecting, Promoting and Supporting Breast-feeding: The Special Role of Maternity Services. Geneva: WHO.
+	2.	Centers for Disease Control and Prevention (2013). Breastfeeding Report Card - United States, 2013
+	3.	American Academy of Pediatrics (2012). Breastfeeding and the use of human milk. Pediatrics 129(3): e827-e841.
+	4.	DiGirolamo A, Grummer Strawn L, Fein S. Effect of maternity-care practices on breastfeeding. Pediatrics. 2008;122 Suppl 2:S43-S9.
+	5.	Kramer MS, Chalmers B, Hodnett ED, Sevkovskaya Z, Dzikovich I, Shapiro S, et al. Promotion of Breastfeeding Intervention Trial (PROBIT): a randomized trial in the Republic of Belarus. JAMA (Chicago, Ill). 2001;285(4):413-20.
+	6.	World Health Organization (2012). Baby-friendly Hospital Initiative. Retrieved Oct 24, 2013, from http://www.who.int/nutrition/topics/bfhi/en/.
+	7.	American Academcy of Pediatrics. Letter endorsing WHO/UNICEF Ten Steps to Successful Breastfeeding. 2009;August 25, 2009. 
+	8.	White House Task Force (2010). White House Task Force on Childhood Obesity Report. Retrieved Oct 24, 2013, from http://www.letsmove.gov/sites/letsmove.gov/files/TaskForce_on_Childhood_Obesity_May2010_FullReport.pdf.
+ 
+ Top of Page
+Mean maternity practices in infant nutrition and care (mPINC) score
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Infants.
+Numerator:
+Sum of facility-specific scores for facilities providing maternity care in the state.   A total of 100 points are possible for each facility. 
+Denominator:
+Number of state facilities that provide maternity care at birth participating in the survey.
+Measures of Frequency:
+Biennial, mean mPINC score.
+Time Period of Case Definition:
+Previous year of care.
+Background:
+The mPINC Survey initiated by CDC, measures breastfeeding-related maternity care practices at intrapartum care facilities across the US and compares the extent to which these practices vary by state.1 Thus, the state mPINC score represents the extent to which each state’s birth facilities provide maternity care that supports breastfeeding. In 2011, the mean mPINC score for the nation was 70.0.2  
+Significance:
+Breastfeeding is associated with health benefits for mother and infant. The American Academy of Pediatrics recommends exclusive breastfeeding for about the first six months of life with continued breastfeeding for at least the first year. 3 For women who plan to breastfeed, the hospital experience is critical because experiences and support during the first hours and days after birth influence their later ability to continue breastfeeding. 4-5 In 1991, the World Health Organization (WHO) and United Nations Children’s Fund (UNICEF) developed the Baby-Friendly Hospital Initiative, the core of which is the Ten Steps to Successful Breastfeeding.6 These evidence-based steps outline best practices in hospital settings to help mothers initiate and continue breastfeeding, thus increasing exclusivity and duration of breastfeeding well beyond the hospital stay.6 The American Academy of Pediatrics endorsed the Ten Steps to Successful Breastfeeding in 2009 and the White House Task Force on Childhood Obesity Report to the President recommended improving maternity care practices in 2010.7-8
+Limitations of Indicator:
+Data are self-reported by a key informant at each hospital.
+Data Resources:
+Maternity Practices in Infant Nutrition and Care (mPINC) Survey, CDC.  CDC’s mPINC is a biennial survey of all U.S. facilities that provide maternity care at birth. Hospital-specific scores are released every other year to each participating hospital. A mean national mPINC score and mean mPINC scores for all U.S. states are released every other year (odd years) on the CDC Breastfeeding Report Card. State-specific information is also released to all U.S. states through a State Benchmark Report, detailing the percent of facilities in each state with ideal practice regarding breastfeeding support.
+Limitations of Data Resources:
+No limitations noted.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Centers for Disease Control and Prevention (2011). Maternity Practices in Infant Nutrition and Care. Retrieved Oct 24, 2013 from http://www.cdc.gov/breastfeeding/data/mpinc/index.htm.
+	2.	Centers for Disease Control and Prevention (2012). Breastfeeding Report Card - United States, 2012
+	3.	American Academy of Pediatrics (2012). Breastfeeding and the use of human milk. Pediatrics 129(3): e827-e841.
+	4.	DiGirolamo A, Grummer Strawn L, Fein S. Effect of maternity-care practices on breastfeeding. Pediatrics. 2008;122 Suppl 2:S43-S9.
+	5.	Kramer MS, Chalmers B, Hodnett ED, Sevkovskaya Z, Dzikovich I, Shapiro S, et al. Promotion of Breastfeeding Intervention Trial (PROBIT): a randomized trial in the Republic of Belarus. JAMA (Chicago, Ill). 2001;285(4):413-20.       
+	6.	World Health Organization (2012). Baby-friendly Hospital Initiative. Retrieved Oct 24, 2013, from http://www.who.int/nutrition/topics/bfhi/en/.
+	7.	American Academcy of Pediatrics. Letter endorsing WHO/UNICEF Ten Steps to Successful Breastfeeding. 2009;August 25, 2009. 
+	8.	White House Task Force (2010). White House Task Force on Childhood Obesity Report. Retrieved Oct 24, 2013, from http://www.letsmove.gov/sites/letsmove.gov/files/TaskForce_on_Childhood_Obesity_May2010_FullReport.pdf 
+ 
+ 
+ Top of Page
+Median daily frequency of fruit consumption among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥18 years
+Numerator:
+Number of total daily intake of fruit consumption (100% fruit juice and fruit – fresh, frozen, or canned)
+Denominator:
+All respondents for whom these data are available (excluding unknowns or refusals to provide responses to fruit consumption question, or those with a total intake >16).
+Measures of Frequency:
+Biennial median frequency with interquartile range; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days
+Background:
+The Dietary Guidelines for Americans 2010 and Healthy People 2020 objectives call for Americans to increase their intake of fruits and vegetables.1,2  Dietary intake recommendations for fruit intake are about 1.5-2 cup equivalents daily for adult women and 2-2.5 cup equivalents daily for adult men, depending on age and physical activity level.1  In 2011, median daily intake of fruit among adults was 1.1 times daily.3
+Significance:
+The Dietary Guidelines for Americans, 2010 recommends Americans eat more fruits and vegetables as part of a healthy diet, because they contribute important nutrients, can reduce the risk for many chronic diseases, and can also help with weight management.1
+Limitations of Indicator:
+The indicator conveys the median frequency of fruit consumption of the adult population. However, because it does not convey the cup equivalents of fruits consumed, these data cannot be compared to Healthy People 2020 targets.  Healthy People 2020 measures progress based on cup equivalents per 1000 kilocalories of intake.2 The Behavioral Risk Factor Surveillance System (BRFSS) assesses frequency of fruit intake and therefore is not used to assess progress towards the specific Healthy People 2020 objectives for increased fruit consumption or national fruit intake recommendations based on cup equivalents. However, BRFSS data are used to track increased frequency of fruit consumption, a key recommendation of Dietary Guidelines for Americans.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-14:  Increase the contribution of fruits to the diets of the population aged 2 years and older.
+Related CDI Topic Area:
+ 
+	1.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	2.	US Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Healthy People 2020. http://www.healthypeople.gov/.
+	3.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013.
+ 
+ Top of Page
+Median daily frequency of fruit consumption among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9-12.
+Numerator:
+Number of total daily intake of fruit consumption (100% fruit juice and fruit)
+Denominator:
+All respondents for whom these data are available (excluding unknowns or refusals to provide responses to fruit consumption question).
+Measures of Frequency:
+Biennial median frequency with interquartile range; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 7 days
+Background:
+The Dietary Guidelines for Americans 2010 and Healthy People 2020 objectives call for Americans to increase their intake of fruits and vegetables.1,2 Dietary intake recommendations for fruit intake are about 1.5-2cup equivalents for girls14-18 years of age and 2-2/12 cup equivalents for boys 14-18 years of age, depending on age and physical activity level.1  In 2011, median daily intake of fruit among high school students was 1.0 times daily.3  
+Significance:
+The Dietary Guidelines for Americans, 2010 recommends Americans eat more fruits and vegetables as part of a healthy diet, because they contribute important nutrients, can reduce the risk for many chronic diseases, and can also help with weight management.1
+Limitations of Indicator:
+The indicator conveys the median frequency of fruit consumption among high school students surveyed. However, because it does not convey the cup equivalents of fruits consumed, it cannot be compared to Healthy People 2020 targets.  Healthy People 2020 measures progress based on cup equivalents per 1000 kilocalories of intake.  The Youth Risk Behavior Surveillance System (YRBSS) assesses frequency of fruit intake and therefore is not used to assess progress towards the specific Healthy People 2020 objectives for increased fruit consumption or national fruit intake recommendations based on cup equivalents. However, YRBSS data are used to track increased frequency of fruit consumption, a key recommendation of Dietary Guidelines for Americans.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.4 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-14:  Increase the contribution of fruits to the diets of the population aged 2 years and older.
+Related CDI Topic Area:
+School Health
+	1.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	2.	US Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Healthy People 2020. http://www.healthypeople.gov/.
+	3.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013.
+	4.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4). 
+ 
+ Top of Page
+Median daily frequency of vegetable consumption among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥ 18 years
+Numerator:
+Number of total daily intake of vegetable consumption (beans (legumes), dark green vegetables, orange vegetables, and other vegetables)
+Denominator:
+All respondents for whom these data are available (excluding unknowns or refusals to provide responses to any of the vegetable consumption questions, or those with a total intake > 23).
+Measures of Frequency:
+Biennial median frequency with interquartile range; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days
+Background:
+The Dietary Guidelines for Americans 2010 and Healthy People 2020 objectives call for Americans to increase their intake of fruits and vegetables.1,2 Dietary intake recommendations for vegetable intake are 2.5-3 cup equivalents daily for adult women and 3-4 cup equivalents daily for adult men, depending on age and physical activity level.1 In 2011, median daily intake of vegetables among adults was 1.6 times daily.3
+Significance:
+The Dietary Guidelines for Americans, 2010 recommends Americans eat more fruits and vegetables as part of a healthy diet, because they contribute important nutrients, can reduce the risk for many chronic diseases, and can also help with weight management.1
+Limitations of Indicator:
+The indicator conveys the median frequency of vegetable consumption of the adult population. However, because it does not convey the cup equivalents of vegetables consumed, these data cannot be compared to Healthy People 2020 targets.  Healthy People 2020 measures progress based on cup equivalents per 1000 kilocalories of intake.2 The Behavioral Risk Factor Surveillance System (BRFSS) assesses frequency of vegetables intake and therefore is not used to assess progress towards the specific Healthy People 2020 objectives for increased vegetable consumption or national vegetable intake recommendations based on cup equivalents per day. However, BRFSS data can be used to track increased frequency of vegetable consumption, a key recommendation of Dietary Guidelines for Americans.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-15.1:  Increase the contribution of total vegetables to the diets of the population aged 2 years and older.
+Related CDI Topic Area:
+ 
+	1.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	2.	US Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Healthy People 2020. http://www.healthypeople.gov/.
+	3.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013. 
+ 
+ Top of Page
+Median daily frequency of vegetable consumption among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12
+Numerator:
+Number of total daily intake of vegetable consumption (green salad, potatoes, carrots, and other vegetables)
+Denominator:
+All respondents for whom these data are available (excluding unknowns or refusals to provide responses to any of the vegetable consumption questions).
+Measures of Frequency:
+Biennial median frequency with interquartile range; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 7 days
+Background:
+The Dietary Guidelines for Americans 2010 and Healthy People 2020 objectives call for Americans to increase their intake of fruits and vegetables.1,2  Dietary intake recommendations for vegetable intake are  2.5-3 cup equivalents daily for girls 14-18 years of age and 2.5 -4 cup equivalents daily for boys 14-18 years of age, depending on age and physical activity level.1 In 2011, median daily intake of vegetables among high school students was 1.3 times per day.3    
+Significance:
+The Dietary Guidelines for Americans, 2010 recommends Americans eat more fruits and vegetables as part of a healthy diet, because they contribute important nutrients, can reduce the risk for many chronic diseases, and can also help with weight management.1
+Limitations of Indicator:
+The indicator conveys the median frequency of vegetable consumption among high school students surveyed. However, because it does not convey the cup equivalents of vegetables consumed, it cannot be compared to Healthy People 2020 targets. Healthy People 2020 measures progress based on cup equivalents per 1000 kilocalories of intake.2   The Youth Risk Behavior Surveillance System (YRBSS) assesses frequency of vegetable intake and therefore is not used to assess progress towards the specific Healthy People 2020 objectives for increased vegetable consumption or national vegetable intake recommendations based on cup equivalents. However, YRBSS data are used to track increased frequency of vegetables consumption, a key recommendation of Dietary Guidelines for Americans.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.4 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-15.1:  Increase the contribution of total vegetables to the diets of the population aged 2 years and older.
+Related CDI Topic Area:
+School Health
+	1.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	2.	US Department of Health and Human Services, Office of Disease Prevention and Health Promotion. Healthy People 2020. http://www.healthypeople.gov/.
+	3.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013.
+	4.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Meeting aerobic physical activity guidelines among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12
+Numerator:
+Students in grades 9–12 that answered, “7 days”, to the following question: “During the past 7 days, on how many days were you physically active for a total of at least 60 minutes per day? (Add up all the time you spend in any kind of physical activity that increases your heart rate and makes you breathe hard some of the time.)”
+Denominator:
+Students in grades 9–12 who report doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time for a total of at least 60 minutes/day on 0 or more days during the 7 days before the survey.
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 7 days.
+Background:
+The 2008 Physical Activity Guidelines for Americans states that children and adolescents should do 60 minutes (1 hour) or more of physical activity daily.1 In 2011, 28.7% of high school students had been physically active doing any kind of physical activity that increased their heart rate and made them breathe hard some of the time for a total of least 60 minutes per day on each of the 7 days before the survey (i.e., physically active at least 60 minutes on all 7 days).2
+Significance:
+Among children and adolescents, physical activity can: improve bone health, improve cardiorespiratory and muscular fitness, decrease levels of body fat, and reduce symptoms of depression.3  Physical activity patterns established during adolescence might extend into adulthood and affect future chronic disease risk. 
+Limitations of Indicator:
+The indicator may not be measuring the accurate amount of physical activity because the respondent must calculate each day's activities and then consider this across the week.  The indicator also does not capture the full guideline for children and adolescents which includes the following specifications:
+	•	Aerobic: Most of the ≥60 minutes a day should be either moderate- or vigorous-intensity aerobic physical activity, and should include vigorous-intensity physical activity at least 3 days a week.
+	•	Muscle-strengthening: As part of their ≥60 minutes of daily physical activity, children and adolescents should include muscle-strengthening physical activity on at least 3 days of the week.
+	•	Bone-strengthening: As part of their ≥60 minutes of daily physical activity, children and adolescents should include bone-strengthening physical activity on at least 3 days of the week.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.4 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-3:  Increase the proportion of adolescents who meet current Federal physical activity guidelines for aerobic physical activity and for muscle-strengthening activity. Healthy People 2020 Objective PA-3.1:  Increase the proportion of adolescents who meet current Federal physical activity guidelines for aerobic physical activity.
+Related CDI Topic Area:
+School Health
+	1.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008.
+	2.	Centers for Disease Control and Prevention (CDC). Youth risk behavior surveillance - United States, 2011. MMWR Surveill Summ. 2012 Jun 8;61(4):1-162.
+	3.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008.
+	4.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Meeting aerobic physical activity guidelines for additional and more extensive health benefits among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Number of adults aged ≥18 years who reported at least 300 minutes per week of moderate-intensity physical activity, or at least 150 minutes per week of vigorous-intensity physical activity, or a combination of moderate-intensity and vigorous-intensity physical activity (multiplied by two) totaling at least 300 minutes per week.
+Denominator:
+Number of adults aged ≥18 years who report any or no moderate or vigorous physical activity within the previous month (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence (crude and age-adjusted) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past month.
+Background:
+The 2008 Physical Activity Guidelines for Americans states that for substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity, or 75 minutes (1 hour and 15 minutes) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous intensity aerobic activity. 1For additional and more extensive health benefits, adults should increase their aerobic physical activity to 300 minutes (5 hours) a week of moderate-intensity, or 150 minutes a week (2.5 hours) of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous-intensity activity.1In 2011, nationwide (states and DC) 31.8 percent of adults participated in 300 minutes or more of moderate-intensity equivalent aerobic physical activity per week.2
+Significance:
+Regular physical activity can improve the health and quality of life of Americans of all ages, regardless of the presence of a chronic disease or disability. 1  Among adults and older adults, physical activity can lower the risk of: early death, coronary heart disease, stroke, high blood pressure, Type 2 diabetes, breast and colon cancer, falls, and depression.3  
+Limitations of Indicator:
+Indicator captures information only about non-occupational physical activity. The questions only collect information about the two types of physical activities that the respondent spent the most time doing during the preceding month. The National Health Interview Survey is the national data source for Healthy People 2020, and BRFSS is the state data source.  The questions from each data source and the survey administration are different, so data cannot be compared.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-2.2:  Increase the proportion of adults who engage in aerobic physical activity of at least moderate intensity for more than 300 minutes/week, or more than 150 minutes/week of vigorous intensity, or an equivalent combination.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008.
+	2.	Analysis of data from:  Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	3.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008
+ 
+ Top of Page
+Meeting aerobic physical activity guidelines for substantial health benefits among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Number of adults aged ≥18 years who reported at least 150 minutes per week of moderate-intensity physical activity, or at least 75 minutes per week of vigorous-intensity physical activity, or a combination of moderate-intensity and vigorous-intensity physical activity (multiplied by two) totaling at least 150 minutes per week.
+Denominator:
+Number of adults aged ≥18 years who report any or no moderate or vigorous physical activity within the previous month (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence (crude and age-adjusted) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past month.
+Background:
+The 2008 Physical Activity Guidelines for Americans states that for substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity, or 75 minutes (1 hour and 15 minutes) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous intensity aerobic activity. 1  In 2011, nationwide (states and DC) 51.6 percent of adults participated in 150 minutes or more of moderate-intensity equivalent aerobic physical activity per week.2
+Significance:
+Regular physical activity can improve the health and quality of life of Americans of all ages, regardless of the presence of a chronic disease or disability. 1  Among adults and older adults, physical activity can lower the risk of: early death, coronary heart disease, stroke, high blood pressure, Type 2 diabetes, breast and colon cancer, falls, and depression.3 
+Limitations of Indicator:
+Indicator captures information only about non-occupational physical activity. The questions only collect information about the two types of physical activities that the respondent spent the most time doing during the preceding month. The National Health Interview Survey is the national data source for Healthy People 2020, and BRFSS is the state data source. The questions from each data source and the survey administration are different, so data cannot be compared.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA–2:  Increase the proportion of adults who meet current Federal physical activity guidelines for aerobic physical activity and for muscle-strengthening activity. Healthy People 2020 Objective PA-2.1:  Increase the proportion of adults who engage in aerobic physical activity of at least moderate intensity for at least 150 minutes/week, or 75 minutes/week of vigorous intensity, or an equivalent combination.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008.
+	2.	Centers for Disease Control and Prevention (CDC).  Adult participation in aerobic and muscle-strengthening physical activities--United States, 2011.  MMWR Morb Mortal Wkly Rep. 2013 May 3;62(17):326-30.
+	3.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008 
+ 
+ Top of Page
+Meeting aerobic physical activity guidelines for substantial health benefits and for muscle-strengthening activity among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Number of adults aged ≥18 years who reported:
+	•	At least 150 minutes per week of moderate-intensity physical activity, or at least 75 minutes per week of vigorous-intensity physical activity, or a combination of moderate-intensity and vigorous-intensity physical activity (multiplied by two) totaling at least 150 minutes per week; and
+	•	Muscle-strengthening activities on 2 or more days of the week.
+Denominator:
+Number of adults aged ≥18 years who report any or no moderate or vigorous physical activity and who report any or no muscle-strengthening activity within the previous month (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence (crude and age-adjusted) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past month.
+Background:
+The 2008 Physical Activity Guidelines for Americans state that for substantial health benefits, adults should do at least 150 minutes (2 hours and 30 minutes) a week of moderate-intensity, or 75 minutes (1 hour and 15 minutes) a week of vigorous-intensity aerobic physical activity, or an equivalent combination of moderate- and vigorous intensity aerobic activity. 1  In addition, the 2008 Guidelines state that adults should do muscle-strengthening activities that are moderate or high intensity and involve all major muscle groups on 2 or more days a week.1  In 2011, nationwide (states and DC) 20.6 percent of adults participated in 150 minutes or more of moderate-intensity equivalent aerobic physical activity per week and performed muscle-strengthening activities on 2 or more days of the week.2
+Significance:
+Regular physical activity can improve the health and quality of life of Americans of all ages, regardless of the presence of a chronic disease or disability. 1  Among adults and older adults, physical activity can lower the risk of early death, coronary heart disease, stroke, high blood pressure, Type 2 diabetes, breast and colon cancer, falls, and depression.3  Muscle-strengthening activities provide additional benefits not found with aerobic activity.1  The benefits of muscle-strengthening activity include increased bone strength and muscular fitness.1
+Limitations of Indicator:
+Indicator captures information only about non-occupational physical activity.  The questions assessing aerobic physical activity only collect information about the two types of physical activities that the respondent spent the most time doing during the preceding month.  The question assessing muscle-strengthening activities does not specify the intensity nor does it specify that the activities should involve all major muscle groups.  The National Health Interview Survey is the national data source for Healthy People 2020, and BRFSS is the state data source.  The questions from each data source and the survey administration are different, so data cannot be compared.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-2:  Increase the proportion of adults who meet current Federal physical activity guidelines for aerobic physical activity and for muscle-strengthening activity. Healthy People 2020 Objective PA–2.4:  Increase the proportion of adults who meet the objectives for aerobic physical activity and for muscle-strengthening activity.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008.
+	2.	 Centers for Disease Control and Prevention (CDC).  Adult participation in aerobic and muscle-strengthening physical activities--United States, 2011.  MMWR Morb Mortal Wkly Rep. 2013 May 3;62(17):326-30.
+	3.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008
+ 
+ Top of Page
+No leisure-time physical activity among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥18 years
+Numerator:
+Respondents who answered, “No”, to the following question: “During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?”
+Denominator:
+Number of adults aged ≥18 years who report any or no physical activity within the previous month (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence (crude and age-adjusted) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past month.
+Background:
+The 2008 Physical Activity Guidelines for Americans states that all adults should avoid inactivity.1  In 2011, nationwide (states and DC) 25.4 percent of adults participated in no leisure-time physical activity in the past month.2
+Significance:
+Regular physical activity can improve the health and quality of life of Americans of all ages, regardless of the presence of a chronic disease or disability. 1  Among adults and older adults, physical activity can lower the risk of: early death, coronary heart disease, stroke, high blood pressure, Type 2 diabetes, breast and colon cancer, falls, and depression.3  The 2008 Guidelines state that some physical activity is better than none, and adults who participate in any amount of physical activity gain some health benefits.1
+Limitations of Indicator:
+Indicator captures information only about non-occupational physical activity. The National Health Interview Survey is the national data source for Healthy People 2020, and BRFSS is the state data source.  The questions from each data source and the survey administration are different, so data cannot be compared.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-1:  Reduce the proportion of adults who engage in no leisure-time physical activity.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008
+	2.	Analysis of data from:  Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	3.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008 
+ 
+ Top of Page
+Number of farmers markets per 100,000 residents
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+All residents.
+Numerator:
+The number of farmers markets.  
+Denominator:
+Total population estimate divided by 100,000.  
+Measures of Frequency:
+Number of farmers markets per 100,000 residents.
+Time Period of Case Definition:
+Current year.
+Background:
+Farmers markets are a mechanism for purchasing foods from local farms and can augment access to fruits and vegetables from typical retail stores or provide a retail venue for fruits and vegetables in areas lacking such stores. In 2012, a total of 2.5 farmers markets per 100,000 U.S. population were available.1
+Significance:
+The number of farmers markets per 100,000 state residents provides a broad estimate of the availability of fruits and vegetables from farmers markets adjusted for variation in state population.
+Limitations of Indicator:
+None noted.
+Data Resources:
+United States Department of Agriculture, Agricultural Marketing Service. USDA National Farmers’ Market Directory.
+Limitations of Data Resources:
+None noted.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Overarching Conditions
+	1.	Centers for Disease Control and Prevention. State Indicator Report on Fruits and Vegetables, 2013. Atlanta, GA: Centers for Disease Control and Prevention, U.S. Department of Health and Human Services, 2013. 
+  
+ Top of Page
+Obesity among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years who have a body mass index (BMI) ≥30.0 kg/m² calculated from self-reported weight and height.  Exclude the following:
+	•	Height:  data from respondents shorter than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  weighing less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents with BMI less than 12 kg/m2, or 100 kg/m2 or greater.
+	•	Pregnant women
+Denominator:
+Respondents aged ≥ 18 years for whom BMI can be calculated from their self-reported weight and height (excluding unknowns, refusals to provide weight or height, and exclusions listed below):
+	•	Height:  data from respondents shorter than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  weighing less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+	•	Pregnant women
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2012, state prevalences for obesity ranged from 20.5% to 34.7% based on self-reported BRFSS data.2  
+Significance:
+Being overweight or obese increases the risk for multiple chronic diseases, including heart disease, stroke, hypertension, type 2 diabetes, osteoarthritis, and certain cancers.3
+Limitations of Indicator:
+Self-reports of height and weight lead to lower BMI estimates compared to estimates obtained when  height and weight are measured.4-5 
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS now includes (started in 2011) cell phone only users and a new data weighting method in the data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-9:  Reduce the proportion of adults who are obese.
+Related CDI Topic Area:
+Arthritis; Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention.  Behavioral Risk Factor Surveillance System: Pralence and Trends Data:  Overweight and Obesity (BMI) – 2012.  Available at http://apps.nccd.cdc.gov/brfss/list.asp?cat=OB&yr=2012&qkey=8261&state=All .
+	3.	Centers for Disease Control and Prevention. Overweight and Obesity:  Causes and Consequences.  Available at http://wwwdev.cdc.gov/obesity/adult/causes/index.html.
+	4.	Kuczmarski MF, Kuczmarski RJ, Matthew Najjar.  Effects of age on validity of self-reported height, weight, and body mass index:  Findings from the third National Health and Nutrition Examination Survey, 1988-1994.  J Am Diet Assoc. 2001,101:28-34
+	5.	Merrill RM and Richardson JS.  Validity of self-reported height, weight, and body mass index:  Findings from the National Health and Nutrition Examination Survey, 2001-2006.  Prev Chronic Dis; 2009, 6:(4):A121
+ 
+ 
+ Top of Page
+Obesity among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 with a body mass index (BMI) at or above the sex- and age-specific 95th percentile from CDC Growth Charts: United States.1
+Denominator:
+Students in grades 9–12 who answer height, weight, sex and age questions. YRBSS self-reported height and weight are edited for plausibility. Age- and sex-specific weight, height, and BMI cutpoints are used to exclude implausible values. Details can be found at ftp://ftp.cdc.gov/pub/data/YRBS/2011/YRBS_2011_National_User_Guide.pdf starting on page 3.  Details on editing for plausibility start on page 5.
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2011, 13.0% of students in grades 9–12 were obese.2  The prevalence of obesity among high school students has not changed significantly since 2003 based on self-reported data.2 In 2011, the state-specific prevalence of obesity ranged from 7.3% to 17.0% based on self-reported YRBS data.2
+Significance:
+Obese children are more likely to have high blood pressure, high cholesterol, impaired glucose tolerance, asthma, joint problems, and other physical, social, and psychological problems.3 Obese children are more likely to become obese adults, which increases the risk for multiple chronic diseases in adulthood, including heart disease, stroke, hypertension, type 2 diabetes, osteoarthritis, and certain cancers.3
+Limitations of Indicator:
+Self-reported data underestimate obesity prevalence among adolescents.4
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.5 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-10:  Reduce the proportion of children and adolescents who are considered obese.  (NWS-10.4 is specific for adolescents aged 12–19 years.)
+Related CDI Topic Area:
+Asthma; Arthritis; Cancer; Cardiovascular Disease; Diabetes; School Health
+	1.	Kuczmarksi RJ, Ogden CL, Grummer-Strawn LM, et al. CDC growth charts: United States. Washington, DC: US Department of Health and Human Services, CDC, National Center for Health Statistics. Advance data; December 4, 2000 (revised). Publication no. 314. http://www.cdc.gov/nchs/data/ad/ad314.pdf
+	2.	Centers for Disease Control and Prevention, Youth on line: high school YRBS. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://apps.nccd.cdc.gov/youthonline/App/Default.aspx.
+	3.	Centers for Disease Control and Prevention, Basics about childhood obesity. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://www.cdc.gov/obesity/childhood/basics.html.
+	4.	Sherry B, Jefferds ME, Grummer-Strawn LM. Accuracy of adolescent self-report of height and weight in assessing overweight status: a literature review. Arch Pediatr Adolesc Med. 2007 Dec;161(12):1154-61.
+	5.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Overweight or obesity among adults aged ≥18 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years who have a body mass index (BMI) ≥ 25.0 kg/m² calculated from self-reported weight and height.  Exclude the following:
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+	•	Pregnant women
+Denominator:
+Respondents aged ≥ 18 years for whom BMI can be calculated from their self-reported weight and height (excluding unknowns, refusals to provide weight or height, and exclusions listed below):
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or greater.
+	•	Pregnant women
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2012, state prevalences (including the District of Columbia) for overweight adults ranged from 30.0% to 39.1% and those for obesity ranged from 20.5% to 34.7% based on self-reported BRFSS data.2
+Significance:
+Being overweight or obese increases the risk for multiple chronic diseases, including heart disease, stroke, hypertension, type 2 diabetes, osteoarthritis, and certain cancers.3
+Limitations of Indicator:
+Self-reports of height and weight lead to lower BMI estimates compared to estimates obtained when  height and weight are measured.4-5  
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-8:  Increase the proportion of adults who are at a healthy weight. Healthy People 2020 Objective NWS-9:  Reduce the proportion of adults who are obese.
+Related CDI Topic Area:
+Arthritis; Cancer; Cardiovascular Disease; Diabetes; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention.  Behavioral Risk Factor Surveillance System: Pralence and Trends Data:  Overweight and Obesity (BMI) – 2012.  Available at http://apps.nccd.cdc.gov/brfss/list.asp?cat=OB&yr=2012&qkey=8261&state=All .
+	3.	Centers for Disease Control and Prevention. Overweight and Obesity:  Causes and Consequences.  Available at http://wwwdev.cdc.gov/obesity/adult/causes/index.html.
+	4.	Kuczmarski MF, Kuczmarski RJ, Matthew Najjar.  Effects of age on validity of self-reported height, weight, and body mass index:  Findings from the third National Health and Nutrition Examination Survey, 1988-1994.  J Am Diet Assoc. 2001,101:28-34
+	5.	Merrill RM and Richardson JS.  Validity of self-reported height, weight, and body mass index:  Findings from the National Health and Nutrition Examination Survey, 2001-2006.  Prev Chronic Dis; 2009, 6:(4):A121
+  
+ Top of Page
+Overweight or obesity among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 with a body mass index (BMI) at or above the sex- and age-specific 85th percentile from CDC Growth Charts: United States.1
+Denominator:
+Students in grades 9–12 who answer height, weight, sex and age questions.  YRBSS self-reported height and weight are edited for plausibility. Age- and sex-specific weight, height, and BMI cutpoints are used to exclude implausible values. Details can be found at ftp://ftp.cdc.gov/pub/data/YRBS/2011/YRBS_2011_National_User_Guide.pdf starting on page 3.  Details on editing for plausibility start on page 5.
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2011, 15.2% of students in grades 9–12 were overweight and 13.0% were obese based on self-reported data.2 The prevalence of overweight and obesity among high school students has not changed significantly since 2003.2 The state-specific prevalence of overweight ranged from 10.7% to 19.5%. The state-specific prevalence of obesity ranged from 7.3% to 17.0%.2
+Significance:
+Obese children are more likely to have high blood pressure, high cholesterol, impaired glucose tolerance, asthma, joint problems, and other physical, social, and psychological problems.3 Obese children are more likely to become obese adults, which increases the risk for multiple chronic diseases in adulthood, including heart disease, stroke, hypertension, type 2 diabetes, osteoarthritis, and certain cancers.3
+Limitations of Indicator:
+Self-reported data underestimate obesity prevalence among adolescents.4
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.5 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-10:  Reduce the proportion of children and adolescents who are considered obese.  (NWS-10.4 is specific for adolescents aged 12–19 years.)
+Related CDI Topic Area:
+Asthma; Arthritis; Cancer; Cardiovascular Disease; Diabetes; School Health
+	1.	Kuczmarksi RJ, Ogden CL, Grummer-Strawn LM, et al. CDC growth charts: United States. Washington, DC: US Department of Health and Human Services, CDC, National Center for Health Statistics. Advance data; December 4, 2000 (revised). Publication no. 314. http://www.cdc.gov/nchs/data/ad/ad314.pdf
+	2.	Centers for Disease Control and Prevention, Youth on line: high school YRBS. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://apps.nccd.cdc.gov/youthonline/App/Default.aspx.
+	3.	Centers for Disease Control and Prevention, Basics about childhood obesity. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://wwwdev.cdc.gov/obesity/childhood/basics.html.
+	4.	Sherry B, Jefferds ME, Grummer-Strawn LM. Accuracy of adolescent self-report of height and weight in assessing overweight status: a literature review. Arch Pediatr Adolesc Med. 2007 Dec;161(12):1154-61.
+	5.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Overweight or obesity among women aged 18-44 years
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Overweight:  Women aged 18-44 years who have a body mass index (BMI) of 25 kg/m2 or greater but <30 kg/m2. Obesity:  Women aged 18-44 years who have a BMI ≥30 kg/m2.
+Exclude the following:
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+Denominator:
+Women aged 18-44 years for whom BMI can be calculated using their self-reported weight and height (excluding unknowns, refusals to provide weight or height, and exclusions listed below):
+	•	Height:  data from respondents less than 3 feet, or 8 feet or taller
+	•	Weight:  data from respondents  less than 50 pounds, or 650 pounds or more
+	•	BMI: data from respondents  with BMI less than 12 kg/m2, or 100 kg/m2 or higher
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval; and by demographic characteristics when feasible, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection. and adjust for non-response and telephone non-coverage).
+Time Period of Case Definition:
+Current.
+Background:   
+One of the most serious issues that practitioners and scientists have faced in the past 30 years is the increase in prevalence of overweight and obesity among American women of childbearing age.1 Nearly two thirds of reproductive-aged women in the United States are overweight or obese, placing them at elevated risk for adverse health outcomes.2-3 Importantly, the prevalence of severe obesity, once a relatively rare condition, has increased dramatically among women of childbearing age.4
+Significance:
+In the non-pregnant state, obesity contributes to numerous adverse health conditions including type II diabetes, hypertension, heart disease, a variety of cancers, and infertility.5-8  Obesity is also associated with a host of unfavorable perinatal health outcomes including neural tube defects, labor and delivery complications, fetal and neonatal death, and maternal complications such as gestational diabetes and preeclampsia.9-13  While health risks are better established for obese persons, overweight is a predictor of subsequent obesity.7 Therefore, several professional health organizations and councils, in addition to the Clinical Work Group of the Select Panel on Preconception Care workgroup recommends that all women have their BMI calculated at least annually.14  Overweight and obese women should be offered healthy strategies to achieve a healthier body weight, especially prior to any future pregnancies.
+Limitations of Indicator:
+Height and weight are self-reported by the participant but are not verified using medical records data.  However, women have been shown to underreport weight, which may lead to an underestimation of BMI.15 Analysis for this indicator requires use of a calculated variable named _BMI4CAT. Details on the calculation of this variable can be found at http://ftp.cdc.gov/pub/data/brfss/calcvar_07.rtf.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). 
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-8:  Increase the proportion of adults who are at a healthy weight. Healthy People 2020 Objective NWS-9:  Reduce the proportion of adults who are obese.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Flegal KM, Carroll MD, Kuczmarski RJ, Johnson CL. Overweight and obesity in the United States: prevalence and trends, 1960–1994. International Journal of Obesity and Related Metabolic Disorders. 1998;22(1):39–47.
+	2.	Hillemeier MM,  Weisman CS,  Chuang C, Downs DS, McCall-Hosenfeld J, Camacho F, Transition to Overweight or Obesity Among Women of Reproductive Age, J Womens Health (Larchmt). May 2011; 20(5): 703–710; doi: 10.1089/jwh.2010.2397PMCID: PMC3096512
+	3.	Flegal KM. Carroll MD. Ogden CL. Curtin LR. Prevalence and trends in obesity among US adults, 1999–2008. JAMA. 2010;303:235–241.
+	4.	Institute of Medicine (US) and National Research Council (US) Committee to Reexamine IOM Pregnancy Weight Guidelines; Rasmussen KM, Yaktine AL, editors. Weight Gain During Pregnancy: Reexamining the Guidelines. Washington (DC): National Academies Press (US); 2009. 2, Descriptive Epidemiology and Trends. Available from: http://www.ncbi.nlm.nih.gov/books/NBK32810/
+	5.	Institute of Medicine. Influence of pregnancy weight on maternal child health: a workshop report. Washington, DC: National Academy Press; 2007.
+	6.	Sarwer DB, Allison KC, Gibbons LM, Markowitz JT, Nelson DB. Pregnancy and obesity: a review and agenda for future research. J Womens Health (Larchmt) 2006;15:720-33.
+	7.	McTigue KM, Harris R, Hemphill B, et al. Screening and interventions for obesity in adults: summary of the evidence for the US Preventive Services Task Force. Ann Intern Med 2003; 139:933-49.
+	8.	Dixit A, Girling JC. Obesity and pregnancy. J Obstet Gynaecol 2008; 28:14-23.
+	9.	Rich-Edwards JW, Goldman MB, Willett WC, et al. Adolescent body mass index and infertility caused by ovulatory disorder. Am J Obstet Gynecol 1994;171:171-7.
+	10.	Watkins ML, Rasmussen SA, Honein MA, Botto LD, Moore CA. Maternal obesity and risk for birth defects. Pediatrics 2003;111:1152-8.7. 
+	11.	Cedergren MI. Maternal morbid obesity and the risk of adverse pregnancy outcome. Obstet Gynecol 2004;103:219-24.
+	12.	Cnattingius S, Bergstrom R, Lipworth L, Kramer MS. Prepregnancy weight and the risk of adverse pregnancy outcomes. N Engl J Med 1998;338:147-52.
+	13.	Baeten JM, Bukusi EA, Lambe M. Pregnancy complications and outcomes among overweight and obese nulliparous women. Am J Public Health 2001;91:436-40.
+	14.	Gardiner PM, Nelson L, Shellhaas CS, et al. The clinical content of preconception care: nutrition and dietary supplements. Am J Obstet Gynecol 2008; 199 (6 Suppl B): S345- S356.
+	15.	Gillum RF, Sempos CT. Ethnic variation in validation of classification of overweight and obesity using self-reported weight and height in American women and men: the Third National Health and Nutrition Examination Survey. Nutr J 2005; 4:27.
+  
+ Top of Page
+Participation in daily school physical education classes among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Respondents who answered, “5 days”, to the following question: “In an average week in school when you go to school, how many days do you attend physical education (PE) classes?”
+Denominator:
+Students surveyed in grades 9–12. Respondents with missing data were excluded.
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+An average week in school.
+Background:
+Physical education is an effective strategy to increase physical activity among young people.  In 2011, 31.5% of students went to physical education classes 5 days in an average week when they were in school (i.e., attended physical education classes daily).1
+Significance:
+Among children and adolescents, physical activity can improve bone health, improve cardiorespiratory and muscular fitness, decrease levels of body fat, and reduce symptoms of depression.2 Physical activity patterns established during adolescence might extend into adulthood and affect future chronic disease risk.3  The 2008 Physical Activity Guidelines for Americans states that children and adolescents should do 60 minutes (1 hour) or more of physical activity daily.3  
+Limitations of Indicator:
+The indicator does not capture time spent in physical education class nor does it capture time spent physically active in class.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.4 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-4:  Increase the proportion of the Nation’s public and private schools that require daily physical education for all students. Healthy People 2020 Objective PA-4.3:  Increase the proportion of the Nation’s public and private senior high schools that require daily physical education for all students. Healthy People 2020 Objective PA-5:  Increase the proportion of adolescents who participate in daily school physical education.
+Related CDI Topic Area:
+School Health
+	1.	Centers for Disease Control and Prevention (CDC). Youth risk behavior surveillance - United States, 2011. MMWR Surveill Summ. 2012 Jun 8;61(4):1-162.
+	2.	Physical Activity Guidelines Advisory Committee. Physical Activity Guidelines Advisory Committee Report, 2008. Washington, DC: U.S. Department of Health and Human Services;2008
+	3.	U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for Americans. Washington, DC: U.S. Department of Health and Human Services;2008.
+	4.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Pre-pregnancy overweight or obesity
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Women aged 18-44 who have had a live birth.
+Numerator:
+Overweight:  Women aged 18-44 years whose prepregnancy body mass index (BMI) was 25 kg/m2 or greater but less than 30 kg/m2. BMI is calculated from self-reported weight and height. Obesity:  Women aged 18-44 years whose prepregnancy BMI was ≥30 kg/m2.  BMI is calculated from self-reported weight and height.
+Denominator:
+Women aged 18-44 years for whom BMI can be calculated using their self-reported weight and height.
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval.
+Time Period of Case Definition:
+Before the pregnancy resulting in the most recent live birth.
+Background:   
+Pre-pregnancy obesity poses risks to both pregnant women and their infants. Obese women are at increased risk for infertility, pregnancy loss, complications during pregnancy  such  as hypertensive disorders and gestational diabetes, and  cesarean delivery. Fetal risks include  prematurity, stillbirth, neural tube defects, and  an  increased risk of the  child  becoming  obese or developing  heart disease in the future.1-4 In addition, obese  mothers  are less likely than  those of  normal weight to  begin  breastfeeding  their new baby  or  to  continue  breastfeeding after initiation.5 Based on data from the Pregnancy Risk Assessment Monitoring System (PRAMS), one-fifth of American women are obese (BMI > 29 kg/m2) at the start of pregnancy, a figure that has risen 70 percent in the past decade.6-7
+Significance:
+In the non-pregnant state, obesity contributes to numerous adverse health conditions including type II diabetes, hypertension, heart disease, a variety of cancers, and infertility.8-11  Obesity is also associated with a host of unfavorable perinatal health outcomes including neural tube defects, labor and delivery complications, fetal and neonatal death, and maternal complications such as gestational diabetes and preeclampsia.12-16  While health risks are better established for obese persons, overweight is a predictor of subsequent obesity.12  In addition to steadily increasing obesity rates in the general U.S. population, a notable increase toward higher pre-pregnancy BMI in the U.S. has been demonstrated.17  Therefore, several professional health organizations and councils, in addition to the Clinical Work Group of the Select Panel on Preconception Care workgroup recommends that all women have their BMI calculated at least annually.18 Overweight and obese women should be offered healthy strategies to achieve a healthier body weight, especially prior to any future pregnancies.
+Limitations of Indicator:
+Maternal weight and height as recorded on the birth certificate are based on either maternal recall or prenatal records.19  Unpublished data demonstrates that birth certificate data underestimate the prevalence of obesity although the data have a satisfactory reliability and validity for surveillance and research purposes (Unpublished data from Florida birth certificates, 2005). There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Birth certificate, National Vital Statistics System. 
+Limitations of Data Resources:
+Missing values—definition of exclusion criteria are not stated nor how to address biologically implausible values.  Not all states use 2003 version of birth certificates, which capture prepregnancy height and weight. Birth certificates may not be accurate in documenting maternal health status. 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-8:  Increase the proportion of adults who are at a healthy weight. Healthy People 2020 Objective NWS-9:  Reduce the proportion of adults who are obese.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Cnattingius S, Bergstrom R, Lipworth L, Kramer MS. Prepregnancy weight and the risk of adverse pregnancy outcomes. N Engl J Med 1998;338:147-152.
+	2.	Catalano PM, Ehrenberg HM. The short-and long-term implications of maternal obesity on the mother and her offspring. BJOG 2006;113:1126-1133.
+	3.	Begum KS, Sachchithanantham K, De Somsubhra S. Maternal obesity and pregnancy outcome. Clin Exp Obstet Gynecol. 2011;38(1):14-20.
+	4.	Weiss JL, Malone FD, Emig D, Ball RH, Nyberg DA, Comstock CH, Saade G, Eddleman K, Carter SM, Craigo SD, Carr SR, D'Alton ME; FASTER Research Consortium. Obesity, obstetric complications and cesarean delivery rate--a population-based screening study. Am J Obstet Gynecol. 2004 Apr;190(4):1091-1097.
+	5.	Guelinckx I, Devlieger R, Bogaerts A, Pauwels S, Vansant G. The effect of pre-pregnancy BMI on intention, initiation and duration of breast-feeding. Public Health Nutr. 2011 Oct 31:1-9.
+	6.	Kim SY, Dietz PM, England L, Morrow B, Callaghan WM. Trends in prepregnancy obesity in nine states, 1993–2003. Obesity (Silver Spring). 2007;15(4):986–993
+	7.	Institute of Medicine (US) and National Research Council (US) Committee to Reexamine IOM Pregnancy Weight Guidelines; Rasmussen KM, Yaktine AL, editors. Weight Gain During Pregnancy: Reexamining the Guidelines. Washington (DC): National Academies Press (US); 2009. 2, Descriptive Epidemiology and Trends. Available from: http://www.ncbi.nlm.nih.gov/books/NBK32810/
+	8.	Van Lieshout RJ, Taylor VH, Boyle MH, Pre-pregnancy and pregnancy obesity and neurodevelopmental outcomes in offspring: a systematic review, Obesity Reviews, Volume 12, Issue 5, pages e548–e559, May 2011
+	9.	Institute of Medicine. Influence of pregnancy weight on maternal child health: a workshop report. Washington, DC: National Academy Press; 2007.
+	10.	Sarwer DB, Allison KC, Gibbons LM, Markowitz JT, Nelson DB. Pregnancy and obesity: a review and agenda for future research. J Womens Health (Larchmt) 2006;15:720-33.
+	11.	McTigue KM, Harris R, Hemphill B, et al. Screening and interventions for obesity in adults: summary of the evidence for the US Preventive Services Task Force. Ann Intern Med 2003; 139:933-49.
+	12.	Dixit A, Girling JC. Obesity and pregnancy. J Obstet Gynaecol 2008; 28:14-23.
+	13.	Rich-Edwards JW, Goldman MB, Willett WC, et al. Adolescent body mass index and infertility caused by ovulatory disorder. Am J Obstet Gynecol 1994;171:171-7.
+	14.	Watkins ML, Rasmussen SA, Honein MA, Botto LD, Moore CA. Maternal obesity and risk for birth defects. Pediatrics 2003;111:1152-8.
+	15.	Cedergren MI. Maternal morbid obesity and the risk of adverse pregnancy outcome.  Obstet Gynecol 2004;103:219-24.
+	16.	Baeten JM, Bukusi EA, Lambe M. Pregnancy complications and outcomes among overweight and obese nulliparous women. Am J Public Health 2001;91:436-40.
+	17.	Yeh J, Shelton JA. Increasing prepregnancy body mass index: Analysis of trends and contributing variables. Am J Obstet Gynecol 2005; 193:1994-98.
+	18.	Gardiner PM, Nelson L, Shellhaas CS, et al. The clinical content of preconception care: nutrition and dietary supplements. Am J Obstet Gynecol 2008; 199 (6 Suppl B): S345- S356.
+	19.	National Center for Health Statistics. 2003 revisions of the U.S. standard certificates of live birth and death and the fetal death report [online]. Available at: http://www.cdc.gov/nchs/vital_certs_rev.htm. Accessed March 2, 2009.
+ 
+ Top of Page
+Presence of regulations pertaining to avoiding sugar in early care and education settings
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Children ages 0-5 years.
+Numerator:
+States with child care regulations serving children in child care ages 0-5 years that support avoiding sugar including concentrated sweets, such as candy, sodas, sweetened drinks, fruit nectars, and flavored milk.  (Note: For states with separate regulations for large and small homes and centers, language in all sets of regulations should fully include national guidelines.)
+Denominator:
+50 States Note: The numerator and denominator above define the indicator for the United States data. Individual states will have a yes/no response to this indicator.
+Measures of Frequency:
+Percent of states with language that supports avoiding sugar including concentrated sweets, such as candy, sodas, sweetened drinks, fruit nectars, and flavored milk.
+Time Period of Case Definition:
+Current year.
+Background:
+In 2011, 20% of states had language in child care regulations that supported avoiding sugar including concentrated sweets, such as candy, sodas, sweetened drinks, fruit nectars, and flavored milk.1
+Significance:
+Current research supports a diet based on a variety of nutrient dense foods which provide substantial amounts of essential nutrients.2  To ensure that child care programs are offering a variety of foods the Caring for Our Children: National Health and Safety Performance Standards (3rd ed.)  recommends that children should be offered items from each food group and avoid concentrated sweets such as candy, sodas, sweetened drinks, fruit nectars, and flavored milk.3
+Limitations of Indicator:
+Indicator does not capture compliance with regulation.
+Data Resources:
+Achieving a State of Healthy Weight: A National Assessment of Obesity Prevention Terminology in Child Care Regulations 2011.
+Limitations of Data Resources:
+There is much variability in the way states’ documents are organized and the language used within the states’ documents.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-1:  Increase the number of States with nutrition standards for foods and beverages provided to preschool-aged children in child care.
+Related CDI Topic Area:
+Diabetes; Oral Health; Reproductive Health
+	1.	National Resource Center for Health and Safety in Child Care and Early Education. 2012. Achieving a state of healthy weight: 2011 update. Aurora, CO: University of Colorado Denver. Also available at http://nrckids.org   
+	2.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	3.	American Academy of Pediatrics, American Public Health Association, National Resource Center for Health and Safety in Child Care and Early Education. 2011. Caring for our children: National health and safety performance standards; Guidelines for early care and education programs. 3rd edition. Elk Grove Village, IL: American Academy of Pediatrics; Washington, DC: American Public Health Association. Also available at http://nrckids.org. 
+ 
+ 
+ Top of Page
+Presence of regulations pertaining to screen time in early care and education settings
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Children in child care ages 0-5 years.
+Numerator:
+The numerator for the U.S. measure is the number of states with child care regulations that support limiting screen time. Individual states will have a yes/no response to this indicator.
+Denominator:
+The denominator for the U.S. measure is 50 States.
+Measures of Frequency:
+The measure of frequency for the U.S. data is the percent of states with child care regulations.  Individual states will have a yes/no response to this indicator.
+Time Period of Case Definition:
+Annual.
+Background:
+In 2006, 65% percent of center-based programs and 11% of home-based programs watched no television during the early care and education day.1
+Significance:
+Excess screen time is associated with language delay among infants; and attention problems and less healthy diets, and obesity-related behaviors among children.2-7   Infants and children should have positive interactions with people and not be engaged in screen time that takes away from social interaction.8   To ensure that child care programs are promoting the healthy development of children, the Caring for Our Children: National Health and Safety Performance Standards (3rd ed.)  recommends that that television viewing be discouraged for children younger than age two and screen time for children over the age to two to no more than one to two hours of quality programming per twenty-four period.9
+Limitations of Indicator:
+Does not include screen time outside of the child care setting.  Also, this indicator does not capture compliance with regulation.
+Data Resources:
+Achieving a State of Healthy Weight: A National Assessment of Obesity Prevention Terminology in Child Care Regulations 2011; and CDC State Indicator Report on Physical Activity10.
+Limitations of Data Resources:
+There is much variability in the way states’ documents are organized and the language used within the states’ documents.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-8.2:  Increase the proportion of children and adolescents 2 years old through 12th grade who view television, videos, or play video games for no more than 2 hours a day.
+Related CDI Topic Area:
+Reproductive Health; School Health
+	1.	Christakis DA, Zimmerman FJ, Garrison MM.  Television viewing in child care programs: a national survey. Commun Rep. 2006;19(2):111–120
+	2.	Zimmerman FJ, Christakis DA, Meltzoff A. Associations between media viewing and language development in children under age 2 years. J Pediatr. 2007;151(4):364-368.
+	3.	Zimmerman FJ, Christakis DA. 2005. Children’s television viewing and cognitive outcomes. Arch Pediatric Adolescent Med 159:619-25.
+	4.	Reilly JJ, Armstrong J, Dorosty AR. 2005. Early life risk factors for obesity in childhood: Cohort study. British Medical J 330:1357.
+	5.	Lumeng JC, Rahnama S, Appugliese D, Kaciroti N, Bradley RH. 2006. Television exposure and overweight risk in preschoolers. Arch Pediatric Adolescent Med 160:417-22.
+	6.	Levin S, Martin MW, Riner WF. 2004. TV viewing habits and Body Mass Index among South Carolina Head Start children. Ethnicity and Disease 14:336-39.
+	7.	Miller SA, Taveras EM, Rifas-Shiman SL, Gillman MW. 2008. Association between television viewing and poor diet quality in young children. Int J Pediatric Obesity 3:168-76.
+	8.	American Academy of Pediatrics, Council on Communications and Media. 2009. Policy statement: Media violence. Pediatrics 124:1495-1503.
+	9.	American Academy of Pediatrics, American Public Health Association, National Resource Center for Health and Safety in Child Care and Early Education. 2011. Caring for our children: National health and safety performance standards; Guidelines for early care and education programs. 3rd edition. Elk Grove Village, IL: American Academy of Pediatrics; Washington, DC: American Public Health Association. Also available at http://nrckids.org 
+	10.	Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Nutrition, Physical Activity, and Obesity. State Indicator Report on Physical Activity, 2010. Atlanta, GA: U.S. Department of Health and Human Services, 2010. http://www.cdc.gov/physicalactivity/downloads/PA_State_Indicator_Report_2010.pdf.   Accessed June 5, 2013.
+ 
+ Top of Page
+Presence of regulations pertaining to serving fruit in early care and education settings
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Children in child care ages 0–5 years.
+Numerator:
+The numerator for the U.S. measure is the number of states with child care regulations serving children in child care ages 0-5 years that support serving fruits of several varieties, especially whole fruits at each meal. (Note: For states with separate regulations for large and small homes and centers, language in all sets of regulations should fully include national guidelines.)  Individual states will have a yes/no response to this indicator.
+Denominator:
+The denominator for the U.S. measure is 50 states.
+Measures of Frequency:
+The measure of frequency for the U.S. data is the percent of states with language that supports serving fruits of several varieties, especially whole fruits, in state child care regulations. Individual states will have a yes/no response to this indicator.
+Time Period of Case Definition:
+Current year.
+Background:
+In 2011, 8% of states had language in state child care regulations that supported serving fruits of several varieties, especially whole fruits, at each meal.1
+Significance:
+The Caring for Our Children: National Health and Safety Performance Standards (3rd ed) recommends  a set of national standards based on evidenced based best practices in nutrition, physical activity, and screen time for all types of early care and education programs.2 Current research supports a diet based on a variety of nutrient dense foods which provide substantial amounts of essential nutrients.3 To ensure that child care programs are offering a variety of foods PCO recommends that children should be offered items from each food group, including eating a variety of fruit, especially whole fruits.
+Limitations of Indicator:
+Indicator does not capture compliance with regulation.
+Data Resources:
+Achieving a State of Healthy Weight: A National Assessment of Obesity Prevention Terminology in Child Care Regulations 2011; and CDC State Indicator Report on Fruits and Vegetables4.
+Limitations of Data Resources:
+There is much variability in the way states’ documents are organized and the language used within the states’ documents.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-1:  Increase the number of States with nutrition standards for foods and beverages provided to preschool-aged children in child care.
+Related CDI Topic Area:
+Reproductive Health; School Health
+	1.	National Resource Center for Health and Safety in Child Care and Early Education. 2012. Achieving a state of healthy weight: 2011 update. Aurora, CO: University of Colorado Denver. Also available at http://nrckids.org
+	2.	American Academy of Pediatrics, American Public Health Association, National Resource Center for Health and Safety in Child Care and Early Education. 2011. Caring for our children: National health and safety performance standards; Guidelines for early care and education programs. 3rd edition. Elk Grove Village, IL: American Academy of Pediatrics; Washington, DC: American Public Health Association. Also available at http://nrckids.org 
+	3.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	4.	Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Nutrition, Physical Activity, and Obesity. State Indicator Report on Fruits and Vegetables, 2013. http://www.cdc.gov/nutrition/downloads/State-Indicator-Report-Fruits-Vegetables-2013.pdf.   Accessed June 5, 2013. 
+ 
+ Top of Page
+Presence of regulations pertaining to serving vegetables in early care and education settings
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Children in child care ages 0-5 years.
+Numerator:
+The numerator for the U.S. measure is the number of states with child care regulations serving children in child care ages 0-5 years that support serving vegetables, specifically dark green, orange, deep yellow and root vegetables at each meal.  (Note: For states with separate regulations for large and small homes and centers, language in all sets of regulations should fully include national guidelines.)  Individual states will have a yes/no response to this indicator.
+Denominator:
+The denominator for the U.S. measure is 50 states.
+Measures of Frequency:
+The measure of frequency for the U.S. data is the percentage of states with language that supports of serving vegetables, specifically dark green, orange, deep yellow and root vegetables in state child care regulations.  Individual states will have a yes/no response to this indicator.
+Time Period of Case Definition:
+Current year.
+Background:
+In 2011, 8% of states had language in child care regulations supporting serving vegetables, specifically dark green, orange, deep yellow and root vegetables at each meal.1
+Significance:
+The Caring for Our Children: National Health and Safety Performance Standards (3rd ed) recommends that a set of national standards based on evidenced based best practices in nutrition, physical activity, and screen time for all types of early care and education programs.2 Current research supports a diet based on a variety of nutrient dense foods which provide substantial amounts of essential nutrients.3 To ensure that child care programs are offering a variety of foods  children should be offered items from each food group, including dark green, orange, and deep yellow vegetables.
+Limitations of Indicator:
+Indicator does not capture compliance with regulation.
+Data Resources:
+Achieving a State of Healthy Weight: A National Assessment of Obesity Prevention Terminology in Child Care Regulations 2011; and CDC State Indicator Report on Fruits and Vegetables4.
+Limitations of Data Resources:
+There is much variability in the way states’ documents are organized and the language used within the states’ documents.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-1:  Increase the number of States with nutrition standards for foods and beverages provided to preschool-aged children in child care.
+Related CDI Topic Area:
+Reproductive Health; School Health
+	1.	National Resource Center for Health and Safety in Child Care and Early Education. 2012. Achieving a state of healthy weight: 2011 update. Aurora, CO: University of Colorado Denver. Also available at http://nrckids.org
+	2.	American Academy of Pediatrics, American Public Health Association, National Resource Center for Health and Safety in Child Care and Early Education. 2011. Caring for our children: National health and safety performance standards; Guidelines for early care and education programs. 3rd edition. Elk Grove Village, IL: American Academy of Pediatrics; Washington, DC: American Public Health Association. Also available at http://nrckids.org 
+	3.	U.S. Departments of Agriculture and Health and Human Services.  Dietary Guidelines for Americans, 2010.  7th edition, Washington, DC:  U.S. Government Printing Office, December 2010.  
+	4.	Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Nutrition, Physical Activity, and Obesity. State Indicator Report on Fruits and Vegetables, 2013. http://www.cdc.gov/nutrition/downloads/State-Indicator-Report-Fruits-Vegetables-2013.pdf.   Accessed June 5, 2013.
+ 
+ Top of Page
+Receiving formula supplementation within the first 2 days of life among breastfed infants
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Infants.
+Numerator:
+Breastfed infants who received formula supplementation before 2 days of life.
+Denominator:
+Infants born during the specified year and breastfeeding at 2 days of age.
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+At 2 days of age.
+Background:
+Among U.S. infants born in 2010, 24.2% received formula before 2 days of age.1 Furthermore, 49.0% were breastfed for 6 months and 16.4% were exclusively breastfed for 6 months; 27.0% were breastfed for 12 months.1
+Significance:
+Supplementation of newborn breastfed infants with formula is associated with a shortened breastfeeding duration after hospital discharge 2 The Joint Commission, an organization that accredits hospitals, recently added a performance measure for which hospitals report the proportion of newborns who leave the hospital having had nothing but breast milk.3
+Limitations of Indicator:
+No limitations noted.
+Data Resources:
+National Immunization Survey, CDC, NCIRD, NCHS. Estimates are released by CDC’s Division of Nutrition, Physical Activity, and Obesity (DNPAO) each August in the CDC Breastfeeding Report Card and on the DNPAO website (http://www.cdc.gov/breastfeeding/data/NIS_data/index.htm).
+Limitations of Data Resources:
+As with data from all self-reported sample surveys, National Immunization Survey data might be subject to systematic error resulting from noncoverage (e.g., e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). Although socio-demographic and state specific rates are available each year on the national sample, sample size per state does not permit for calculation of yearly rates by socio-demographic strata within states.  However, CDC’s DNPAO combines multiple birth years to report socio-demographic specific rates within a state. These estimates will be released on the DNPAO website in 2014.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective MICH-23:  Reduce the proportion of breastfed newborns who receive formula supplementation within the first two days of life.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Centers for Disease Control and Prevention (2013). Breastfeeding Report Card - United States, 2013.
+	2.	Blomquist HK, Jonsbo F, Serenius F, Persson LA. Supplementary feeding in the maternity ward shortens the duration of breast feeding. Acta paediatrica. 1994;83(11):1122-6.
+	3.	Joint Commission. Specifications Manual for Joint Commission National Quality Measures (v2011A): Perinatal Care. Retrieved Oct 24, 2013, from http://www.jointcommission.org/assets/1/6/Perinatal%20Care.pdf
+ 
+ Top of Page
+Secondary schools that allow community-sponsored use of physical activity facilities by youth outside of normal school hours
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Secondary Schools
+Numerator:
+Number of secondary schools that had a, “yes”, response to the following question: “Does your school, either directly or through the school district, have a joint use agreement for shared use of school or community physical activity facilities?”
+Denominator:
+Number of secondary schools.
+Measures of Frequency:
+Percentage
+Time Period of Case Definition:
+Current year.
+Background:
+This question measures the extent to which schools and communities share physical activity facilities.  School spaces and facilities should be available to young people before, during, and after the school day, on weekends, and during summer and other vacations.  Access to these facilities increases visibility of schools, provides youth, their families, and community members a safe place for physical activity, and might increase partnerships with community-based physical activity programs. Community resources can expand existing school programs by providing program staff as well as intramural and club activities on school grounds. For example, community agencies and organizations can use school facilities for after-school physical fitness programs for children and adolescents, weight management programs for overweight or obese young people, and sports and recreation programs for young people with disabilities or chronic health conditions.1-4 In 2012, the percentage of secondary schools that had a joint use agreement for shared of school or community physical activity facilities ranged from 40.9% to 86.6% (median: 65.2%)5.
+Significance:
+Among children and adolescents, physical activity can improve bone health, improve cardiorespiratory and muscular fitness, decrease levels of body fat, and reduce symptoms of depression.6  Physical activity patterns established during adolescence might extend into adulthood and protect against future chronic disease risk.6
+Limitations of Indicator:
+As with any study that relies on self-report, it is possible that the data reflect some amount of over-reporting or underreporting and actual lack of knowledge.
+Data Resources:
+School Health Profiles Principal Survey. Data are only available for those states with >70% response rate; data are weighted.
+Limitations of Data Resources:
+National data (other than median of state estimates) are not available.  Data presented in this report apply only to secondary schools and are limited to the school populations.  As with all sample surveys, data might be subject to systematic error resulting from non-coverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-10:  Increase the proportion of the Nation’s public and private schools that provide access to their physical activity spaces and facilities for all persons outside of normal school hours (that is, before and after the school day, on weekends, and during summer and other vacations).
+Related CDI Topic Area:
+School Health
+	1.	CDC. School Health Guidelines to Promote Healthy Eating and Physical Activity. MMWR 2011;60(5):1-75.
+	2.	Sallis JF, Conway TL, Prochaska JJ, et al. The association of school environments with youth physical activity. American Journal of Public Health 2001;1:618-20.
+	3.	Evenson KR, McGinn AP. Availability of school physical activity facilities to the public in four U.S. communities. American Journal of Health Promotion 2004;18:243-50.
+	4.	Choy LB, McGurk MD, Tamashiro R, Nett B, Maddock JE. Increasing access to places for physical activity through a joint use agreement: a case study in urban Honolulu. Preventing Chronic Disease 2008;5.
+	5.	Demissie Z, Brener ND, McManus T, Shanklin SL, Hawkins J, Kann L. School Health Profiles 2012: Characteristics of Health Programs Among Secondary Schools. Atlanta: Centers for Disease Control and Prevention; 2013.
+	6.	US Department of Health and Human Services. Physical activity guidelines for Americans, 2008. Washington, DC: US Department of Health and Human Services; 2008.
+  
+ 
+ Top of Page
+Secondary schools that allow students to purchase soda or fruit drinks
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Secondary Schools
+Numerator:
+Number of secondary schools that allowed students to purchase soda pop or fruit drinks that are not 100% juice from vending machines or at the school store, canteen, or snack bar.
+Denominator:
+Number of secondary Schools
+Measures of Frequency:
+Percentage
+Time Period of Case Definition:
+2012
+Background:
+Many schools offer foods and beverages in after-school programs, school stores, snack bars, or canteens1 and these foods sold in competition to school meals are often relatively low in nutrient density and relatively high in fat, added sugars and calories.2 Competitive foods are widely available in many elementary schools, in most middle schools, and in almost all secondary schools.1,3-5  Given that schools offer numerous and diverse opportunities for young people to learn and make consumption choices about healthful eating, schools should provide a consistent environment that is conducive to healthful eating behaviors.6  To help improve dietary behavior and reduce overweight among youths, schools should offer appealing and nutritious foods in school snack bars and vending machines and discourage sale of foods high in fat, sodium, and added sugars, and beverages and foods containing caffeine on school grounds.7-11  Restricting the availability of high-calorie, energy dense foods in schools while increasing the availability of healthful foods might be an effective strategy for promoting more healthful choices among students at school.6,12  In 2012, the percentage of secondary schools allowed students to purchase soda pop or fruit drinks at the school store, canteen, or snack bar ranged from 4.2% to 56.1% (median: 30.1%)13.
+Significance:
+ 
+Limitations of Indicator:
+It does not include data on access outside of the school setting. As with any study that relies on self-report, it is possible that the data reflect some amount of over-reporting or underreporting and actual lack of knowledge.
+Data Resources:
+School Heath Profiles Principal Survey. Data are only available for those states with >70% response rate; data are weighted.
+Limitations of Data Resources:
+National data (other than median of state estimates) are not available.  National data (other than median of state estimates) are not available. Data presented in this report apply only to secondary schools and are limited to school populations.  As with all sample surveys, data might be subject to systematic error resulting from non-coverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-2.1:  Increase the proportion of schools that do not sell or offer calorically-sweetened beverages to students.
+Related CDI Topic Area:
+Diabetes; Oral Health, School Health
+	1.	O'Toole T, Anderson S, Miller C, Guthrie J. Nutrition services and foods and beverages available at school: results from the School Health Policies and Programs Study. Journal of School Health 2007;77(8):500-521.
+	2.	 U.S. Department of Agriculture. Foods sold in competition with USDA school meal programs: a report to congress. Food and Nutrition Service, 2001. Available at: www.fns.usda.gov/cnd/lunch/_private/CompetitiveFoods/report_congress.htm. Accessed June 11, 2009.
+	3.	Brener ND, Kann L, O'Toole TP, Wechsler H, Kimmons J. Competitive foods and beverages available for purchase in secondary schools – selected sites, United States, 2006. MMWR 2008;57(34):935-938.
+	4.	U.S. Government Accountability Office. School meal programs: Competitive foods are widely available and generate substantial revenues. Report to Congressional Requesters GAO-05-563, 2005. Available at: www.gao.gov/new.items/d05563.pdf.  Accessed June 12, 2009.
+	5.	Fox MK, Gordon A, Nogales R, Wilson A. Availability and consumption of competitive foods in US public schools. Journal of the American Dietetic Association 2009a;109:S57-S66.
+	6.	Food and Nutrition Board, Institute of Medicine, Committee on Prevention of Obesity of Children and Youth--Schools. In: JP Koplan, CT Liverman, VI Kraak, eds. Preventing Childhood Obesity: Health in the Balance. Washington, DC: National Academy Press, 2005, pp. 237–284.
+	7.	Wechsler H, McKenna ML, Lee SM, Dietz WH. The role of schools in preventing childhood obesity. The State Education Standard 2004;5(2):4-12.
+	8.	American Dietetic Association. Position of the American Dietetic Association: local support for nutrition integrity in schools. Journal of the American Dietetic Association 2010;110(8):1244-1254.(1):122-33.
+	9.	Institute of Medicine.  Nutrition Standards for Foods in Schools: Leading the Way Toward Healthier Youth.  Washington, DC: Institute of Medicine of the National Academies, 2007.
+	10.	Fox MK, Dodd AH, Wilson A, Gleason PM. Association between school food environment and practices and body mass index of US public school children. Journal of the American Dietetic Association 2009b;109(2 suppl):S108–S17.
+	11.	Briefel RR, Crepinsek MK, Cabili C, Wilson A, Gleason PM. School food environments and practices affect dietetic behaviors of US public school children. Journal of the American Dietetic Association 2009;109 (Suppl 1):S91–S107.
+	12.	Story M, Nanney MS, and Schwartz MB.  Schools and obesity prevention: creating school environments and policies to promote healthy eating and physical activity. Milbank Quarterly 2009; 87(1):71-100.
+	13.	Demissie Z, Brener ND, McManus T, Shanklin SL, Hawkins J, Kann L. School Health Profiles 2012: Characteristics of Health Programs Among Secondary Schools. Atlanta: Centers for Disease Control and Prevention; 2013.
+	14.	Welsh JA, Sharma A, Abramson JL, Vaccarino V, Gillespie C, Vos MB. Caloric sweetener consumption and dyslipidemia among US adults. JAMA 2010;303:1490–7.
+	15.	Welsh JA, Sharma A, Cunningham SA, Vos MB. Consumption of added sugars and indicators of cardiovascular disease risk among US adolescents. Circulation 2011;123(3):249–57.
+	16.	Marshall TA, Levy SM, Broffitt B, Warren JJ, Eichenberger-Gilmore JM, Burns TL, Stumbo PJ. Dental caries and beverage consumption in young children. Pediatrics 2003;112:e184–91.
+	17.	Ismail AI, Burt BA, Eklund SA. The cariogenicity of soft drinks in the United States. J Am Dent Assoc 1984;109:241–5.
+	18.	Heller KE, Burt BA, Eklund SA. Sugared soda consumption and dental caries in the United States. J Dent Res 2001;80:1949–53.
+	19.	Malik VS, Hu FB. Sweeteners and risk of obesity and type 2 diabetes: the role of sugar-sweetened beverages. Curr Diab Rep (Epub ahead of print 31 January 2012).
+	20.	Malik V, Popkin BM, Bray GA, Despres JP, Hu FB. Sugar-sweetened beverages, obesity, type 2 diabetes mellitus, and cardiovascular disease risk. Circulation 2010;121:1356–64. 
+	21.	Kit B, Fakhouri TH, Park S, Nielson SJ, Ogen C. Trends in Sugar-sweetened beverage consumption among youth and adults in the united states: 1999-2010. Am J Clin Nutr. 2013;98:180-8.
+  
+ 
+ Top of Page
+Secondary schools that allow students to purchase sports drinks
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Secondary Schools
+Numerator:
+Number of secondary schools that allow students to purchase sports drinks from vending machines or at the school store, canteen, or snack bar.
+Denominator:
+Number of secondary Schools
+Measures of Frequency:
+Percentage 
+Time Period of Case Definition:
+2012
+Background:
+Many schools offer foods and beverages in after-school programs, school stores, snack bars, or canteens1 and these foods sold in competition to school meals are often relatively low in nutrient density and relatively high in fat, added sugars and calories.2 Competitive foods are widely available in many elementary schools, in most middle schools, and in almost all secondary schools.1,3-5  Given that schools offer numerous and diverse opportunities for young people to learn and make consumption choices about healthful eating, schools should provide a consistent environment that is conducive to healthful eating behaviors.6  To help improve dietary behavior and reduce overweight among youths, schools should offer appealing and nutritious foods in school snack bars and vending machines and discourage sale of foods high in fat, sodium, and added sugars, and beverages and foods containing caffeine on school grounds.7-11  Restricting the availability of high-calorie, energy dense foods in schools while increasing the availability of healthful foods might be an effective strategy for promoting more healthful choices among students at school.6,12  In 2012, the percentage of secondary schools allowed students to purchase sports drinks at the school store, canteen, or snack bar ranged from 6.7% to 73.8% (median: 46.0%)13
+Significance:
+Calorically-sweetened beverage intake has been associated with dental caries and cardiovascular disease risk factors.14-21   These data are included CDC’s School Health Profiles report (http://www.cdc.gov/HealthyYouth/profiles/).
+Limitations of Indicator:
+It does not include data on access outside of the school setting.
+Data Resources:
+School Heath Profiles Principal Survey. Data are only available for those states with >70% response rate; data are weighted.
+Limitations of Data Resources:
+National data (other than median of state estimates) are not available.  National data (other than the median of state estimates) are not available. Data presented in this report apply only to secondary schools and are limited to the school populations.  As with all sample surveys, data might be subject to systematic error resulting from non-coverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-2.1:  Increase the proportion of schools that do not sell or offer calorically-sweetened beverages to students.
+Related CDI Topic Area:
+Diabetes; Oral Health, School Health
+	1.	O'Toole T, Anderson S, Miller C, Guthrie J. Nutrition services and foods and beverages available at school: results from the School Health Policies and Programs Study. Journal of School Health 2007;77(8):500-521.
+	2.	 U.S. Department of Agriculture. Foods sold in competition with USDA school meal programs: a report to congress. Food and Nutrition Service, 2001. Available at: www.fns.usda.gov/cnd/lunch/_private/CompetitiveFoods/report_congress.htm. Accessed June 11, 2009.
+	3.	Brener ND, Kann L, O'Toole TP, Wechsler H, Kimmons J. Competitive foods and beverages available for purchase in secondary schools – selected sites, United States, 2006. MMWR 2008;57(34):935-938.
+	4.	U.S. Government Accountability Office. School meal programs: Competitive foods are widely available and generate substantial revenues. Report to Congressional Requesters GAO-05-563, 2005. Available at: www.gao.gov/new.items/d05563.pdf.  Accessed June 12, 2009.
+	5.	Fox MK, Gordon A, Nogales R, Wilson A. Availability and consumption of competitive foods in US public schools. Journal of the American Dietetic Association 2009a;109:S57-S66.
+	6.	Food and Nutrition Board, Institute of Medicine, Committee on Prevention of Obesity of Children and Youth--Schools. In: JP Koplan, CT Liverman, VI Kraak, eds. Preventing Childhood Obesity: Health in the Balance. Washington, DC: National Academy Press, 2005, pp. 237–284.
+	7.	Wechsler H, McKenna ML, Lee SM, Dietz WH. The role of schools in preventing childhood obesity. The State Education Standard 2004;5(2):4-12.
+	8.	American Dietetic Association. Position of the American Dietetic Association: local support for nutrition integrity in schools. Journal of the American Dietetic Association 2010;110(8):1244-1254.(1):122-33.
+	9.	Institute of Medicine.  Nutrition Standards for Foods in Schools: Leading the Way Toward Healthier Youth.  Washington, DC: Institute of Medicine of the National Academies, 2007.
+	10.	Fox MK, Dodd AH, Wilson A, Gleason PM. Association between school food environment and practices and body mass index of US public school children. Journal of the American Dietetic Association 2009b;109(2 suppl):S108–S17.
+	11.	Briefel RR, Crepinsek MK, Cabili C, Wilson A, Gleason PM. School food environments and practices affect dietetic behaviors of US public school children. Journal of the American Dietetic Association 2009;109 (Suppl 1):S91–S107.
+	12.	Story M, Nanney MS, and Schwartz MB.  Schools and obesity prevention: creating school environments and policies to promote healthy eating and physical activity. Milbank Quarterly 2009; 87(1):71-100.
+	13.	Demissie Z, Brener ND, McManus T, Shanklin SL, Hawkins J, Kann L. School Health Profiles 2012: Characteristics of Health Programs Among Secondary Schools. Atlanta: Centers for Disease Control and Prevention; 2013.
+	14.	Welsh JA, Sharma A, Abramson JL, Vaccarino V, Gillespie C, Vos MB. Caloric sweetener consumption and dyslipidemia among US adults.
+	15.	Welsh JA, Sharma A, Cunningham SA, Vos MB. Consumption of added sugars and indicators of cardiovascular disease risk among US adolescents. Circulation 2011;123(3):249–57.
+	16.	Marshall TA, Levy SM, Broffitt B, Warren JJ, Eichenberger-Gilmore JM, Burns TL, Stumbo PJ. Dental caries and beverage consumption in young children. Pediatrics 2003;112:e184–91.
+	17.	Ismail AI, Burt BA, Eklund SA. The cariogenicity of soft drinks in the United States. J Am Dent Assoc 1984;109:241–5.
+	18.	Heller KE, Burt BA, Eklund SA. Sugared soda consumption and dental caries in the United States. J Dent Res 2001;80:1949–53.
+	19.	Malik VS, Hu FB. Sweeteners and risk of obesity and type 2 diabetes: the role of sugar-sweetened beverages. Curr Diab Rep (Epub ahead of print 31 January 2012).
+	20.	Malik VS, Popkin BM, Bray GA, Despres JP, Hu FB. Sugar-sweetened beverages, obesity, type 2 diabetes mellitus, and cardiovascular disease risk. Circulation 2010;121:1356–64. 
+	21.	Kit B, Fakhouri TH, Park S, Nielson SJ, Ogen C. Trends in Sugar-sweetened beverage consumption among youth and adults in the United States: 1999-2010. Am J Clin Nutr. 2013;98:180-8.
+  
+ 
+ Top of Page
+Secondary schools that offer less healthy foods as competitive foods
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Secondary schools
+Numerator:
+Number of secondary schools that sell baked goods (e.g., cookies, crackers, cakes, pastries, or other baked goods), salty snacks, chocolate candy, other kinds of candy, soda pop or fruit drinks, and sports drinks in vending machines or at the school store, canteen, or snack bar.
+Denominator:
+Number of secondary Schools
+Measures of Frequency:
+Percentage
+Time Period of Case Definition:
+2012
+Background:
+Many schools offer foods and beverages in after-school programs, school stores, snack bars, or canteens1 and these foods sold in competition to school meals are often relatively low in nutrient density and relatively high in fat, added sugars and calories.2 Competitive foods are widely available in many elementary schools, in most middle schools, and in almost all secondary schools.1,3-5  Given that schools offer numerous and diverse opportunities for young people to learn and make consumption choices about healthful eating, schools should provide a consistent environment that is conducive to healthful eating behaviors.6  To help improve dietary behavior and reduce overweight among youths, schools should offer appealing and nutritious foods in school snack bars and vending machines and discourage sale of foods high in fat, sodium, and added sugars, and beverages and foods containing caffeine on school grounds.7-11  Because students’ food choices are influenced by the total food environment, the simple availability of healthful foods such as fruits and vegetables may not be sufficient to prompt the choice of fruits and vegetables when other high-fat or high-sugar foods are easily accessible.12,13  However, offering a wider range of healthful foods can be an effective way to promote better food choices among high school students.14  Restricting access to snack foods is associated with higher frequency of fruit and vegetable consumption in elementary school aged children.15  Taken together, such findings suggest that restricting the availability of high-calorie, energy dense foods in schools while increasing the availability of healthful foods might be an effective strategy for promoting more healthful choices among students at school.6,16  In 2012, the percentage of secondary schools that did not sell any of the following six items (baked goods, salty snacks, candy, soda pop or fruit drinks, or sports drinks) at the school store, canteen, or snack bar ranged from 12.9% to 88.9% (median: 42.7%)17.
+Significance:
+Most foods and beverages sold in school, outside of the school meals program, are high in sugar, fat, and calories, including high-fat salty snacks, high-fat baked goods, and high-calorie sugar-sweetened beverages, such as soft drinks, sport drinks, and fruit drinks.  The School Health Profiles Survey includes this indicator in their annual reports.
+Limitations of Indicator:
+It does not include data on access outside of the school setting.
+Data Resources:
+School Heath Profiles Principal Survey. Data are only available for those states with >70% response rate; data are weighted.
+Limitations of Data Resources:
+National data (other than median of state estimates) are not available. National data (other than the median of state estimates) are not available. Data presented in this report apply only to secondary schools and are limited to the school populations.  As with all sample surveys, data might be subject to systematic error resulting from non-coverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+Healthy People 2020 Objective NWS-2:  Increase the proportion of schools that offer nutritious food and beverages outside of school meals.
+Related CDI Topic Area:
+Cardiovascular Disease; Diabetes; Oral Health; School Health
+	1.	O'Toole T, Anderson S, Miller C, Guthrie J. Nutrition services and foods and beverages available at school: results from the School Health Policies and Programs Study. Journal of School Health 2007;77(8):500-521.
+	2.	U.S. Department of Agriculture. Foods sold in competition with USDA school meal programs: a report to congress. Food and Nutrition Service, 2001. Available at: www.fns.usda.gov/cnd/lunch/_private/CompetitiveFoods/report_congress.htm. Accessed June 11, 2009.
+	3.	Brener ND, Kann L, O'Toole TP, Wechsler H, Kimmons J. Competitive foods and beverages available for purchase in secondary schools – selected sites, United States, 2006. MMWR 2008;57(34):935-938.
+	4.	U.S. Government Accountability Office. School meal programs: Competitive foods are widely available and generate substantial revenues. Report to Congressional Requesters GAO-05-563, 2005. Available at: www.gao.gov/new.items/d05563.pdf.  Accessed June 12, 2009.
+	5.	Fox MK, Gordon A, Nogales R, Wilson A. Availability and consumption of competitive foods in US public schools. Journal of the American Dietetic Association 2009a;109:S57-S66.
+	6.	Food and Nutrition Board, Institute of Medicine, Committee on Prevention of Obesity of Children and Youth--Schools. In: JP Koplan, CT Liverman, VI Kraak, eds. Preventing Childhood Obesity: Health in the Balance. Washington, DC: National Academy Press, 2005, pp. 237–284.
+	7.	Wechsler H, McKenna ML, Lee SM, Dietz WH. The role of schools in preventing childhood obesity. The State Education Standard 2004;5(2):4-12.
+	8.	American Dietetic Association. Position of the American Dietetic Association: local support for nutrition integrity in schools. Journal of the American Dietetic Association 2010;110(8):1244-1254.(1):122-33.
+	9.	Institute of Medicine.  Nutrition Standards for Foods in Schools: Leading the Way Toward Healthier Youth.  Washington, DC: Institute of Medicine of the National Academies, 2007.
+	10.	Fox MK, Dodd AH, Wilson A, Gleason PM. Association between school food environment and practices and body mass index of US public school children. Journal of the American Dietetic Association 2009b;109(2 suppl):S108–S17.
+	11.	Briefel RR, Crepinsek MK, Cabili C, Wilson A, Gleason PM. School food environments and practices affect dietetic behaviors of US public school children. Journal of the American Dietetic Association 2009;109 (Suppl 1):S91–S107.
+	12.	Cullen KW, Eagan J, Baranowski T, Owens E, deMoor C.  Effect of a la carte and snack bar foods at school on children’s lunchtime intake of fruits and vegetables. Journal of the American Dietetic Association 2000;100:1482–1486.
+	13.	Kubik MY, Lytle LA, Hannan PJ, Perry CL, Story M. The association of the school food environment with dietary behaviors of young adolescents. American Journal of Public Health 2003;93:1168–1173.
+	14.	French SA, Story M, Fulkerson JA, Hannan P. An environmental intervention to promote lower fat food choices in secondary schools. Outcomes of the TACOS study. American Journal of Public Health 2004;94(9):1507-1512.
+	15.	Gonzalez W, Jones SJ, Frongillo EA. Restricting snacks in US elementary schools is associated with higher frequency of fruit and vegetable consumption. Journal of Nutrition 2009;139:142-4.
+	16.	Story, M, Nanney MS, and Schwartz MB.  Schools and obesity prevention: creating school environments and policies to promote healthy eating and physical activity. Milbank Quarterly 2009; 87(1):71-100.
+	17.	Demissie Z, Brener ND, McManus T, Shanklin SL, Hawkins J, Kann L. School Health Profiles 2012: Characteristics of Health Programs Among Secondary Schools. Atlanta: Centers for Disease Control and Prevention; 2013. 
+ 
+ Top of Page
+Soda consumption among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9-12.
+Numerator:
+Students in grades 9–12 who report consuming 1 or more cans, bottles, or glasses of soda per day.
+Denominator:
+Students in grades 9–12 who report consuming any cans, bottles, or glasses of soda, including zero, per day (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) prevalence per day with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 7 days.
+Background:
+In 2011, 27.8% students in grades 9-12  drank one or more cans, bottles, or glasses of soda or pop per day.1
+Significance:
+Sugar-sweetened beverage intake has been associated with obesity,2 dental caries,3 type 2 diabetes,4 displacement of nutrient-rich foods (e.g., dairy),5 disruptive behaviors,6,7 and poor mental health (e.g., psychological distress).8 
+Limitations of Indicator:
+It does not include all sources of sugar-sweetened beverages.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.9 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Diabetes; Oral Health; School Health
+	1.	Eaton, D. K., et al. (2012). Youth risk behavior surveillance - United States, 2011. MMWR Surveill Summ 61(4): 1-162.
+	2.	Malik, V. S., et al. (2013). Sugar-sweetened beverages and weight gain in children and adults: a systematic review and meta-analysis.  Am J Clin Nutr 98(4): 1084-1102.
+	3.	Sohn W, Burt BA, Sowers MR. Carbonated soft drinks and dental caries in the primary dentition. J Dent Res. 2006;85(3):262-266.
+	4.	Malik VS, Popkin BM, Bray GA, et al. Sugar-sweetened beverages and risk of metabolic syndrome and type 2 dia­betes: a meta-analysis. Diabetes Care. 2010;33(11):2477- 2483.
+	5.	Frary CD, Johnson RK, Wang MQ. Children and adoles­cents’ choices of foods and beverages high in added sug­ars are associated with intakes of key nutrients and food groups. J Adolesc Health. 2004;34(1):56-63.
+	6.	Park, S., et al. (2013). Problem behavior, victimization, and soda intake in high school students. Am J Health Behav 37(3): 414-421.
+	7.	Lien L, Lien N, Heyerdahl S, et al. Consumption of soft drinks and hyperactivity, mental distress, and conduct problems among adolescents in Oslo, Norway. Am J Pub­lic Health. 2006;96(10):1815-1820.
+	8.	Shi Z, Taylor AW, Wittert G, et al. Soft drink consump­tion and mental health problems among adults in Aus­tralia. Public Health Nutr. 2010;13(7):1073-1079.
+	9.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+  
+ Top of Page
+State child care regulation supports onsite breastfeeding
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Infants and Young Children
+Numerator:
+Has regulation to support onsite breastfeeding at child care facilities.  State scores were obtained from appropriate fluids rating (1A1) as determined by the National Resource Center for Health and Safety in Child Care and Early Education, which categorized state regulation as fully supportive of onsite breastfeeding with a score of 4. States with a score of 4 were categorized as “Yes” and any scores less than 4 were categorized as “No.” 
+Denominator:
+50 States
+Measures of Frequency:
+ The measure of frequency for the U.S. data is the percent of states with child care regulations.  Individual states will have a yes/no response to this indicator.
+Time Period of Case Definition:
+Current year.
+Background:
+In 2013, only seven U.S. states report child care regulation to support onsite breastfeeding.1
+Significance:
+Breastfeeding is associated with health benefits for mother and infant. Mothers who breastfeed have a reduced risk of developing breast and ovarian cancer, and infants who are breastfed are less likely to experience a variety of infections and to develop chronic conditions, including obesity during childhood.2 The American Academy of Pediatrics recommends exclusive breastfeeding for about the first six months of life with continued breastfeeding for at least the first year.3 In the US, many infants are routinely cared for by someone other than a parent. About half of these infants attend child care centers; the other half spend time in a variety of home-based settings including licensed family child care homes or the home of a family member, friend, or neighbor.4 Thus, child care facilities – both family child care homes and child care centers – play an important role in supporting breastfeeding among mothers whose infants are cared for in these facilities. 
+Limitations of Indicator:
+The indicator does not measure other aspects of child care support for breastfeeding.
+Data Resources:
+National Resource Center for Health and Safety in Child Care and Early Education, University of Colorado Denver. (Published annually.)  National Resource Center for Health and Safety in Child Care and Early Education: Achieving a State of Healthy Weight: A National Assessment of Obesity Prevention Terminology in Child Care Regulations 2011. Aurora, CO.
+Limitations of Data Resources:
+ There is much variability in the way states’ documents are organized and the language used within the states’ documents.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Centers for Disease Control and Prevention (2013). Breastfeeding Report Card - United States, 2013
+	2.	Ip, S., et al. (2007). "Breastfeeding and maternal and infant health outcomes in developed countries." Evid Rep Technol Assess (Full Rep)(153): 1-186.      
+	3.	American Academy of Pediatrics (2012). "Breastfeeding and the use of human milk." Pediatrics 129(3): e827-e841.
+	4.	Federal Interagency Forum on Child and Family Statistics. America’s Children in Brief: Key National Indicator of Wellbeing, 2010. Washington, DC: U.S. Government Printing Office; 2010.
+  
+ 
+ Top of Page
+Television viewing among high school students
+Category: Nutrition, Physical Activity, and Weight Status
+Demographic Group:
+Students in grades 9-12.
+Numerator:
+Students in grades 9–12 who report watching television for 3 or more hours on an average school day. 
+Denominator:
+Students in grades 9–12 who report watching television for any number of hours, including zero, on an average school day (excludes missing data).
+Measures of Frequency:
+Biennial (odd year) prevalence on an average school day with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Average school day.
+Background:
+In 2011, 32.4% of students in grades 9–12 watched television for 3 or more hours on an average school day.1
+Significance:
+Excessive television viewing is associated with obesity.2-4 Although data are inconsistent as to whether TV viewing reduces physical activity, there is evidence that TV viewing time is positively associated with reported intakes of high fat foods,5 and TV viewing during mealtime is associated with lower consumption of fruits and vegetables and higher consumption of salty snacks and soda 6
+Limitations of Indicator:
+Indicator does not capture time spent with computers and hand-held devices; however, based on Kaiser Family Foundation data, of the 7.5 hours of screen time per day for 8-18 year-olds, 4.5 hours is TV viewing.7 Also, indicator intervals are not aligned with the American Academy of Pediatrics guidelines of 2 hours or less of screen time per day,8-9 so survey results cannot be compared to them.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.10 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective PA-8.2:  Increase the proportion of children and adolescents aged 2 years through 12th grade who view television, videos, or play video games for no more than 2 hours a day.
+Related CDI Topic Area:
+Cardiovascular Disease; Diabetes; Nutrition, Physical Activity, and Weight Status
+	1.	Centers for Disease Control and Prevention, Youth on line: high school YRBS. Atlanta, GA: U.S. Department of Health and Human Services. Available at http://apps.nccd.cdc.gov/youthonline/App/Results.aspx?TT=&OUT=&SID=HS&QID=H80&LID=&YID=&LID2=&YID2=&COL=&ROW1=&ROW2=&HT=&LCT=&FS=&FR=&FG=&FSL=&FRL=&FGL=&PV=&TST=&C1=&C2=&QP=G&DP=&VA=CI&CS=Y&SYID=&EYID=&SC=&SO=
+	2.	Dietz, W.H., Gortmaker, S.L. (1985). Do we fatten our children at the television set?  Obesity and television viewing in children and adolescents. Pediatrics, 75, 807–812.
+	3.	Gortmaker S.L., Must A., Sobol A.M., Peterson K., Colditz G.A., & Dietz W.H. (1996) Television viewing as a cause of increasing obesity among children in the United States, 1986–1990. Archives of Pediatric & Adolescent Medicine, 150, 356–62.
+	4.	Crespo C.J., Smith E., Troiano R.P., Bartlett S.J., Macera C.A., Andersen R. E. (2001).  Television watching, energy intake, and obesity in U.S. children: results from the third National Health and Nutritional Examination Survey 1988-1994.  Arch Pediatr Adolesc Med 155: 360-365.
+	5.	Robinson TN, Killen JD. Ethnic and gender differences in the relationships between television viewing and obesity, physical activity and dietary fat intake. J Health Educ. 1995;26(SS2):91-98.
+	6.	Coon KA, Goldberg J, Rogers BL, Tucker KL. Relationships between use of television during meals and children’s food consumption patterns. Pediatrics. 2001;107(1):E7.
+	7.	Rideout VJ, Foehr UG, Roberts DF.  Generation M2: Media in the Lives of 8- to 18-Year-Olds. Menlo Park, CA: Kaiser Family Foundation; 2010.
+	8.	American Academy of Pediatrics. Children, adolescents, and television. Pediatrics. 2001;107(2):423-426.
+	9.	American Academy of Pediatrics.  Policy Statement—Children, Adolescents, Obesity and the Media.  Pediatrics.  2011;128(1):201-208.
+	10.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

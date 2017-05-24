@@ -1,0 +1,804 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Cancer
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Cancer of the colon and rectum (colorectal), incidence
+	•	Cancer of the colon and rectum (colorectal), mortality
+	•	Cancer of the female breast, mortality
+	•	Cancer of the female cervix, mortality
+	•	Cancer of the lung and bronchus, incidence
+	•	Cancer of the lung and bronchus, mortality
+	•	Cancer of the oral cavity and pharynx, mortality
+	•	Cancer of the prostate, mortality
+	•	Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50–75 years
+	•	Invasive cancer (all sites combined), incidence
+	•	Invasive cancer (all sites combined), mortality
+	•	Invasive cancer of the cervix, incidence
+	•	Invasive cancer of the female breast, incidence
+	•	Invasive cancer of the oral cavity or pharynx, incidence
+	•	Invasive cancer of the prostate, incidence
+	•	Invasive melanoma, incidence
+	•	Mammography use among women aged 50-74 years
+	•	Melanoma, mortality
+	•	Papanicolaou smear use among adult women aged 21-65 years
+	•	Recent Papanicolaou smear use among women aged 21-44 years
+Cancer of the colon and rectum (colorectal), incidence
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C18 – C20, C26.0 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years
+Background:
+Colorectal cancer is the second leading cause of cancer death among cancers that affect both men and women.2 In 2010, approximately 131,600 people were diagnosed with and 52,000 people died from the disease.2 The incidence of colorectal cancer rises sharply after age 50 years.2
+Significance:
+Screening for colorectal cancer with fecal occult blood test, flexible sigmoidoscopy or colonoscopy can prevent colorectal cancer by detecting and removing precancerous polyps and can detect cancer early when treatment is more likely to be effective.3
+Limitations of Indicator:
+Colorectal cancer has a long latency period and years might pass before changes in behavior or clinical practice patterns affect the incidence of colorectal cancer.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-9: Reduce invasive colorectal cancer.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Whitlock EP, Lin JS, Liles E, Bell TL, et al. Screening for colorectal cancer: a targeted systematic review for the U.S. Preventive Services Task force. Ann Intern Med. 2008;149:638-58
+ 
+ Top of Page
+Cancer of the colon and rectum (colorectal), mortality
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes C18- C20 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years
+Background:
+Colorectal cancer is the second leading cause of cancer death among cancers that affect both men and women.2 In 2010, approximately 131,600 people were diagnosed with and 52,000 people died from the disease.2 The incidence of colorectal cancer rises sharply after age 50 years.2
+Significance:
+Screening for colorectal cancer with fecal occult blood test, flexible sigmoidoscopy or colonoscopy can prevent colorectal cancer by detecting and removing precancerous polyps and can detect cancer early when treatment is more likely to be effective.3
+Limitations of Indicator:
+Because colorectal cancer can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-5: Reduce the colorectal cancer death rate.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Whitlock EP, Lin JS, Liles E, Bell TL, et al. Screening for colorectal cancer: a targeted systematic review for the U.S. Preventive Services Task force. Ann Intern Med. 2008;149:638-58
+ 
+ Top of Page
+Cancer of the female breast, mortality
+Category: Cancer
+Demographic Group:
+All female residents.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code C50 as the underlying cause of death among female residents during a calendar year.
+Denominator:
+Midyear resident female population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years
+Background:
+In 2010, approximately 207,000 women were diagnosed with breast cancer and approximately 41,000 died from the disease.2 Except for non-melanoma skin cancer, breast cancer is the most common cancer among women.2
+Significance:
+Screening for breast cancer with mammography can reduce deaths from breast cancer. 3Although scientific controversy remains regarding the benefits versus risks of screening, particularly among women aged 40-49 years, mammography is recommended for women aged 50 – 74 years.4
+Limitations of Indicator:
+Because breast cancer can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-3: Reduce the female breast cancer death rate.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Mandelblatt JS, Cronin KA, Bailey S, et al. Effects of Mammography Screening Under Different Screening Schedules: Model Estimates of Potential Benefits and Harms. Ann Intern Med. 2009;151:738-747.
+	4.	US Preventive Services Task Force. Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med. 2009;151:716-726.
+ 
+ Top of Page
+Cancer of the female cervix, mortality
+Category: Cancer
+Demographic Group:
+All female residents.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code C53 as the underlying cause of death among female residents during a calendar year.
+Denominator:
+Midyear resident female population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years
+Background:
+In 2010, approximately 11,800 women were diagnosed with cervical cancer and 4,000 died from the disease.2 Black and Hispanic women have higher incidence rates of cervical cancer compared to white women.2
+Significance:
+The dramatic decrease in cervical cancer incidence and mortality during the past 45 years is mainly the result of the widespread use of the Papanicolaou test. 3 Cervical cancer rates were markedly elevated among most women living in low vs high socioeconomic status areas.3
+Limitations of Indicator:
+Because cervical cancer can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-4: Reduce the death rate from cancer of the uterine cervix.
+Related CDI Topic Area:
+Reproductive Health, Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+ 
+ Top of Page
+Cancer of the lung and bronchus, incidence
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C34 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years
+Background:
+More people die from lung cancer than from any other cancer.2 In 2008, approximately 201,100 people were diagnosed with lung cancer and 158,200 died from the disease.2 Over the past ten years, lung cancer incidence and mortality have declined among men and women, but at a faster rate among men.3
+Significance:
+Cigarette smoking accounts for 80% - 90% of lung cancer cases.4 Lung cancer is also associated with secondhand tobacco smoke and certain environmental exposures, such as radon.4
+Limitations of Indicator:
+Lung cancer has a long latency period and years might pass before changes in behavior or clinical practice patterns affect the incidence of lung cancer.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	4.	Humphrey LL, Deffebach M, Pappas M, Baumann C, et al. Screening for lung cancer with low-dose computed tomography: a systematic review to update the U.S. Preventive Services Task Force recommendation. Ann Intern Med 2004;140:740-53
+ 
+ Top of Page
+Cancer of the lung and bronchus, mortality
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code C34 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years.
+Background:
+More people die from lung cancer than from any other cancer.2 In 2010, approximately 201,100 people were diagnosed with lung cancer and 158,200 died from the disease.2 Over the past ten years, lung cancer incidence and mortality have continued to decline among men and women, but at a faster rate among men.3
+Significance:
+Cigarette smoking accounts for 80% - 90% of lung cancer cases.4 Lung cancer is also associated with secondhand tobacco smoke and certain environmental exposures, such as radon.4
+Limitations of Indicator:
+Because lung cancer can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-2: Reduce the lung cancer death rate.
+Related CDI Topic Area:
+Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	4.	Humphrey LL, Deffebach M, Pappas M, Baumann C, et al. Screening for lung cancer with low-dose computed tomography: a systematic review to update the U.S. Preventive Services Task Force recommendation. Ann Intern Med 2004;140:740-53
+ 
+ Top of Page
+Cancer of the oral cavity and pharynx, mortality
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes C00 – C14 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, approximately 36,300 people were diagnosed with cancer of the oral cavity or pharynx, and approximately 8,500 people died from the disease.2 The incidence of and mortality from cancer of the oral cavity and pharynx is more than twice as high among men compared to women.2
+Significance:
+Cancer of the oral cavity and pharynx is associated with use of tobacco products, excessive alcohol use and HPV infection.3,4 Together, alcohol and tobacco use account for approximately 75% of oral and pharyngeal cancers in the United States.3,4 A significant percentage (63%) of cancers primarily involving the base of the tongue and tonsils (i.e., oropharynx) have been linked to human papillomavirus (HPV).5
+Limitations of Indicator:
+Because cancer of the oral cavity and pharynx can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S.  Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-6: Reduce oropharyngeal cancer death rate.
+Related CDI Topic Area:
+Oral Health, Tobacco, Alcohol
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Sturgis EM, Cinciripini PM.  Trends in head and neck cancer incidence in relation to smoking prevalence: an emerging epidemic of human papillomavirus-associated cancers? Cancer 2007; 110:1429-35.
+	4.	Ragin CC, Modugno F, Gollin SM.  The epidemiology and risk factors of head and neck cancer: a focus on human papillomavirus.  J Dent Res 2007; 86:104-14.
+	5.	Centers for Disease Control and Prevention (CDC). Human Papillomavirus-Associated Cancers — United States, 2004–2008.  MMWR Morb Mortal Wkly Rep. 2012 Apr 20; 61(15):258-261.
+ 
+ Top of Page
+Cancer of the prostate, mortality
+Category: Cancer
+Demographic Group:
+All male residents.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code C61 as the underlying cause of death among male residents during a calendar year.
+Denominator:
+Midyear resident male population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, approximately 196,000 men were diagnosed with prostate cancer, and approximately 28,600 men died from the disease.2 Prostate cancer is the most common cancer among men.2 Black men have higher rates of prostate cancer incidence and mortality than do white men.2
+Significance:
+Substantial evidence exists that prostate-specific antigen (PSA) can detect early stage prostate cancer, 3 but evidence is inconclusive regarding the ability of early detection to improve health outcomes, including mortality.
+Limitations of Indicator:
+Because prostate cancer can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S.  Bureau of the Census or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-7: Reduce the prostate cancer death rate.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Chou R, Croswell JM, Dana T, Bougastos C, et al. Screening for prostate cancer: a review of the evidence for the U.S. Preventive Services Task Force. Ann Intern Med 2011;155:762-71
+ 
+ Top of Page
+Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50–75 years
+Category: Cancer
+Demographic Group:
+Resident persons aged 50–75 years.
+Numerator:
+Respondents aged 50–75 years who report having had a fecal occult blood test (FOBT) within the previous year, or a sigmoidoscopy within the previous 5 years and a FOBT within the previous 3 years, or a colonoscopy within the previous 10 years.
+Denominator:
+Respondents aged 50–75 years who report ever having or never having a FOBT, sigmoidoscopy or colonoscopy (excluding unknowns and refusals).
+Measures of Frequency:
+Prevalence – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year for FOBT alone; both previous 5 years for sigmoidoscopy and  previous 3 years for FOBT; previous 10 years for colonoscopy.
+Background:
+In 2010, 35% of adults aged 50–75 years had not received a recommended colorectal cancer screening test within the appropriate time interval.2 Among adults aged 50 – 75 years, 60% reported having had colonoscopy within 10 years as their most recent colorectal cancer screening test.2 In 2010, colorectal cancer caused approximately 52,000 deaths.3 Approximately 131,600 cases are diagnosed annually.3
+Significance:
+Colorectal cancer screening can both prevent the occurrence of cancer by detecting and removing precancerous lesions, and detect colorectal cancer early when treatment is more effective.4 Colorectal cancer screening has been shown to significantly reduce mortality from the disease.4
+Limitations of Indicator:
+National colorectal cancer screening guidelines vary regarding the choice of screening test, the appropriate screening interval, and the age at which screening should occur.
+Data Resources:
+Behavioral Risk Factor Surveillance Survey (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-16: Increase the proportion of adults who receive a colorectal cancer screening based on the most recent guidelines.
+Related CDI Topic Area:
+Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Prevalence of Colorectal Cancer Screening Among Adults — Behavioral Risk Factor Surveillance System, United States, 2010. MMWR 2012;61(Suppl; June 15, 2012):51-56.
+	3.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	4.	Whitlock EP, Lin JS, Liles E, Bell TL, et al. Screening for colorectal cancer: a targeted systematic review for the U.S. Preventive Services Task Fnorce. Ann Intern Med. 2008;149:638-58.
+  
+ 
+ Top of Page
+Invasive cancer (all sites combined), incidence
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C00 – C80 and behavior = 3 (malignant, primary site), C67.0 – C67.9 (bladder cancer) and behavior = 2 or 3 (in situ or malignant, primary site) among residents during a calendar year (certain histologic types are excluded).
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years
+Background:
+Approximately 1.5 million new cases of cancer are diagnosed annually.2 Cancer is the second leading cause of death in the United States.3 Approximately one in two males and one in three females will have a diagnosis of cancer over their lifetime.3
+Significance:
+Information on cancer at all sites combined provides a measure of, and means of tracking, the substantial burden imposed by cancer. Morbidity and mortality from cancers of the lung, colon, female breast, cervix, oral cavity and pharynx, and multiple other cancers can be reduced through known interventions.
+Limitations of Indicator:
+Cancer is not a single disease, but rather numerous diseases with different causes, risks, and potential interventions. Interpretation of trends or patterns in cancer incidence can be made only by examination of specific types of cancers. Because certain cancers have a long latency period, years might pass before changes in behavior or clinical practice patterns affect the incidence of new cancer cases. In addition, certain cancers are not amenable to primary prevention or screening.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Howlader N, Noone AM, Krapcho M, Garshell J, Neyman N, Altekruse SF, Kosary CL, Yu M, Ruhl J, Tatalovich Z, Cho H, Mariotto A, Lewis DR, Chen HS, Feuer EJ, Cronin KA (eds). SEER Cancer Statistics Review, 1975-2010, National Cancer Institute. Bethesda, MD, http://seer.cancer.gov/csr/1975_2010/, based on November 2012 SEER data submission, posted to the SEER web site, April 2013.
+  
+ 
+ Top of Page
+Invasive cancer (all sites combined), mortality
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases (ICD)-10 codes C00-C97 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years
+Background:
+Approximately 1.5 million new cases of cancer are diagnosed annually.2 Cancer is the second leading cause of death in the United States.3 Approximately one in two males and one in three females will have a diagnosis of cancer over their lifetime.3
+Significance:
+Information on cancer at all sites combined provides a measure of, and means of tracking, the substantial burden imposed by cancer. Morbidity and mortality from cancers of the lung, colon, female breast, cervix, oral cavity and pharynx, and multiple other cancers can be reduced through known interventions.
+Limitations of Indicator:
+Cancer is not a single disease, but rather numerous diseases with different causes, risks, and potential interventions. Interpretation of trends or patterns in cancer mortality can be made only by examination of specific types of cancers. Because certain cancers have a long latency period, years might pass before changes in behavior or clinical practice patterns affect cancer mortality. In addition, certain cancers are not amenable to primary prevention or screening.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-1: Reduce the overall cancer death rate.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf.
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Howlader N, Noone AM, Krapcho M, Garshell J, Neyman N, Altekruse SF, Kosary CL, Yu M, Ruhl J, Tatalovich Z, Cho H, Mariotto A, Lewis DR, Chen HS, Feuer EJ, Cronin KA (eds). SEER Cancer Statistics Review, 1975-2010, National Cancer Institute. Bethesda, MD, http://seer.cancer.gov/csr/1975_2010/, based on November 2012 SEER data submission, posted to the SEER web site, April 2013.
+ 
+ Top of Page
+Invasive cancer of the cervix, incidence
+Category: Cancer
+Demographic Group:
+All female residents.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C53 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among female residents during a calendar year.
+Denominator:
+Midyear female resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years
+Background:
+In 2010, approximately 11,800 women were diagnosed with cervical cancer and 4,000 died from the disease.2 Black and Hispanic women have higher incidence rates of cervical cancer compared to white women.2
+Significance:
+The dramatic decrease in cervical cancer incidence and mortality during the past 45 years is mainly the result of the widespread use of the Papanicolaou test. 3 Cervical cancer rates were markedly elevated among most women living in low vs high socioeconomic status areas.3
+Limitations of Indicator:
+Cervical cancer has a long latency period and years might pass before changes in behavior or clinical practice patterns affect the incidence of cervical cancer.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-10: Reduce invasive uterine cervical cancer.
+Related CDI Topic Area:
+Reproductive Health, Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+ 
+ Top of Page
+Invasive cancer of the female breast, incidence
+Category: Cancer
+Demographic Group:
+All female residents.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C50 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among female residents during a calendar year.
+Denominator:
+Midyear female resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years
+Background:
+In 2010, approximately 207,000 women were diagnosed with breast cancer and approximately 41,000 died from the disease.2 Except for non-melanoma skin cancer, breast cancer is the most common cancer among women.2
+Significance:
+Screening for breast cancer with mammography can reduce deaths from breast cancer. 3Although scientific controversy remains regarding the benefits versus risks of screening, particularly among women aged 40-49 years, mammography is recommended for women aged 50 – 74 years.4
+Limitations of Indicator:
+Breast cancer has a long latency period and years might pass before changes in behavior or clinical practice patterns affect the incidence of breast cancer.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-11: Reduce late-stage breast cancer.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Mandelblatt JS, Cronin KA, Bailey S, et al. Effects of Mammography Screening Under Different Screening Schedules: Model Estimates of Potential Benefits and Harms. Ann Intern Med. 2009;151:738-747.
+	4.	US Preventive Services Task Force. Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med. 2009;151:716-726. 
+ 
+ 
+ Top of Page
+Invasive cancer of the oral cavity or pharynx, incidence
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C00.0 – C14.8 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, approximately 36,300 people were diagnosed with cancer of the oral cavity or pharynx, and approximately 8,500 people died from the disease. 2 The incidence of and mortality from cancer of the oral cavity and pharynx is more than twice as high among men compared to women.2
+Significance:
+Cancer of the oral cavity and pharynx is associated with use of tobacco products, excessive alcohol use and HPV infection.3,4 Together, alcohol and tobacco use account for approximately 75% of oral and pharyngeal cancers in the United States.3,4 A significant percentage (63%) of cancers primarily involving the base of the tongue and tonsils (i.e., oropharynx)have been linked to human papillomavirus (HPV).5
+Limitations of Indicator:
+Cancer of the oral cavity and pharynx has a long latency period and years might pass before changes in behavior or clinical practice patterns affect incidence.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Oral Health, Tobacco, Alcohol
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Sturgis EM, Cinciripini PM.  Trends in head and neck cancer incidence in relation to smoking prevalence: an emerging epidemic of human papillomavirus-associated cancers? Cancer 2007; 110:1429-35.
+	4.	Ragin CC, Modugno F, Gollin SM.  The epidemiology and risk factors of head and neck cancer: a focus on human papillomavirus.  J Dent Res 2007; 86:104-14.
+	5.	Centers for Disease Control and Prevention (CDC). Human Papillomavirus-Associated Cancers — United States, 2004–2008.  MMWR Morb Mortal Wkly Rep. 2012 Apr 20; 61(15):258-261.
+ 
+ Top of Page
+Invasive cancer of the prostate, incidence
+Category: Cancer
+Demographic Group:
+All male residents.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C61.9 and behavior = 3 (malignant, primary site, excluding histologic types M9590 – M9989) among male residents during a calendar year.
+Denominator:
+Midyear resident male population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, approximately 196,000 men were diagnosed with prostate cancer, and approximately 28,600 men died from the disease.2 Prostate cancer is the most common cancer among men.2 Black men have higher rates of prostate cancer incidence and mortality than do white men.2
+Significance:
+Although screening for prostate cancer is not recommended by the United States Preventive Services Task Force, screening for prostate cancer has increased the number of new cases and the percentage of new cases diagnosed at an early stage.3
+Limitations of Indicator:
+The impact of screening for prostate cancer on prostate cancer mortality is unknown. Current methods do not allow for differentiation between cases of prostate cancer that may result in death from indolent cases that are unlikely to result in death from the disease.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S.  Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Chou R, Croswell JM, Dana T, Bougastos C, et al. Screening for prostate cancer: a review of the evidence for the U.S. Preventive Services Task Force. Ann Intern Med 2011;155:762-71
+ 
+ Top of Page
+Invasive melanoma, incidence
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Incident cases of cancer with an International Classification of Diseases for Oncology Second Edition (ICD-O-2) or Third Edition (ICD-O-3) (for cases diagnosed after January 1, 2001) code C44 and behavior = 3 (malignant, primary site) and histologic types 8720 – 8790 among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of incident cases. Average annual incidence rate– crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, approximately 61,100  people were diagnosed with melanoma and  approximately 9,200 died from the disease.2 The incidence of melanoma has continued to increase among both men and women over the past decade.3
+Significance:
+Exposure to ultraviolet (UV) light causes about 65% - 90% of melanomas.4 Risk factors for melanoma include a lighter natural skin color, a history of sunburns early in life, and a history of indoor tanning use.5,6 In 2010, using sunscreen (37%) and staying in the shade (35%) were the most common protective behaviors reported among women aged 18-29 compared to wearing long clothing to the ankles (33%), staying in the shade (26%) and using sunscreen (16%) among men of the same age.7 According to the 2010 National Health Interview Study, 19% of women aged 18 – 29 years reported using an indoor tanning device at least once during the past 12 months.8
+Limitations of Indicator:
+Melanoma has a long latency period and years might pass before changes in behavior or clinical practice patterns affect the incidence of melanoma.
+Data Resources:
+Cancer incidence data from statewide central cancer registries (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Melanoma is frequently diagnosed outside of the hospital and therefore might be underreported by a central cancer registry. Data from some statewide central cancer registries may not meet standards for data completeness and quality. Therefore, nationwide estimates calculated from aggregated state data might not include data from each state. However, state registry data should accurately represent state cancer incidence in the majority of states, particularly where completeness and quality of registry data are high.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	4.	Armstrong BK, Kricker A. How much melanoma is caused by sun exposure? Melanoma Res. 1993 Dec;3(6):395-401.
+	5.	Gandini S, Sera F, Cattaruzza MS, Pasquini P, Picconi O, Boyle P, Melchi CF. Meta-analysis of risk factors for cutaneous melanoma: II. Sun exposure. Eur J Cancer. 2005 Jan;41(1):45-60.
+	6.	Boniol M, Autier P, Boyle P, Gandini S. Cutaneous melanoma attributable to sunbed use: systematic review and meta-analysis. BMJ. 2012 Jul 24;345:e4757.
+	7.	Centers for Disease Control and Prevention (CDC). Sunburn and Sun Protective Behaviors Among Adults Aged 18–29 Years — United States, 2000–2010.  MMWR Morb Mortal Wkly Rep. 2012 May 11; 61(18):317-322.
+	8.	Centers for Disease Control and Prevention (CDC). Use of indoor tanning devices by adults--United States, 2010. MMWR Morb Mortal Wkly Rep. 2012 May 11;61(18):323-6.
+  
+ Top of Page
+Mammography use among women aged 50-74 years
+Category: Cancer
+Demographic Group:
+Resident females aged 50-74 years.
+Numerator:
+Female respondents aged 50-74 years who report having had a mammogram within the previous 2 years
+Denominator:
+Female respondents aged 50-74 years who report ever having or never having had a mammogram (excluding unknowns and refusals)
+Measures of Frequency:
+Prevalence – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 2 years
+Background:
+In 2010, 20% of women aged 50-74 years had not had a mammogram with the previous 2 years.2 Breast cancer is the most common cancer among women. In 2010, female breast cancer caused approximately 41,000 deaths.3 Approximately 207,000  new cases of invasive female breast cancer are diagnosed annually.3
+Significance:
+Strong evidence shows that mammography screening can reduce breast cancer deaths by 17% among women aged 50–69 years.4 The USPSTF recommends biennial screening for women aged 50–74 years.5 Evidence supporting mammography among women aged 40–49 years is lower but with higher false positives that result in less net benefit.5
+Limitations of Indicator:
+Recommendations for mammography screening are not always consistent among national groups.
+Data Resources:
+Behavioral Risk Factor Surveillance Survey (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-17: Increase the proportion of women who receive breast cancer screening based on the most recent guidelines.
+Related CDI Topic Area:
+Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Breast Cancer Screening Among Adult Women — Behavioral Risk Factor Surveillance System, United States, 2010. MMWR 2012;61(Suppl; June 15, 2012):45-50.
+	3.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 22013. Available at http://www.cdc.gov/uscs.
+	4.	Mandelblatt JS, Cronin KA, Bailey S, et al. Effects of Mammography Screening Under Different Screening Schedules: Model Estimates of Potential Benefits and HarmsAnn Intern Med. 2009;151:738-747.
+	5.	US Preventive Services Task Force. Screening for Breast Cancer: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med. 2009;151:716-726.
+ 
+ Top of Page
+Melanoma, mortality
+Category: Cancer
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code C43 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Average annual number of deaths. Average annual death rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1 based on single years of age from the Census P25-1130 series estimates which are summed to form 5-year age groups) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Five years.
+Background:
+In 2010, 61,100 people were diagnosed with melanoma and approximately 9,200 died from the disease.2 Approximately 76% of all skin cancer-associated deaths are caused by melanoma.2 The incidence of melanoma has continued to increase among both men and women over the past decade.3
+Significance:
+Exposure to ultraviolet (UV) light causes about 65% - 90% of melanomas.4 Risk factors for melanoma include a lighter natural skin color, a history of sunburns early in life, and a history of indoor tanning use.5,6 In 2010, using sunscreen (37 %) and staying in the shade (35%) were the most common protective behaviors reported among women aged 18-29 compared to  wearing long clothing to the ankles  (33%), staying in the shade (26%) and using sunscreen (16%) among men of the same age.7 According to the 2010 National Health Interview Study, 19% of women aged 18 – 29 years reported using an indoor tanning device at least once during the past 12 months.8 
+Limitations of Indicator:
+Because melanoma can have a long latency period, years might pass before changes in behavior or clinical practice patterns affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death or other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-8: Reduce the melanoma cancer death rate.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	4.	Armstrong BK, Kricker A. How much melanoma is caused by sun exposure? Melanoma Res. 1993 Dec;3(6):395-401.
+	5.	Gandini S, Sera F, Cattaruzza MS, Pasquini P, Picconi O, Boyle P, Melchi CF. Meta-analysis of risk factors for cutaneous melanoma: II. Sun exposure. Eur J Cancer. 2005 Jan;41(1):45-60.
+	6.	Boniol M, Autier P, Boyle P, Gandini S. Cutaneous melanoma attributable to sunbed use: systematic review and meta-analysis. BMJ. 2012 Jul 24;345:e4757
+	7.	Centers for Disease Control and Prevention (CDC). Sunburn and Sun Protective Behaviors Among Adults Aged 18–29 Years — United States, 2000–2010.  MMWR Morb Mortal Wkly Rep. 2012 May 11; 61(18):317-322.
+	8.	Centers for Disease Control and Prevention (CDC). Use of indoor tanning devices by adults--United States, 2010. MMWR Morb Mortal Wkly Rep. 2012 May 11;61(18):323-6.
+ 
+ Top of Page
+Papanicolaou smear use among adult women aged 21-65 years
+Category: Cancer
+Demographic Group:
+Resident females aged 21 – 65 years without a hysterectomy.
+Numerator:
+Female respondents aged 21 – 65 years who do not report having had a hysterectomy and who report having had a Papanicolaou (Pap) smear within the previous 3 years
+Denominator:
+Female respondents aged 21 – 65 years who do not report having had a hysterectomy and who report ever having or never having had a Pap smear (excluding unknowns and refusals)
+Measures of Frequency:
+Prevalence – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population1) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 3 years
+Background:
+In 2010, 87% of women aged 21 – 65 years had a Pap smear within the previous 3 years.2 In 2010, cancer of the cervix caused approximately 4,000 deaths, and approximately 11,800 new cases are diagnosed annually.3 Black women have higher incidence of and mortality from cervical cancer than do white women.3
+Significance:
+Approximately 40%–60% of cervical cancer deaths can be prevented by increased use of the Pap test (especially among women never screened) and effective, timely treatment.4 The dramatic decrease in cervical cancer incidence and mortality during the past 50 years is mainly the result of the widespread use of the Pap test.2
+Limitations of Indicator:
+Recommendations for screening frequency vary by risk factor and a 3-year interval may not be appropriate for some women.
+Data Resources:
+Behavioral Risk Factor Surveillance Survey (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. 
+National recommendations also include use of HPV testing along with Pap testing for cervical cancer screening. BRFSS does not currently contain questions about human papillomavirus (HPV) status or testing.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-15: Increase the proportion of women who receive a cervical cancer screening based on the most recent guidelines.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	3.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	4.	Screening for cervical cancer. Practice Bulletin No. 131. American College of Obstetricians and Gynecologists. Obstet Gynecol 2012;120:1222–38. 
+ 
+ Top of Page
+Recent Papanicolaou smear use among women aged 21-44 years
+Category:  Cancer
+Demographic Group:
+Women aged 21 to 44 years without a hysterectomy
+Numerator:
+Female respondents aged 21-44 years do not report having had a hysterectomy and who reported that they had a Papanicolaou (Pap) smear within the previous 3 years.
+Denominator:
+Female respondents aged 21-44 years who do not report having had a hysterectomy and who reported ever having or never having had a Pap smear (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 3 years.
+Background:
+In 2010, 87% of women aged 21–65 years had a Pap smear within the previous 3 years.1 In 2010, cancer of the cervix caused approximately 4,000 deaths, and approximately 11,800 new cases are diagnosed annually.2
+Significance:
+Approximately 40%-60% of cervical cancer deaths can be prevented by increased use of the Pap smear and effective, timely treatment.3 The dramatic decrease in cervical cancer incidence and mortality during the past 50 years is mainly the result of the widespread use of the Pap test.1
+The CDC’s Select Panel on Preconception Care recommends that clinicians screen for preconception risk factors and provide treatment or other interventions as necessary.  The office visit during which a Pap test is most often performed, sometimes referred to as the annual exam, is a prime opportunity  for clinicians to conduct this screening.  In addition, women could be screened routinely for human papillomavirus (HPV)-associated abnormalities of the cervix and that recommended subgroups receive the HPV vaccine. Use of the vaccine, in conjunction with regular pap screening to detect HPV abnormalities early on, can reduce or eliminate the need for procedures that could decrease cervical competency during pregnancy.4
+Limitations of Indicator:
+Starting Pap smears is recommended at age 21 years 5 The prevalence of Pap testing may be limited by any changes in age distribution over time, since younger women will have had less opportunity to be in the age-group recommended for the test. The reliability of the BRFSS item assessing having ever had a Pap test is high. Regarding the validity of recall periods for this item, sensitivity is high but specificity is low to moderate with recollection being better with shorter periods of time.6
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). 
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+National recommendations also include use of HPV testing along with Pap testing for cervical cancer screening. BRFSS does not currently contain questions about HPV status or testing.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective C-15: Increase the proportion of women who receive a cervical cancer screening based on the most recent guidelines.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Jemal A, Simard EP, Dorell C, et al. Annual Report to the Nation on the Status of Cancer, 1975–2009, Featuring the Burden and Trends in Human Papillomavirus (HPV)–Associated Cancers and HPV Vaccination Coverage Levels. J. Natl. Cancer Inst. February 6, 2013 vol. 105 no. 3 175-201
+	2.	US Cancer Statistics Working Group. United States cancer statistics: 1999–2010 incidence and mortality web-based report. Atlanta, GA: U.S. Department of Health and Human Services, CDC, and the National Cancer Institute; 2013. Available at http://www.cdc.gov/uscs.
+	3.	Screening for cervical cancer. Practice Bulletin No. 131. American College of Obstetricians and Gynecologists. Obstet Gynecol 2012;120:1222–38.
+	4.	Jack B, Atrash H, Coonrod D, Moos M-K, O’Donnell J, Johnson K. The clinical content of preconception care: an overview and preparation of this supplement. Am J Obstet Gynecol 2008; 199(6 Suppl B): S266-S279.
+	5.	Whitlock EP, Vesco KK, Eder M, Lin JS, et al. Liquid based cytology and human papillomavirus testing to screen for cervical cancer: a systematic review for the U.S. Preventive Services Task Force. Ann Intern Med 2011;155:687-97
+	6.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med 2001; 46 Suppl 1:S3-42.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

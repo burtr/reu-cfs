@@ -1,0 +1,652 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Overarching Conditions
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Current health care coverage among women aged 18-44 years
+	•	Current lack of health insurance among adults aged 18-64 years
+	•	Fair or poor self-rated health status among adults aged ≥18 years
+	•	Gini index of income inequality
+	•	Health insurance coverage before pregnancy
+	•	High school completion among adults aged 18-24 years
+	•	High school completion among women aged 18-44 years
+	•	Life expectancy at age 65 years
+	•	Life expectancy at birth
+	•	Poverty
+	•	Poverty among women aged 18-44 years
+	•	Premature mortality among adults aged 45-64 years
+	•	Prevalence of sufficient sleep among adults aged ≥18 years
+	•	Recent activity limitation among adults aged ≥18 years
+	•	Recent physically unhealthy days among adults aged ≥18 years
+	•	Self-rated health status among women aged 18-44 years
+Current health care coverage among women aged 18-44 years
+Category: Overarching Conditions
+Demographic Group:
+Women aged 18 to 44 years.
+Numerator:
+Female respondents aged 18-44 years who report having current health insurance.
+Denominator:
+Female respondents aged 18-44 years who report having current health insurance or having no current health insurance (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2012, approximately 15.4% of US residents did not have health insurance.1 Lack of health insurance varies substantially by income, education, age, race and ethnicity.1
+Significance:
+In order to achieve optimal preconception health, women of childbearing age need access to preventive health care services at all times, not just during or shortly before pregnancy. Consistent access to care is especially critical for women of reproductive age with chronic medical conditions such as diabetes or hypertension. Lack of health care coverage has been widely associated with decreased use of preventive health services, delay in seeking medical care, and poor health status.2-3 In describing the clinical content of preconception care, the Clinical Work Group of the Select Panel on Preconception Care workgroup recommends that providers ask all women of childbearing age about their health insurance coverage status and their usual source of care, and refer women without adequate coverage to social services or other agencies as appropriate.3
+Limitations of Indicator:
+Studies indicate a high degree of validity for self-reported health insurance data although reliability studies are lacking.4  It cannot be ruled out that some respondents might interpret “health care coverage” to include health care available to them despite lacking insurance (e.g. through free clinics or emergency room care that they cannot and do not pay for).  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	DeNavas-Walt C, Proctor BD, Smith JC.  US Census Bureau, Current Population Reports, P60-245, Income, Poverty, and Health Insurance Coverage in the United States: 2012, US Government Printing Office, Washington, DC, 2013.
+	2.	Weissman JS, Stern R, Fielding SL, Epstein AM. Delayed access to health care: risk factors, reasons, and consequences. Ann Intern Med 1991;114:325-31.
+	3.	CDC. Health insurance coverage and receipt of preventive health services -- United States, 1993. MMWR 1995; 44:219-25.
+	4.	Jack B, Atrash H, Coonrod D, Moos M-K, O’Donnell J, Johnson K. The clinical content of preconception care: an overview and preparation of this supplement. Am J Obstet Gynecol 2008; 199 (6 Suppl B):S266-S279.
+ 
+ Top of Page
+Current lack of health insurance among adults aged 18-64 years
+Category: Overarching Conditions
+Demographic Group:
+All resident persons aged 18–64 years.
+Numerator:
+Respondents aged 18–64 years who report having no current health insurance coverage.
+Denominator:
+Respondents aged 18–64 years who report having current health insurance or having no current health insurance (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 221) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2012, approximately 15.4% of US residents did not have health insurance.2 Lack of health insurance varies substantially by income, education, age, race and ethnicity.2
+Significance:
+Lack of health insurance remains a major determinant of access to necessary health services, including preventive care. Certain socioeconomic conditions, including a lack of health insurance coverage and poverty, are associated with poor health status and chronic disease. 3-4
+Limitations of Indicator:
+Covered health-care procedures and services can vary across insurance and other health plans. Required payments and copayments by patients can vary across insurance and other health plans, thereby affecting the financial ability of patients to receive services. Because individual persons might move in and out of health insurance, this indicator might underestimate the prevalence of a lack of health insurance. All persons aged ≥65 years are eligible for Medicare.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AHS-1:  Increase the proportion of persons with health insurance.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	DeNavas-Walt C, Proctor BD, Smith JC.  US Census Bureau, Current Population Reports, P60-245, Income, Poverty, and Health Insurance Coverage in the United States: 2012, US Government Printing Office, Washington, DC, 2013.
+	3.	Weissman JS, Stern R, Fielding SL, Epstein AM. Delayed access to health care: risk factors, reasons, and consequences. Ann Intern Med 1991;114:325-31.
+	4.	CDC. Health insurance coverage and receipt of preventive health services -- United States, 1993. MMWR 1995; 44:219-25. 
+ 
+ Top of Page
+Fair or poor self-rated health status among adults aged ≥18 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report their general health status as “fair” or “poor.”
+Denominator:
+Respondents aged ≥18 years who report their general health status as “excellent,” “very good,” “good,” “fair,” or “poor” (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2009, a total of 15.9% of adults reported “fair” or “poor” health status.2
+Significance:
+Self-assessed health status is a strong measure of overall health status and has been demonstrated to correlate with subsequent health service use, functional status, and mortality.3
+Limitations of Indicator:
+This measure is based on self-assessment only and does not include an objective health component.  Self-rated health status is a subjective measure, making it difficult to know its reliability and validity.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Health-Related Quality of Life, Surveillance and Data.  http://www.cdc.gov/hrqol/data/tables/table1a.htm.  (27 November 2013).
+	3.	Centers for Disease Control and Prevention. Measuring Healthy Days. Atlanta, Georgia: CDC, November 2000. 
+ 
+ Top of Page
+Gini index1 of income inequality
+Category: Overarching Conditions
+Demographic Group:
+All households
+Numerator:
+The area between the line of perfect income equality and the Lorenz curve1, 2 (observed population income distribution depicting the relationship between the cumulative percentage of households (x-axis), and the cumulative percentage of income (y-axis.) in a state or county).  Area A in the diagram below.
+Denominator:
+0.5 (A+B in the diagram below).2
+Measures of Frequency:
+Gini Index.  More information available at: http://en.wikipedia.org/wiki/Gini_coefficient.
+Time Period of Case Definition:
+Calendar year.
+Background:
+A score of "0" on the Gini Index represents complete equality, i.e., every person has the same income. A score of 1 would represent complete inequality, i.e., where one person has all the income and others have none.  In recent years the Gini Index has gone up (from 0.397 in 1967 to 0.477 in 2011 for US households). County-level Gini Index report for 2006-2010 is available at: http://www.census.gov/prod/2012pubs/acsbr10-18.pdf and State-level Gini Index report for 2010 and 2011 is available at: http://www.census.gov/prod/2012pubs/acsbr11-02.pdf.
+Significance:
+The Gini Index is a measure of how evenly wealth is distributed within a population. It is a measure of social inequality (defines the gap between rich and poor), which is directly related to access to care and well-being.
+Limitations of Indicator:
+The Gini Index is available only at the state and county level. It is not available by any demographics (e.g., race, gender) or other variables.
+Data Resources:
+American Community Survey, US Census Bureau3
+Limitations of Data Resources:
+Data may need to be aggregated across years at the county level.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SDOH-3: Proportion of persons living in poverty.
+Related CDI Topic Area:
+ 
+￼
+	1.	Named after its inventor, the Italian statistician Corrado Gini (1884-1965). Source: http://www.businessdictionary.com/definition/gini-index.html
+	2.	The Lorenz Curve graph, shown to the right.
+	3.	The American Community Survey (ACS) is an ongoing survey that provides data every year -- giving communities the current information they need to plan investments and services. Information from the survey generates data that help determine how more than $400 billion in federal and state funds are distributed each year. Source: http://www.census.gov/acs/www/.
+ 
+ Top of Page
+Health insurance coverage before pregnancy
+Category: Overarching Conditions
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported that they had health insurance coverage during the month before they became pregnant. All response options qualify as having health insurance coverage with the exception of “I did not have any health insurance”.
+Denominator:
+Respondents who reported that they did or did not have health insurance coverage during the month before they became pregnant (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for oversampling or other differences between the sampled strata and the population, as well as non-response and non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+One month before the pregnancy resulting in the most recent live birth.
+Background:
+In 2012, approximately 15.4% of US residents did not have health insurance.1 Lack of health insurance varies substantially by income, education, age, race and ethnicity.1
+Significance:
+In order to achieve optimal preconception health, women of childbearing age need access to preventive health care services at all times, especially if they are planning pregnancy. Consistent access to care is especially critical for women of reproductive age with chronic medical conditions such as diabetes or hypertension.   Lack of health care coverage has been widely associated with decreased use of preventive health services, delay in seeking medical care, and poor health status.2-3 During 2003, one third of women with low incomes, half of women with disabilities, and 18% of non-elderly women (<age 65) did not have health insurance.4 In describing the clinical content of preconception care, the Clinical Work Group of the Select Panel on Preconception Care recommends that providers ask all women of childbearing age about their health insurance coverage and their access to social services or other agencies as appropriate.5
+Limitations of Indicator:
+A previous study examining the validity of source of health insurance using BRFSS data, revealed source misclassification in which respondents primarily had difficulty identifying whether coverage was received through their own or another person’s employer.6   However, this type of bias would only be of concern if it were of interest to know the specific source of health insurance coverage.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS).
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	DeNavas-Walt C, Proctor BD, Smith JC.  US Census Bureau, Current Population Reports, P60-245, Income, Poverty, and Health Insurance Coverage in the United States: 2012, US Government Printing Office, Washington, DC, 2013.
+	2.	Weissman JS, Stern R, Fielding SL, Epstein AM. Delayed access to health care: risk factors, reasons, and consequences. Ann Intern Med 1991;114:325-31.
+	3.	CDC. Health insurance coverage and receipt of preventive health services – United States, 1993. MMWR 1995; 44:219-25.
+	4.	Kaiser Family Foundation. Women's health insurance coverage. Washington, DC: Kaiser Family Foundation; 2004.
+	5.	Jack B, Atrash H, Coonrod D, Moos M-K, O’Donnell J, Johnson K. The clinical content of preconception care: an overview and preparation of this supplement. Am J Obstet Gynecol 2008; 199 (6 Suppl B): S266- S279.
+	6.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med2001; 46 Suppl 1:S3-S42.
+ 
+ Top of Page
+High school completion among adults aged 18-24 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged 18–24 years.
+Numerator:
+Respondents aged 18–24 years who have completed 4 years of high school (i.e., completed high school).
+Denominator:
+Respondents aged 18–24 years for the same calendar year.
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2012, approximately 14.8% of adults aged 18–24 years did not graduate from high school. 1
+Significance:
+Socioeconomic conditions (e.g., low level of education) are associated with poor health status and morbidity from chronic disease, including cardiovascular disease, cancer, diabetes, and chronic lung disease. 2 Low educational attainment among young adults is strongly associated with low income and poor health status. The level of a person’s education is modifiable.
+Limitations of Indicator:
+Estimate is based on self-report.  High school education might be completed after age 24.
+Data Resources:
+American Community Survey (ACS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, American Community Survey data might be subject to systematic error resulting from noncoverage (e.g., residence in a noneligible household), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Chronic Obstructive Pulmonary Disease; Diabetes
+	1.	US Census Bureau, 2012 American Community Survey, 1-year estimates, using American Factfinder.  http://factfinder2.census.gov (27 November 2013).
+	2.	Centers for Disease Control and Prevention.  CDC Health Disparities and Inequalities Report – United States, 2011.  MMWR 2011;60(Suppl):1-116.
+ 
+ Top of Page
+High school completion among women aged 18-44 years
+Category: Overarching Conditions
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Female respondents aged 18-44 years who have completed the 12th grade or received a GED including those who completed one or more years of college. 
+Denominator:
+Female respondents aged 18-44 years who reported their highest completed level of education.
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current
+Background:
+In 2012, approximately 11% of women aged 18-44 years did not graduate from high school.1
+Significance:
+Socioeconomic conditions (e.g., low level of education) are associated with poor health status and morbidity from chronic disease, including cardiovascular disease, cancer, diabetes, and chronic lung disease.2  Low educational attainment among young adults is strongly associated with low income and poor health status. The level of a person’s education is modifiable.
+Limitations of Indicator:
+Estimate is based on self-report. 
+Data Resources:
+American Community Survey (ACS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, American Community Survey data might be subject to systematic error resulting from noncoverage (e.g., residence in a noneligible household), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	US Census Bureau, 2012 American Community Survey, 1-year estimates, using American Factfinder.  http://factfinder2.census.gov (27 November 2013).
+	2.	Centers for Disease Control and Prevention.  CDC Health Disparities and Inequalities Report – United States, 2011.  MMWR 2011;60(Suppl):1-116. 
+ 
+ Top of Page
+Life expectancy at age 65 years
+Category: Overarching Conditions
+Demographic Group:
+All resident persons aged ≥ 65 years.
+Numerator:
+Not applicable
+Denominator:
+Not applicable
+Measures of Frequency:
+Life expectancy. (Life expectancy at age 65 years is the average number of years remaining to be lived by those surviving to that age on the basis of a given set of age-specific death rates); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+In 2011, life expectancy among U.S. residents aged 65 years was 19.2 years.1  It has been increasing in recent years.2  Life expectancy at age 65 years varies substantially by sex, race, and ethnicity.2
+Significance:
+Life expectancy at age 65 years reflects health status and health-care access among the elderly.
+Limitations of Indicator:
+Indicator does not recognize premature deaths.
+Data Resources:
+Data used to estimate death rates from which life expectancy is determined include death certificate data from vital statistics agencies and population estimates from the U.S. Census Bureau or suitable alternative.  .  Details on methods used to calculate life expectancy are published by the National Center for Health Statistics.3
+Limitations of Data Resources:
+Reporting of age at death varies in quality, especially for older persons.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Older Adults
+	1.	Hoyert DL, Xu JQ.  Deaths: Preliminary data for 2011.  National vital statistics reports; vol 61 no 6.  Hyattsville, MD: National Center for Health Statistics. 2012.
+	2.	National Center for Health Statistics.  Health, United States, 2012: With Special Feature on Emergency Care.  Hyattsville, MD. 2013.
+	3.	Wei R, Anderson RN, Curtin LR, Arias E. U.S. decennial life tables for 1999–2001: State life tables. National vital statistics reports; vol 60 no 9. Hyattsville, MD: National Center for Health Statistics. 2012.
+ 
+ Top of Page
+Life expectancy at birth
+Category: Overarching Conditions
+Demographic Group:
+All resident persons.
+Numerator:
+Not applicable
+Denominator:
+Not applicable
+Measures of Frequency:
+Life expectancy. (Life expectancy at birth is the average number of years to be lived on the basis of a given set of age-specific death rates.); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+In 2011, life expectancy among U.S. residents was 78.7 years.1 Life expectancy has been increasing steadily since records have been kept in the United States.2  Life expectancy varies substantially by sex, race, and ethnicity.2
+Significance:
+Life expectancy at birth measures health status across all age groups.
+Limitations of Indicator:
+Causes of changes in life expectancy at birth are not readily identifiable from this single indicator.
+Data Resources:
+Data used to estimate death rates from which life expectancy is determined include death certificate data from the National Vital Statistics System and population estimates from the U.S. Census Bureau or suitable alternative.  Details on methods used to calculate life expectancy are published by the National Center for Health Statistics.3
+Limitations of Data Resources:
+Reporting of age at death varies in quality, especially for older persons.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Hoyert DL, Xu JQ.  Deaths: Preliminary data for 2011.  National vital statistics reports; vol 61 no 6.  Hyattsville, MD: National Center for Health Statistics. 2012.
+	2.	National Center for Health Statistics.  Health, United States, 2012: With Special Feature on Emergency Care.  Hyattsville, MD. 2013.
+	3.	Wei R, Anderson RN, Curtin LR, Arias E. U.S. decennial life tables for 1999–2001: State life tables. National vital statistics reports; vol 60 no 9. Hyattsville, MD: National Center for Health Statistics. 2012. 
+ 
+ Top of Page
+Poverty
+Category: Overarching Conditions
+Demographic Group:
+All resident persons.
+Numerator:
+Respondents who reported family income at or below the Federal Poverty Threshold.
+Denominator:
+Respondents who reported family income and family size (excluding those with missing data).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2012, a total of 15.0% (46.5 million) of U.S. residents were living at or below poverty level. 1 Substantial differences in poverty exist by race, ethnicity, education, and region of the United States.
+Significance:
+Socioeconomic conditions (e.g., low level of education) are associated with poor health status and morbidity from chronic disease, including cardiovascular disease, cancer, diabetes, and chronic lung disease.2  Income provides an assessment of the financial resources available to individual persons or families for basic necessities (e.g., food, clothing, and health care) to maintain or improve their well-being.
+Limitations of Indicator:
+Level of income might not reflect all the resources available to individual persons and families for health and health care. Persons who are living at or below the poverty rate might receive health-care services through Medicaid, Medicare, accumulated assets, or other means.
+Data Resources:
+American Community Survey (ACS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, American Community Survey data might be subject to systematic error resulting from noncoverage (e.g., residence in a non-eligible household), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SDOH-3: Proportion of persons living in poverty.
+Related CDI Topic Area:
+Cancer; Cardiovascular Disease; Chronic Obstructive Pulmonary Disease; Diabetes
+	1.	DeNavas-Walt C, Proctor BD, Smith JC.  US Census Bureau, Current Population Reports, P60-245, Income, Poverty, and Health Insurance Coverage in the United States: 2012, US Government Printing Office, Washington, DC, 2013.
+	2.	Centers for Disease Control and Prevention.  CDC Health Disparities and Inequalities Report – United States, 2011.  MMWR 2011;60(Suppl):1-116. 
+ 
+ Top of Page
+Poverty among women aged 18-44 years
+Category: Overarching Conditions
+Demographic Group:
+Women aged 18-44 years
+Numerator:
+Female respondents aged 18-44 years who reported family income at or below 200% of the Federal Poverty Threshold.
+Denominator:
+Female respondents aged 18-44 years who reported family income and                family size (excluding those with missing data).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Preceding calendar year.
+Background:
+In 2012, at total of 11,188,491 (19.7%) women aged 18-44 years were living at or below poverty level.1
+Significance:
+Socioeconomic status (SES) is one of the major social determinants of health and is a complex construct generally used to define social inequality.2  One way of evaluating the impact of SES, especially income, on health is to consider the relationship of income and poverty.  One approach to measuring poverty is to set the income threshold at a subsistence level related to biological survival—the approach underlying measurement of poverty level in the United States.3 If poverty were listed as a cause of death in the U.S., in 1991 it would have ranked as the fourth leading cause of death among black women and sixth among white women.4  Even when confounding and/or effect modification are taken into account, low SES is generally associated with increased risks of both preterm birth and intrauterine growth retardation.5,6  As part of preconception health promotion, it is recommended that providers ask all women of childbearing age about their economic status and refer them to agencies that can help determine their eligibility for financial assistance if they appear to be in need.7  In addition, women below this income threshold may need assistance services.
+Limitations of Indicator:
+Measuring the diverse complexity of SES with one dichotomous measure has its limitations.  The proportion in poverty varies whether it is in one month, one year or two years.8   Poverty can also be measured at the individual level and the neighborhood level.9 Not including other measures of SES, such as wealth, can be problematic.10  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Annual Social and Economic Supplement (ASEC) of the Current Population Survey (CPS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, Current Population Survey data might be subject to systematic error resulting from noncoverage (e.g., residence in a non-eligible household), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SDOH-3: Proportion of persons living in poverty.
+Related CDI Topic Area:
+Reproductive Health
+	1.	US Census Bureau, 2012 American Community Survey, 1-year estimates, using American Factfinder.  http://factfinder2.census.gov (27 November 2013).
+	2.	Centers for Disease Control and Prevention.  CDC Health Disparities and Inequalities Report – United States, 2011.  MMWR 2011;60(Suppl):1-116.
+	3.	Hahn RA, Eaker E, Barker ND, et al. Poverty and death in the U.S.—1972 and 1991. Int.J. Health Serv 1996; 26:673-90.
+	4.	Parker JD, Schoendorf KC, Kiely JL. Associations between measures of socioeconomic status and low birth weight, small for gestational age, and premature delivery in the United States. Ann Epidemiol 1994; 4:271-278.
+	5.	Peacock JF, Bland JM, Anderson HR. Preterm Delivery: effects of socioeconomic factors, psychological stress, smoking, alcohol and caffeine. BMJ 1995; 311: 531-535.
+	6.	Klerman L, Jack B, Coonrod D, et al. The clinical content of preconception care: care of psychosocial stressors. Am J Obstet Gynecol 2008; 199 (6 Suppl B):S362-S366.
+	7.	Bloomberg L, Meyers J, Braverman MT. The importance of social interaction: a new perspective on social epidemiology, social risk factors, and health. Health Educ Q 1994;21:447-463.
+	8.	Krieger N, Williams DR, Moss NE. Measuring social class in US public health research: concepts, methodologies, and guidelines. Annu Rev Public Health 1997;18:341-78.
+	9.	Pollack CE, Chideya S, Bubbin C, et al. Should health studies measure wealth? A systematic review. Am J Prev Med 2007; 33:250-64. 
+	10.	Citro CF, Michael RT, eds. Measuring Poverty: A New Approach.  Summary of Recommendations. Washington, DC: Natl. Acad. Press, 1995. 
+ 
+ Top of Page
+Premature mortality among adults aged 45-64 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged 45–64 years.
+Numerator:
+Deaths among resident persons aged 45–64 years during a calendar year.
+Denominator:
+Midyear resident population aged 45–64 years for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+During 2011, approximately 505,739 persons aged 45–64 years died in the United States.1
+Significance:
+Numerous chronic diseases including heart disease, cancer, stroke, chronic lung disease, and diabetes are associated with modifiable risk factors that can lead to premature mortality. Premature mortality from all causes is a key approximation of preventable deaths.
+Limitations of Indicator:
+Not all deaths among persons aged 45–64 years are associated with modifiable risk factors. Premature mortality might be defined with an age range that is different from the range used for this indicator.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Reporting of age at death varies in quality, especially for older persons.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Hoyert DL, Xu JQ.  Deaths: Preliminary data for 2011.  National vital statistics reports; vol 61 no 6.  Hyattsville, MD: National Center for Health Statistics. 2012.
+ 
+ Top of Page
+Prevalence of sufficient sleep among adults aged ≥18 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged ≥18 years
+Numerator:
+Respondents aged ≥18 years who report usually getting sufficient sleep (≥8 hours for those aged 18 to 21 years and ≥7 hours for those aged ≥22 years, on average, during a 24-hour period)
+Denominator:
+Respondents aged ≥18 years who report 0-24 hours of sleep (excluding refused or missing).
+Measures of Frequency:
+Annual prevalence (percentage) - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2008-2010, 69.7% of adults reported usually getting sufficient sleep (defined as ≥8  hours for those aged 18-21 years and ≥7 hours for those aged ≥22 years, on average, during a 24-hour period).2
+Significance:
+Insufficient sleep is associated with a number of chronic diseases and conditions—such as diabetes, cardiovascular disease, hypertension, obesity, and depression.3 Insufficient sleep is associated with the onset of these conditions and also poses important implications for their management and outcome. Moreover, insufficient sleep is responsible for motor vehicle crashes and industrial errors, causing substantial injury and disability each year. Sleepiness can also reduce productivity and quality of life.3
+Limitations of Indicator:
+Indicator does not convey variation in sleep duration (for instance, weekday vs. weekend sleep) or quality of sleep. Both of these might affect the risk for chronic disease. Indicator does not identify specific sleep problems, such as sleep disordered breathing, which are associated with different chronic conditions.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SH-4:  Increase the proportion of adults who get sufficient sleep. 
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Schoenborn CA, Adams PF, Peregoy JA. Health behaviors of adults: United States, 2009-2010. National Center for Health Statistics. Vital Health Stat 10(257). 2013.
+	3.	Institute of Medicine.  Sleep disorders and sleep deprivation: an unmet public health problem.  Washington DC: the National Academies Press; 2006.
+ 
+ Top of Page
+Recent activity limitation among adults aged ≥18 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Sum of the number of days during the previous 30 days for which respondents aged ≥18 years report that their usual activities (e.g., self-care, work, and recreation) were limited because of poor physical or mental health.
+Denominator:
+Number of respondents aged ≥18 years who report (or for whom it can be imputed) ≥0 days during the previous 30 days of activity limitation because of poor physical or mental health (excluding unknowns and refusals).
+Measures of Frequency:
+Mean number of days with activity limitation during the previous 30 days — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 30 days.
+Background:
+In 2009, the mean number of days of recent activity limitation because of poor physical or mental health during the previous 30 days was 2.3.2 
+Significance:
+Experiencing activity limitations because of poor physical or mental health interferes with social functioning, is associated with health behavior, and is an indicator of population productivity. A measure of disability burden should be monitored as a chronic condition.3
+Limitations of Indicator:
+Although this indicator is based on self-assessment, it has been demonstrated to have good reliability, validity, and responsiveness.3 Because of the skip pattern in the computation, 0 days must be imputed for respondents who report 0 days for both recent physical and mental health.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Health-Related Quality of Life, Surveillance and Data.  http://www.cdc.gov/hrqol/data/tables/table4a.htm.  (27 November 2013).
+	3.	Moriarty DG, Zack MM, Kobau R. The Centers for Disease Control and Prevention’s healthy days measures – population tracking of perceived physical and mental health over time.  Health Qual Life Outcomes 2003;1(37):1-8. 
+ 
+ Top of Page
+Recent physically unhealthy days among adults aged ≥18 years
+Category: Overarching Conditions
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Sum of the number of days during the previous 30 days for which respondents aged ≥ 18 years report that their physical health (including physical illness and injury) was not good.
+Denominator:
+Total number of respondents aged ≥18 years who report ≥0 days during the previous 30 days for which their physical health was not good (excluding unknowns and refusals).
+Measures of Frequency:
+Mean number of physically unhealthy days during the previous 30 days — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 30 days.
+Background:
+In 2009, the mean reported number of physically unhealthy days (i.e., days when physical health was not good) during the previous 30 days was 3.6.2  This is the best available measure of population physical health.
+Significance:
+Poor physical health interferes with social functioning, is associated with health behavior, and should be monitored as an indicator of overall chronic disease burden.3  Recent physically unhealthy days are used with recent mentally unhealthy days to estimate the mean number of unhealthy days (i.e., days with impaired physical or mental health) during the previous 30 days — a summary measure of population health.3
+Limitations of Indicator:
+Although this indicator is based on self-assessment, it has been demonstrated to have good reliability, validity, and responsiveness.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Health-Related Quality of Life, Surveillance and Data.  http://www.cdc.gov/hrqol/data/tables/table2a.htm.  (27 November 2013).
+	3.	Moriarty DG, Zack MM, Kobau R. The Centers for Disease Control and Prevention’s healthy days measures – population tracking of perceived physical and mental health over time.  Health Qual Life Outcomes 2003;1(37):1-8.
+ 
+ Top of Page
+Self-rated health status among women aged 18-44 years
+Category: Overarching Conditions
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Female respondents aged 18-44 years who reported their general health status was excellent, very good, or good.
+Denominator:
+Female respondents aged 18-44 years who reported their general health status was excellent, very good, good, fair, or poor (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2009, a total of 15.9% of adults reported “fair” or “poor” health status.1
+Significance:
+Self-assessed health status is a strong measure of overall health status and has been demonstrated to correlate with subsequent health service use, functional status, and mortality.2
+Limitations of Indicator:
+This measure is based on self-assessment only and does not include an objective health component.  Self-rated health status is a subjective measure, making it difficult to know its reliability and validity. There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Centers for Disease Control and Prevention. Health-Related Quality of Life, Surveillance and Data.  http://www.cdc.gov/hrqol/data/tables/table1a.htm.  (27 November 2013).
+	2.	Centers for Disease Control and Prevention. Measuring Healthy Days. Atlanta, Georgia: CDC, November 2000.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

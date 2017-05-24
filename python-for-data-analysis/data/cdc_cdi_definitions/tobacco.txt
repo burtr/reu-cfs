@@ -1,0 +1,668 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Tobacco
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Amount of tobacco product excise tax
+	•	Cigarette smoking before pregnancy
+	•	Current cigarette smoking among women aged 18-44 years
+	•	Current cigarette smoking among youth
+	•	Current smokeless tobacco use among adults aged ≥18 years
+	•	Current smokeless tobacco use among youth
+	•	Current smoking among adults aged ≥18 years
+	•	Percent tobacco revenue to fund at CDC recommended level
+	•	Pneumococcal vaccination among non-institutionalized adults aged ≥65 years who smoke
+	•	Pneumococcal vaccination among non-institutionalized adults aged 18-64 years who smoke
+	•	Proportion of the population protected by a comprehensive smoke-free policy prohibiting smoking in all indoor areas of workplaces and public places, including restaurants and bars. 
+	•	Quit attempts in the past year among current smokers
+	•	Sale of cigarette packs
+	•	Tobacco-free schools
+	•	States that allow stronger local tobacco control and prevention laws
+	•	States with strong policies that require retail licenses to sell tobacco products
+Amount of tobacco product excise tax
+Category: Tobacco
+Demographic Group:
+States
+Numerator:
+Number of states that increased tax on cigarettes by $1.50 over the tracking period beginning in 2010.  At the state level, this indicator will be a yes/no response.
+Denominator:
+All states.
+Measures of Frequency:
+Number
+Time Period of Case Definition:
+Newly enacted legislation in effect as of the last day of the quarter is updated in the STATE system on a quarterly basis
+Background:
+Increasing the price of cigarettes reduces the demand for cigarettes, thereby reducing youth smoking initiation and cigarette consumption and decreasing the prevalence of cigarette use in the United States overall, particularly among youths and young adults.1,2 The most common way governments have increased the price of cigarettes is by increasing cigarette excise taxes,1,2 which currently are imposed by all states and the District of Columbia.1 In 2011, Missouri had the lowest state cigarette excise tax in the United States, at $0.17 per pack, and New York had the highest, at $4.35 per pack.3
+Significance:
+Because increasing the price of cigarettes is effective in reducing cigarette use and preventing initiation, the Surgeon General has concluded that increased cigarette taxes would lead to substantial long-term improvements in health.1 The effectiveness of cigarette excise tax increases in reducing smoking-related death and disease can be increased when combined with other evidence-based interventions of a comprehensive tobacco control program, including smoke-free policies and media campaigns.2
+Limitations of Indicator:
+Cigarette excise tax data do not provide a complete picture of tobacco product price. Additionally, cigarette excise data are not reflective of other tobacco product types, including smokeless tobacco, little cigars or cigarillos, or pipes.
+Data Resources:
+State Tobacco Activities Tracking and Evaluation System (STATE), CDC Office on Smoking and Health; State departments of revenue.
+Limitations of Data Resources:
+None noted
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-17:  Increase the Federal and State tax on tobacco products.
+Related CDI Topic Area:
+ 
+	1.	CDC. Reducing tobacco use: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC; 2000. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2000/complete_report/index.htm.
+	2.	Institute of Medicine. Ending the tobacco problem: a blueprint for the nation. Washington, DC: The National Academies Press; 2007. Available at http://www.nap.edu/catalog.php?record_id=11795.
+	3.	CDC. State cigarette excise taxes - United States, 2010-2011. MMWR 2012;61(12):201-4.
+ 
+ Top of Page
+Cigarette smoking before pregnancy
+Category: Tobacco
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported that they had smoked any cigarettes in the past 2 years and that they smoked any number of cigarettes, including <1 cigarette, on an average day during the 3 months before they got pregnant with their most recent live born infant.
+Denominator:
+Respondents who reported the number of cigarettes they smoked on an average day in the 3 months before they got pregnant with their most recent live born infant, including none, as well as those who reported that they had not smoked any cigarettes in the past 2 years (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, and by demographic characteristics when feasible; weighted using the PRAMS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage).
+Time Period of Case Definition:
+Three months before the pregnancy resulting in the most recent live birth.
+Background:
+Despite the adverse impact smoking has on health, approximately 16.5% of women in the United States currently smoke cigarettes,1 and current cigarette smoking ranges from 5.8% to 34.7% among women of reproductive age across all 50 states and the District of Columbia.2 According to 2004 PRAMS data collected from 26 reporting areas, the mean prevalence of pre-pregnancy tobacco use was 23.2%; 45% of these women reported quitting during pregnancy, yet over 50% of them relapsed within six months after delivery.3
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.4 Women of reproductive age (18-44 years) who smoke risk adverse pregnancy outcomes, including difficulty conceiving, infertility, spontaneous abortion, prematurity, premature rupture of membranes, low birth weight, neonatal mortality, stillbirth, and sudden infant death syndrome (SIDS), as well as adverse health consequences for themselves.5 Because only 20% of women who smoke are able to quit successfully during pregnancy, the CDC recommends smoking cessation prior to pregnancy.6 Interventions should be provided to tobacco users to include counseling about the benefits of not smoking before, during, and after pregnancy, a discussion of medications, and referral to intensive services that aid individuals attempting to stop smoking.7 
+Limitations of Indicator:
+There are two different questions that must be used to construct the indicator related to smoking 2 years and 3 months prior to pregnancy.  Grouping women in categories based on the number of cigarettes smoked adds valuable information. There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS)
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health; Oral Health
+	1.	CDC. Current cigarette smoking among adults – United States, 2011. MMWR 2012;61:889-894.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6144a2.htm?s_cid=mm6144a2_w.
+	2.	CDC. Smoking prevalence among women of reproductive age—United States, 2006. MMWR 2008; 57(31):849-852. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5731a2.htm.
+	3.	CDC. Preconception and interconception health status of women who recently gave birth to a live-born infant – Pregnancy Risk Assessment Monitoring System (PRAMS), United States, 26 Reporting Areas, 2004. MMWR 2007;56(SS10):1-35.
+	4.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	5.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm.
+	6.	CDC. Recommendations to improve preconception health and health care—United States. MMWR 2006; 55 (RR-6). http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5506a1.htm
+	7.	Floyd RL, Jack BW, Cefalo R, et al. The clinical content of preconception care: alcohol, tobacco, and illicit drug exposures. Am J Obstet Gynecol 2008; 199 (6 Suppl B):S333- S339.  
+ 
+ Top of Page
+Current cigarette smoking among women aged 18-44 years
+Category: Tobacco
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Women aged 18-44 years who reported that they smoked ≥100 cigarettes in their lifetime and currently smoke every day or some days.
+Denominator:
+Women aged 18-44 years who information about cigarette smoking (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval; and by demographic characteristics when feasible; weighted using the BRFSS methodology to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage.
+Time Period of Case Definition:
+Current
+Background:
+Despite the adverse impact smoking has on health, approximately 16.5% of women in the United States currently smoke cigarettes,1 and current cigarette smoking ranges from 5.8% to 34.7% among women of reproductive age across all 50 states and the District of Columbia.2 According to 2004 PRAMS data collected from 26 reporting areas, the mean prevalence of pre-pregnancy tobacco use was 23.2%; 45% of these women reported quitting during pregnancy, yet over 50% of them relapsed within six months after delivery.3
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.4 Women of reproductive age (18-44 years) who smoke risk adverse pregnancy outcomes, including difficulty conceiving, infertility, spontaneous abortion, prematurity, premature rupture of membranes, low birth weight, neonatal mortality, stillbirth, and sudden infant death syndrome (SIDS), as well as adverse health consequences for themselves.5 Because only 20% of women who smoke are able to quit successfully during pregnancy, the CDC recommends smoking cessation prior to pregnancy.6 Interventions should be provided to tobacco users to include counseling about the benefits of not smoking before, during, and after pregnancy, a discussion of medications, and referral to intensive services that aid individuals attempting to stop smoking.7 
+Limitations of Indicator:
+The indicator does not convey the frequency of using cigarettes or the lifetime or current amount of cigarettes smoked, which may affect maternal and infant health outcomes. Indicator does not measure intent to quit smoking or attempts to quit smoking among smokers or exposure to environmental tobacco smoke among non- smokers. Only women who smoked at least 100 cigarettes in their entire lives are asked about current smoking. Therefore, the numerator excludes women who began to smoke relatively recently, although this is likely a small number. There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS)
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall) bias. In an effort to address some of these potential concerns, BRFSS began including cell phone-only users in 2011. Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health; Oral Health
+	1.	CDC. Current cigarette smoking among adults – United States, 2011. MMWR 2012;61:889-894.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6144a2.htm?s_cid=mm6144a2_w.
+	2.	CDC. Smoking prevalence among women of reproductive age—United States, 2006. MMWR 2008; 57(31):849-852. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5731a2.htm.
+	3.	CDC. Preconception and interconception health status of women who recently gave birth to a live-born infant – Pregnancy Risk Assessment Monitoring System (PRAMS), United States, 26 Reporting Areas, 2004. MMWR 2007;56(SS10):1-35.
+	4.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	5.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm.
+	6.	CDC. Recommendations to improve preconception health and health care—United States. MMWR 2006; 55 (RR-6). http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5506a1.htm
+	7.	Floyd RL, Jack BW, Cefalo R, et al. The clinical content of preconception care: alcohol, tobacco, and illicit drug exposures. Am J Obstet Gynecol 2008; 199 (6 Suppl B):S333- S339.
+  
+ Top of Page
+Current cigarette smoking among youth
+Category: Tobacco
+Demographic Group:
+Students in grades 9-12
+Numerator:
+Respondents in grades 9-12 who report having smoked a cigarette on ≥1 of the previous 30 days
+Denominator:
+Students in grades 9–12 who reported information about smoking (excluding those who did not answer).
+Measures of Frequency:
+Biennial (odd years) prevalence and 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 30 days
+Background:
+Tobacco use remains the leading preventable cause of death and disease in the United States, with more than 480,000 deaths occurring annually because of cigarette smoking and exposure to secondhand smoke.1 Moreover, nearly 90% of adult smokers begin smoking by age 18 years.2 As compared to nonsmokers, youth cigarette smokers are more likely to drink alcohol, use marijuana and cocaine, engage in risky sexual behaviors, engage in physical fighting, carry a weapon, and attempt suicide.2 In 2011, 18.1% of students in grades 9-12 had smoked cigarettes on at least 1 day during the past 30 days.3
+Significance:
+Cigarette smoking increases risk of heart disease; chronic obstructive pulmonary disease; acute respiratory illness; stroke; and cancers of the lung, larynx, oral cavity, pharynx, pancreas, and cervix.4 If current tobacco use patterns persist, an estimated 6.4 million current child smokers will eventually die prematurely from a smoking-related disease.5
+Limitations of Indicator:
+There is presently no national middle school YRBSS; however, state and/or local data may be available in some areas. Also, some middle school surveys cover grades 7 and 8 only, and thus, data may not be consistent across jurisdictions.
+Data Resources:
+National data from the Youth Risk Behavior Surveillance System (YRBSS) are representative of all public and private school students in grades 6-8 in the 50 states and the District of Columbia. National YRBSS data are not the aggregate of the state YRBSS data; the National YRBSS uses a separate scientific sample of schools and students. For the national, state, territory, and local YRBSS samples, schools are selected with probability proportional to the size of student enrollment in grades 9-12 and then required classes of students (e.g., English classes) are randomly selected to participate. Within selected classes, all students are eligible to participate. See the Methodology of the Youth Risk Behavior Surveillance System for a more detailed description of sampling procedures.6
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.7 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-2.1:  Reduce use of tobacco products by adolescents (past month).
+Related CDI Topic Area:
+Alcohol; Cancer; Cardiovascular Disease; Chronic Obstructive Pulmonary Disease; School Health; Oral Health
+	1.	CDC.U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	2.	US Department of Health and Human Services. Preventing tobacco use among youth and young adults. Atlanta, GA: US Department of Health and Human Services, CDC; 2012. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2012/index.htm.
+	3.	CDC. Youth Risk Behavior Surveillance – United States, 2011. MMWR. 2012;61(4):1-162.
+	4.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm
+	5.	CDC. Smoking-Attributable Mortality, Morbidity, and Economic Costs (SAMMEC). Available at http://apps.nccd.cdc.gov/sammec/.
+	6.	CDC. Youth Risk Behavior Surveillance System.  Available at http://www.cdc.gov/mmwr/PDF/rr/rr5312.pdf.
+	7.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+ 
+ Top of Page
+Current smokeless tobacco use among adults aged ≥18 years
+Category: Tobacco
+Demographic Group:
+All residents aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report currently using chewing tobacco, snuff, or snus every day or some days.(excluding unknowns and refusals).
+Denominator:
+Respondents aged ≥ 18 years who responded to the smokeless tobacco question.
+Measures of Frequency:
+Annual crude and age-adjusted prevalence and 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Current
+Background:
+The health consequences of cigarette smoking and smokeless tobacco use both have been well documented, including increased risk for lung, throat, oral, and other types of cancers.1,2 Smokeless tobacco use is predominantly a public health problem among men, young adults, and persons with lower education, and in certain states.3 In 2009, Smokeless tobacco use within states was highest in Wyoming (9.1%), West Virginia (8.5%), and Mississippi (7.5%); and lowest in California (1.3%), DC (1.5%), Massachusetts (1.5%), and Rhode Island (1.5%).3
+Significance:
+Smokeless tobacco use is not a safe alternative to smoking cigarettes, and can lead to nicotine addiction and several oral conditions, including halitosis, gingivitis, periodontitis, gingival recession, dental caries, oral pre-malignancies, and certain oral cancers.1
+Limitations of Indicator:
+This indicator may not include all types of smokeless products, including chewing tobacco, snuff, dip, and snus.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS)
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall) bias. In an effort to address some of these potential concerns, BRFSS began including cell phone-only users in 2011. Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-1.2:  Reduce use of smokeless tobacco products by adults.
+Related CDI Topic Area:
+Cancer; Oral Health
+	1.	International Agency for Research on Cancer. IARC monographs on the evaluation of carcinogenic risks to humans: smokeless tobacco and some tobacco specific n-nitrosamines [volume 89]. Lyon, France: World Health Organization, International Agency for Research on Cancer; 2007. Available at http://monographs.iarc.fr/ENG/Monographs/vol89/mono89.pdf.
+	2.	CDC. The health consequences of smoking: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC; 2004.
+	3.	CDC. State-specific prevalence of cigarette smoking and smokeless tobacco use among adults --- United States, 2009. MMWR 2010;59(43):1400-6.
+ 
+ Top of Page
+Current smokeless tobacco use among youth
+Category: Tobacco
+Demographic Group:
+Students in grades 9-12
+Numerator:
+Respondents in grades 9-12 who report having used smokeless tobacco on ≥1 of the previous 30 days.
+Denominator:
+Students in grades 9-12 who reported information about smokeless tobacco use (excluding those who did not answer).
+Measures of Frequency:
+Biennial (odd years) prevalence and 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Previous 30 days
+Background:
+Tobacco use remains the leading preventable cause of death and disease in the United States, with more than 480,000 deaths occurring annually because of cigarette smoking and exposure to secondhand smoke.1 In 2011, 7.7% of students in grades 9-12 had used smokeless tobacco (e.g., chewing tobacco, snuff, or dip) on at least 1 day during the past 30 days. 2
+Significance:
+Smoking and smokeless tobacco use are initiated and established primarily during adolescence.3 Smokeless tobacco use is not a safe alternative to smoking cigarettes, and can lead to nicotine addiction and several oral conditions, including halitosis, gingivitis, periodontitis, gingival recession, dental caries, oral pre-malignancies, and certain oral cancers.3
+Limitations of Indicator:
+There is presently no national middle school YRBSS; however, state and/or local data may be available in some areas. Also, some middle school surveys cover grades 7 and 8 only, and thus, data may not be consistent across jurisdictions.
+Data Resources:
+National data from the Youth Risk Behavior Surveillance System (YRBSS) are representative of all public and private school students in grades 6-8 in the 50 states and the District of Columbia. National YRBSS data are not the aggregate of the state YRBSS data; the National YRBSS uses a separate scientific sample of schools and students. For the national, state, territory, and local YRBSS samples, schools are selected with probability proportional to the size of student enrollment in grades 9-12 and then required classes of students (e.g., English classes) are randomly selected to participate. Within selected classes, all students are eligible to participate. See the Methodology of the Youth Risk Behavior Surveillance System for a more detailed description of sampling procedures.4
+Limitations of Data Resources:
+Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-2.3:  Reduce use of smokeless tobacco products by adolescents (past month).
+Related CDI Topic Area:
+Cancer; Oral Health, School Health
+	1.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	2.	CDC. Youth Risk Behavior Surveillance – United States, 2011. MMWR. 2012;61(4):1-162.
+	3.	U.S. Department of Health and Human Services. Preventing tobacco use among youth and young adults: a report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health; 2012.
+	4.	CDC. Youth Risk Behavior Surveillance System.  Available at http://www.cdc.gov/mmwr/PDF/rr/rr5312.pdf.
+ 
+ Top of Page
+Current smoking among adults aged ≥18 years
+Category: Tobacco
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥18 years who report having smoked ≥ 100 cigarettes in their lifetime and currently smoke every day or some days.
+Denominator:
+Respondents aged ≥18 years who reported information about cigarette smoking (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Current
+Background:
+Although the overall prevalence of cigarette smoking has declined in recent decades, in 2011, 19.0% of adults aged ≥18 years still smoked.2 Of these, 77.8% (34.1 million) smoked every day, and 22.2% (9.7 million) smoked some days.2 During 2005–2011, a slight overall decline in current smoking prevalence was noted; the largest decline in current smoking prevalence occurred in adults aged 18–24 years (from 24.4% to 18.9%).2
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.3 Smoking increases the risk of heart disease, stroke, multiple types of cancer, and chronic lung disease.4 Quitting smoking is beneficial to health at any age, and cigarette smokers who quit before age 35 years have mortality rates similar to those who never smoked.4,5
+Limitations of Indicator:
+Indicator does not convey the lifetime or current number of cigarettes smoked. Each of these factors can affect the risk for acquiring chronic disease from smoking cigarettes. Additionally, the indicator does not measure intent or attempts to quit smoking among smokers or exposure to secondhand smoke among nonsmokers.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS)
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall) bias. In an effort to address some of these potential concerns, BRFSS began including cell phone-only users in 2011. Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-1.1:  Reduce cigarette smoking by adults.
+Related CDI Topic Area:
+Alcohol; Cancer; Cardiovascular Disease; Chronic Obstructive Pulmonary Disease; Oral Health
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Current cigarette smoking among adults – United States, 2011. MMWR 2012;61:889-894.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6144a2.htm?s_cid=mm6144a2_w.
+	3.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	4.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm.
+	5.	Doll R, Peto R, Boreham J, Sutherland I. Mortality in relation to smoking: 50 years' observations on male British doctors. BMJ 2004;328:1519--28.
+ 
+ Top of Page
+Percent tobacco revenue to fund at CDC recommended level
+Category: Tobacco
+Demographic Group:
+States
+Numerator:
+Actual annual amount of tobacco control funding.
+Denominator:
+CDC recommended annual total funding level for state tobacco control and prevention programs
+Measures of Frequency:
+Percent
+Time Period of Case Definition:
+Annual
+Background:
+CDC’s “Best Practices for Comprehensive Tobacco Control Programs”describes an integrated programmatic structure for implementing interventions proven to be effective and provides the recommended level of state investment to reach these goals and to reduce tobacco use in each state.1 To date, all 50 states and the District of Columbia have state tobacco control programs that are funded through various revenue streams, including tobacco industry settlement payments, cigarette excise tax revenues, state general funds, the federal government, and nonprofit organizations.2 However, in 2011, only two states funded tobacco control programs at CDC-recommended levels, whereas 27 states funded at less than 25% of these levels.3
+Significance:
+Investing in comprehensive tobacco control programs and implementing evidence-based interventions - such as increasing the price of cigarettes, enacting comprehensive smoke-free policies, funding hard hitting mass media campaigns, and making cessation services fully accessible to tobacco users – has been shown to reduce youth initiation, tobacco-related disease and death, and tobacco-related health care costs and lost productivity. 1
+Limitations of Indicator:
+The indicator reflects total funding only and does not specify how funds are spent.
+Data Resources:
+State Tobacco Activities Tracking and Evaluation System (STATE), CDC, Office on Smoking and Health; State departments of revenue.
+Limitations of Data Resources:
+None noted
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-20 (Developmental):  Increase the number of States and the District of Columbia, Territories, and Tribes with sustainable and comprehensive evidence-based tobacco control programs.
+Related CDI Topic Area:
+ 
+	1.	CDC. Best practices for comprehensive tobacco control programs—2007. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health; 2007.
+	2.	CDC. State Tobacco Revenues Compared with Tobacco Control Appropriations – United States, 1998-2010. Morbidity and Mortality Weekly Report 2012;61(20):370–4.
+	3.	CDC. Current Cigarette Smoking Among Adults – United States, 2011. Morbidity and Mortality Weekly Report 2012;61(44):889–94.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged ≥65 years who smoke
+Category: Tobacco
+Demographic Group:
+Resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years who report having smoked ≥100 cigarettes in their lifetime and are current smokers on every day or some days, and who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged ≥ 65 years who report having smoked 100 cigarettes in their lifetime and currently smoke every day or some days, and who also report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. standard population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Current (smokers). Lifetime (ever vaccinated).
+Background:
+Although the overall prevalence of smoking has declined in recent decades, in 2011, 19.0% of adults aged ≥18 years still smoked.2 In 2011, the prevalence of cigarette smoking was 7.9% among adults aged ≥65 years.2 Adults aged ≥65 are at increased risk for pneumococcal infection.3 Persons who smoke or who have certain underlying medical conditions are also at increased risk for developing pneumococcal infection or experiencing severe disease or complications. 4 Population-based surveillance studies conducted before introduction of the 7-valent pneumococcal conjugate vaccine (PCV7) consistently reported that smokers accounted for approximately half of otherwise healthy adults with invasive pneumococcal disease.4
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.5 Smoking increases the risk of heart disease, stroke, multiple types of cancer, and chronic lung disease.6 Data from community-based studies indicate that overall incidence of pneumococcal bacteremia in the United States is several-fold higher for persons aged ≥65 compared to the overall annual incidence.  The incidence of pneumococcal meningitis is highest among persons aged ≥65 years and children aged 6-24 months.3 Case-fatality rates are highest for meningitis and bacteremia, and the highest mortality occurs among the elderly and patients who have underlying medical conditions.3  ACIP concluded that adults who smoke cigarettes are at significantly increased risk for invasive pneumococcal disease and recommended that persons who smoke cigarettes should receive a single dose of the 23-valent pneumococcal polysaccharide vaccine (PPSV23) and smoking cessation guidance.4
+Limitations of Indicator:
+Indicator does not convey the frequency of using cigarettes or the lifetime and current amount of cigarettes smoked. Each of these might affect the risk for chronic disease. Indicator does not measure intent or attempts to quit smoking among smokers or exposure to environmental tobacco smoke among nonsmokers.  Although self-reported pneumococcal vaccination has been validated,7 the reliability and validity of this measure is unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13: Increase the percentage of adults who are vaccinated against pneumococcal disease. (IID-13.1 is specific for non-institutionalized adults aged ≥65 years.) Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	 Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Current cigarette smoking among adults – United States, 2011. MMWR 2012;61:889-894.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6144a2.htm?s_cid=mm6144a2_w
+	3.	CDC. Prevention of pneumococcal disease: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 1997;46(No. RR-8):1-24.  http://www.cdc.gov/mmwr/preview/mmwrhtml/00047135.htm
+	4.	CDC. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23).  MMWR 2010;59:1102-1106.   http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5934a3.htm
+	5.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	6.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm.
+	7.	Shenson D, DiMartino D, Bolen J, Campbell M, Lu PJ, Singleton JA. Validation of self-reported pneumococcal vaccination in behavioral risk factor surveillance surveys: experience from the sickness prevention achieved through regional collaboration (SPARC) program. Vaccine 2005;23:1015-1020.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged 18-64 years who smoke
+Category: Tobacco
+Demographic Group:
+Resident persons aged 18-64 years.
+Numerator:
+Respondents aged 18-64 years who report having smoked ≥100 cigarettes in their lifetime and are current smokers on every day or some days, and who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged 18-64 years who report having smoked 100 cigarettes in their lifetime and currently smoke every day or some days, and who also report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. standard population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Current (smokers). Lifetime (ever vaccinated).
+Background:
+During 2001--2003, 53% of invasive pneumococcal disease patients aged 18--64 years were current cigarette smokers.2 Although the overall prevalence of cigarette smoking has declined in recent decades, in 2011, 19.0% of adults aged ≥18 years still smoked.3 In 2011, the prevalence of cigarette smoking was 18.9% among adults aged 18-24 years, 22.1% among adults aged 25-44 years, and 21.4% among adults aged 45-64 years.3 Population-based surveillance studies conducted before introduction of the 7-valent pneumococcal conjugate vaccine (PCV7) consistently reported that smokers accounted for approximately half of otherwise healthy adults with invasive pneumococcal disease.2
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.4 Smoking increases the risk of heart disease, stroke, multiple types of cancer, and chronic lung disease.5 In a multicenter, population-based, case-control study in which invasive pneumococcal disease patients were identified through Active Bacterial Core surveillance, the risk for invasive pneumococcal disease among immunocompetent cigarette smokers aged 18--64 years was four times the risk for controls who had never smoked (AOR = 4.1; CI = 2.4--7.3).2  ACIP also concluded that adults who smoke cigarettes are at significantly increased risk for invasive pneumococcal disease and recommended that persons aged 19--64 years who smoke cigarettes should receive a single dose of the 23-valent pneumococcal polysaccharide vaccine (PPSV23) and smoking cessation guidance.2
+Limitations of Indicator:
+Indicator does not convey the frequency of using cigarettes or the lifetime and current amount of cigarettes smoked. Each of these might affect the risk for chronic disease. Indicator does not measure intent or attempts to quit smoking among smokers or exposure to environmental tobacco smoke among nonsmokers.  Although self-reported pneumococcal vaccination has been validated,6 the reliability and validity of this measure is unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13: Increase the percentage of adults who are vaccinated against pneumococcal disease. (IID-13.2 is specific for non-institutionalized high-risk adults aged 18-64 years.) Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported current smoking, diabetes, asthma or cardiovascular disease who have ever had a pneumococcal vaccination.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23).  MMWR 2010;59:1102-1106.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5934a3.htm
+	3.	CDC. Current cigarette smoking among adults – United States, 2011. MMWR 2012;61:889-894.  Available at: http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6144a2.htm?s_cid=mm6144a2_w
+	4.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	5.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm
+	6.	Shenson D, DiMartino D, Bolen J, Campbell M, Lu PJ, Singleton JA. Validation of self-reported pneumococcal vaccination in behavioral risk factor surveillance surveys: experience from the sickness prevention achieved through regional collaboration (SPARC) program. Vaccine 2005;23:1015-1020. 
+ 
+ 
+ Top of Page
+Proportion of the population protected by a comprehensive smoke-free policy prohibiting smoking in all indoor areas of workplaces and public places, including restaurants and bars.
+Category: Tobacco
+Demographic Group:
+States
+Numerator:
+Population covered by a comprehensive smoke-free policy prohibiting smoking in all indoor areas of workplaces and public places, including restaurants and bars.
+Denominator:
+Population in each state
+Measures of Frequency:
+Percent of population covered by a state or local comprehensive smoke-free policy in each state
+Time Period of Case Definition:
+Newly enacted legislation in effect as of the last day of the quarter is updated in the STATE system on a quarterly basis
+Background:
+The U.S. Surgeon General has concluded that only completely eliminating smoking in indoor settings fully protects nonsmokers from secondhand smoke.1  The number of states, including the District of Columbia, with laws that prohibit smoking in indoor areas of worksites, restaurants, and bars increased from zero in 2000 to 26 in 2010.2 However, regional disparities remain in policy adoption, with no southern state having adopted a smoke-free law that prohibits smoking in all three venues.2
+Significance:
+Secondhand smoke exposure causes heart disease and lung cancer in nonsmoking adults and several health conditions in children.1 Only completely eliminating smoking in indoor spaces fully protects nonsmokers from secondhand smoke.1 State and local laws can provide this protection in enclosed workplaces and public places by completely eliminating smoking in these settings.1 CDC considers a smoke-free law to be comprehensive if it prohibits smoking in all indoor areas of private workplaces, restaurants, and bars, with no exceptions.2
+Limitations of Indicator:
+Some jurisdictions may have smoke-free policies, but they are not stringent enough to meet the definition for a comprehensive policy established by the CDC.
+Data Resources:
+CDC Office on Smoking and Health; American Nonsmokers’ Rights Foundation.
+Limitations of Data Resources:
+Data from the American Nonsmokers’ Rights Foundation differ in some cases from other smoke-free policy databases, such as STATE (State Tobacco Activities Tracking and Evaluation System), due to variations in the definition of a comprehensive smoke-free policy.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-13:  Establish laws in States, District of Columbia, Territories, and Tribes on smoke-free indoor air that prohibit smoking in public places and worksites.
+Related CDI Topic Area:
+ 
+	1.	U.S. Department of Health and Human Services. The health consequences of involuntary exposure to tobacco smoke: a report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health; 2006.
+	2.	CDC. State smoke-free laws for worksites, restaurants, and bars--United States, 2000-2010. MMWR 2011;60(15):472-5.
+ 
+ Top of Page
+Quit attempts in the past year among current smokers
+Category: Tobacco
+Demographic Group:
+All residents aged ≥18 years.
+Numerator:
+Number of current cigarette smokers and former smokers abstinent less than 365 days aged ≥18 years who quit smoking for 1 day or longer during the 12 months prior to the interview (excluding unknown and refusals).
+Denominator:
+Number of adults in the survey population aged ≥18 years who are current cigarette smokers and former smokers abstinent less than 365 days. 
+Measures of Frequency:
+Annual crude and age-adjusted prevalence and 95% confidence intervals; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Past 12 months
+Background:
+Tobacco use remains the leading preventable cause of death and disease in the United States, with more than 480,000 deaths occurring annually because of cigarette smoking and exposure to secondhand smoke.1  In 2010, 68.8% of adult smokers wanted to stop smoking, 52.4% had made a quit attempt in the past year, 6.2% had recently quit, 48.3% had been advised by a health professional to quit, and 31.7% had used counseling and/or medications when they tried to quit.2
+Significance:
+Quitting smoking is beneficial to health at any age, and cigarette smokers who quit before age 35 years have mortality rates similar to those who never smoked.3,4 From 1965 to 2010, the prevalence of cigarette smoking among adults in the United States decreased from 42.4% to 19.3%, in part because of an increase in the number who quit smoking.2
+Limitations of Indicator:
+The indicator does not reflect actual cessation. Tobacco dependence is a chronic condition, with many smokers making repeated quit attempts before they achieve long-term success.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS)
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall) bias. In an effort to address some of these potential concerns, BRFSS began including cell phone-only users in 2011. Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-4:  Increase smoking cessation attempts by adult smokers.
+Related CDI Topic Area:
+ 
+	1.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.
+	2.	CDC. Quitting smoking among adults--United States, 2001-2010. MMWR 2011;60(44):1513-9.
+	3.	CDC. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC; 2010. Available at http://www.surgeongeneral.gov/library/tobaccosmoke/ report/full_report.pdf.
+	4.	Doll R, Peto R, Boreham J, Sutherland I. Mortality in relation to smoking: 50 years’ observations on male British doctors. BMJ 2004;328:1519–28.
+ 
+ Top of Page
+Sale of cigarette packs
+Category: Tobacco
+Demographic Group:
+All resident persons
+Numerator:
+Number of packs of cigarettes sold (i.e., cigarette stamps issued) in a state during a calendar year
+Denominator:
+Total midyear resident population for the same calendar year
+Measures of Frequency:
+Annual number of packs sold per capita
+Time Period of Case Definition:
+12 month period (July through June)
+Background:
+Smoking cigarettes and other combustible tobacco products causes adverse health outcomes, particularly cancer and cardiovascular and pulmonary diseases.1 Cigarette consumption continues to decline in the United States, a trend that has persisted since the 1960s.2 From 2000 to 2011, total cigarette consumption declined from 435.6 billion to 292.8 billion, a 32.8% decrease.2 Per capita cigarette consumption declined from 2,076 in 2000 to 1,232 in 2011, a 40.7% decrease.2
+Significance:
+More than 480,000 deaths each year are attributed to cigarette smoking and exposure to tobacco smoke, making it the leading preventable cause of death in the United States.3 Smoking increases the risk of heart disease, stroke, multiple types of cancer, and chronic lung disease.1 Diminishing the public health impact of excise tax increases and regulation can hamper efforts to prevent youth smoking initiation, reduce consumption, and prompt quitting.2
+Limitations of Indicator:
+Indicator does not convey the number or percentage of residents who smoke or the current or lifetime amount of cigarettes smoked per smoker. Both of these factors may affect the likelihood of smoking-related morbidity and mortality from cigarettes. Additionally, cross-border sales can falsely affect resident per-capita sales rates. Per-capita sales rates have been frequently reported using only adults in the denominator, which overestimates the per-capita sales rate for the total population and does not convey the fact that youths aged <18 years also purchase and consume cigarettes. 
+Data Resources:
+State Tobacco Activities Tracking and Evaluation (STATE) System, CDC Office on Smoking and Health; Tax Burden on Tobacco compiled by Orzechowski and Walker.
+Limitations of Data Resources:
+In certain areas, local and state mechanisms for collecting and reporting data from revenue agencies do not exist. When mechanisms do exist, methods might vary across states, affecting comparability of state estimates. States might collect sales data for the fiscal year, which might not correspond to calendar year.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area
+ 
+	1.	US Department of Health and Human Services. How tobacco smoke causes disease: the biology and behavioral basis for smoking-attributable disease: a report of the Surgeon General. Atlanta, GA: US Department of Health and Human Services, CDC: 2010. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2010/index.htm.
+	2.	CDC. Consumption of cigarettesand combustible tobacco – United States, 2000-2011. MMWR 2012;61(30):565-569.
+	3.	U.S. Department of Health and Human Services. The Health Consequences of Smoking – 50 Years of Progress: A Report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, 2014.  
+ 
+ 
+ Top of Page
+Tobacco-free schools
+Category: Tobacco
+Demographic Group:
+Secondary Schools
+Numerator:
+Number of secondary schools within the state that have a comprehensive tobacco-free school policy that prohibits tobacco use at all times by all persons, with no exceptions, on school property; in school vehicles and those used for school purposes; and at school sponsored events, both on and off school property.
+Denominator:
+Number of secondary schools
+Measures of Frequency:
+Percent
+Time Period of Case Definition:
+Survey year
+Background:
+These questions measure the extent to which schools develop, implement, and enforce a policy that creates a totally tobacco-free environment within the school experience for both young people and adults, as outlined in the CDC Guidelines for School Health Programs to Prevent Tobacco Use and Addiction.1 The Pro-Children Act of 1994, reauthorized under the No Child Left Behind Act of 2001, prohibits smoking in facilities where federally funded educational, health, library, daycare, or child development services are provided to children under the age of 18.2 During 2007--2008, approximately 88 million nonsmokers aged ≥3 years in the United States were exposed to secondhand smoke. Of these, 32 million were aged 3--19 years, reflecting the higher prevalence of exposure among children and youths.3
+Significance:
+Secondhand smoke exposure causes heart disease and lung cancer in nonsmoking adults and several health conditions in children.4 The U.S. Surgeon General has concluded that there is no safe level of secondhand smoke exposure and that only completely eliminating smoking in indoor spaces fully protects nonsmokers from secondhand smoke.4
+Limitations of Indicator:
+The data are based on the response of specific individuals in the sample schools throughout a given state, city, territory, or tribal government (e.g. administrator of principal) and are subject to the actual knowledge of the individual completing the survey. 
+Data Resources:
+School Health Profiles Principal Survey. Data is only available for those states with >70% response rate; data are weighted.
+Limitations of Data Resources:
+National data (other than median of state estimates) are not available. Data presented in this report apply only to secondary schools and are limited to these school populations.  As with all sample surveys, data might be subject to systematic error resulting from non-coverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-15: Increasing tobacco-free environments in schools, including all school facilities, property, vehicles, and school events.
+Related CDI Topic Area:
+School Health
+	1.	CDC. Guidelines for school health programs to prevent tobacco use and addiction. MMWR 1994;43(RR-2):1–18.
+	2.	US Department of Health and Human Services. Preventing tobacco use among youth and young adults. Atlanta, GA: US Department of Health and Human Services, CDC; 2012. Available at http://www.cdc.gov/tobacco/data_statistics/sgr/2012/index.htm.
+	3.	CDC. Vital Signs: Nonsmokers Exposure to Secondhand Smoke – United States, 1999-2008. MMWR 2010;59(35):1141-1146.
+	4.	U.S. Department of Health and Human Services. The health consequences of involuntary exposure to tobacco smoke: a report of the Surgeon General. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, Coordinating Center for Health Promotion, National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health; 2006. 
+ 
+ Top of Page
+States that allow stronger local tobacco control and prevention laws
+Category: Tobacco
+Demographic Group:
+States
+Numerator:
+Numbers of states with various types of local tobacco control laws (i.e., advertising, smoke-free indoor air, youth access) that are not preempted by state law. At the state level, this indicator will be a yes/no response.
+Denominator:
+All states
+Measures of Frequency:
+Number of states
+Time Period of Case Definition:
+Newly enacted legislation in effect as of the last day of the quarter is updated in the STATE system on a quarterly basis
+Background:
+Preemptive legislation at the state level prohibits localities from enacting laws that vary from state law or are more stringent.1 The number of states with preemptive provisions in any of the three policy categories (i.e., advertising, smoke-free indoor air, youth access) decreased by one, from 28 states at the end of 2000 to 27 states at the end of 2010.2 The number of states that preempted local action in all three categories decreased from 11 states at the end of 2000 to seven states at the end of 2010.2
+Significance:
+Statewide laws provide broader population coverage than do local laws. As long as state laws do not contain preemptive provisions, they set a minimum standard and allow the continued passage and enforcement of more protective local ordinances.1 However, state legislation that preempts lower-level action can impede local efforts to enact more stringent protections or to tailor laws to address local circumstances.1 State preemptive laws also tend to eliminate the public debate and news media coverage that typically accompany local consideration of smoke-free ordinances, which perform an important educational function and contribute to changes in social norms about smoking.1
+Limitations of Indicator:
+None noted
+Data Resources:
+State Tobacco Activities Tracking and Evaluation System (STATE), CDC Office on Smoking and Health
+Limitations of Data Resources:
+In determining whether state laws preempt local smoke-free indoor air restrictions, the STATE System considers statutes and examines relevant case law. However, because litigation has been less common with regard to state preemption of local advertising and youth access restrictions, the STATE System analyzes state statutes, but not case law in these areas.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-16:  Eliminate State laws that preempt stronger local tobacco control laws.
+Related CDI Topic Area
+ 
+	1.	CDC. State preemption of local smoke-free laws in government work sites, private work sites, and restaurants—United States, 2005–2009. MMWR 2010;59(04):105–8.
+	2.	CDC. State preemption of local tobacco control policies restricting smoking, advertising, and youth access—United States, 2000–2010. MMWR 2011;60(33):1124–7. 
+ 
+ Top of Page
+States with strong policies that require retail licenses to sell tobacco products
+Category: Tobacco
+Demographic Group:
+States
+Numerator:
+Number of states with strong policies that require retail licenses to sell tobacco products for both over-the-counter and vending machine sales. At the state level, this indicator will be a yes/no response.
+Denominator:
+All states
+Measures of Frequency:
+Number of states
+Time Period of Case Definition:
+Newly enacted legislation in effect as of the last day of the quarter is updated in the STATE system on a quarterly basis
+Background:
+Under a retailer licensing law, a state or local government requires all businesses that sell tobacco products to obtain a license from the government in exchange for the privilege of selling these products to consumers.1 State and local governments may require licensed retailers to pay an annual fee, which can fund administration and enforcement activities such as store inspections and youth purchase compliance checks. Increasingly, tobacco retailer licensing is being used to promote other innovative policy solutions, including controlling the location and density of tobacco retailers and imposing additional restrictions on the sale and promotion of tobacco products.1 As of 2012, 41 states and the District of Columbia required tobacco retailers to obtain a license for over-the-counter tobacco sales and  35 states and the District of Columbia had laws in place identifying circumstances in which retail licenses can be suspended or revoked.2
+Significance:
+Strong licensing helps to increase compliance with other local, state and federal tobacco laws. Licensing laws that include penalties for illegal sales and provisions for suspension or revocation for repeated violations may be an incentive for merchants to obey the law.1 Strong licensure with effective enforcement can help to reduce illegal sales to minors.1 Additionally, licensure can serve as an effective mechanism to reduce the concentration, location and type of tobacco retailers.1 
+Limitations of Indicator:
+None noted
+Data Resources:
+State Tobacco Activities Tracking and Evaluation System (STATE), CDC Office on Smoking and Health.
+Limitations of Data Resources:
+The STATE System reports only legislative data and does not capture information regarding the level or type of licensure enforcement activities executed by the states.   
+Related Indicators or Recommendations:
+Healthy People 2020 Objective TU-19: Reduce the illegal sales rate to minors through enforcement of laws prohibiting the sale of tobacco products to minors.
+Related CDI Topic Area:
+ 
+	1.	McLaughlin I. License to Kill?: Tobacco Retailer Licensing as an Effective Enforcement Tool. Tobacco Control Legal Consortium. 2010. Available at http://publichealthlawcenter.org/sites/default/files/resources/tclc-syn-retailer-2010.pdf.
+	2.	CDC. State Activities Tracking and Evaluation (STATE) System. Available at http://apps.nccd.cdc.gov/statesystem/Default/Default.aspx.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

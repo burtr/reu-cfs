@@ -1,0 +1,240 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Reproductive Health
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Folic acid supplementation
+	•	Postpartum checkup
+	•	Timeliness of routine health care checkup among women aged 18-44 years
+Folic acid supplementation
+Category: Reproductive Health
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported taking a multivitamin, prenatal vitamin or folic acid vitamin every day of the week during the month before they got pregnant with their most recent live born infant.
+Denominator:
+Respondents who reported that they took a multivitamin, prenatal vitamin or folic acid vitamin 1 to 3 days a week, 3 to 6 days a week, or every day of the week during the month before they got pregnant with their most recent live born infant or that they did not take a multivitamin, prenatal vitamin or folic acid vitamin at all during the month before they got pregnant with their most recent live born infant (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for unequal probabilities of selection and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+One month before the pregnancy resulting in the most recent live birth.
+Background:
+In 2010 about one third (31.2%; 95%CI: 30.4, 32.0) of women from 27 states that had a PRAMS response rate of >=65% reported taking a multivitamin daily the month prior to becoming pregnant.1
+Significance:
+Neural tube defects (NTDs) affect 3,000 pregnancies in the US each year.2  Up to 70% of all NTDs can be prevented when women capable of becoming pregnant consume the recommended amount of folic acid prior to conception.3    The Clinical Work Group of the Select Panel on Preconception Care and other organizations recommend that all women of reproductive age take a folic acid containing multivitamin (400 µg daily).4,5  These guidelines are particularly important since half of all pregnancies are unplanned.
+Limitations of Indicator:
+This indicator focuses solely on the use of folic acid supplements and does not consider consumption of folic acid-fortified foods as recommended in the Healthy People 2010 objectives. However, studies have identified folic acid supplements as an important source needed by most women to achieve the recommended amount of folic acid daily.6 Data are self-reported and may be subject to recall bias. However, studies assessing the validity of self-reported supplement intake show good correlation to the amount of supplements reported and measures of nutrients found in blood samples.7-9  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS). 
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Nutrition, Physical Activity, and Weight Status
+	1.	Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion.  Unpublished estimates from the Pregnancy Risk Assessment Monitoring System, 27 States, 2010.
+	2.	Division of Birth Defects, National Center for Birth Defects and Developmental Disabilities, Centers for Disease Control and Prevention. Use of supplements containing folic acid among women of childbearing age—United States. Available at www.cdc.gov/ncbddd/folicacid/data.html.
+	3.	Milunsky A, Jick H, Jick SS, et al. Multivitamin/folic acid supplementation in early pregnancy reduces the prevalence of neural tube defects. JAMA 1989; 262:2847-2852.
+	4.	Institute of Medicine. Dietary reference intake for thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, pantothenic acid, biotin, and choline. Washington, DC. National Academy Press, 1998.
+	5.	Gardiner PM, Nelson L, Shellhaas CS, et al. The clinical content of preconception care: nutrition and dietary supplements. Am J Obstet Gynecol 2008; 199 (6 Suppl B): S345- S356.
+	6.	Yang QH, Carter HK, Mulinare J, Berry RJ, Friedman JM, Erickson JD. Race-ethnicity differences in folic acid intake in women of childbearing age in the United States after folic acid fortification: Findings from the National Health and Nutrition Examination Survey, 2001-2002. Am J Clin Nutr 2007; 85:1409-1416.
+	7.	Burton A, Wilson S, and Gillies AJ. Folic acid: Is self reported use of supplements accurate?  J Epidemiol. Community Health 2001; 55: 841-842.
+	8.	Yen J, Zoumas-Morse C, Pakiz B, Rock CL. Folate intake assessment: Validation of a new approach. J Am Diet Assoc 2003; 103: 991-1000.
+	9.	Satia-Abouta1 J, Patterson RE, King IB, et al. Reliability and validity of self-report of vitamin and mineral supplement use in the Vitamins and Lifestyle Study. Am J Epidemiol 2003; 157: 944–954
+ 
+ Top of Page
+Postpartum checkup
+Category: Reproductive Health
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported that they had a postpartum checkup.
+Denominator:
+Respondents who reported that they had or did not have a postpartum checkup (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for oversampling or other differences between the sampled strata and the population, as well as non-response and non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Approximately six weeks after the most recent live birth.
+Background:
+Responding effectively to the health needs of postpartum women requires relevant national health goals, surveillance systems, and programs of care. Almost 90% (89.7%; 95%CI: 89.0, 90.4) of PRAMS respondents reported a postpartum checkup visit in 2010.1 There were variations by race/ethnicity from a higher percent in White Non-Hispanic women (92.5%; 95%CI: 91.7, 93.2) to the lowest in Hispanic women (84.0%; 95%CI: 81.8, 86.0).1
+Significance:
+The postpartum checkup provides a health care provider with an opportunity to assess a woman’s physical recovery and emotional well- being following delivery. The postpartum visit is an optimal time to conduct interconception assessment and provide counseling related to risk factors such as preterm labor, diabetes, hypertension, substance abuse, and mental health issues, which may affect subsequent pregnancies.2    However, attendance at the postpartum visit is generally poor, especially among some groups that may be at a higher risk for poor pregnancy outcomes.3 A large multi-state study using PRAMS data showed the prevalence of postpartum checkups were lowest among women who were non-White, aged less than 35 years, and reported an intended pregnancy.3,4
+Limitations of Indicator:
+It is not possible to assess barriers to having a postpartum checkup. In addition, some respondents may consider a health care visit for some other reason (e.g., to monitor a chronic health condition or to treat a specific illness or injury) as a postpartum checkup.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS).
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+Health People 2020 Objective MICH-19: Increase the proportion of women giving birth who attend a postpartum care visit with a health worker.
+Related CDI Topic Area:
+Cardiovascular Disease; Diabetes
+	1.	Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion.  Unpublished estimates from the Pregnancy Risk Assessment Monitoring System, 27 States, 2010.
+	2.	American College of Obstetricians and Gynecologists. ACOG technical bulletin. Preconception Care. Number 313 - Sept. 2005. Compendium of Selected Publications, Volume 1: committee opinions and policy statements, pp.214-215.
+	3.	Kogan MD, Leary M, Schaetzel T. Factors associated with postpartum care among Massachusetts users of the maternal and infant care program. Family Plan Perspect 1990; 22: 128-30.
+	4.	D’Angelo D, Williams L, Morrow B, et al. Preconception and interconception health status of women who recently gave birth to a live-born infant—Pregnancy Risk Assessment Monitoring System (PRAMS), United States, 26 reporting areas. MMWR 2007; 56(SS10): 1-35
+  
+ Top of Page
+Timeliness of routine health care checkup among women aged 18-44 years
+Category: Reproductive Health
+Demographic Group:
+Women aged 18 to 44 years.
+Numerator:
+Female respondents aged 18-44 years who reported that they had visited a doctor for a routine checkup within the past year.
+Denominator:
+Female respondents aged 18-44 years who reported that they had or had not visited a doctor for a routine checkup within the past year (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:   
+Preventive health care services, including counseling, education, and screening, can help prevent or minimize the effects of many serious health conditions. In 2010, women 18-44 years of age were more likely than men of the same age to have had a preventive checkup visit (66.1% versus 53.4% respectively)1. The U.S. Preventive Services Task Force recommends specific screening tests, counseling, immunizations, and preventive medications for a variety of diseases and conditions (e.g., several types of cancer, cardiovascular disease, injury, infectious diseases, mental health, and substance abuse).2 Under the Affordable Care Act, women's preventive health care, such as breast and cervical cancer screening, prenatal care, and other services, is covered with no cost-sharing for new health plans.3
+Significance:
+Currently, more than 40 million persons have no particular doctor’s office, clinic, health center, or other place where they go for health care advice.4-5 People with a usual source of health care are more likely than those without a usual source of care to receive a variety of preventive health care services.  Data from the 2005 National Health Interview Survey indicate that 22% of women aged 18 to 24 and 14% of women aged 25-44 had no usual source of care.7  The relatively high rate among women in this age group is concerning given their need for routine gynecological visits where preconception health promotion might occur.
+Limitations of Indicator:
+Reliability of this BRFSS item has been found to be moderate and the validity low.6  It is possible that respondents may include visits for injuries or routine checkups for chronic conditions such as asthma or diabetes rather than limiting their response only to general physical exams. There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Women’s Health USA 2012, U.S. Department of Health and Human Services, Health Resources and Services Administration, January 2013.
+	2.	U.S. Preventive Services Task Force.￼ Recommendations. Accessed 10/25/12.
+	3.	U.S. Department of Health and Human Services. Affordable Care Act Rules on Expanding Access to Preventive Services for Women. Accessed 10/25/12.
+	4.	Moy E, Bartman BA, and Weir MR. Access to hypertensive care: Effects of income, insurance, and source of care. Arch Intern Med 1995; 155:1497-1502.
+	5.	Ettner SL. The timing of preventive services for women and children: The effect of having a usual source of care. Am J Public Health 1996; 86:1748-1754.
+	6.	National Center for Health Statistics. Centers for Disease Control and Prevention. National Health Interview Survey, 2005. Accessed on-line via the Commonwealth Fund’s Performance Snapshots: Usual Source of Care and Receipt of Preventive Care. http://www.cmwf.org/snapshots
+	7.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med 2001; 46 Suppl 1:S3-S42.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

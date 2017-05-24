@@ -1,0 +1,403 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Arthritis
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Activity limitation due to arthritis among adults aged ≥18 years
+	•	Adults aged ≥18 years with arthritis who have taken a class to learn how to manage arthritis symptoms
+	•	Arthritis among adults aged ≥18 years
+	•	Arthritis among adults aged ≥18 years who are obese
+	•	Arthritis among adults aged ≥18 years who have diabetes
+	•	Arthritis among adults aged ≥18 years who have heart disease
+	•	Fair or poor health among adults aged ≥18 years with arthritis
+	•	Physical inactivity among adults aged ≥18 years with arthritis
+Activity limitation due to arthritis among adults aged ≥18 years
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report having doctor-diagnosed arthritis and an activity limitation due to arthritis or joint symptoms.
+Denominator:
+Respondents aged ≥18 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biannual prevalence with 95% confidence interval (odd numbered years); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  By 2030, 25 million (9.3% of the adult population) are projected to report arthritis-attributable activity limitations.2 In 2003, arthritis cost an estimated $128 billion (direct medical and indirect costs).3
+Significance:
+Monitoring the prevalence of arthritis-attributable activity limitation among the general population of adults is important for estimating the state-specific burden of arthritis, the need for interventions to reduce the disabling effects of arthritis, and how well existing interventions are working. These interventions include self-management education programs that have been shown to reduce pain and improve psychological health and health behaviors, and physical activity programs that have been shown to improve physical function, mental health, and quality of life.4
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes5 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Activity limitation is also self-reported.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS), Arthritis Burden Module (odd numbered years only). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AOCBC-2:  Reduce the proportion of adults with doctor-diagnosed arthritis who experience a limitation in activity due to arthritis or joint symptoms.
+Related CDI Topic Area:
+Disability
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	Hootman JM, Helmick CG. Projections of US prevalence of arthritis and associated activity limitations. Arthritis Rheum 2006;54:226--9.
+	3.	CDC. National and state medical expenditures and lost earnings attributable to arthritis and other rheumatic conditions—United States, 2003. MMWR 2007;56(1):4–7.
+	4.	Hootman JM, Helmick CG, Brady TJ. A public health approach to addressing arthritis in older adults:the most common cause of disability. Am J Public Health, 2012;102(3):426-433.
+	5.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ Top of Page
+Adults aged ≥18 years with arthritis who have taken a class to learn how to manage arthritis symptoms
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis and who report ever taking a course or class on managing their arthritis or joint symptoms.
+Denominator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis (excluding unknowns and refusals).
+Measures of Frequency:
+Biannual prevalence with 95% confidence interval (for odd numbered years); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  The CDC Arthritis Program recommends evidence-based programs that are proven to improve the quality of life of people with arthritis, including self-management education classes/courses.  Based on HP2010 data, only 11% of adults with arthritis have taken such recommended classes.2
+Significance:
+Self-management education programs can reduce pain and health care costs and are an important arthritis intervention.3 The Arthritis Foundation’s Self-Help Program teaches people how to manage arthritis and lessen its effects. This 6-week course reduces arthritis pain by 20%3 More widespread use of this course and similar programs—such as the Chronic Disease Self-Management Program, which addresses arthritis along with other chronic diseases—could improve function and quality of life for people with arthritis. This measure will indicate the proportion of adults with arthritis who have ever taken a course or class to manage their symptoms.
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be valid for surveillance purposes4 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Participation in self-management programs is also self-reported. Unadjusted data are presented in this report to provide actual estimates for state-level program planning. This question comes from a BRFSS Optional Module, so data are missing for some states.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS), Arthritis Management optional module (odd numbered years only).  Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AOCBC-8:  Increase the proportion of adults with doctor-diagnosed arthritis who have had effective, evidence-based arthritis education as an integral part of the management of their condition.
+Related CDI Topic Area:
+ 
+	1.	Hootman JM, Helmick CG. Projections of US prevalence of arthritis and associated activity limitations. Arthritis Rheum 2006;54:226--9.
+	2.	http://www.healthypeople.gov/2020/topicsobjectives2020/nationaldata.aspx?topicId=3
+	3.	http://patienteducation.stanford.edu/programs/asmp.html
+	4.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ Top of Page
+Arthritis among adults aged ≥18 years
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥18 years who report having doctor-diagnosed arthritis.
+Denominator:
+Respondents aged ≥18 years who answered yes or no to the question: “Have you ever been told by a doctor or other health professional that you have some form of arthritis, rheumatoid arthritis, gout, lupus, or fibromyalgia?” (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence (years 2011-2015) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1 As the population ages, arthritis is expected to affect an estimated 67 million adults in the United States by 2030.2  In 2003, arthritis cost an estimated $128 billion (direct medical and indirect costs).3
+Significance:
+Monitoring the burden of arthritis is important for estimating the state-specific need for interventions that reduce symptoms, improve physical function, and improve the quality of life for people with arthritis. These interventions include self-management education programs that have been shown to reduce pain and improve psychological health and health behaviors, and physical activity programs that have been shown to improve physical function, mental health, and quality of life.
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes4 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core).
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AOCBC-1: Reduce the mean level of joint pain among adults with doctor-diagnosed arthritis. Healthy People 2020 Objective AOCBC-2: Reduce the proportion of adults with doctor-diagnosed arthritis who experience a limitation in activity due to arthritis or joint symptoms. Healthy People 2020 Objective AOCBC-4: Reduce the proportion of adults with doctor-diagnosed arthritis who have difficulty in performing two or more personal care activities, thereby preserving independence. Healthy People 2020 Objective AOCBC-5:  Reduce the proportion of adults with doctor-diagnosed arthritis who report serious psychological distress. Healthy People 2020 Objective AOCBC-6:  Reduce the impact of doctor-diagnosed arthritis on employment in the working-age population. Healthy People 2020 Objective AOCBC-7:    Increase the proportion of adults with doctor-diagnosed arthritis who receive health care provider counseling. Healthy People 2020 Objective AOCBC-8:  Increase the proportion of adults with doctor-diagnosed arthritis who have had effective, evidence-based arthritis education as an integral part of the management of their condition.
+Related CDI Topic Area:
+ 
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	Hootman JM, Helmick CG. Projections of US prevalence of arthritis and associated activity limitations. Arthritis Rheum 2006;54:226--9.
+	3.	CDC. National and state medical expenditures and lost earnings attributable to arthritis and other rheumatic conditions—United States, 2003. MMWR 2007;56(1):4–7.
+	4.	 Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ Top of Page
+Arthritis among adults aged ≥18 years who are obese
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis and who are obese (body mass index≥30.0 kg/m²), calculated from self-reported weight and height.
+Denominator:
+Respondents aged ≥18 years who are obese (body mass index≥30.0 kg/m² calculated from self-reported weight and height). (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  In 2003 arthritis cost an estimated $128 billion (direct medical and indirect costs).2 Obesity is common among people with arthritis and is a modifiable risk factor associated with arthritis-related disease progression, activity limitation, disability, reduced quality-of-life, total joint replacement, and poor clinical outcomes after joint replacement.3 The prevalence of obesity among adults with arthritis is, on average 54% higher than among adults without arthritis.3
+Significance:
+Monitoring the prevalence of arthritis among adults who are obese is important because obesity can worsen arthritis-related joint pain. Reaching and maintaining a normal weight can lower a person’s risk for developing osteoarthritis, the most common type of arthritis representing about 2/3 of arthritis cases, and can improve symptoms and function in people who already have the condition.3
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes4 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Height and weight are self-reported. Respondents tend to overestimate their height and underestimate their weight,3 likely leading to underestimation of BMI and of the prevalence of obesity.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AOCBC-7a:    Increase the proportion of adults with doctor-diagnosed arthritis who receive health care provider counseling….for weight reduction among overweight and obese persons.
+Related CDI Topic Area:
+Nutrition, Physical Activity, and Weight Status
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	CDC. National and state medical expenditures and lost earnings attributable to arthritis and other rheumatic conditions—United States, 2003. MMWR 2007;56(1):4–7.
+	3.	CDC. State-specific trends in obesity prevalence among adults with arthritis, Behavioral Risk Factor Surveillance System, 2003–2009. MMWR 2011;60(16):509-513.
+	4.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7. 
+ 
+ Top of Page
+Arthritis among adults aged ≥18 years who have diabetes
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report ever having physician-diagnosed diabetes other than diabetes during pregnancy and who report doctor-diagnosed arthritis.
+Denominator:
+Respondents aged ≥18 years who report ever having physician-diagnosed diabetes other than diabetes during pregnancy (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  During 2005 and 2007, the prevalence of arthritis among adults aged ≥18 years with diabetes was 52%, compared with 27% for all adults aged ≥18 years.2  The prevalence of physical inactivity is higher among adults with both diabetes and arthritis than those with either condition alone; physical activity is a recommended self-management strategy for both diabetes and arthritis.2 
+Significance:
+Monitoring the prevalence of arthritis among adults with diabetes is important because more than half of the adults with diabetes also have arthritis.2 Diabetes and arthritis occur more frequently in older adults, women, and those who are obese.2 Arthritis may be an unaddressed barrier for adults with diabetes seeking to manage their condition through physical activity. Persons with arthritis report that increased joint pain is the number one barrier to participating in physical activities.3 Physical activity helps control blood glucose for people with diabetes and can reduce pain, improve function, and delay disability among adults with arthritis.2 This indicator can be used to estimate the number of people with diabetes who may need special interventions to help them become more physically active and manage their disease, e.g., through the Chronic Disease Self Management Program, EnhanceFitness, etc.
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes4 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Diabetes is also self-reported.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Diabetes
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	CDC. Arthritis as a Potential Barrier to Physical Activity Among Adults with Diabetes — United States, 2005 and 2007.  MMWR 2008;57(18):486-489.
+	3.	Brittain DR, Gyurcsik NC, McElroy M, Hillard SA.  General and arthritis-specific barriers to moderate physical activity in women with arthritis. Womens Health Issues, 2011;21(1):57-63.
+	4.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ 
+ Top of Page
+Arthritis among adults aged ≥18 years who have heart disease
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report ever being told by a doctor, nurse or other health professional that they had heart disease (myocardial infarction or coronary heart disease) and who report having doctor-diagnosed arthritis.
+Denominator:
+Respondents aged ≥18 years who report ever being told by a doctor, nurse or other health professional that they had heart disease (myocardial infarction or coronary heart disease) (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  During 2005 and 2007, the prevalence of arthritis among adults aged ≥18 years with heart disease was 57%, compared with 27% for all adults aged ≥18 years.2  The prevalence of physical inactivity is higher among adults with both heart disease and arthritis than those with either condition alone; 2 physical activity is a recommended self-management strategy for both heart disease and arthritis.2 
+Significance:
+Monitoring the prevalence of arthritis among adults with heart disease is important because over half of the adults with heart disease also have arthritis. Heart disease and arthritis occur more frequently in older adults and those who are obese.2 Arthritis may be an unaddressed barrier for adults with heart disease seeking to manage their condition through physical activity. Persons with arthritis report that increased joint pain is the number one barrier to participating in physical activities.3  Physical activity helps control blood pressure and helps individuals reach and maintain a healthy weight for people with heart disease and can reduce pain, improve function, and delay disability among adults with arthritis.4 This indicator can be used to estimate the number of people with heart disease who may need special interventions to help them become more physically active and manage their disease, e.g., through the Chronic Disease Self-Management Program, Enhance Fitness, etc.
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be valid for surveillance purposes5 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Doctor-diagnosis of heart disease was also self-reported. 
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Cardiovascular Disease
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	CDC. Arthritis as a potential barrier to physical activity among adults with heart disease — United States, 2005 and 2007. MMWR 2009;58(7):165-169.  
+	3.	Brittain DR, Gyurcsik NC, McElroy M, Hillard SA.  General and arthritis-specific barriers to moderate physical activity in women with arthritis. Womens Health Issues, 2011;21(1):57-63.
+	4.	Physical Activity Guidelines for Americans:  Physical Activity Guidelines Advisory Committee Report.   http://www.health.gov/paguidelines/Report/Default.aspx.
+	5.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ Top of Page
+Fair or poor health among adults aged ≥18 years with arthritis
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis and who report that their health is fair or poor.
+Denominator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  Based on combined 2003, 2005, and 2007 BRFSS data, of persons ages ≥18 years with arthritis, 27% reported fair/poor health, compared with 12% without arthritis.2
+Significance:
+Monitoring health-related quality of life among adults with arthritis is important because people with arthritis report worse health related quality of life than adults without arthritis.2 Self-management education can help improve physical function and quality of life among adults with arthritis 3 As self-management education becomes more widespread in states, this measure can help track improvements in quality of life of people with arthritis.
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes4 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). General health status is also self-reported.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	Furner SE, Hootman JM, Helmick CG, Bolen J, Zack MM. Health-related quality of life of U.S. adults with arthritis: analysis of data from the Behavioral Risk Factor Surveillance System, 2003, 2005, and 2007.  Arthritis Care Res 2011; 63:788-799.
+	3.	Hootman JM, Helmick CG, Brady TJ. A public health approach to addressing arthritis in older adults:the most common cause of disability. Am J Public Health, 2012;102(3):426-433.
+	4.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ 
+ 
+ Top of Page
+Physical inactivity among adults aged ≥18 years with arthritis
+Category: Arthritis
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis and no leisure time physical activity. Includes respondents reporting no activity when asked six questions about frequency and duration of participation in non-occupational activities of moderate and vigorous intensity (i.e., lifestyle activities). All other respondents were classified as active.
+Denominator:
+Respondents aged ≥18 years who report doctor-diagnosed arthritis (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+An estimated 52.5 million adults have doctor-diagnosed arthritis, and 22.7 million report arthritis-attributable activity limitation.1  By 2030, 25 million (9.3% of the adult population) are projected to report arthritis-attributable activity limitations.2  Staying physically active and maintaining a healthy weight through diet and exercise are recommended for people with arthritis to reduce and delay disability.3  In 2003, arthritis cost an estimated $128 billion (direct medical and indirect costs).4
+Significance:
+Monitoring the prevalence of inactivity among people with arthritis is important because increasing physical activity has been shown to have significant benefits for people with arthritis, including reductions in pain and improvements in physical function, mental health, and quality of life.5
+Limitations of Indicator:
+Doctor-diagnosed arthritis is self-reported in the BRFSS and was not confirmed by a health-care provider or objective monitoring; however, such self-reports have been shown to be acceptable for surveillance purposes6 (despite minor changes made in 2011 to the case-finding question to include arthritis on the chronic conditions core). Physical activity is also self-reported. Unadjusted data are presented in this report to provide actual estimates to help in state-level program planning.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). Also, the CDC Arthritis Program typically provides this estimate in standard arthritis BRFSS tables produced for each state for odd numbered years.  Unadjusted data are usually presented in these tables to provide actual estimates to help in state-level program planning.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage, nonresponse, or measurement bias.  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective AOCBC-7.2:    Increase the proportion of adults with doctor-diagnosed arthritis who receive health care provider counseling….for physical activity or exercise.
+Related CDI Topic Area:
+Nutrition, Physical Activity, and Weight Status
+	1.	Barbour KE, Helmick CG, Theis KA, Murphy LB, Hootman JM, Brady, Cheng YJ.  Prevalence of doctor-diagnosed arthritis and arthritis-attributable activity limitation—United State, 2010-2012.  MMWR 2013;62(14):869-873.
+	2.	Hootman JM, Helmick CG. Projections of US prevalence of arthritis and associated activity limitations. Arthritis Rheum 2006;54:226--9.
+	3.	Hochberg MC, Altman RD, April KT, Benkhalti M, Guyatt G, McGowan J, Towheed T, Welch V, Wells, G, Tugwell P, American College of Rheumatology. American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmcologic therapies in osteoarthritis of the hand, hip and knee.  Arthritis Care  Res, 2012;64(4):465-474.
+	4.	CDC. National and state medical expenditures and lost earnings attributable to arthritis and other rheumatic conditions—United States, 2003. MMWR 2007;56(1):4–7.
+	5.	Physical Activity Guidelines for Americans:  Physical Activity Guidelines Advisory Committee Report.   http://www.health.gov/paguidelines/Report/Default.aspx.
+	6.	Sacks JJ, Harrold LR, Helmick CG, Gurwitz JH, Emani S, Yood RA. Validation of a surveillance case definition for arthritis. J Rheumatol 2005;32:340–7.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

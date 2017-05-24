@@ -1,0 +1,432 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Oral Health 
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	All teeth lost among adults aged ≥65 years
+	•	Dental visits among children and adolescents aged 1-17 years
+	•	No tooth loss among adults aged 18-64 years
+	•	Oral health services at Federally Qualified Health Centers
+	•	Population served by community water systems that receive optimally fluoridated drinking water
+	•	Preventive dental care before pregnancy
+	•	Preventive dental visits among children and adolescents aged 1-17 years
+	•	Six or more teeth lost among adults aged ≥65 years
+	•	Visits to dentist or dental clinic among adults aged ≥18 years
+All teeth lost among adults aged ≥65 years
+Category: Oral Health
+Demographic Group:
+Resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years who report having lost all of their natural teeth due to tooth decay or gum disease.
+Denominator:
+Respondents aged ≥65 years (exclude unknowns and refusals).
+Measures of Frequency:
+Biennial prevalence (even years) – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 181) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+The 2010 Behavioral Risk Factor Surveillance System (BRFSS) data indicated that 16.9% (median) of adults aged ≥ 65 years in the United States were edentulous (having no natural teeth).2 For persons aged 65-74 years, 14.2% were edentulous.  For persons aged ≥ 75 years, 19.9% were edentulous.2
+Significance:
+Loss of all natural permanent teeth (complete tooth loss) substantially reduces quality of life, self-image, and daily functioning.3
+Limitations of Indicator:
+Health beliefs, societal attitudes, and history of dental treatment affect the levels of complete tooth loss.  The indicator does not consider these questions.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-4.2:  Reduce the proportion of older adults aged 65 to 74 years who have lost all of their natural teeth.
+Related CDI Topic Area:
+Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and prevention. Behavioral Risk Factor Surveillance System – Prevalence and Trends Data. Available: http://apps.nccd.cdc.gov/brfss/. Accessed: September 25, 2013.
+	3.	National Institute of Dental And Craniofacial Research (NIDCR), Centers for Disease Control and Prevention (CDC). Oral health, U.S. 2002. Available: http://drc.hhs.gov/report.htm. Accessed: September 25, 2013. 
+ 
+ Top of Page
+Dental visits among children and adolescents aged 1-17 years
+Category: Oral Health
+Demographic Group:
+Resident children and adolescents aged 1-17 years.
+Numerator:
+Children and adolescents aged 1-17 years with parent-reported dental visit for any kind of dental care, including check-ups, dental cleanings, x-rays, or filling cavities in the previous year.
+Denominator:
+Children and adolescents aged 1-17 years (excluding unknowns and refusals).
+Measures of Frequency:
+Prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+According to the 2011/2012 National Survey of Children’s Health, 77.5% of children under 18 years of age reported having had at least one dental visit in the past year.1
+Significance:
+Access to dental care is important to obtain prevention, education, and early identification and treatment of oral diseases.2 The American Academy of Pediatric Dentistry, the American Academy of Pediatrics, the American Dental Association, and the American Association of Public Health Dentistry recommend establishing a dental home and the first dental visit by age 1 year. 3-6 Referring a child for an oral health examination by a dentist who provides care for infants and young children 6 months after the first tooth erupts or by 12 months of age establishes the child’s dental home and provides an opportunity to implement preventive dental health habits that meet each child’s unique needs and keep the child free from dental or oral disease.  Private and public funds are spent each year for emergency department visits due to oral health conditions and for providing restorations for the children that could have potentially been avoided with routine and optimal preventive and early dental care.7,8
+Limitations of Indicator:
+Indicator does not validate types of dental care children actually received.
+Data Resources:
+National Survey of Children's Health (NSCH).
+Limitations of Data Resources:
+NSCH is a parent-reported telephone survey, and subject to limitations such as recall bias and non-coverage bias.  (Note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time.)
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-7:  Increase the proportion of children, adolescents, and adults who used the oral health care system in the past 12 months (LHI).
+Related CDI Topic Area:
+School Health
+	1.	National Survey of Children's Health. NSCH 2011/2012. Data query from the Child and Adolescent Health Measurement Initiative, Data Resource Center for Child and Adolescent Health website. Available: www.childhealthdata.org. Accessed: March 4, 2014.
+	2.	Institute of Medicine, National Research Council. Improving Access to Oral Health Care for Vulnerable and Underserved Populations. 2011. Available at: http://www.iom.edu/Reports/2011/Improving-Access-to-Oral-Health-Care-for-Vulnerable-and-Underserved-Populations.aspx. Accessed: July 10, 2013.
+	3.	American Academy of Pediatric Dentistry. Guideline on periodicity of examination, preventive dental services, anticipatory guidance/counseling, and oral treatment for infants, children, and adolescents. Available from: http://www.aapd.org/media/Policies_Guidelines/G_Periodicity.pdf. Accessed: September 25, 2013.
+	4.	Hale K. J., American Academy of Pediatrics Section on Pediatric Dentistry. Oral health risk assessment timing and establishment of the dental home. Pediatrics. 2003;111(5 Pt 1):1113-1116.
+	5.	American Dental Association. For the dental patient: baby's first teeth. J Am Dent Assoc. 2002;133:255.
+	6.	American Association of Public Health Dentistry. First oral health assessment policy. 2004. Available: http://aaphd.org/default.asp?page=FirstHealthPolicy.htm. Accessed: September 25, 2013.
+	7.	Lee JY, Bouwens TJ, Savage MF, Vann WF Jr. Examining the cost-effectiveness of early dental visits. Pediatr Dent. 2006;28:102-5.
+	8.	The Pew Center on the States. A costly dental destination – Hospital care means states pay dearly. 2012. Available: http://www.pewstates.org/uploadedFiles/PCS_Assets/2012/A%20Costly%20Dental%20Destination(1).pdf. Accessed: September 25, 2013. 
+ 
+ Top of Page
+No tooth loss among adults aged 18-64 years
+Category: Oral Health
+Demographic Group:
+Resident persons aged 18-64 years.
+Numerator:
+Respondents aged 18-64 years who report having no permanent tooth extracted due to tooth decay or gum disease.
+Denominator:
+Respondents aged 18-64 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial prevalence (even years) - crude and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2008, among the 50 states and DC, the median estimated percentage of adults aged ≥18 years who had no permanent tooth extracted due to tooth decay or gum diseases was 56.1%.2
+Significance:
+Adequate personal, professional, and population-based preventive practices, and advancements in dental treatment have helped ensure tooth retention throughout life. 3 Tooth loss affects a person’s ability to chew and speak and can interfere with social functioning.3 The most common causes of tooth loss in adults are tooth decay and periodontal (gum) disease. Despite an overall declining trend in tooth loss in the US population, disparities remain across some population groups, such as higher prevalence of tooth loss in adults with lower family income and lower educational level, and current smokers.4
+Limitations of Indicator:
+Possibilities of over/under-estimation; not being able to differentiate causes of teeth loss and not being able to know other reasons of tooth loss.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH 4.1:  Reduce the proportion of adults aged 45 to 64 years who have ever had a permanent tooth extracted because of dental caries or periodontitis.
+Related CDI Topic Area:
+Overarching Conditions
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	National Institute of Dental and Craniofacial Research (NIDCR) and the Centers for Disease Control and Prevention's (CDC). NIDCR/CDC Dental, Oral, and Craniofacial Data Resource Center - Data Query System. Available: http://drc.hhs.gov/dqs.htm. Accessed: September 25, 2013.
+	3.	State Behavioral Risk Factor Surveillance System coordinators, Centers for Disease Control and Prevention. Total tooth loss among persons aged greater than or equal to 65 years -- Selected states, 1995-1997. MMWR 1999; 48: 206-210. Available: http://www.cdc.gov/Mmwr/preview/mmwrhtml/00056723.htm. Accessed: September 25, 2013.
+	4.	Dye BA, Tan S, Smith V, et al. Trends in oral health status: United States, 1988-1994 and 1999-2004. Vital Health Stat 11. 2007(248):1-92.
+ 
+ Top of Page
+Oral health services at Federally Qualified Health Centers
+Category: Oral Health
+Demographic Group:
+Patients who received any services at Federally Qualified Health Centers.
+Numerator:
+Patients who received at least one oral health (dental) services at Federally Qualified Health Centers in a year.
+Denominator:
+Patients who received any services at Federally Qualified Health Centers in a year.
+Measures of Frequency:
+Annual prevalence.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2011, 20.0% of patients at Federally Qualified Health Centers received oral health services.1
+Significance:
+In 2007, nearly a third (29%) of people living below 200 percent of the federal poverty level had a dental visit during the year according to the Medical Expenditure Panel Survey.2 FQHCs serve diverse patient populations with low income or who lack access to health care and provide services and interventions, including dental care, to improve the health of underserved communities and vulnerable populations.
+Limitations of Indicator:
+Indicator does not convey what dental service(s) is (are) provided for each dental visit, and/or whether dental services rendered at FQHCs actually meet their patients' dental need.
+Data Resources:
+Uniform Data System (UDS): Each year HRSA health center grantees are required to report core set of information that is appropriate for monitoring and evaluating performance and for reporting on annual trends. The 2011 summary report of the 1,128 health centers from 49 states are available through the system.  A patient visit for a dental service is defined in the UDS as "a patient visit to a dental provider for the purpose of prevention, assessment, or treatment of a dental problem". To be included as a visit, services rendered must be documented by grantees in a chart in written or electronic form in a system which permits ready retrieval of current data for the patient (UDS Reporting Manual).3
+Limitations of Data Resources:
+Stratified patient characteristics by age, gender, race, ethnicity or insurance status are not available. Variance of data reporting compliances. 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-11:  Increase the proportion of patients who receive oral health services at Federally Qualified Health Centers each year.
+Related CDI Topic Area:
+Overarching Conditions
+	1.	Health Resources and Services Administration (HRSA). Uniform Data System. Available: http://bphc.hrsa.gov/healthcenterdatastatistics/datacomparisons.html. Accessed: September 24, 2013.
+	2.	National Institute of Dental and Craniofacial Research (NIDCR) and the Centers for Disease Control and Prevention's (CDC). NIDCR/CDC Dental, Oral, and Craniofacial Data Resource Center - Data Query System. Available: http://drc.hhs.gov/dqs.htm. Accessed: September 24, 2013.
+	3.	 Health Resources and Services Administration (HRSA). 2011 Uniform Data System Manual. Available: http://bphc.hrsa.gov/healthcenterdatastatistics/reporting/2011manual.PDF. Accessed: September 24, 2013.
+  
+ Top of Page
+Population served by community water systems that receive optimally fluoridated drinking water
+Category: Oral Health
+Demographic Group:
+Population on community water systems.
+Numerator:
+Population on community water systems that received optimally fluoridated drinking water in a year.
+Denominator:
+Population on community water systems.
+Measures of Frequency:
+Monthly fluoride level reading.
+Time Period of Case Definition:
+Annual.
+Background:
+In 2010: 73.9% of U.S. population on community water system received fluoridated drinking water.1
+Significance:
+In the United States, community water fluoridation has been the basis for the primary prevention of dental caries for 60 years and has been recognized as one of the 10 great achievements in public health of the twentieth century.2 It is an effective, safe, inexpensive intervention that requires no behavior change by individuals, and does not depend on access or availability of professional services.3 Water fluoridation benefits all populations served by community water supplies regardless of their socioeconomic, racial, and ethnic status.3 Fluoridation helps to lower the cost of dental care and helps residents retain their teeth throughout life.4,5 It has been estimated that about every $1 invested in community water fluoridation saves approximately $38 in averted costs.4
+Limitations of Indicator:
+Double-counting of individuals is a possible limitation. Water systems may report total people served, which could include people with primary and secondary residences, such as college students or recreational homes. Water systems base their estimates of population served on the number of connections to the system multiplied by the estimated number of people served at each connection. Because these are estimates, perfect deduplication is not possible.
+Data Resources:
+Water Fluoridation Reporting System (WFRS): Water systems that adjust the fluoride of their water to the optimal level for decay prevention collect data to monitor fluoridation quality. State fluoridation managers enter all of these data into WFRS and generate reports that can be used to assure program quality. All 50 states are participating in the WFRS.
+Limitations of Data Resources:
+States' data collection/reporting standardization should be improved.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-13:  Increase the proportion of the U.S. population served by community water systems with optimally fluoridated water.
+Related CDI Topic Area:
+ 
+	1.	Centers for Disease Control and Prevention (CDC). Water Fluoridation Data & Statistics. Available: http://www.cdc.gov/fluoridation/statistics/index.htm. Accessed: September 25, 2013.
+	2.	CDC. Community water fluoridation. Available: http://www.cdc.gov/fluoridation/. Accessed: September 25, 2013.
+	3.	US Department of Health and Human Services. Oral Health in America: A Report of the Surgeon General. 2000. Rockville, MD: U.S. Department of Health and Human Services, National Institute of Dental and Craniofacial Research, National Institutes of Health. Available at: http://silk.nih.gov/public/hck1ocv.@www.surgeon.fullrpt.pdf.  Accessed: September 25, 2013.
+	4.	CDC. Fluoridation basics. Available: http://www.cdc.gov/fluoridation/basics/. Accessed: September 25, 2013.
+	5.	American Dental Association. Fluoridation facts. 2005 Available: http://www.ada.org/sections/NewsAndEvents/pdfs/Fluoridation_Facts.pdf. Accessed: September 25, 2013.
+ 
+ Top of Page
+Preventive dental care before pregnancy
+Category: Oral Health
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported that they had their teeth cleaned by a dentist or dental hygienist in the 12 months before their most recent pregnancy.
+Denominator:
+Respondents who reported that they did or did not have their teeth cleaned by a dentist or dental hygienist in the 12 months before their most recent pregnancy (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval); and by demographic characteristics when feasible; weighted using the PRAMS methodology (to compensate for oversampling or other differences between the sampled strata and the population, as well as non-response and non-coverage).
+Time Period of Case Definition:
+During the 12 months before the pregnancy resulting in the most recent live birth.
+Background:
+According to PRAMS, in 2009-2011, among women with a recent live birth in 29 PRAMS participating states, the estimated prevalence of having a teeth cleaning in the 12 months before pregnancy was 53.9% (median), ranging from 39.5% in Georgia to 66% in Massachusetts.1
+Significance:
+The American Academy of Periodontology recommends that women have a periodontal evaluation and  maintain good oral hygiene before and during pregnancy.2 High C-reactive protein levels, found in women with periodontitis, have been associated with adverse pregnancy outcomes, such as preterm labor.3,4 Recent randomized clinical trials suggest that periodontal care during pregnancy is safe and effective for improving periodontal health, although the association between periodontal treatment during pregnancy and reduction of poor birth outcomes remains inconclusive.5 Studies from PRAMS states reveal that a quarter or more of pregnant women may need dental care during their pregnancy but nearly half do not seek the care that they need.6-8
+Limitations of Indicator:
+Routine dental cleaning is often limited to women who have dental insurance, those who can otherwise afford it, and those who consider dental care to be a health priority.5   
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS). 
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-7:  Increase the proportion of children, adolescents, and adults who used the oral health care system in the past 12 months.
+Related CDI Topic Area:
+Reproductive Health
+	1.	CDC. CPONDER V2.0 - CDC's PRAMS On-line Data for Epidemiologic Research. Available:  http://apps.nccd.cdc.gov/cPONDER/default.aspx?page=main. Accessed: September 24, 2013.
+	2.	American Academy of Periodontology. American Academy of Periodontology Statement regarding periodontal management of the pregnant patient. . J Periodontol 2004;75:495.
+	3.	Pitiphat W, Joshipura KJ, Rich-Edwards JW, Williams PL, Douglass CW, Gillman MW.Periodontitis and plasma C-reactive protein during pregnancy. J Periodontol 2006; 77:821-5.
+	4.	Pitiphat W, Gillman MW, Joshipura KJ, Williams PL, Douglass CW, Rich-Edwards JW. PlasmaC-reactive protein in early pregnancy and preterm delivery. Am J Epidemiol 2005; 162:1108-13.
+	5.	Institute of Medicine. Improving Access to Oral Health Care for Vulnerable and Underserved Populations. 2011. National Academy of Science. Available at: http://www.iom.edu/Reports/2011/Improving-Access-to-Oral-Health-Care-for-Vulnerable-and-Underserved-Populations.aspx. Accessed: September 24, 2013.
+	6.	Brooks K, El Reda D, Grigorescu V, Kirk G. Michigan Department of Community Health. “Oral Health During Pregnancy.” MI PRAMS Delivery. Volume 6, Number 2. Family and Community Health, Michigan Department of Community Health, May 2007.
+	7.	Lydon-Rochelle M, Krakowiak P, Hujoel PP, Peters RM. Dental care use and self- reported dental problems in relation to pregnancy. Am J Public Health 2004; 94: 765-771.
+	8.	Gaffield ML, Gilbert BJ, Malvitz DM, Romaguera R. Oral health during pregnancy: an analysis of information collected by the Pregnancy Risk Assessment Monitoring System. J Am Dent Assoc 2001; 132:1009-1016.
+	9.	CSTE. 12-CD-01 -- Proposed New and Revised Indicators for the National Oral Health Surveillance System. 2012. Available: http://c.ymcdn.com/sites/www.cste.org/resource/resmgr/PS/12-CD-01FINAL.pdf. Accessed: September 25, 2013 
+ 
+ Top of Page
+Preventive dental visits among children and adolescents aged 1-17 years
+Category: Oral Health
+Demographic Group:
+Resident children and adolescents aged 1-17 years.
+Numerator:
+Children and adolescents aged 1-17 years with parent-reported at least one preventive dental visit, including check-ups, or dental cleanings, in the previous year.
+Denominator:
+Children and adolescents aged 1-17 years (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+According to the 2011/2012 National Survey of Children’s Health, 77.2% of children aged 1-17 years reported having had at least one preventive dental visit in the past year.1
+Significance:
+Studies have shown the benefits of regular and age-appropriate preventive dental visits; Children could avoid complex and expensive restorative and emergency dental treatment in later years, and these changes ultimately led to significant savings in dental expenditures.2,3
+Limitations of Indicator:
+Indicator does not validate types of dental care children actually received.
+Data Resources:
+National Survey of Children's Health (NSCH).
+Limitations of Data Resources:
+NSCH is a parent-reported telephone survey, and subject to limitations such as recall bias and non-coverage bias.  (Note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time.)
+	1.	National Survey of Children's Health. NSCH 2011/2012. Data query from the Child and Adolescent Health Measurement Initiative, Data Resource Center for Child and Adolescent Health website. Available: www.childhealthdata.org. Accessed: March 4, 2014.
+	2.	Savage MF, Lee JY, Kotch JB, Vann WF. Early preventive dental visits: Effects on subsequent utilization and costs. Pediatrics 2004;114(4):e418-e423.
+	3.	Ramos-Gomez FJ, Shepard DS. Cost-effectiveness model for the prevention of early childhood caries. J Calif Dent Assoc 1999;27(7):539-544.
+ 
+ Top of Page
+Six or more teeth lost among adults aged ≥65 years
+Category: Oral Health
+Demographic Group:
+Resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years who report having lost six or more teeth due to tooth decay or gum disease.
+Denominator:
+Respondents aged ≥65 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial prevalence (even years) - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 181) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Current.
+Background:
+In 2008, 43% of adults aged ≥65 years in the United States reported having lost six or more teeth due to tooth decay or gum disease. 2
+Significance:
+The rate of edentulism among older adults declines in the past decades thanks to better prevention and control of underlying causes of tooth loss, dental caries and periodontal diseases.3 Because having 20 teeth is considered necessary for functional dentition, even partial tooth loss can compromise person's essential chewing and speech functions and diminish quality of life.
+Limitations of Indicator:
+Possibilities of over/under-estimation; not being able to differentiate causes of teeth loss and not being able to know other reasons of tooth loss.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. National Oral Health Surveillance System – Oral Health Indicators. Available: http://www.cdc.gov/nohss/. Accessed: September 25, 2013.
+	3.	Beltrán-Aguilar ED, Barker LK, Canto MT, et al. Surveillance for dental caries, dental sealants, tooth retention, edentulism, and enamel fluorosis--United States, 1988-1994 and 1999-2002. MMWR Surveill Summ. 2005;54:1-43.
+ 
+ Top of Page
+Visits to dentist or dental clinic among adults aged ≥18 years
+Category: Oral Health
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report having been to the dentist or dental clinic in the previous year.
+Denominator:
+Respondents aged ≥18 years (exclude unknowns and refusals).
+Measures of Frequency:
+Biennial prevalence (even years) – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) – with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+Most oral diseases are preventable in part with regular visits to the dentist. In 2008, 70% (median) of adults aged ≥18 years in the United States reported having a dental visit in the past year (BRFSS).2 The rate has remained essentially unchanged over the past decade. Access to oral health care is associated with various socio-demographic characteristics and geographic location. To address these determinants to reduce health disparities and improve the oral health outcomes, HP2020 chose utilization of oral health services as a Leading Health Indicator.
+Significance:
+Regular use of the oral health-care delivery system leads to better oral health by providing an opportunity for clinical preventive services and early detection or oral diseases.3  Infrequent use of dental services has been associated with poor oral health among adults.3,4
+Limitations of Indicator:
+Indicator does not convey reason for visit or whether dental care was actually received.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OH-7:  Increase the proportion of children, adolescents, and adults who used the oral health care system in the past 12 months (LHI).
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	National Institute of Dental and Craniofacial Research (NIDCR) and the Centers for Disease Control and Prevention's (CDC). NIDCR/CDC Dental, Oral, and Craniofacial Data Resource Center - Data Query System. Available: http://drc.hhs.gov/dqs.htm.  Accessed: September 25, 2013.
+	3.	Institute of Medicine, National Research Council. Improving Access to Oral Health Care for Vulnerable and Underserved Populations. 2011. Available at: http://www.iom.edu/Reports/2011/Improving-Access-to-Oral-Health-Care-for-Vulnerable-and-Underserved-Populations.aspx. Accessed: July 10, 2013.
+	4.	Cook J, Owen P, Bender B, et al.  Dental service use and dental insurance coverage--United States, Behavioral Risk Factor Surveillance System, 1995. MMWR Morb Mortal Wkly Rep. 1997;46:1199-203.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

@@ -1,0 +1,707 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Alcohol
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Alcohol use among youth
+	•	Alcohol use before pregnancy
+	•	Alcohol excise tax by beverage type (beer)
+	•	Alcohol excise tax by beverage type (distilled spirits)
+	•	Alcohol excise tax by beverage type (wine)
+	•	Binge drinking frequency among adults aged ≥ 18 years who binge drink
+	•	Binge drinking intensity among adults aged ≥18 years who binge drink
+	•	Binge drinking prevalence among adults aged ≥18 years
+	•	Binge drinking prevalence among women aged 18-44 years
+	•	Binge drinking prevalence among youth
+	•	Chronic liver disease mortality
+	•	Commercial host (dram shop) liability laws
+	•	Heavy drinking among adults aged ≥18 years
+	•	Heavy drinking among women aged 18-44 years
+	•	Local authority to regulate alcohol outlet density
+	•	Per capita alcohol consumption among persons aged ≥ 14 years
+Alcohol use among youth
+Category: Alcohol
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 who report consumption of ≥1 drink of alcohol during the past 30 days.
+Denominator:
+Students in grades 9–12 who reported having a specific number of drinks of alcohol, including zero, during the past 30 days (excluding those who did not answer).
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+In 2011, 39% of high school students reported drinking alcohol on at least one day during the past 30 days.1  The prevalence of current drinking is similar for boys and girls, but increases by grade.  In 2011, among U.S. high school students, 80% had consumed alcohol by the 12th grade, even though the sale of alcohol to persons under age 21 years has been illegal in all states since 1988.2 Current drinking by youth is correlated with current drinking by adults in states. 3
+Significance:
+On average, alcohol is a factor in the deaths of approximately 4,700 youths in the United States per year, shortening their lives by an average of 60 years.4 Underage drinking cost the U.S. $24 billion in 2006.5 Studies have determined that delaying the age when drinking is initiated until age 21 years or later substantially reduces the risk of experiencing alcohol-related problems.6 Underage drinking is also strongly associated with injuries, violence, fetal alcohol spectrum disorders (FASDs), and risk of other acute and chronic health effects.7,8
+Limitations of Indicator:
+The indicator does not convey the frequency of drinking or the specific amount of alcohol consumed.  This indicator is available every other year.
+Data Resources:
+Youth Risk Behavior Surveillance System (YRBSS).
+Limitations of Data Resources:
+As with all data from self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.1 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA–13.1:  Reduce the proportion of adolescents reporting use of alcohol or any illicit drugs during the past 30 days.
+Related CDI Topic Area:
+School Health
+	1.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+	2.	O’Malley PM, Wagenaar AC. Effects of minimum drinking age laws on alcohol use, related behaviors, and traffic crash involvement among American youth: 1976–1987. J Stud Alcohol 1991;52:478–491.
+	3.	Nelson DE, Naimi TS, Brewer RD, Nelson HA. State alcohol-use estimates among youth and adults, 1993–2005. Am J Prev Med 2009;36:218–24.
+	4.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	5.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	6.	Hingson RW, Heeren T, Winter MR. Age at drinking onset and alcohol dependence: age at onset, duration, and severity. Pediatrics 2006;160:739–746.
+	7.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1.
+	8.	Bonnie RJ and O’Connell ME, editors. National Research Council and Institute of Medicine, Reducing Underage Drinking: A Collective Responsibility. Committee on Developing a Strategy to Reduce and Prevent Underage Drinking. Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press, 2004.
+ 
+ Top of Page
+Alcohol use before pregnancy
+Category: Alcohol
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported that they drank any alcoholic beverages during the 3 months before they got pregnant with their most recent live born infant, including those having less than one drink in an average week.
+Denominator:
+Respondents who reported the number of drinks they had in an average week, including none, during the 3 months before they got pregnant with their most recent live born infant as well as those who reported that they did not have any alcoholic drinks in the past 2 years (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Three months before the pregnancy resulting in the most recent live birth.
+Background:
+Preconception drinking patterns are highly predictive of alcohol use during pregnancy, which has been associated with adverse birth and infant outcomes, including Fetal Alcohol Spectrum Disorders (FASDs).1,2 Therefore, current medical guidelines advise against any alcohol use throughout pregnancy and around the time of conception, since the effects of alcohol consumption on the fetus may occur before a woman is aware she is pregnant.3,4 According to 2004 PRAMS data collected from 26 reporting areas, the mean prevalence of alcohol use during the 3 months prior to the most recent pregnancy was 50.1%.5
+Significance:
+The US Surgeon General has determined that no amount of alcohol consumption during pregnancy is known to be safe.3   The Clinical Work Group of the Select Panel on Preconception Care workgroup recommends all childbearing aged women be screened for alcohol use and provided with information regarding potential adverse health outcomes including the negative effects of alcohol consumption during pregnancy.6   In addition, women who exhibit signs of alcohol dependence or misuse should be directed to support programs that would assist them to achieve long-term cessation of alcohol use and be advised to delay any future pregnancies until they are able to abstain from alcohol use.6
+Limitations of Indicator:
+The indicator does not convey the frequency of drinking or the number of drinks per day or per occasion.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS).
+Limitations of Data Resources:
+PRAMS data is  collected only from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective MICH-11: Increase abstinence from alcohol, cigarettes, and illicit drugs among pregnant women.
+Related CDI Topic Area:
+Reproductive Health
+	1.	CDC. Alcohol use among women of childbearing age—United States 1991-1999.  MMWR 2002 51(13):273-6.
+	2.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	3.	Surgeon General’s advisory on alcohol use in pregnancy. Feb 21, 2005. http://www.surgeongeneral.gov/pressreleases/sg02222005.html.
+	4.	CDC. 2002 PRAMS surveillance report: multistate exhibits. Aug 23, 2006. http://www.cdc.gov/prams/2002PRAMSSurvReport/MultiStateExhibits/Multistates12.htm
+	5.	D’Angelo D, Williams L, Morrow B, et al. Preconception and interconception health status of women who recently gave birth to a live-born infant---Pregnancy Risk Assessment Monitoring System (PRAMS), United States, 26 Reporting Areas, 2004. MMWR 2007;56(SS10):1-35.
+	6.	Floyd RL, Jack BW, Cefalo R, et al. The clinical content of preconception care: alcohol, tobacco, and illicit drug exposures. Am J Obstet Gynecol 2008; 199 (6 Suppl B):S333- S339.
+ 
+ Top of Page
+Alcohol excise tax by beverage type (beer)
+Category: Alcohol
+Demographic Group:
+All resident persons.
+Numerator:
+State taxes levied per gallon at the wholesale or retail level, by beverage type (reported separately for): (a) Beer (b) Wine (c) Distilled spirits
+Denominator:
+None.
+Measures of Frequency:
+Annual excise tax amount, by beverage type.
+Time Period of Case Definition:
+Annual as of January 1st.
+Background:
+The Community Preventive Services Task Force recommends increasing the unit price of alcohol by raising taxes based on strong evidence of effectiveness for reducing excessive alcohol consumption and related harms.1 Public health effects are expected to be proportional to the size of the tax increase.2   Alcohol consumption is particularly sensitive to the price of alcoholic beverages. 2 Across alcohol beverage types (i.e., beer, wine, and liquor), the median price elasticity (a measure of the relationship between price and consumption) ranges from -0.50 for beer to -0.79 for spirits, and the overall price elasticity for ethanol is -0.77.2 Thus, a 10% increase in the price of alcoholic beverages likely would reduce overall consumption by more than 7%.2  Recent analyses also note a substantial gap between the societal and governmental cost of excessive alcohol consumption (approximately $1.90 and $0.80 per drink, respectively) and the total federal and state taxes on alcoholic beverages (approximately $0.12 per drink).3 Alcohol excise taxes are implemented at the state and federal level, and are beverage-specific (i.e., they differ for beer, wine and spirits).2 These taxes usually are based on the volume of alcohol sold and not on the sales price, so their contribution to the total price of alcohol can erode over time due to inflation.2
+Significance:
+This indicator provides information about the level of state alcohol excise taxes. At the state and federal levels, inflation-adjusted alcohol taxes have declined considerably since the 1950s.2 Concordant with this decrease in the real value of these taxes, the inflation-adjusted price of alcohol has decreased, reflecting the fact that changes in taxes are efficiently passed on through changes in prices.2 This indicator supports state-level surveillance of an important component of the price of alcohol – that is, beverage-specific alcohol excise taxes - which has been strongly associated with changes in alcohol consumption.2
+Limitations of Indicator:
+Additional taxes other than excise taxes that can affect the price of alcoholic beverages (e.g., sales taxes, which are levied as a percentage of the beverage’s retail price) are not reported.
+Data Resources:
+Alcohol Policy Information System (APIS).
+Limitations of Data Resources:
+Beverage-specific state tax levels are based on the taxes assessed on an index beverage within a particular beverage category (e.g. beer with 5% alcohol by volume).4 APIS reports taxes for the most commonly sold container size, and therefore does not include data on the taxes levied on alcoholic beverages sold in other container sizes. Tax amounts are not reported for States and beverage types where the index beverage is available in State-run retail stores or through State-run wholesalers.  In these cases, the State sets a price for each alcohol product that is some combination of cost, mark-up, and taxes, and it is not possible to determine the dollar value assigned to each of these components.  Some States have separate tax rates for other types of alcoholic beverages (e.g., sparkling wine), that are not included in APIS. However, these beverages generally constitute a small segment of the alcohol retail market. 
+Related Indicators or Recommendations:
+CDC’s Prevention Status Report: Excessive Alcohol Use.5
+Related CDI Topic Area:
+ 
+	1.	Task Force on Community Preventive Services. Increasing alcohol beverage taxes is recommended to reduce excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):230-2.
+	2.	Elder RW, Lawrence B, Ferguson A, Naimi TS, Brewer RD, Chattopadhyay SK, Toomey TL, Fielding JE, Task Force on Community Preventive Services. The effectiveness of tax policy interventions for reducing excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):217-29.
+	3.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	4.	National Institute on Alcohol Abuse and Alcoholism.  Alcohol Policy Information System (APIS).  www.alcoholpolicy.niaaa.nih.gov/.
+	5.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Alcohol excise tax by beverage type (distilled spirits)
+Category: Alcohol
+Demographic Group:
+All resident persons.
+Numerator:
+State taxes levied per gallon at the wholesale or retail level, by beverage type (reported separately for): (a) Beer (b) Wine (c) Distilled spirits
+Denominator:
+None.
+Measures of Frequency:
+Annual excise tax amount, by beverage type.
+Time Period of Case Definition:
+Annual as of January 1st.
+Background:
+The Community Preventive Services Task Force recommends increasing the unit price of alcohol by raising taxes based on strong evidence of effectiveness for reducing excessive alcohol consumption and related harms.1 Public health effects are expected to be proportional to the size of the tax increase.2   Alcohol consumption is particularly sensitive to the price of alcoholic beverages. 2 Across alcohol beverage types (i.e., beer, wine, and liquor), the median price elasticity (a measure of the relationship between price and consumption) ranges from -0.50 for beer to -0.79 for spirits, and the overall price elasticity for ethanol is -0.77.2 Thus, a 10% increase in the price of alcoholic beverages likely would reduce overall consumption by more than 7%.2  Recent analyses also note a substantial gap between the societal and governmental cost of excessive alcohol consumption (approximately $1.90 and $0.80 per drink, respectively) and the total federal and state taxes on alcoholic beverages (approximately $0.12 per drink).3 Alcohol excise taxes are implemented at the state and federal level, and are beverage-specific (i.e., they differ for beer, wine and spirits).2 These taxes usually are based on the volume of alcohol sold and not on the sales price, so their contribution to the total price of alcohol can erode over time due to inflation.2
+Significance:
+This indicator provides information about the level of state alcohol excise taxes. At the state and federal levels, inflation-adjusted alcohol taxes have declined considerably since the 1950s.2 Concordant with this decrease in the real value of these taxes, the inflation-adjusted price of alcohol has decreased, reflecting the fact that changes in taxes are efficiently passed on through changes in prices.2 This indicator supports state-level surveillance of an important component of the price of alcohol – that is, beverage-specific alcohol excise taxes - which has been strongly associated with changes in alcohol consumption.2
+Limitations of Indicator:
+Additional taxes other than excise taxes that can affect the price of alcoholic beverages (e.g., sales taxes, which are levied as a percentage of the beverage’s retail price) are not reported.
+Data Resources:
+Alcohol Policy Information System (APIS).
+Limitations of Data Resources:
+Beverage-specific state tax levels are based on the taxes assessed on an index beverage within a particular beverage category (e.g. beer with 5% alcohol by volume).4 APIS reports taxes for the most commonly sold container size, and therefore does not include data on the taxes levied on alcoholic beverages sold in other container sizes. Tax amounts are not reported for States and beverage types where the index beverage is available in State-run retail stores or through State-run wholesalers.  In these cases, the State sets a price for each alcohol product that is some combination of cost, mark-up, and taxes, and it is not possible to determine the dollar value assigned to each of these components.  Some States have separate tax rates for other types of alcoholic beverages (e.g., sparkling wine), that are not included in APIS. However, these beverages generally constitute a small segment of the alcohol retail market. 
+Related Indicators or Recommendations:
+CDC’s Prevention Status Report: Excessive Alcohol Use.5
+Related CDI Topic Area:
+ 
+	1.	Task Force on Community Preventive Services. Increasing alcohol beverage taxes is recommended to reduce excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):230-2.
+	2.	Elder RW, Lawrence B, Ferguson A, Naimi TS, Brewer RD, Chattopadhyay SK, Toomey TL, Fielding JE, Task Force on Community Preventive Services. The effectiveness of tax policy interventions for reducing excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):217-29.
+	3.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	4.	National Institute on Alcohol Abuse and Alcoholism.  Alcohol Policy Information System (APIS).  www.alcoholpolicy.niaaa.nih.gov/.
+	5.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Alcohol excise tax by beverage type (wine)
+Category: Alcohol
+Demographic Group:
+All resident persons.
+Numerator:
+State taxes levied per gallon at the wholesale or retail level, by beverage type (reported separately for): (a) Beer (b) Wine (c) Distilled spirits
+Denominator:
+None.
+Measures of Frequency:
+Annual excise tax amount, by beverage type.
+Time Period of Case Definition:
+Annual as of January 1st.
+Background:
+The Community Preventive Services Task Force recommends increasing the unit price of alcohol by raising taxes based on strong evidence of effectiveness for reducing excessive alcohol consumption and related harms.1 Public health effects are expected to be proportional to the size of the tax increase.2   Alcohol consumption is particularly sensitive to the price of alcoholic beverages. 2 Across alcohol beverage types (i.e., beer, wine, and liquor), the median price elasticity (a measure of the relationship between price and consumption) ranges from -0.50 for beer to -0.79 for spirits, and the overall price elasticity for ethanol is -0.77.2 Thus, a 10% increase in the price of alcoholic beverages likely would reduce overall consumption by more than 7%.2  Recent analyses also note a substantial gap between the societal and governmental cost of excessive alcohol consumption (approximately $1.90 and $0.80 per drink, respectively) and the total federal and state taxes on alcoholic beverages (approximately $0.12 per drink).3 Alcohol excise taxes are implemented at the state and federal level, and are beverage-specific (i.e., they differ for beer, wine and spirits).2 These taxes usually are based on the volume of alcohol sold and not on the sales price, so their contribution to the total price of alcohol can erode over time due to inflation.2
+Significance:
+This indicator provides information about the level of state alcohol excise taxes. At the state and federal levels, inflation-adjusted alcohol taxes have declined considerably since the 1950s.2 Concordant with this decrease in the real value of these taxes, the inflation-adjusted price of alcohol has decreased, reflecting the fact that changes in taxes are efficiently passed on through changes in prices.2 This indicator supports state-level surveillance of an important component of the price of alcohol – that is, beverage-specific alcohol excise taxes - which has been strongly associated with changes in alcohol consumption.2
+Limitations of Indicator:
+Additional taxes other than excise taxes that can affect the price of alcoholic beverages (e.g., sales taxes, which are levied as a percentage of the beverage’s retail price) are not reported.
+Data Resources:
+Alcohol Policy Information System (APIS).
+Limitations of Data Resources:
+Beverage-specific state tax levels are based on the taxes assessed on an index beverage within a particular beverage category (e.g. beer with 5% alcohol by volume).4 APIS reports taxes for the most commonly sold container size, and therefore does not include data on the taxes levied on alcoholic beverages sold in other container sizes. Tax amounts are not reported for States and beverage types where the index beverage is available in State-run retail stores or through State-run wholesalers.  In these cases, the State sets a price for each alcohol product that is some combination of cost, mark-up, and taxes, and it is not possible to determine the dollar value assigned to each of these components.  Some States have separate tax rates for other types of alcoholic beverages (e.g., sparkling wine), that are not included in APIS. However, these beverages generally constitute a small segment of the alcohol retail market. 
+Related Indicators or Recommendations:
+CDC’s Prevention Status Report: Excessive Alcohol Use.5
+Related CDI Topic Area:
+ 
+	1.	Task Force on Community Preventive Services. Increasing alcohol beverage taxes is recommended to reduce excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):230-2.
+	2.	Elder RW, Lawrence B, Ferguson A, Naimi TS, Brewer RD, Chattopadhyay SK, Toomey TL, Fielding JE, Task Force on Community Preventive Services. The effectiveness of tax policy interventions for reducing excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):217-29.
+	3.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	4.	National Institute on Alcohol Abuse and Alcoholism.  Alcohol Policy Information System (APIS).  www.alcoholpolicy.niaaa.nih.gov/.
+	5.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Binge drinking frequency among adults aged ≥ 18 years who binge drink
+Category: Alcohol
+Demographic Group:
+Adults aged ≥18 years.
+Numerator:
+Number of binge drinking (≥5 drinks for men or ≥4 drinks for women on ≥1 occasion) episodes during the previous 30 days.
+Denominator:
+Adults aged ≥18 years who report having ≥5 drinks (men) or ≥4 drinks (women) on ≥1 occasion during the previous 30 days.
+Measures of Frequency:
+Annual binge drinking frequency — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+Excessive alcohol use accounted for an estimated average of 80,000 deaths and 2.3 million years of potential life lost (YPLL) in the United States each year during 2001–2005,2 and an estimated $223.5 billion in economic costs in 2006.3  Binge drinking accounted for more than half of those deaths, two thirds of the YPLL, 2 and three quarters of the economic costs.3 In 2010, 85% of all alcohol-impaired driving episodes were reported by persons who also reported binge drinking.4  Over 90% of excessive drinkers report binge drinking, and most persons who report binge drinking do so frequently.5  In 2010, among binge drinkers, the frequency of binge drinking was 4.4 episodes per month.6 Binge drinking frequency was highest among binge drinkers aged ≥65 years (5.5 episodes per month) and those with household incomes <$25,000 (5.0 episodes per month).6
+Significance:
+Binge drinking also is a risk factor for many health and social problems, including motor-vehicle crashes, violence, suicide, hypertension, acute myocardial infarction, sexually transmitted diseases, unintended pregnancy, fetal alcohol spectrum disorders (FASDs), and sudden infant death syndrome.7,8  In the United States, binge drinking accounts for more than half of the alcohol consumed by adults.9 However, most binge drinkers are not alcohol dependent.10,11The risk of alcohol-attributable harms (e.g., injuries) increases with the number of binge drinking episodes.12 Assessing the frequency of binge drinking may be particularly useful for planning and evaluating Community Guide-recommended strategies for preventing excessive alcohol use.13
+Limitations of Indicator:
+Unless age, sex, education and race/ethnicity estimates are generated for this indicator, high-risk subpopulations will not be identified.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. A recent study using BRFSS data found that self-reports identify only 22%–32% of presumed alcohol consumption in states, based on alcohol sales.14
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA-14.3:  Reduce the proportion of persons engaging in binge drinking during the past 30 days—Adults aged 18 years and older.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001.   http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	3.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	4.	CDC. Vital Signs: Alcohol-Impaired Driving Among Adults --- United States, 2010. MMWR 2011;60: 1351-1356.
+	5.	Town M, Naimi TS, Mokdad AH, Brewer RD. Health care access among U.S. adults who drink alcohol excessively: missed opportunities for prevention. Prev Chronic Dis April 2006.
+	6.	CDC. Vital signs: binge drinking prevalence, frequency, and intensity among adults—United States, 2010. MMWR 2012;61:14–9.
+	7.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	8.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	9.	Office of Juvenile Justice and Delinquency Prevention. Drinking in America: Myths, Realities, and Prevention Policy. Washington, DC: U.S. Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention, 2005.
+	10.	Dawson DA, Grant BF, LI T-K. Quantifying the risks associated with exceeding recommended drinking limits. Alcohol Clin Exp Res 2005;29:902–908.
+	11.	Woerle S, Roeber J, Landen MG. Prevalence of alcohol dependence among excessive drinkers in New Mexico. Alcohol Clin Exp Res 2007;31:293–298.
+	12.	Naimi TS, Brewer B, Mokdad AH, Serdula M, Denny C, Marks J. Binge drinking among U.S. adults. JAMA 2003;289(1):70–75.
+	13.	Guide to Community Preventive Services. Preventing excessive alcohol consumption. Atlanta, GA: Centers for Disease Control and Prevention, 2011. http://www.thecommunityguide.org/alcohol/index.html
+	14.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+ 
+ Top of Page
+Binge drinking intensity among adults aged ≥18 years who binge drink
+Category: Alcohol
+Demographic Group:
+Adults aged ≥18 years.
+Numerator:
+Largest number of drinks consumed on an occasion in the previous 30 days  among adult binge drinkers aged ≥18 years.
+Denominator:
+Adults aged ≥18 years who report having ≥5 drinks (men) or ≥4 drinks (women) on ≥1 occasion during the previous 30 days.
+Measures of Frequency:
+Annual binge drinking intensity — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+Excessive alcohol use accounted for an estimated average of 80,000 deaths and 2.3 million years of potential life lost (YPLL) in the United States each year during 2001–2005,2 and an estimated $223.5 billion in economic costs in 2006.3 Binge drinking accounted for more than half of those deaths, two thirds of the YPLL, 2  and three quarters of the economic costs.3 In 2010, 85% of all alcohol-impaired driving episodes were reported by persons who also reported binge drinking.4  In 2010, among binge drinkers, the binge drinking intensity was 7.9 drinks on occasion during the previous 30 days.5 Binge drinking intensity was highest among persons aged 18–24 years (9.3 drinks on occasion) and those with household incomes <$25,000 (8.5 drinks on occasion).5
+Significance:
+Binge drinking also is a risk factor for many health and social problems, including motor-vehicle crashes, violence, suicide, hypertension, acute myocardial infarction, sexually transmitted diseases, unintended pregnancy, fetal alcohol spectrum disorders (FASDs), and sudden infant death syndrome.6,7 In the United States, binge drinking accounts for more than half of the alcohol consumed by adults. However, most binge drinkers are not alcohol dependent.8,9  The risk of alcohol-attributable harms (e.g., injuries) increases with the intensity of binge drinking.10 Assessing the intensity of binge drinking may be particularly useful for planning and evaluating Community Guide-recommended strategies for preventing excessive alcohol use.11
+Limitations of Indicator:
+Unless age, sex, education and race/ethnicity estimates are generated for this indicator, high-risk subpopulations will not be identified.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. A recent study using BRFSS data found that self-reports identify only 22%–32% of presumed alcohol consumption in states, based on alcohol sales.12
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA-14.3:  Reduce the proportion of persons engaging in binge drinking during the past 30 days—Adults aged 18 years and older. CDC’s Prevention Status Report: Excessive Alcohol Use.13
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	3.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	4.	CDC. Vital Signs: Alcohol-Impaired Driving Among Adults --- United States, 2010. MMWR 2011;60: 1351-1356.
+	5.	CDC. Vital signs: binge drinking prevalence, frequency, and intensity among adults—United States, 2010. MMWR 2012;61:14–9.
+	6.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	7.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	8.	Dawson DA, Grant BF, LI T-K. Quantifying the risks associated with exceeding recommended drinking limits. Alcohol Clin Exp Res 2005;29:902–908.
+	9.	Woerle S, Roeber J, Landen MG. Prevalence of alcohol dependence among excessive drinkers in New Mexico. Alcohol Clin Exp Res 2007;31:293–298.
+	10.	Naimi TS, Nelson DE, Brewer RD. The intensity of binge alcohol consumption among U.S. adults. Am J Prev Med 2010;38(2):201–7.
+	11.	Guide to Community Preventive Services. Preventing excessive alcohol consumption. Atlanta, GA: Centers for Disease Control and Prevention, 2011. http://www.thecommunityguide.org/alcohol/index.html
+	12.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+	13.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Binge drinking prevalence among adults aged ≥18 years
+Category: Alcohol
+Demographic Group:
+Adults aged ≥18 years.
+Numerator:
+Adults aged ≥18 years who report having ≥5 drinks (men) or ≥4 drinks (women) on ≥1 occasion during the previous 30 days.
+Denominator:
+Adults aged ≥18 years who report having a specific number, including zero, of drinks on one occasion during the previous 30 days (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+In 2010, a total of 17.1% of adults reported binge drinking on ≥1 occasion during the previous 30 days.2  Binge drinking prevalence is higher among men, persons aged 18–34 years, whites, and those with household incomes ≥$75,000.2
+Significance:
+Excessive alcohol use accounted for an estimated average of 80,000 deaths and 2.3 million years of potential life lost (YPLL) in the United States each year during 2001–2005,3 and an estimated $223.5 billion in economic costs in 2006.4  Binge drinking accounted for more than half of those deaths, two thirds of the YPLL,3 and three quarters of the economic costs.4  Binge drinking also is a risk factor for many health and social problems, including motor-vehicle crashes, violence, suicide, hypertension, acute myocardial infarction, sexually transmitted diseases, unintended pregnancy, fetal alcohol spectrum disorders, and sudden infant death syndrome.5,6 In the United States, binge drinking accounts for more than half of the alcohol consumed by adults.7 However, most binge drinkers are not alcohol dependent.8,9
+Limitations of Indicator:
+The indicator does not convey the frequency of binge drinking or the specific amount of alcohol consumed.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. A recent study using BRFSS data found that self-reports identify only 22%–32% of presumed alcohol consumption in states, based on alcohol sales.9
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA-14.3: Reduce the proportion of persons engaging in binge drinking during the past 30 days—Adults aged 18 years and older. CDC’s Prevention Status Report: Excessive Alcohol Use.10
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Vital signs: binge drinking prevalence, frequency, and intensity among adults—United States, 2010. MMWR 2012;61:14–9.
+	3.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	4.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	5.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	6.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	7.	Office of Juvenile Justice and Delinquency Prevention. Drinking in America: Myths, Realities, and Prevention Policy. Washington, DC: U.S. Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention, 2005.
+	8.	Dawson DA, Grant BF, LI T-K. Quantifying the risks associated with exceeding recommended drinking limits. Alcohol Clin Exp Res 2005;29:902–908.
+	9.	Woerle S, Roeber J, Landen MG. Prevalence of alcohol dependence among excessive drinkers in New Mexico. Alcohol Clin Exp Res 2007;31:293–298.
+	10.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+	11.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Binge drinking prevalence among women aged 18-44 years
+Category: Alcohol
+Demographic Group:
+Women aged 18–44 years.
+Numerator:
+Women aged 18–44 years who report having ≥4 drinks on ≥1 occasion during the previous 30 days.
+Denominator:
+Women aged 18–44 years who report a specific number, including zero, of drinks on one occasion during the previous 30 days (excluding unknowns and refusals).
+Measures of Frequency:
+Prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+In 2010, an estimated 14.0% of women aged 18-44 reported binge drinking on ≥1 occasion during the previous 30 days.1
+Significance:
+Approximately 23,000 deaths among females each year in the United States are attributed to excessive alcohol use.2 Excessive alcohol use, including binge drinking, is strongly associated with injuries, violence, chronic liver disease, and risk of other acute and chronic health effects.3 Binge drinking can lead to unintended pregnancies, and females who are not expecting to get pregnant may not find out they are until later in their pregnancy.4 If women binge drink while pregnant, they risk exposing their developing baby to high levels of alcohol, increasing the chances the baby will be harmed by the mother’s alcohol use.5  Alcohol use by pregnant women causes fetal alcohol spectrum disorders (FASDs).6,7 FASDs, which are estimated to affect at least 1% of all births in the United States, result in physical and growth problems, neurodevelopmental deficits and lifelong disability.8
+Limitations of Indicator:
+The indicator does not convey the frequency of binge drinking or the specific amount of alcohol consumed.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or answer specific questions), or measurement (e.g., social desirability or recall bias). In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. A recent study using BRFSS data found that self-reports identify only 22%–32% of presumed alcohol consumption in states, based on alcohol sales.9
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA-14.3: Reduce the proportion of persons engaging in binge drinking during the past 30 days—Adults aged 18 years and older. Healthy People 2020 Objective MICH-11: Increase abstinence from alcohol, cigarettes, and illicit drugs among pregnant women.
+Related CDI Topic Area:
+Reproductive Health
+	1.	CDC. Alcohol Use and Binge Drinking Among Women of Childbearing Age — United States, 2006–2010. MMWR 2012;61:534-538.
+	2.	CDC. Vital Signs: Binge Drinking Among Women and High School Girls — United States, 2011. MMWR 2013;62:9-13.
+	3.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	4.	Naimi TS, Lipscomb L, Brewer B, Gilbert B. Binge drinking in the preconception period and the risk of unintended pregnancy: implications for women and their children. Pediatrics 2003;111:1136–41.
+	5.	Maier SE, West JR. Drinking patterns and alcohol-related birth defects. Alcohol Res Health 2001;25:168–74.
+	6.	Institute of Medicine. Fetal Alcohol Syndrome: Diagnosis, Epidemiology, Prevention, and Treatment. National Academy Press. 1996.
+	7.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	8.	May PA, Gossage JP. Estimating the prevalence of fetal alcohol syndrome: a summary. Alcohol Res Health 2001;25:159–67.
+	9.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+ Top of Page
+Binge drinking prevalence among youth
+Category: Alcohol
+Demographic Group:
+Students in grades 9–12.
+Numerator:
+Students in grades 9–12 who report having ≥5 drinks of alcohol within a couple of hours on ≥1 day during the past 30 days.
+Denominator:
+Students in grades 9–12 who report having a specific number, including zero, of drinks of alcohol within a couple of hours on ≥1 day during the past 30 days (excluding those who did not answer).
+Measures of Frequency:
+Biennial (odd years) prevalence with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+In 2011, 22% of high school students in the United States reported binge drinking during the past 30 days.1  Binge drinking accounts for 90% of the alcohol consumed by youths2, and about 2 in 3 high school students who drink report binge drinking3, usually on multiple occasions.  In 2011, the prevalence of binge drinking among boys was 24% and 20% among girls.1 The prevalence of binge drinking was higher among white (24%) and Hispanics (24%) students than black students (12%) ; prevalence increased with grade.1 Binge drinking by youth is correlated with binge drinking by adults in states.4
+Significance:
+Alcohol is a factor in the deaths of approximately 4,700 youths in the United States per year, shortening their lives by an average of 60 years.5 Underage drinking cost the U.S. $24 billion in 2006.6 Binge drinking is a risk factor for many health and social problems, including motor-vehicle crashes, violence, suicide, hypertension, acute myocardial infarction, sexually transmitted diseases, unintended pregnancy, fetal alcohol spectrum disorders (FASDs), and sudden infant death syndrome.7,8
+Limitations of Indicator:
+The indicator does not convey the frequency of binge drinking or the specific amount of alcohol consumed. The definition of binge drinking used in the data source (YRBSS) is not gender-specific.  This indicator is available every other year.
+Data Resources:
+Youth Risk Behavior Surveillance System. (YRBSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, YRBSS data might be subject to systematic error resulting from noncoverage (e.g., no participation by certain schools), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  YRBSS data only apply to youth who are attending school, and thus may not be representative of all persons in this age group.1 Results are not available from every state because some states do not participate in the YRBSS. Moreover, some states that do participate do not achieve a high enough overall response rate to receive weighted data, and are therefore not included in the results.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA–14.1:  Reduce the proportion of students engaging in binge drinking during the past 2 weeks—High school seniors. Healthy People 2020 Objective SA–14.4:  Reduce the proportion of persons engaging in binge drinking during the past month—Adolescents aged 12 to 17 years. CDC’s Prevention Status Report: Excessive Alcohol Use.9
+Related CDI Topic Area:
+School Health
+	1.	CDC. Youth Risk Behavior Surveillance—United States, 2011. MMWR 2012;61(No. SS-4).
+	2.	Office of Juvenile Justice and Delinquency Prevention. Drinking in America: Myths, Realities, and Prevention Policy. Washington, DC: U.S. Department of Justice, Office of Justice Programs, Office of Juvenile Justice and Delinquency Prevention, 2005.
+	3.	CDC. Vital signs: binge drinking among high school students and adults—United States, 2009. MMWR 2010;59:1274–9.
+	4.	Nelson DE, Naimi TS, Brewer RD, Nelson HA. State alcohol-use estimates among youth and adults, 1993–2005. Am J Prev Med 2009;36:218–24.
+	5.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI
+	6.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	7.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	8.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	9.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Chronic liver disease mortality
+Category: Alcohol
+Demographic Group:
+All U.S. population.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes K70 or K73–K74 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2010 31,903 persons died from chronic liver disease. 2 The age-adjusted rate of death among males (12.7/100,000) was greater than the rate among females (6.1/100,000).2
+Significance:
+Excessive alcohol use accounted for an estimated average of 80,000 deaths and 2.3 million years of potential life lost (YPLL) in the United States each year during 2001–2005,3 and an estimated $223.5 billion in economic costs in 2006.4  Sustained alcohol consumption is the leading cause of liver cirrhosis,  the 12th  leading causes of death.5 The risk of chronic liver disease and cirrhosis is directly to heavy and long-term consumption of alcohol.5
+Limitations of Indicator:
+Because alcohol-related disease can have a long latency, changes in behavior or clinical practice affecting population mortality might not be apparent for years.  Not all chronic liver disease deaths are alcohol-attributable.  However, in 2009, almost 70% of cirrhosis deaths in the United States were alcohol-attributable;5 and the proportion of cirrhosis deaths coded as 100% alcohol-attributable has increased dramatically, over the last 40 years, among United States adults aged 25-64.5
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA–11: Reduce cirrhosis deaths.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention. National Center for Health Statistics. Health Data Interactive. www.cdc.gov/nchs/hdi.htm.
+	3.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	4.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	5.	National Institute on Alcohol Abuse and Alcoholism. Liver cirrhosis mortality in the United States, 1970–2009. Surveillance Report #93. August 2012. http://pubs.niaaa.nih.gov/publications/Surveillance93/Cirr09.htm
+ 
+ Top of Page
+Commercial host (dram shop) liability laws
+Category: Alcohol
+Demographic Group:
+All resident persons.
+Numerator:
+State has at least one of the following: (a) commercial host liability with no major limitations*; (b) commercial host liability with major limitations*; or (c) no commercial host liability.
+*Major limitations include having commercial host liability for minors or intoxicated adults but not both, increased evidentiary requirements for finding liability, limitations on damage awards, or restrictions on who may be sued.
+Denominator:
+None
+Measures of Frequency:
+State commercial host liability status
+Time Period of Case Definition:
+Annual as of January 1st.
+Background:
+The Community Preventive Services Task Force has concluded on the basis of strong evidence that dram shop liability is effective in preventing and reducing alcohol-related harms.1 Dram shop liability (also known as Commercial Host Liability) holds alcohol retailers liable for alcohol-attributable harms (e.g., injuries or deaths resulting from alcohol-related motor vehicle crashes) caused by a patron who was either intoxicated or under the age 21 minimum legal drinking age (e.g. a minor) at the time of service.2  This liability can be established in states either by case law or statute.  Some states only have commercial host liability for service to minors.3 Some states also restrict commercial host liability by increasing evidence requirements, capping the amount of compensation allowed in suits, or restricting who may be sued. However, the existence of commercial host liability in a state is thought to improve compliance with laws prohibiting alcohol service to intoxicated patrons or minors.2
+Significance:
+This indicator provides information on the existence of commercial host liability, and whether this liability has major restrictions in those states where it exists.  In states where there are major restrictions on this liability, the impact of this intervention on excessive alcohol use and related harms is likely to be reduced.2,3
+Limitations of Indicator:
+The legal research required to support this indicator is time-consuming and requires expertise in the area of alcohol control policies and legal analysis.
+Data Resources:
+Mosher, JF, Cohen, EN, Jernigan, DH. Commercial Host (Dram Shop) Liability: Current Status and Trends. Am J Prev Med 2013;45(3):347-353.
+Limitations of Data Resources:
+This indicator is currently updated annually only for dram shop liability for sales to underage youth; there is no current timeframe for updating dram shop liability status for sales to adults. Specialized legal consultation is required to interpret laws and regulations.
+Related Indicators or Recommendations
+CDC’s Prevention Status Report: Excessive Alcohol Use.4
+Related CDI Topic Area:
+ 
+	1.	Task Force on Community Preventive Services. Recommendations on dram shop liability and overservice law enforcement initiatives to prevent excessive alcohol consumption and related harms. Am J Prev Med 2011;41(3):344-6.
+	2.	Rammohan V, Hahn RA, Elder R, Brewer R, Fielding J, Naimi TS, Toomey TL, Chattopadhyay SK, Zometa C, Task Force on Community Preventive Services. Effects of dram shop liability and enhanced overservice law enforcement initiatives on excessive alcohol consumption and related harms: two Community Guide systematic reviews. Am J Prev Med 2011;41(3):334-43.
+	3.	Mosher, JF, Cohen, EN, Jernigan, DH. Commercial Host (Dram Shop) Liability: Current Status and Trends. Am J Prev Med 2013;45(3):347-353.
+	4.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Heavy drinking among adults aged ≥18 years
+Category: Alcohol
+Demographic Group:
+Adults aged ≥18 years.
+Numerator:
+Adults aged ≥18 years who report weekly alcohol consumption of ≥15 drinks (men) or ≥8 drinks (women).
+Denominator:
+Adults aged ≥18 years who report a specific number, including zero, for the number of weekly drinks (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+In 2010, 5.4% of adult men reported heavy drinking and 4.5% of adult women reported heavy drinking.2 Heavy drinkers are more likely to binge drink than moderate drinkers.3
+Significance:
+Excessive alcohol use accounted for an estimated average of 88,000 deaths and 2.5 million years of potential life lost (YPLL) in the United States each year during 2006–2010,4 and an estimated $223.5 billion in economic costs in 2006.5 Excessive alcohol use, including heavy drinking, is strongly associated with injuries, violence, chronic liver disease, and risk of other acute and chronic health effects.6
+Limitations of Indicator:
+The indicator does not convey the exact amount of alcohol consumed per day. Therefore, a weekly consumption of 7 alcoholic drinks for a woman or 14 alcoholic drinks for a man can be consumed over 2-day weekend on 1 or 2 occasions rather than up to 1 drink for a woman and up to 2 drinks for a man each day.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate. A recent study using BRFSS data found that self-reports identify only 22%–32% of presumed alcohol consumption in states, based on alcohol sales.7
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA–15: Reduce the proportion of adults who drank excessively in the previous 30 days.
+Related CDI Topic Area:
+Oral Health
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System Survey Data. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention. http://apps.nccd.cdc.gov/brfss/
+	3.	Naimi TS, Brewer B, Mokdad AH, Serdula M, Denny C, Marks J. Binge drinking among U.S. adults. JAMA 2003;289(1):70–75.
+	4.	Centers for Disease Control and Prevention. Alcohol-related disease impact (ARDI) application. Atlanta, GA: CDC; 2013: www.cdc.gov/ARDI.
+	5.	Bouchery EE, Harwood HJ, Sacks JJ, Simon CJ, Brewer RD. Economic costs of excessive alcohol consumption in the U.S., 2006. Am J Prev Med 2011;41(5):516-524.
+	6.	National Institute of Alcohol Abuse and Alcoholism. Tenth special report to the U.S. Congress on alcohol and health. Bethesda, MD: US Department of Health and Human Services, National Institutes of Health; 2000.
+	7.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+ 
+ Top of Page
+Heavy drinking among women aged 18-44 years
+Category: Alcohol
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Women aged 18-44 years who reported having ≥8 drinks per week on the days they drank alcohol during the previous 30 days.
+Denominator:
+Women aged 18-44 years who reported the number of drinks, including zero, on the days they drank alcohol as well as those who reported having had no drinks during the past 30 days (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Past 30 days.
+Background:
+Heavy alcohol use before pregnancy is predictive of continued use during pregnancy.1 CDC analysis of 2002 Behavioral Risk Factor Surveillance System (BRFSS) data for women aged 18–44 indicated that the prevalence of frequent drinking (7 or more drinks in a week or binge drinking) was 13.2% for all women of childbearing age overall (including pregnant women) and 13.1% for women who might become pregnant.2
+Significance:
+Alcohol consumption during pregnancy is associated with spontaneous abortions, birth defects, and developmental disorders, many of which occur early in gestation before the woman is aware that she is pregnant.2   Alcohol use during pregnancy is associated with fetal alcohol spectrum disorders (FASDs), which may be characterized by specific physical features, impaired growth and abnormal development or functioning of the central nervous system.3  Even though a dose-response relationship has been observed between prenatal alcohol consumption and effects on the fetus, no amount of alcohol consumption during pregnancy is known to be safe.4   Therefore current medical guidelines, including the recommendations of the US Surgeon General,the American Academy of Pediatrics (AAP),and the American College of Obstetricians and Gyenologologist advise against any alcohol use around the time of conception and throughout pregnancy.   Furthermore, the Clinical Work Group of the Select Panel on Preconception Care workgroup recommends all childbearing aged women  to be screened for alcohol use and provided with information regarding potential adverse health outcomes including the negative effects of alcohol consumption during pregnancy.   In addition, women who exhibit signs of alcohol dependence or misuse should be directed to support programs that would assist them to achieve long-term cessation of alcohol use and be advised to delay any future pregnancies until they are able to abstain from alcohol use .
+Limitations of Indicator:
+The indicator does not convey the exact amount of alcohol consumed per day. Therefore, a weekly consumption of 7 alcoholic drinks for a woman can be consumed over 2-day weekend on 1 or 2 occasions rather than up to 1 drink for a woman each day. There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). 
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective MICH-11:  Increase abstinence from alcohol, cigarettes, and illicit drugs among pregnant women.
+Related CDI Topic Area:
+Reproductive Health; Oral Health
+	1.	CDC. Alcohol use among women of childbearing age—United States 1991-1999.  MMWR 2002;51(13): 273-6.
+	2.	Floyd RL, Decoufle P, Hungerford DW. Alcohol use prior to pregnancy recognition. Am J Prev Med 1999;17:101--7.
+	3.	Warren, K.R.,  Hewitt, B.G., & Thomas, J.D.  (2011).  Fetal Alcohol Spectrum Disorders.  Alcohol Research & Health, Volume 34, Issue Number 1. 
+	4.	Sokol RJ, Delaney-Black V, Nordstrom B. Fetal Alcohol Spectrum Disorder. JAMA 2003;290(22):2996-9.
+	5.	Surgeon General’s advisory on alcohol use in pregnancy (2005, February 21). http://www.surgeongeneral.gov/pressreleases/sg02222005.html
+	6.	Floyd RL, Jack BW, Cefalo R, et al. The clinical content of preconception care: alcohol, tobacco, and illicit drug exposures. Am J Obstet Gynecol 2008;199(6 Suppl B):S333- S339.
+	7.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med 2001;46(Suppl 1):S3-S42.
+  
+ Top of Page
+Local authority to regulate alcohol outlet density
+Category: Alcohol
+Demographic Group:
+All resident persons.
+Numerator:
+State has at least one of the following: (a) exclusive local alcohol retail licensing; (b) joint local and state alcohol retail licensing; (c) exclusive state alcohol retail licensing but with local zoning authority; (d) mixed alcohol retail licensing policies; (e) nearly exclusive state alcohol retail licensing; or (f) exclusive state alcohol retail licensing.
+Denominator:
+None
+Measures of Frequency:
+Status of state’s local authority to regulate alcohol outlet density.
+Time Period of Case Definition:
+Annual as of January 1st.
+Background:
+The Community Preventive Services Task Force has found sufficient evidence to recommend limiting alcohol outlet density through the use of regulatory authority (e.g., licensing and zoning) as a means of reducing or controlling excessive alcohol consumption and related harms.1  However, states vary in the extent to which they allow local governments to regulate the licensing of retail alcohol outlets and hence alcohol outlet density, ranging from the delegation of licensing authority to local governments to complete state control over alcohol licensing.2,3  
+Significance:
+This indicator provides information on the degree of local control over the regulation of alcohol outlet density. In general, states that allow for greater local control over the regulation of alcohol outlet density (i.e., those that do not preempt local control over alcohol licensing) provide local governments with more opportunities to regulate alcohol outlet density and thereby reduce excessive alcohol consumption and related harms.2
+Limitations of Indicator:
+The legal research required to support this indicator is time-consuming and requires expertise in the area of liquor control law. 
+Data Resources:
+Mosher JF, Treffers R. State preemption, local control, and the regulation of alcohol retail outlet density. Am J Prev Med 2013; 44(4):399–405.
+Limitations of Data Resources:
+There is currently no specified timeframe for updating this indicator. Specialized legal consultation is required to interpret laws and regulations.
+Related Indicators or Recommendations:
+CDC’s Prevention Status Report: Excessive Alcohol Use.4
+Related CDI Topic Area:
+ 
+	1.	Task Force on Community Preventive Services. Recommendations for reducing excessive alcohol consumption and alcohol-related harms by limiting alcohol outlet density. Am J Prev Med 2009;37(6):570-1.
+	2.	Campbell CA, Hahn RA, Elder R, Brewer R, Chattopadhyay S, Fielding J, Naimi TS, Toomey T, Briana Lawrence B, Middleton JC, Task Force on Community Preventive Services. The effectiveness of limiting alcohol outlet density as a means of reducing excessive alcohol consumption and alcohol-related harms. Am J Prev Med 2009;37(6):556-69.
+	3.	Mosher JF, Treffers RD. State preemption, local control, and the regulation of alcohol retail outlet density. Am J Prev Med 2013; 44(4):399–405.
+	4.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ 
+ Top of Page
+Per capita alcohol consumption among persons aged ≥ 14 years
+Category: Alcohol
+Demographic Group:
+Resident persons aged ≥14 years.
+Numerator:
+Gallons of pure alcohol consumed during a calendar year.
+Denominator:
+Mid-year resident population aged 14 and older for the same calendar year.
+Measures of Frequency:
+Annual alcohol consumption per capita
+Time Period of Case Definition:
+Calendar year.
+Background:
+The past 75 years of per capita consumption data show that alcohol consumption climbed sharply following the end of prohibition, to a transient peak in 1945, followed by a decline and plateau through the early 1960’s.1  This was followed by a steady 20-year increase in per capita consumption that lasted through the early 1980’s, after which consumption dropped again through 1995.1  Since 1995, per capita consumption has once again been increasing, albeit more slowly than in the 1960’s and 1970’s.1  From 1995 to 2012, per capita alcohol consumption increased 8% (from to 2.15 to 2.33 gallons), driven by a 24% increase in per capita spirits consumption (from 0.63 to 0.78 gallons) and a 45% increase in wine consumption (from 0.29 to 0.42 gallons).1  By contrast, beer consumption has been declining steadily since the early 1980s, and declined 8% (from 1.23 to 1.13 gallons) from 1995 to 2012.1
+Significance:
+There is strong scientific evidence supporting the usefulness of per capita alcohol consumption as a proxy measure of excessive alcohol use.2  The independent, non-federal Community Preventive Services Task Force reviewed this measure in 2009, and the Task Force subsequently endorsed this measure, and decided to use it as a recommendation outcome for subsequent reviews of alcohol control policies.3  This indicator provides a more complete accounting of alcohol consumption in states than self-reported consumption indicators.2 A recent study using BRFSS data found that self-reports identify only 22%–32% of the presumed alcohol consumption in states based on this indicator.4  This indicator also supports state-level surveillance of alcohol consumption by beverage type.  This indicator could potentially serve as a very broad environmental and system change indicator of changes in factors that influence excessive consumption, such as price, retail availability, and regulatory environment.
+Limitations of Indicator:
+This indicator does not support local analyses of alcohol consumption (e.g., by county or city), or the analysis of alcohol consumption among specific demographic groups (e.g., age, sex, race/ethnicity).
+Data Resources:
+Alcohol Epidemiologic Data System (AEDS).
+Limitations of Data Resources:
+Many factors may result in inaccuracies in estimates of per capita alcohol consumption.1 These include the use of fixed ethanol conversion coefficients (ECC, i.e., proportion of pure alcohol for each beverage type), despite evidence that ECCs may change over time by beverage type.1  The assumption is that changes in the average net ethanol content across all beverages have probably been minimal and not large enough to alter recent trends in overall per capita consumption.  Other factors include the possibility that estimates in some States may be inflated by cross-border sales to buyers from neighboring States (e.g., in New Hampshire) or tourists’ consumption of alcohol (e.g., in Washington DC).1 Other factors include variations  in State reporting practices for sales of alcoholic beverages; time delay between State taxation records and actual consumption; exclusion of alcohol contained in medications and foods; unrecorded legal home production; and illicit production, importation, and sales.1
+Related Indicators or Recommendations:
+Healthy People 2020 Objective SA–16: Reduce average annual alcohol consumption. CDC’s Prevention Status Report: Excessive Alcohol Use.5
+Related CDI Topic Area:
+ 
+	1.	National Institute on Alcohol Abuse and Alcoholism. Apparent Per Capita Alcohol Consumption: National, State, and Regional Trends, 1977-2012. Surveillance Report #98. April 2014. http://pubs.niaaa.nih.gov/publications/surveillance98/CONS12.pdf
+	2.	Elder RW, Lawrence B, Ferguson A, Naimi TS, Brewer RD, Chattopadhyay SK, Toomey TL, Fielding JE, Task Force on Community Preventive Services. The effectiveness of tax policy interventions for reducing excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):217-29.
+	3.	Task Force on Community Preventive Services. Increasing alcohol beverage taxes is recommended to reduce excessive alcohol consumption and related harms. Am J Prev Med 2010;38(2):230-2.
+	4.	Nelson DE, Naimi TS, Brewer RD, Roeber J. US state alcohol sales compared to survey data, 1993–2006. Addiction 2010;105:1589–96.
+	5.	Centers for Disease Control and Prevention. Prevention Status Reports 2013: Excessive Alcohol Use. Atlanta, GA: US Department of Health and Human Services; 2014. http://www.cdc.gov/stltpublichealth/psr/alcohol/index.html
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: July 1, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	YouTube
+	•	Instagram
+	•	Listen
+	•	Watch
+	•	RSS
+	•	ABOUT 
+	◦	About CDC
+	◦	Jobs
+	◦	Funding
+	•	 
+	•	LEGAL 
+	◦	Policies
+	◦	Privacy
+	◦	FOIA
+	◦	No Fear Act
+	◦	OIG
+	•	 
+	•	1600 Clifton Road Atlanta, GA 30329-4027 USA 
+	•	800-CDC-INFO (800-232-4636), TTY: 888-232-6348
+	•	Email CDC-INFO   
+	•	U.S. Department of Health & Human Services 
+	•	HHS/Open 
+	•	USA.gov   
+Top
+￼ 

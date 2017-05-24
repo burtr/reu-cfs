@@ -1,0 +1,812 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Diabetes
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Adults aged ≥18 years with diagnosed diabetes who have taken a diabetes self-management course
+	•	Amputation of a lower extremity attributable to diabetes
+	•	Diabetes prevalence among women aged 18–44 years
+	•	Dilated eye examination among adults aged ≥ 18 years with diagnosed diabetes
+	•	Foot examination among adults aged ≥ 18 years with diagnosed diabetes
+	•	Glycosylated hemoglobin measurement among adults aged ≥ 18 years with diagnosed diabetes
+	•	Hospitalization with diabetes as a listed diagnosis
+	•	Influenza vaccination among non-institutionalized adults aged ≥ 65 years with diagnosed diabetes
+	•	Influenza vaccination among non-institutionalized adults aged 18–64 years with diagnosed diabetes
+	•	Mortality with diabetes reported as any listed cause of death
+	•	Mortality with diabetic ketoacidosis reported as any listed cause of death
+	•	Pneumococcal vaccination among non-institutionalized adults aged ≥ 65 years with diagnosed diabetes
+	•	Pneumococcal vaccination among non-institutionalized adults aged 18–64 years with diagnosed diabetes
+	•	Prevalence of depressive disorders among adults aged ≥18 years with diagnosed diabetes
+	•	Prevalence of diagnosed diabetes among adults aged ≥ 18 years
+	•	Prevalence of gestational diabetes 
+	•	Prevalence of self-reported high blood pressure among adults aged ≥18 years with diagnosed diabetes
+	•	Prevalence of self-reported high cholesterol among adults aged ≥ 18 years with diagnosed diabetes
+	•	Prevalence of pre-pregnancy diabetes 
+	•	Visits to dentist or dental clinic among adults aged ≥ 18 years with diagnosed diabetes
+Adults aged ≥18 years with diagnosed diabetes who have taken a diabetes self-management course
+Category: Diabetes
+Demographic Group:
+All resident persons aged ≥18 years
+Numerator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) who report ever taking a course or class in how to self-manage diabetes.
+Denominator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard US population, distribution 81) with 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year
+Background:
+In 2010, approximately 57% of adults aged 18 years and older with diagnosed diabetes reported ever receiving diabetes self-management education (age-adjusted to the year 2000 population).2
+Significance:
+The American Diabetes Association recommends that people with diabetes receive diabetes self-management education (DSME) as outlined in the national standards for DSME at the time of their diagnosis and as needed thereafter. 3  DSME is an essential component of diabetes care and the national standards are based on evidence of its benefits.  It assists people with diabetes in effectively managing their disease when they are initially diagnosed, and helps them continue a high-quality level of self-care that is essential for optimizing metabolic control, managing complications, and having an acceptably high quality of life. 
+Limitations of Indicator:
+Data are limited to those states that ask the optional BRFSS Diabetes Module. Definition of “course or class” is not well defined.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.4
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-14:  Increase the proportion of persons with diagnosed diabetes who receive formal diabetes education from 56.8% in 2008 to 62.5% (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	American Diabetes Association. Standards of medical care in diabetes—2013. Diabetes Care 2013;36(Suppl. 1):S11–S66. Available at http://care.diabetesjournals.org/content/36/Supplement_1/S11.full.pdf+html
+	4.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Amputation of a lower extremity attributable to diabetes
+Category: Diabetes
+Demographic Group:
+All resident persons.
+Numerator:
+Hospitalizations with a first-listed or contributing diagnosis of International Classification of Diseases (ICD)-9-CM code 250 and a procedure of ICD-9-CM code 84.1, and not having ICD-9-CM codes 895–897 (traumatic amputation) among residents during a calendar year.  Search all diagnostic fields.  When possible, include hospitalizations for residents who are hospitalized in another state.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of persons hospitalized.  Annual hospitalization rates — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 41) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+Diabetes is the leading cause of nontraumatic amputation in the United States, listed as a diagnosis in approximately 68,000 hospital discharges for nontraumatic amputations in 2009.2
+Significance:
+Multiple long-term complications of diabetes, including amputation, can be prevented through glucose, lipid, and blood pressure regulation, and screening and treatment for foot abnormalities.3  Means to prevent amputation include improved patient education and self-management.3
+Limitations of Indicator:
+Approximately one fourth of cases of diabetes are undiagnosed.3
+Data Resources:
+State hospital discharge data (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator). 
+Limitations of Data Resources:
+Diagnoses and procedures listed on hospital discharge data might be inaccurate.  Practice patterns and payment mechanisms might affect decisions by health-care providers to hospitalize patients.  Residents of one state might be hospitalized in another state and not be reflected in the first state’s hospital data set.  Hospital discharge data does not allow identification of amputations that are new (incident case) versus a second amputation for an individual. Multiple, but unrecognized, admissions for one person can falsely elevate the number of persons hospitalized lower extremity amputations.  Because state hospital discharge data are not universally available, aggregation of state data to produce nationwide estimates will be incomplete. 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-4: Reduce the rate of lower extremity amputations in persons with diagnosed diabetes to less than 3.5 lower extremity amputations per 1,000 persons with diagnosed diabetes (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+Disability
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us. 
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+ 
+ Top of Page
+Diabetes prevalence among women aged 18–44 years
+Category: Diabetes
+Demographic Group:
+Women aged 18–44 years.
+Numerator:
+Female respondents aged 18–44 years who reported ever being told by a doctor that they have diabetes. Women with gestational diabetes would be included in the numerator, but women with prediabetes or borderline diabetes would not.
+Denominator:
+Female respondents aged 18–44 years who did or did not report ever been told by a doctor that they have diabetes (excluding unknowns and refusals).
+Measures of Frequency:
+Crude annual prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+In 2005–2006, about 8% of women aged ≥20 years had diagnosed diabetes (age adjusted to the year 2000 population).1 In 2003–2004, 4.2% of pregnant women aged 15–44 years had gestational diabetes.2
+Significance:
+Diabetes is the seventh leading cause of death in the United States, and is associated with serious health complications including heart disease, blindness, kidney failure, and lower-extremity amputations.3 In addition, gestational diabetes can cause serious problems for both mothers and babies. 4  Because preconceptional and prenatal control of diabetes reduces the risk of congenital malformations, pregnancy loss, and perinatal mortality, the Clinical Work Group of the Select Panel on Preconception Care recommends that all diabetic women of reproductive age be counseled before pregnancy about the importance of diabetes control.4,5
+Limitations of Indicator:
+Indicator is based on self-reported data that were not confirmed by a physician.  However, self-reported diabetes data from BRFSS has consistently yielded high reliability and moderate validity, which is also consistent with other research demonstrating underreporting of diabetes.6 There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18–44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.7
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Cowie CC, Rust KF, Ford ES, et al.Full accounting of diabetes and pre-diabetes in the U.S. population in 1988-1994 and 2005-2006. Diabetes Care 2009;32(2):287–94.
+	2.	Getahun D, Nath C, Ananth CV, Chavez MR, Smulian JC. Gestational diabetes in the United States: temporal trends 1989 through 2004. Am J Obstet Gynecol 2008;198(5):525.e1–5.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	Dunlop AL, Jack BW, Bottalico JN, et al. The clinical content of preconception care: women with chronic medical conditions. Am J Obstet Gynecol 2008; 199(6 Suppl 2):S310–27.
+	5.	CDC. Recommendations to improve preconception health and health care—United States: a report of the CDC/ATSDR Preconception Care Work Group and the Select Panel on Preconception Care.  MMWR 2006;55(RR–6):1–23.
+	6.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med 2001; 46 Suppl 1:S3–42.
+	7.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Dilated eye examination among adults aged ≥ 18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant) who report having received a dilated eye exam within the previous year.
+Denominator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 81) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+In 2010, approximately 63% of adults with diabetes reported having received a dilated eye exam within the previous year (age adjusted to the year 2000 population).2
+Significance:
+Routine dilated eye examinations can lead to early detection and effective treatment of complications.3  Persons with diabetes are at increased risk for blindness as a result of retinopathy. 3  Diabetes is the leading cause of new cases of blindness among adults aged 20–74 years.3
+Limitations of Indicator:
+Respondents might not distinguish between dilated and non-dilated eye examinations.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.4
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-10:  Increase the proportion of adults with diabetes who have an annual dilated eye examination from 53.4% in 2008 to 58.7% (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Foot examination among adults aged ≥ 18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told having diabetes only when pregnant) who report having received at least one clinical foot examination within the previous year.
+Denominator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told having diabetes only when pregnant, refusals, and unknowns). 
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 81) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+In 2010, approximately 68% of adults with diagnosed diabetes reported having received at least one foot examination in the past 12 months (age adjusted to the year 2000 population).2
+Significance:
+Persons with diabetes are at increased risk for pathologic changes of their lower extremities that, when combined with minor trauma and infection, can lead to serious foot problems, including amputation.3  Diabetes is the leading cause of nontraumatic amputation in the United States, listed as a diagnosis in approximately 68,000 hospital discharges for nontraumatic amputations in 2009.2 Routine and periodic foot examination can greatly reduce rates of lower-extremity amputation.4 
+Limitations of Indicator:
+The reliability and validity of this indicator are unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-9:  Increase the proportion of adults with diabetes who have at least an annual foot examination from 68.0% in 2008 to 74.8% (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	Boulton AJM, Bowling FL. Diabetes and lower extremity diseases. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:161–171.
+	4.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Glycosylated hemoglobin measurement among adults aged ≥ 18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional  that they have diabetes (excluding women who were told having diabetes only when pregnant,  refusals and unknowns) who report having their A1c checked  at least twice in last 12 months by a doctor, nurse or other health professional.
+Denominator:
+Respondents aged ≥ 18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told having diabetes only when pregnant, refusals, and unknowns).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard US population, distribution 81) with 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year
+Background:
+In 2010, approximately 69% of adults ≥ 18 years with diagnosed diabetes reported having an A1c measurement at least twice in the last 12 months (age adjusted to the year 2000 population).2
+Significance:
+Testing for glycosylated hemoglobin is recommended for people with diabetes at least twice a year.3 The number of glycosylated hemoglobin tests is an indicator of diabetes care and provider effort in monitoring the patient’s glycemic control.
+Limitations of Indicator:
+Although testing for glycosylated hemoglobin is recommended for people with diabetes,3 the number of tests is not an  indicator of the patient’s current glycemic control, or lack thereof. Persons who reported they have never heard of an A1c test are not counted as not having the test.  It is possible that some of the respondents have had the test and reported that they do not know due to unawareness, or communication or cognitive difficulties.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.4
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-11:  Increase the proportion of adults with diabetes who have a glycosylated hemoglobin measurement at least twice a year from 64.6% in 2008 to 71.1% (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	American Diabetes Association. Standards of medical care in diabetes—2013. Diabetes Care 2013;36(Suppl. 1):S11–S66. Available at http://care.diabetesjournals.org/content/36/Supplement_1/S11.full.pdf+html
+	4.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Hospitalization with diabetes as a listed diagnosis
+Category: Diabetes
+Demographic Group:
+All resident persons.
+Numerator:
+Hospitalizations with a first-listed or contributing diagnosis of International Classification of Diseases (ICD)-9-CM code 250.  Search all diagnostic fields among residents during a calendar year.  When possible, include hospitalizations for residents who are hospitalized in another state.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of hospitalizations.  Annual hospital rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 41) with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2009, approximately 5.5 million hospitalizations had diabetes listed as a diagnosis, including 688,000 (12.5%) hospitalizations with diabetes listed as the principal diagnosis.2 In 2010, among hospital discharges with diabetes as any-listed diagnosis in adults aged ≥18 years, circulatory diseases were the most frequent first-listed diagnosis, accounting for about one-fourth of all discharges.2
+Significance:
+Long-term complications of diabetes requiring hospitalization can be prevented through glucose, lipid, and blood pressure regulation, as well as screening and treatment for eye, foot, and kidney abnormalities.3  Patient education, self-management, and medical care can prevent complications.
+Limitations of Indicator:
+Because diabetes is a chronic disease and approximately one fourth of cases are undiagnosed, 3.  The number of diagnoses listed on discharge abstracts might vary by person completing the abstract and geographic region of the United States. Hospital discharge records cannot identify incident (new) hospitalizations for diabetes.  
+Data Resources:
+State hospital discharge data (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Diagnoses listed on hospital discharge data might be inaccurate.  Practice patterns and payment mechanisms might affect decisions by health-care providers to hospitalize patients.  Residents of one state might be hospitalized in another state and not be reflected in the first state’s hospital data set.  Multiple admissions for one person might falsely elevate the number of persons with diabetes.  Because no universal availability of state hospital discharge data exists, aggregation of state data to produce nationwide estimates will be incomplete. 
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged ≥ 65 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Non-institutionalized persons aged ≥65 years  
+Numerator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant) who report having received an influenza vaccination in the previous 12 months.
+Denominator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) who report having received or not having received an influenza vaccination in the previous 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of diabetes, 2- or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Diabetes:  Lifetime (ever diagnosed). Vaccination:  Previous 12 months.
+Background:
+In 2011, about 20% of adults aged ≥65 years reported they had ever been told they had diabetes.2 Among adults ≥65 years with diagnosed diabetes, about 70% reported in 2010 having received influenza vaccination in the past 12 months.2
+Significance:
+Influenza and pneumonia are associated with high morbidity and mortality in people with diabetes.3  However, among patients with diabetes, influenza vaccination was associated with a 56% reduction in any complication, a 54% reduction in hospitalizations, and a 58% reduction in deaths.4 Because an annual influenza vaccination might prevent or attenuate the clinical course of respiratory illness attributable to influenza, CDC’s Advisory Committee on Immunization Practices recommends yearly influenza vaccination of persons with diabetes.5 
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.7  Self-report of influenza vaccination among adults aged ≥66 years compared with determining vaccination status from the medical record is a sensitive source of information.6
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12: Increase the percentage of adults who are vaccinated against influenza (IID-12.7 is specific for non-institutionalized adults aged ≥65 years).  The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23. Healthy People OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	Egede LE, Soule JB. Diabetes and acute metabolic complications, infections, and inflammation. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:95–110.
+	4.	Looijmans-Van den Akker I, Verheij TJ, Buskens E, et al. Clinical effectiveness of first and repeat influenza vaccination in adult and elderly diabetic patients. Diabetes Care 2006;29:1771–1776.
+	5.	Smith SA, Poland GA. Immunization and the prevention of influenza and pneumococcal disease in people with diabetes. Diabetes Care 2003;26(Suppl. 1):S126–S128.
+	6.	Zimmerman RK, Raymund M, Janosky JE, et al. Sensitivity and specificity of patient self-report of influenza and pneumococcal poly-saccharide vaccinations among elderly outpatients in diverse patient care strata. Vaccine 2003;21:1486–1491.
+	7.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged 18–64 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Non-institutionalized persons aged 18–64 years
+Numerator:
+Respondents aged 18–64 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant) who report having received an influenza vaccination in the previous 12 months.
+Denominator:
+Respondents aged 18–64 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns)  who report having received or not having received an influenza vaccination in the previous 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of diabetes, 2- or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Diabetes:  Lifetime (ever diagnosed). Vaccination:  Previous 12 months.
+Background:
+In 2010, 50% of adults aged ≥18 years with diagnosed diabetes reported having received influenza vaccination in the last year (age adjusted to the year 2000 population).2
+Significance:
+Influenza and pneumonia are associated with high morbidity and mortality in people with diabetes.3 However, among patients with diabetes , influenza vaccination was associated with a 56% reduction in any complication, a 54% reduction in hospitalizations, and a 58% reduction in deaths.4 Because an annual influenza vaccination might prevent or attenuate the clinical course of respiratory illness attributable to influenza, CDC’s Advisory Committee on Immunization Practices recommends yearly influenza vaccination of persons with diabetes.5 
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.6 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12: Increase the percentage of adults who are vaccinated against influenza. (IID-12.6 is specific for non-institutionalized high-risk adults aged 18-64 years.)  The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23. Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported influenza vaccination within the past year.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	Egede LE, Soule JB. Diabetes and acute metabolic complications, infections, and inflammation. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:95–110.
+	4.	Looijmans-Van den Akker I, Verheij TJ, Buskens E, et al. Clinical effectiveness of first and repeat influenza vaccination in adult and elderly diabetic patients. Diabetes Care 2006;29:1771–1776.
+	5.	Smith SA, Poland GA. Immunization and the prevention of influenza and pneumococcal disease in people with diabetes. Diabetes Care 2003;26(Suppl. 1):S126–S128.
+	6.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html [article online], 2013.
+ 
+ Top of Page
+Mortality with diabetes reported as any listed cause of death
+Category: Diabetes
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes E10-E14 as an underlying or contributing cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths.  Annual death rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 41) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+During 2011, diabetes was the seventh leading cause of death in the United States, resulting in approximately 73,000 deaths.2 Diabetes is two times as likely to be listed as a contributing cause of death than as the underlying cause of death.3 In 2004, heart disease was noted on 68% of diabetes-related death certificates among people aged  ≥65 years.4
+Significance:
+Multiple long-term complications of diabetes can be prevented through regular, optimal blood glucose, blood lipid, and blood pressure monitoring and through screening and treatment for eye, foot, and kidney abnormalities.3  Means to prevent complications include improved patient education and self-management and provision of adequate and timely screening services and medical care.3
+Limitations of Indicator:
+Approximately one fourth of cases of diabetes are undiagnosed.3 Diabetes is likely to be underreported as a cause of death, listed on the death certificates of only approximately 40% of decedents who actually had diabetes.5
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.  The number of contributing causes of death listed on the death certificate can vary by person completing the death certificate and geographic region. If this estimate is calculated within the diabetes population, restrict the denominator to only persons with diabetes.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-3:  Reduce the diabetes death rate from 73.1 per 100,000 population in 2007 to 65.8 per 100,000 population (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+Cardiovascular Disease; Nutrition, Physical Activity, and Weight Status
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Hoyert DL, Xu JQ. Deaths: Preliminary data for 2011. National vital statistics reports; vol 61 no 6. Hyattsville, MD: National Center for Health Statistics. 2012.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	Gorina Y, Lentzer H. Multiple Causes of Death in Old Age. Hyattsville: Aging Trends, No.9. National Center for Health Statistics, CDC; 2008. Available at http://www.cdc.gov/nchs/data/ahcd/agingtrends/09causes.pdf
+	5.	McEwen LN, Kim C, Haan M, Ghosh D, Lantz PM, Mangione CM, Safford MM, Marrero D, Thompson TJ, Herman WH; TRIAD Study Group. Diabetes reporting as a cause of death: results from the Translating Research Into Action for Diabetes (TRIAD) study. Diabetes Care 2006;29:247–53.
+ 
+ Top of Page
+Mortality with diabetic ketoacidosis reported as any listed cause of death
+Category: Diabetes
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths from International Classification of Diseases (ICD)-10 codes E10.1, E11.1, E12.1, E13.1, E14.1 as an underlying or contributing cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths.  Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 41) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+During 2009, hyperglycemic crisis, which includes diabetic ketoacidosis (DKA) and hyperglycemic hyperosmolar state, was listed as the underlying cause of death for approximately 2,400 persons.2  DKA is more frequent among persons with type 1 diabetes than among persons with type 2.3  Diabetes is two times as likely to be listed as a contributing cause of death than as the underlying cause of death.4  In 2004, heart disease was noted on 68% of diabetes-related death certificates among people aged ≥65 years.5
+Significance:
+DKA is a life-threatening condition.  Among persons with diagnosed diabetes, DKA is substantially preventable through improved patient education and self-management and provision of adequate and timely medical care.3
+Limitations of Indicator:
+Although the percent awareness of having the disease (diabetes) is higher among persons with type 1diabetes than among those with type 2 diabetes, approximately one fourth of all cases of diabetes are undiagnosed.4  Also, although DKA is an acute event and would be expected to be listed more frequently than diabetes as the underlying cause of death, diabetes is listed on the death certificates of only approximately 40% of decedents who actually had diabetes.6
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.  The number of contributing causes of death listed on the death certificate might vary by the person completing the death certificate and geographic region.  If this estimate is calculated within the diabetes population, restrict the denominator to only persons with diabetes.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us. 
+	3.	Nyenwe EA, Kitabchi AE. Evidence-based management of hyperglycemic emergencies in diabetes mellitus. Diabetes Res Clin Pract. 2011;94(3):340–51.
+	4.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	5.	Gorina Y, Lentzer H. Multiple Causes of Death in Old Age. Hyattsville: Aging Trends, No.9. National Center for Health Statistics, CDC; 2008. Available at http://www.cdc.gov/nchs/data/ahcd/agingtrends/09causes.pdf
+	6.	McEwen LN, Kim C, Haan M, Ghosh D, Lantz PM, Mangione CM, Safford MM, Marrero D, Thompson TJ, Herman WH; TRIAD Study Group. Diabetes reporting as a cause of death: results from the Translating Research Into Action for Diabetes (TRIAD) study. Diabetes Care 2006;29:247–53.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged ≥ 65 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Non-institutionalized persons aged ≥65 years
+Numerator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant) and who report having ever received a pneumococcal vaccination.
+Denominator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) and who report ever having received or not ever having received a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of diabetes, 2- or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Diabetes: Lifetime (ever diagnosed) Vaccination:  Lifetime (ever been vaccinated).
+Background:
+In 2011, about 20% of adults aged ≥65 years reported they had ever been told they had diabetes.2 Among adults with diagnosed diabetes aged ≥65 years, 70% of those aged 65–74 years and 80% of those aged ≥75 years reported in 2010 ever having received pneumococcal vaccination.2
+Significance:
+ People with diabetes are more susceptible to pneumonia and more likely to die of pneumococcal infections than those without diabetes.3 Because a pneumococcal vaccination might prevent or attenuate the clinical course of respiratory illness attributable to Streptococcus pneumonia, CDC’s Advisory Committee on Immunization Practices recommends pneumococcal vaccination of persons with diabetes.4 
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from non-coverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5 The National Health Interview Survey (NHIS) can be used as an alternative data source; however, the size of the sample from NHIS might not be adequate for calculating stable, state-specific estimates.   Self-report of pneumococcal vaccination among adults aged ≥65 years compared with determining vaccination status from the medical record or from Medicare claim is a sensitive source of information.6,7
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13: Increase the percentage of adults who are vaccinated against pneumococcal disease. (IID-13.1 is specific for non-institutionalized high-risk adults aged ≥ 65 years.) Healthy People OA-2: Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	Egede LE, Soule JB. Diabetes and acute metabolic complications, infections, and inflammation. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:95–110.
+	4.	Smith SA, Poland GA. Immunization and the prevention of influenza and pneumococcal disease in people with diabetes. Diabetes Care 2003;26(Suppl. 1):S126–S128.
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+	6.	Shenson D, DiMartino D, Bolen J, Campbell M, Lu PJ, Singleton JA. Validation of self-reported pneumococcal vaccination in behavioral risk factor surveillance surveys: experience from the sickness prevention achieved through regional collaboration (SPARC) program. Vaccine 2005;23:1015–1020.
+	7.	Zimmerman RK, Raymund M, Janosky JE, et al. Sensitivity and specificity of patient self-report of influenza and pneumococcal poly-saccharide vaccinations among elderly outpatients in diverse patient care strata. Vaccine 2003;21:1486–1491.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged 18–64 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Non-institutionalized persons aged 18–64 years.
+Numerator:
+Respondents aged 18–64 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant) and who report having ever received a pneumococcal vaccination.
+Denominator:
+Respondents aged 18–64 years ever told by a doctor or health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) and who report ever having received or not ever having received a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of diabetes, 2- or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Diabetes: Lifetime (ever diagnosed) Vaccination: Lifetime (ever been vaccinated).
+Background:
+In 2011, 9% of adults aged ≥18 years reported they had ever been told they had diabetes, and among those who reported having diabetes, 43% reported having ever received pneumococcal vaccination.2
+Significance:
+People with diabetes are more susceptible to pneumonia and more likely to die of pneumococcal infections than those without diabetes.3 Because a pneumococcal vaccination might prevent or attenuate the clinical course of respiratory illness attributable to Streptococcus pneumonia, CDC’s Advisory Committee on Immunization Practices recommends pneumococcal vaccination of persons with diabetes.4 
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations. The reliability and validity of this measure is unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from non-coverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5 The National Health Interview Survey (NHIS) can be used as an alternative data source; however, the size of the sample from NHIS might not be adequate for calculating stable, state-specific estimates. 
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13: Increase the percentage of adults who are vaccinated against pneumococcal disease. (IID-13.2 is specific for non-institutionalized high-risk adults aged 18–64 years.)
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	Egede LE, Soule JB. Diabetes and acute metabolic complications, infections, and inflammation. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:95–110.
+	4.	Smith SA, Poland GA. Immunization and the prevention of influenza and pneumococcal disease in people with diabetes. Diabetes Care 2003;26(Suppl. 1):S126–S128.
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Prevalence of depressive disorders among adults aged ≥18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+All resident persons aged ≥18 years
+Numerator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals and unknowns) who report having ever been told that they had a depressive disorder (including depression, major depression, dysthymia or minor depression).
+Denominator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals and unknowns).
+Measures of Frequency:
+Annual prevalence –crude and age-adjusted (standardized by the direct method to the year 2000 standard US population, distribution 81) with 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+ Diabetes: lifetime (ever diagnosed) Depressive disorders: lifetime (ever diagnosed)
+Background:
+People with diabetes are twice as likely to have depression, which can complicate diabetes management, than people without diabetes.2 In addition, depression is associated with a 60% increased risk of developing type 2 diabetes.2
+Significance:
+Poor glucose control is associated with depression, a factor to be considered when developing diabetes treatment programs.3 Screening for and treatment of depression is appropriate and may improve glycemic control.3
+Limitations of Indicator:
+BRFSS measures “ever told they had a depressive disorder” which may overestimate the diagnosis of depressive disorders.  Some respondents may not understand the meaning of the terms in the question, as descriptions of disorders are not precise, or may experience a stigma associated with depression and alter their responses accordingly.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.4
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	3.	American Diabetes Association. Standards of medical care in diabetes—2013. Diabetes Care 2013;36(Suppl. 1):S11–S66. Available at http://care.diabetesjournals.org/content/36/Supplement_1/S11.full.pdf+html
+	4.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Prevalence of diagnosed diabetes among adults aged ≥ 18 years
+Category: Diabetes
+Demographic Group:
+Resident persons aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years who report ever been told by a doctor or other health professional that they have diabetes other than diabetes during pregnancy.
+Denominator:
+Respondents aged ≥ 18 years who report or do not report ever been told by a doctor or other health professional that they have diabetes (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 81) with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Lifetime (ever diagnosed).
+Background:
+In 2011, 9% of the U.S. adult population aged ≥ 18 years had diagnosed diabetes. 2  Substantial differences in diabetes prevalence exist by age, race, and ethnicity.3
+Significance:
+The burden of diabetes in the United States has increased with the increasing prevalence of obesity.3  Multiple long-term complications of diabetes can be prevented through improved patient education and self-management and provision of adequate and timely screening services and medical care.4
+Limitations of Indicator:
+Approximately one fourth of cases of diabetes are undiagnosed.4
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Nutrition, Physical Activity, and Weight Status
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us. 
+	3.	Geiss LS, Cowie C. Type 2 diabetes and persons at high risk of diabetes. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:15–32.
+	4.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Prevalence of gestational diabetes
+Category: Diabetes
+Demographic Group:
+Women aged 18–44 years who have had a live birth.
+Numerator:
+Number of women who have had a live birth where gestational diabetes is listed on the birth certificate.
+Denominator:
+Number of women who have had a live birth.
+Measures of Frequency:
+Annual prevalence and 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+The prevalence of gestational diabetes in the United States is increasing, and in 2003–2004, 4.2% of pregnant women aged 15–44 years had gestational diabetes.1 Rates of gestational diabetes in some populations range from 2% to 10%.2 putting more than 200,000 U.S. women in 2011 at risk for subsequently developing type 2 diabetes.
+Significance:
+Gestational diabetes is defined as having abnormally high blood glucose levels first detected in pregnancy.2  This abnormality usually disappears after pregnancy; however, women who have had gestational diabetes have a 35% to 60% chance of developing diabetes in the next 10–20 years.2 Infants born to women with gestational diabetes also have a higher risk of developing type 2 diabetes. 3   Among women at risk, maintaining a healthy weight and increasing physical activity can reduce the risk of type 2 diabetes by more than 50%.4
+Limitations of Indicator:
+Difficulties in documenting and reaching consensus on the prevalence of gestational diabetes exist for a number of reasons including the use of various diagnostic criteria, past confusion about the specific criteria used to diagnose gestational diabetes, and the lack of a universal recommendation for screening and diagnosis.  It was a developmental Healthy People 2010 objective, but was discontinued mid-term for lack of data.  Based on a Gestational Diabetes Consensus Panel convened on March 2013, NIH released a draft consensus statement on screening and diagnosis of gestational diabetes.5  Electronic medical records are expected to enhance accuracy of hospital records data.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18–44 years.
+Data Resources:
+Birth certificate, National Vital Statistics System
+Limitations of Data Resources:
+Not all states use the 2003 version of birth certificates and may not identify gestational diabetes separately from diabetes.  Birth certificates may not be accurate in documenting maternal health status. 
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Getahun D, Nath C, Ananth CV, Chavez MR, Smulian JC. Gestational diabetes in the United States: temporal trends 1989 through 2004. Am J Obstet Gynecol 2008;198(5):525.e1–5.
+	2.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	3.	Correa-Villaseñor A, Marcinkevage JACowie C. Diabetes in pregnancy. In: Venkat Narayan KM, Williams D, Gregg EW, Cowie C, eds. Diabetes public health: from data to policy. New York, NY: Oxford University Press; 2011:195–223.
+	4.	Knowler WC, Barrett-Connor E, Fowler SE, et al; Diabetes Prevention Program Research Group. Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J Med 2002;346:393–403.
+	5.	Vandorsten JP, Dodson WC, Espeland MA, et al. NIH consensus development conference: diagnosing gestational diabetes mellitus. NIH Consens State Sci Statements. 2013 Mar 6;29(1):1–31.
+ 
+ Top of Page
+Prevalence of self-reported high blood pressure among adults aged ≥18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+All resident persons aged ≥18 years
+Numerator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant,  refusals and unknowns) who report having ever been told by a doctor, nurse or other health professional that they had high blood pressure (excluding during pregnancy).
+Denominator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals and unknowns).
+Measures of Frequency:
+Biannual (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard US population, distribution 81) with 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Diabetes: lifetime (ever diagnosed) High blood pressure: lifetime (ever diagnosed)
+Background:
+In 2009, about 57% of adults aged ≥18 years with diagnosed diabetes reported having high blood pressure (age adjusted to the year 2000 population).2
+Significance:
+Hypertension is an extremely common comorbidity in patients with diabetes.3  In 2005–2008, about two-thirds of adults aged ≥20 years with self-reported diabetes had blood pressure greater than or equal to 140/90 millimeters of mercury or used prescription medications for high blood pressure.3 The development of hypertension in patients with diabetes is particularly harmful, as the incidence of cardiovascular complications, including heart attack, stroke, and peripheral vascular disease, is strongly associated with increasing systolic blood pressure.4 Hypertension is also thought to play a major role in the development of retinopathy, nephropathy, and possibly neuropathy.3,4  Early detection and treatment is essential to prevent these complications. 
+Limitations of Indicator:
+BRFSS measures “ever told they had high blood pressure” which may be overestimating the diagnosis of hypertension.  Also the parameters of ‘high’ blood pressure values are not defined.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-7:  Increase the proportion of the population with diagnosed diabetes whose blood pressure is under control from 51.8% of adults aged ≥18 years with blood pressure under control in 2005–2008 to 57.0% (age adjusted to the year 2000 population). 
+Related CDI Topic Area:
+Cardiovascular Disease
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	Adler AI, Stratton IM, Neil HA, Yudkin JS, Matthews DR, Cull CA, Wright AD, Turner RC, Holman RR. Association of systolic blood pressure with macrovascular and microvascular complications of type 2 diabetes (UKPDS 36): prospective observational study. BMJ 2000;321:412–419.
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ 
+ Top of Page
+Prevalence of self-reported high cholesterol among adults aged ≥ 18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+All resident persons aged ≥18 years
+Numerator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) who report having ever been told by a doctor, nurse or other health professional that they had high cholesterol.
+Denominator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns).
+Measures of Frequency:
+Biannual (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard US population, distribution 81) with 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Diabetes: lifetime (ever diagnosed) High cholesterol: lifetime (ever diagnosed)
+Background:
+In 2009, approximately 58% of U.S. adults aged ≥18 years with diagnosed diabetes reported having high blood cholesterol (age adjusted to the year 2000 population).2
+Significance:
+Diabetes is a major risk factor for coronary heart disease and other forms of cardiovascular disease.3 Reducing cholesterol levels in people with diabetes reduces the risk for cardiovascular complications.3
+Limitations of Indicator:
+BRFSS measures “ever told they had high cholesterol” which may be overestimating the diagnosis of high cholesterol.  Also, the parameters for “high” cholesterol are not defined.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.4
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-6: Improve lipid control among persons with diagnosed diabetes from 53.1% of adults aged ≥18 years with LDL cholesterol < 100 mg/dL in 2005–2008 to 58.4%.  National Heart Lung and Blood Institute, National Cholesterol Education Program
+Related CDI Topic Area:
+Cardiovascular Disease
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National Diabetes Surveillance System. Available at http://www.cdc.gov/diabetes/statistics/us.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html [article online], 2013.
+ 
+ Top of Page
+Prevalence of pre-pregnancy diabetes
+Category: Diabetes
+Demographic Group:
+Women aged 18–44 years who have had a live birth.
+Numerator:
+Respondents aged 18–44 years who reported ever being told by a doctor, nurse or health care worker that they had type 1 or type 2 diabetes before the pregnancy that resulted in their most recent live birth.
+Denominator:
+Respondents aged 18–44 years who reported that they had or had not ever been told by a doctor, nurse or health care worker that they had type 1 or type 2 diabetes before the pregnancy that resulted in their most recent live birth (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+Based on 2005 clinical data, among women aged 13–58 years in southern California with singleton deliveries of ≥20 weeks’ gestation, pre-existing diabetes was identified in 1.8 per 100 pregnancies and gestational diabetes was diagnosed in 7.4 per 100 pregnancies.1 In 2005, in this study of racially diverse pregnant women with diabetes, 21% had pre-existing diabetes and 79% had gestational diabetes.1
+Significance:
+Women with diabetes are at an increased risk for complications during pregnancy, and are more likely than non-diabetic women to experience adverse infant health outcomes such as large for gestational-age birth weight and birth defects.2,3  Macrosomia (i.e., large for gestational age) increases the risk of labor complications, cesarean delivery, intracranial hemorrhage, shoulder dystocia, and respiratory distress.2,3  Because preconceptional and prenatal control of diabetes reduces the risk of congenital malformations, pregnancy loss, and perinatal mortality, the Clinical Work Group of the Select Panel on Preconception Care recommends that all diabetic women of reproductive age be counseled about the importance of diabetes control before pregnancy and appropriately treated to achieve diabetes control.4,5
+Limitations of Indicator:
+Women experiencing a fetal death or abortion are excluded.  These data are self-reported, were not confirmed by a physician, and may be subject to misclassification bias.  In addition, there are no means to differentiate between type 1 and type 2 diabetes.  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18–44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS).
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Lawrence JM, Contreras R, Chen W, Sacks DA. Trends in the prevalence of preexisting diabetes and gestational diabetes mellitus among a racially/ethnically diverse population of pregnant women, 1999–2005. Diabetes Care 2008;31(5):899–904.
+	2.	Temple RC, Aldridge VJ, Murphy HR. Prepregnancy care and pregnancy outcomes in women with type 1 diabetes. Diabetes Care 2006; 29:1744–9.
+	3.	Clausen TD, Mathiesen E, Ekbom P, et al. Poor pregnancy outcome in women with type 2 diabetes. Diabetes Care 2005;28:323–8.
+	4.	Dunlop AL, Jack BW, Bottalico JN, et al. The clinical content of preconception care: women with chronic medical conditions. Am J Obstet Gynecol 2008;199(6 Suppl B):S310–27.
+	5.	CDC. Recommendations to improve preconception health and health care—United States: a report of the CDC/ATSDR Preconception Care Work Group and the Select Panel on Preconception Care.  MMWR 2006; 55:1–23. 
+ 
+ Top of Page
+Visits to dentist or dental clinic among adults aged ≥ 18 years with diagnosed diabetes
+Category: Diabetes
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns) who report having visited a dentist or dental clinic within the previous year.
+Denominator:
+Respondents aged ≥18 years ever told by a doctor or other health professional that they have diabetes (excluding women who were told only when pregnant, refusals, and unknowns).
+Measures of Frequency:
+Prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 81) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+In 2004, among the 50 states, the District of Columbia, and the U.S. territories, the median estimated age-adjusted percentage of dentate adults with diabetes who had a dental visit during the preceding 12 months was 67.3% (range: 49.1%–83.3%).2
+Significance:
+Periodontal disease is a major complication of diabetes.3 The American Diabetes Association recommends a dentist referral for a comprehensive periodontal examination for people with diabetes.4
+Limitations of Indicator:
+Approximately one fourth of cases of diabetes are undiagnosed.3 The dental visit indicator does not convey the reasons for the visit or whether dental care was actually received.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.5
+Related Indicators or Recommendations:
+Healthy People 2020 Objective D-8:  Increase the proportion of persons with diagnosed diabetes who have at least an annual dental examination from 55.6% in 2008 to 61.2% (age adjusted to the year 2000 population).
+Related CDI Topic Area:
+Oral Health
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People 2010 Stat Notes 2001;20:1–10. Available at http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Dental visits among dentate adults with diabetes — United States, 1999 and 2004. MMWR 2005;54(46):1181–3.
+	3.	CDC. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+	4.	American Diabetes Association. Standards of medical care in diabetes—2013. Diabetes Care 2013;36(Suppl. 1):S11–S66. Available at http://care.diabetesjournals.org/content/36/Supplement_1/S11.full.pdf+html
+	5.	CDC. Behavioral Risk Factor Surveillance System: methodologic changes in the Behavioral Risk Factor Surveillance System in 2011 and potential effects on prevalence estimates. Available at http://www.cdc.gov/surveillancepractice/reports/brfss/brfss.html[article online], 2013.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

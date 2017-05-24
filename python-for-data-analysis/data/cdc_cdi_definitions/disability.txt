@@ -1,0 +1,166 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Disability
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Disability among adults aged ≥ 65 years
+	•	
+Disability among adults aged ≥ 65 years
+Category: Disability
+Demographic Group:
+All resident persons aged ≥ 65 years.
+Numerator:
+Number of persons aged 65 ≥ years who responded yes to the following set of questions: 1) Are you deaf or do you have serious difficulty hearing?; 2) Are you blind or do you have serious difficulty seeing, even when wearing glasses?; 3) Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions?;4)  Do you have serious difficulty walking or climbing stairs?; 5) Do you have difficulty dressing or bathing?; and, 6) Because of a physical, mental, or emotional condition, do you have difficulty doing errands alone such as visiting a doctor's office or shopping?
+Denominator:
+Number of persons aged ≥65 years.
+Measures of Frequency:
+Annual prevalence; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+The six item set of questions used on the ACS and other major surveys to measure disability was developed by a federal interagency committee and reflects the change in how disability is conceptualized consistent with the International Classification of Functioning, Disability, and Health.1  The question set defines disability from a functional perspective and was developed so that disparities between the 'disabled' and 'nondisabled' population can be monitored. The question set went through several rounds of cognitive and field testing and has been adopted in many federal data collection systems. OMB has encouraged the use of this question set by other federal agencies conducting similar population studies due to the extensive testing used in the development of these measures, including the findings that alternative measures did not test as well. Cognitive testing of these questions revealed that the six questions must be used as a set to assure a meaningful measure of disability.1  In 2005, 47.4 million US adults reported a disability, of whom 18.1 million were aged ≥ 65 years.2  Disability prevalence increases with age, doubling with successive age groups (18-44 years, 11.0%; 45-64 years, 23.9%; and ≥ 65 years, 51.8%).3
+Significance:
+Assessment of disability allows for a description of the older adult population from a functional perspective. Disability measures highlight opportunities and areas for improvement for people with disabilities, including opportunities to fully participate in and benefit from public health activities, receive well-timed interventions and services, interact with their environment without barriers, and participate in everyday life activities (/healthypeople.gov/2020/topicsobjectives2020/overview.aspx?topicId=9#one).
+Limitations of Indicator:
+The six-item disability standard represents a minimum standard and the questions and answer categories cannot be changed.  Therefore, a combined measure must be used.  Additional questions on disability may be added to any survey as long as the minimum standard is included. If the ACS changes the disability questions in the future, HHS will revisit the standard and modify as necessary.  The six questions provide a conservative prevalence estimate in that they emphasize “serious” difficulty doing functions, thus potentially excluding individuals with less severe impairments.
+Data Resources:
+American Community Survey, 1-Year Estimates, US Census Bureau.
+Limitations of Data Resources:
+The Census Bureau introduced a new set of disability questions in the 2008 ACS questionnaire. Accordingly, comparisons of disability data from 2008 or later with data from prior years are not recommended.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective OA-5:  Reduce the proportion of older adults who have moderate to severe functional limitations.  Healthy People 2020 Objective OA-6:  Increase the proportion of older adults with reduced physical or cognitive function who engage in light, moderate, or vigorous leisure-time physical activities.  Healthy People 2020 Objective DH-9 (Developmental):  Reduce the proportion of people with disabilities who encounter barriers to participating in home, school, work, or community activities.
+Related CDI Topic Area:
+Older Adults
+	1.	Brault, M, Stern S, Raglin D. Evaluation Report Covering Disability, American Community Survey Content Test Report P.4. U.S.Census Bureau, Washington, DC; 2007
+	2.	Brault M.  Americans with disabilities: 2005, current population reports, P70-117, Washington, DC: US Census Bureau; 2008.
+	3.	Centers for Disease Control and Prevention.  Prevalence and Most Common Causes of Disability Among Adults – United States, 2005.  MMWR 2009;58:421-426.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

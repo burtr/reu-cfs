@@ -1,0 +1,268 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Chronic Kidney Disease
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Incidence of treated end-stage renal disease
+	•	Incidence of treated end-stage renal disease attributed to diabetes
+	•	Mortality with end-stage renal disease
+	•	Prevalence of chronic kidney disease among adults aged ≥18 years
+Incidence of treated end-stage renal disease
+Category: Chronic Kidney Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Initial claims for either renal dialysis or renal transplant among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of incident cases.  Annual incidence – crude and adjusted (standardized by the method used by the U.S. Renal Data System);1 and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2011, >113,000 new cases of end-stage renal disease (ESRD), i.e., kidney failure, were reported in the United States.2  Diabetes and hypertension are the leading causes of ESRD in the United States, accounting for 44% and 28%, respectively, of the new cases of ESRD in 2011.2     
+Significance:
+The complications of diabetes and hypertension, including ESRD, can be prevented through improved patient education and self-management, and provision of adequate and timely medical care, including blood glucose and blood pressure control.3
+Limitations of Indicator:
+The denominator is the general population and not specific to the population at risk of developing ESRD.
+Data Resources:
+ESRD incidence data (numerator) from the U.S. Renal Data System (USRDS) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Because data are available only for patients whose ESRD therapy is reported to the Centers for Medicare and Medicaid Services (CMS), patients who die of ESRD before receiving treatment or whose therapy is not reported to CMS are not included in the database.1
+Related Indicators or Recommendations:
+Healthy People 2020 Objective CKD-8: Reduce the rate of new cases of ESRD.
+Related CDI Topic Area:
+Diabetes; Cardiovascular Disease
+	1.	U.S. Renal Data System, Analytical Methods: ESRD. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013. http://www.usrds.org/2013/pdf/v2_z_appendix__13.pdf    
+	2.	U.S. Renal Data System, Incidence, prevalence, patient characteristics, and treatment modalities. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013. http://www.usrds.org/2013/pdf/v2_ch1_13.pdf
+	3.	Centers for Disease Control and Prevention. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+  
+ 
+ Top of Page
+Incidence of treated end-stage renal disease attributed to diabetes
+Category: Chronic Kidney Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Initial claims for either renal dialysis or renal transplant with diabetes listed as the primary cause of disease among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of incident cases.  Annual incidence – crude and adjusted (standardized by the method used by the U.S. Renal Data System);1 and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2011, >113,000 new cases of end-stage renal disease (ESRD), i.e., kidney failure, were reported in the United States.2  Diabetes and hypertension are the leading causes of ESRD in the United States, accounting for 44% and 28%, respectively, of the new cases of ESRD in 2011.2     
+Significance:
+The complications of diabetes and hypertension, including ESRD, can be prevented through improved patient education and self-management, and provision of adequate and timely medical care, including blood glucose and blood pressure control.3  
+Limitations of Indicator:
+The ESRD primary diagnosis, taken from the Medical Evidence Report provided by the ESRD networks, is based on the physician’s assessment of the patient and may be affected if the patient has multiple comorbidities. In 2005–2008, three of four individuals with diabetes also had hypertension.3
+Data Resources:
+ESRD incidence data (numerator) from the U.S. Renal Data System (USRDS) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Because data are available only for patients whose ESRD therapy is reported to the Centers for Medicare and Medicaid Services (CMS), patients who die of ESRD before receiving treatment or whose therapy is not reported to CMS are not included in the database.1
+Related Indicators or Recommendations:
+Healthy People 2020 Objective CKD-9: Reduce kidney failure due to diabetes.
+Related CDI Topic Area:
+Diabetes; Cardiovascular Disease
+	1.	U.S. Renal Data System, Analytical Methods: ESRD. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013.  Available at http://www.usrds.org/2013/pdf/v2_z_appendix__13.pdf 
+	2.	U.S. Renal Data System, Incidence, prevalence, patient characteristics, and treatment modalities. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013. http://www.usrds.org/2013/pdf/v2_ch1_13.pdf
+	3.	Centers for Disease Control and Prevention. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+  
+ Top of Page
+Mortality with end-stage renal disease
+Category: Chronic Kidney Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classifications of Diseases (ICD)-10 code N03-N05, N13.0-N13.3, N17-N19, N25-N26, N28.0, and N28.8 as the underlying or contributing cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths.  Annual mortality rate – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 1) 1 – with 95% confidence interval; and by demographic characteristics when feasible. 
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2011, >113,000 new cases of end-stage renal disease (ESRD), i.e., kidney failure, were reported in the United States.2  Diabetes and hypertension are the leading causes of ESRD in the United States, accounting for 44% and 28%, respectively, of the new cases of ESRD in 2011.2
+Significance:
+The complications of diabetes and hypertension, including ESRD, can be prevented through improved patient education and self-management, and provision of adequate and timely medical care, including blood glucose and blood pressure control.3
+Limitations of Indicator:
+The denominator is the general population and not specific to the population at risk of developing ESRD.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.  The number of contributing causes of death listed on the death certificate might vary by person completing the death certificate and geographic region.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective CKD-14: Reduce deaths in persons with ESRD.
+Related CDI Topic Area:
+Diabetes; Cardiovascular Disease
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	U.S. Renal Data System, Incidence, prevalence, patient characteristics, and treatment modalities. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013. http://www.usrds.org/2013/pdf/v2_ch1_13.pdf
+	3.	Centers for Disease Control and Prevention. National diabetes fact sheet: national estimates and general information on diabetes and prediabetes in the United States, 2011. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, 2011.
+ 
+ Top of Page
+Prevalence of chronic kidney disease among adults aged ≥18 years
+Category: Chronic Kidney Disease
+Demographic Group:
+All adults aged ≥ 18 years.
+Numerator:
+Respondents aged ≥ 18 years who report ever having been told by a doctor or other health professional that they have kidney disease.
+Denominator:
+Respondents aged ≥ 18 years who report or do not report ever having been told by a doctor or other health professional that they have kidney disease (excluding unknowns and refusals). 
+Measures of Frequency:
+Annual prevalence – crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 9)1 with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2011, kidney disease was the ninth leading cause of death in the United States.2 While approximately 600,000 individuals have end-stage renal disease,3 more than 20 million U.S. adults aged ≥20 years are estimated to have CKD,4 and most of them are unaware of their condition.5
+Significance:
+If left untreated, CKD can lead to kidney failure, requiring dialysis or transplantation for survival.4  However, persons with CKD are more likely to die from cardiovascular disease than develop end-stage renal disease.4 Controlling blood glucose, blood pressure, and cholesterol can prevent or delay these conditions and improve health outcomes.4 For the first time, Healthy People 2020 included objectives addressing the earlier stages of kidney disease.6
+Limitations of Indicator:
+Reducing the proportion of the U.S. population with CKD is likely to be difficult because of the growing prevalence of major risk factors such as diabetes, hypertension, and aging of the population.7  Many years may pass before declining trends are observed.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+The estimated prevalence of CKD in the U.S. population is likely to be an underestimate because BRFSS is a telephone survey that excludes the institutionalized population, where prevalence is likely to be higher,8 and because prevalence is based on self-report. Most people with CKD are unaware of their condition.5 Also, one data point is available at this time. The question, “Has a doctor, nurse, or other health professional EVER told (Ever told) you have kidney disease? Do NOT include kidney stones, bladder infection or incontinence.” was asked for the first time in the 2011 BRFSS core questionnaire.9
+Related Indicators or Recommendations:
+Healthy People 2020 Objective CKD-1: Reduce the proportion of the US population with chronic kidney disease.
+Related CDI Topic Area:
+Diabetes; Cardiovascular Disease
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Healthy People Statistical Notes, no. 20. Hyattsville, Maryland: National Center for Health Statistics. January 2001. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Hoyert DL, Xu JQ. Deaths: Preliminary data for 2011. National vital statistics reports; vol 61 no 6. Hyattsville, MD: National Center for Health Statistics. 2012.
+	3.	U.S. Renal Data System, Incidence, prevalence, patient characteristics, and treatment modalities. In: USRDS 2013 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases, Bethesda, MD, 2013. http://www.usrds.org/2013/pdf/v2_ch1_13.pdf
+	4.	Centers for Disease Control and Prevention. National Chronic Kidney Disease Fact Sheet: General Information and National Estimates on Chronic Kidney Disease in the United States, 2010. Atlanta, GA: U.S. Department of Health and Human Services, CDC; 2010.
+	5.	Plantinga LC, Boulware LE, Coresh J, et al. Patient awareness of chronic kidney disease: trends and predictors. Arch Intern Med.2008;168(20):2268–75.
+	6.	U.S. Department of Health and Human Services. Health People 2020. http://www.healthypeople.gov/.
+	7.	Boyle JP, Thompson TJ, Gregg EW, Barker LE, Williamson DF. Projection of the year 2050 burden of diabetes in the US adult population: dynamic modeling of incidence, mortality, and prediabetes prevalence. Popul Health Metr. 2010;8:29.
+	8.	McClellan WM, Resnick B, Lei L, et al. Prevalence and severity of chronic kidney disease and anemia in the nursing home population. J Am Med Dir Assoc. 2010;11(1):33–41.
+	9.	Centers for Disease Control and Prevention. Behavioral Risk Factor Surveillance System: Questionnaires. http://www.cdc.gov/brfss/questionnaires.htm
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

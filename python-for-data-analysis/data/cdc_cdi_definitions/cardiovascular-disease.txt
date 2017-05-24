@@ -1,0 +1,742 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Cardiovascular Disease
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Awareness of high blood pressure among adults aged ≥ 18 years
+	•	Awareness of high blood pressure among women aged 18-44 years
+	•	Cholesterol screening among adults aged ≥18 years
+	•	High cholesterol prevalence among adults aged ≥ 18 years
+	•	Hospitalization for acute myocardial infarction
+	•	Hospitalization for heart failure among Medicare-eligible persons aged ≥ 65 years
+	•	Hospitalization for stroke
+	•	Influenza vaccination among non-institutionalized adults aged ≥ 65 years with a history of coronary heart disease or stroke
+	•	Influenza vaccination among non-institutionalized adults aged 18-64 years with a history of coronary heart disease or stroke
+	•	Mortality from cerebrovascular disease (stroke)
+	•	Mortality from coronary heart disease       
+	•	Mortality from diseases of the heart
+	•	Mortality from heart failure
+	•	Mortality from total cardiovascular diseases
+	•	Pneumococcal vaccination among non-institutionalized adults aged ≥65 years with a history of coronary heart disease
+	•	Pneumococcal vaccination among non-institutionalized adults aged 18-64 years with a history of coronary heart disease
+	•	Pre-pregnancy hypertension
+	•	Taking medicine for high blood pressure control among adults aged ≥18 years with high blood pressure
+Awareness of high blood pressure among adults aged ≥ 18 years
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged >18 years who report ever having been told by a doctor, nurse, or other health professional that they have  high blood pressure. Women who were told high blood pressure only during pregnancy and those who were told they had borderline hypertension were not included.
+Denominator:
+Respondents aged ≥18 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+In the United States, 1 in every 3 adults had hypertension (NHANES 2003–2010). 2  BRFSS 2009 data showed that  overall age-adjusted prevalence of self-reported high blood pressure in the United States was 28.3%.3  
+Significance:
+More than 348,000 American deaths in 2009 included high blood pressure as a primary or contributing cause.4  Approximately 20%–30% of coronary heart disease and 20%–50% of strokes in the United States are attributable to uncontrolled hypertension.4 Blood pressure-related cardiovascular complications can occur before the onset of established hypertension.4Lifestyle risk factors for hypertension include high sodium intake, excessive caloric intake, physical inactivity, excessive alcohol consumption, and deficient potassium intake. Lifestyle changes and medications can be used to reduce blood pressure. 4
+Limitations of Indicator:
+Indicator does not measure the proportion of adults who currently have diagnosed high blood pressure and may result in an underestimate of the prevalence of high blood pressure.  Indicator is based on having been told that one has high blood pressure and is subject to recall and actually having been told.  Additionally, reports are not validated against actual blood pressure measurements or medical records.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., lower telephone coverage among populations of low socioeconomic status), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-4: Increase the proportion of adults who have had their blood pressure measured within the preceding 2 years and can state whether their blood pressure was normal or high. Healthy People 2020 Objective HDS-5.1: Reduce the proportion of adults with hypertension.
+Related CDI Topic Area:
+Alcohol; Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Vital signs: awareness and treatment of uncontrolled hypertension among adults--United States, 2003–2010. MMWR. 2012;61:703–9.
+	3.	CDC. Self-Reported Hypertension and Use of Antihypertensive Medication Among Adults — United States, 2005–2009. MMWR 2013;62(13);237-244
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Awareness of high blood pressure among women aged 18-44 years
+Category: Cardiovascular Disease
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Female respondents aged 18-44 years who reported ever being told by a doctor, nurse, or other health professional that they have high blood pressure. Women with high blood pressure during pregnancy would be included in the numerator, but women with borderline high blood pressure or pre-hypertension would not.
+Denominator:
+Female respondents aged 18-44 years who reported that they had or had never been told by a doctor, nurse, or other health professional that they have high blood pressure (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) crude annual prevalence and 95% confidence interval, weighted using the BRFSS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Lifetime.
+Background:
+In 2002, national data estimate that 3% of women of reproductive age had hypertension.1  As the number of pregnancies among women aged 35 years and older increases, this proportion is likely to grow. 
+Significance:
+Pregnancies among women with chronic hypertension can lead to preeclampsia or eclampsia, damage to the central nervous system, and kidney damage.2,3  Potential life threatening conditions related to chronic hypertension during pregnancy include preterm delivery, intrauterine growth retardation, placental abruption, and fetal demise.4    The Clinical Work Group of the Select Panel on Preconception Care recommends that all women of reproductive age with chronic hypertension be counseled before pregnancy about medication management and about the maternal and infant risks associated with hypertension during pregnancy.5
+Limitations of Indicator:
+Estimates are based on self-reported high blood pressure, which has not been confirmed by a physician.  Studies have reported high reliability for this BRFSS item.6   However, based on studies comparing self-reports with clinical data, validity is deemed to be moderate as self-reported high blood pressure status may result in an underestimate of true hypertension prevalence.7 However, this underestimation is consistent with other research.6  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS). 
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-5.1: Reduce the proportion of adults with hypertension.
+Related CDI Topic Area:
+Reproductive Health;
+	1.	U.S. Department of Health and Human Services, Health Resources and Services Administration, Maternal and Child Health Bureau, Women’s Health USA 2002. Rockville, MD: U.S. Department of Health and Human Services; 2002.
+	2.	Report of the National High Blood Pressure Education Program Working Group on High Blood Pressure in Pregnancy. Am J Obstet Gynecol 2000; 183:S1-22.
+	3.	Agency for Healthcare Research and Quality. Management of chronic hypertension during pregnancy. Evidence Report/Technology Assessment no. 14. AHRQ publication no. 00E011. Rockville, MD: Agency for Healthcare Research and Quality; 2000.
+	4.	Ferrer RL, Sibai BM, Morrow CD, Chiquette E, Stevens KR, Cornell J. Management of mild chronic hypertension during pregnancy: a review. Obstet Gynecol 2000; 96:849-60.
+	5.	Dunlop AL, Jack BW, Bottalico JN, et al. The clinical content of preconception care: women with chronic medical conditions. Am J Obstet Gynecol 2008;199(6 Suppl B):S310-27.
+	6.	Nelson DE, Holtzman D, Bolen J, Stanwyck CA, Mack KA. Reliability and validity of measures from the Behavioral Risk Factor Surveillance System (BRFSS). Soc Prev Med 2001;46 Suppl 1:S3-42.
+	7.	Joint National Committee. Hypertension prevalence and the status of awareness, treatment, and control in the United States: final report. Hypertension 1985; 7:456-468.
+  
+ Top of Page
+Cholesterol screening among adults aged ≥18 years
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report having their cholesterol checked within the previous 5 years.
+Denominator:
+Respondents aged ≥18 years who report having their cholesterol checked within the previous 5 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 5 years.
+Background:
+25% of adults aged >18 years still have not had their cholesterol checked within the previous 5 years.2 Among those who had ever been screened for high blood cholesterol, the percentage who reported ever being told by a health care provider their blood cholesterol was high was 35.0% in 2009.2
+Significance:
+Elevated levels of serum cholesterol can lead to development of atherosclerosis.3 Approximately 30%–40% of coronary heart disease and 10%–20% of strokes in the United States are attributable to elevated serum cholesterol.3 Elevated cholesterol has been associated with physical inactivity, high fat intake, smoking cigarettes, diabetes, and obesity.3 Lifestyle changes and medications can reduce cholesterol and prevent heart disease among persons with elevated serum cholesterol.3
+Limitations of Indicator:
+Validity and reliability of this indicator can be low because patients might not be aware of the specific tests conducted on their blood samples collected in clinical settings.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., lower telephone coverage among populations of low socioeconomic status), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias). In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-6: Increase the proportion of adults who have had their blood cholesterol checked within the preceding 5 years.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Prevalence of Cholesterol Screening and High Blood Cholesterol Among Adults — United States, 2005, 2007, and 2009 MMWR 2012;61(35);697-702
+	3.	National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III). Third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III) final report. Circulation. 2002;106:3143-3421.
+  
+ 
+ Top of Page
+High cholesterol prevalence among adults aged ≥ 18 years
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report having been told by a doctor, nurse or other health professional that they had high cholesterol.
+Denominator:
+Respondents aged ≥18 years who report having their cholesterol checked within the previous 5 years (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous 5 years.
+Background:
+Among those who had ever been screened for high blood cholesterol, the percentage who reported ever being told by a health care provider their blood cholesterol was high was 35.0% in 2009.2 Only 33.5% (1 out of every 3) adults with high cholesterol have the condition under control and less than half of adults with high cholesterol get treatment.3
+Significance:
+Elevated levels of serum cholesterol can lead to development of atherosclerosis. 4 Approximately 30%–40% of coronary heart disease and 10%–20% of strokes in the United States are attributable to elevated serum cholesterol. 4 Elevated cholesterol has been associated with physical inactivity, high fat intake, smoking cigarettes, diabetes, and obesity.4 Lifestyle changes and medications can reduce cholesterol and prevent heart disease among persons with elevated serum cholesterol.4
+Limitations of Indicator:
+Validity and reliability of this indicator can be low because patients might not be aware of the specific tests conducted on their blood samples collected in clinical settings. Or the patients cannot afford to go to see doctor to get cholesterol checked.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-6: Increase the proportion of adults who have had their blood cholesterol checked within the preceding 5 years. Health People 2020 Objective HDS-7: Reduce the proportion of adults with high total blood cholesterol levels.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Prevalence of Cholesterol Screening and High Blood Cholesterol Among Adults — United States, 2005, 2007, and 2009 MMWR 2012;61(35);697-702
+	3.	Centers for Disease Control and Prevention (CDC). Vital signs: prevalence, treatment, and control of high levels of low-density lipoprotein cholesterol: United States, 1999–2002 and 2005–2008. MMWR Morb Mortal Wkly Rep. 2011;60:109–114.
+	4.	National Cholesterol Education Program (NCEP) Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol in Adults (Adult Treatment Panel III). Third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III) final report. Circulation. 2002;106:3143-3421. 
+ 
+ Top of Page
+Hospitalization for acute myocardial infarction
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Hospitalizations with principal diagnosis of International Classification of Diseases (ICD)-9-CM code 410 among residents during a calendar year. When possible, include hospitalizations for residents who are hospitalized in another state.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of hospitalizations. Annual hospitalization rates — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+National Hospital Discharge survey showed that age-adjusted hospitalization rate for myocardial infarction increased from 1979-1987, stabilized from 1987 to 1996 and then declined after 1996 to 20052. Although the trends were similar between men and women, men had the hospitalization rate almost twice as those of women2.  Myocardial infarction hospitalization rates increased with age.2
+Significance:
+Modifiable risk factors for CHD include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition), health status (e.g., hypertension, hyperlipidemia, overweight, or diabetes), and policies (e.g., smoking policies in restaurants and worksites).3 Rapid identification and treatment of heart attack reduces heart muscle damage, improves heart muscle function, and lowers the heart attack death rate.4 Substantial differences in CHD death rates and preventive measures exist by race, age, sex, place of residence, and other demographic factors.
+Limitations of Indicator:
+Substantial numbers of persons with acute myocardial infarction die before reaching a hospital.5 Because heart disease is a chronic disease that can have a long preclinical phase, years might pass before changes in behavior or clinical practice affect population morbidity and mortality. A substantial number of misdiagnoses, particularly among women, have been reported.5
+Data Resources:
+State hospital discharge data (numerator) and population estimates from the U.S. Bureau of the Census or suitable alternative (denominator).
+Limitations of Data Resources:
+Diagnoses listed on hospital discharge data might be inaccurate. Practice patterns and payment mechanisms can affect decisions by health-care providers to hospitalize patients. Residents of one state might be hospitalized in another state and not be reflected in the first state’s hospital data set. Multiple admissions for an individual patient can falsely elevate the number of persons acute myocardial infarctions. Because state hospital discharge data are not universally available, aggregation of state data to produce nationwide estimates will be incomplete.  State hospital discharge data does not allow identification of incident (new) hospitalizations for acute myocardial infarction.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-16: Increase the proportion of adults aged 20 years and older who are aware of the symptoms of and how to respond to a heart attack. Healthy People 2020 Objective HDS-18: (Developmental) Increase the proportion of out-of-hospital cardiac arrests in which appropriate bystander and emergency medical services are administered. Healthy People 2020 Objective HDS-19.1: Increase the proportion of eligible patients with heart attacks who receive fibrinolytic therapy within 30 minutes of hospital arrival. Healthy People 2020 Objective HDS-19.2: Increase the proportion of eligible patients with heart attacks who receive percutaneous intervention within 90 minutes of hospital arrival. Healthy People 2020 Objective HDS-22: (Developmental) Increase the proportion of adult heart attack survivors who are referred to a cardiac rehabilitation program at discharge. Million Hearts® brings together communities, health systems, nonprofit organizations, federal agencies, and private-sector partners from across the country to fight heart disease and stroke.  http://millionhearts.hhs.gov/index.html
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Fang J, Alderman MH, Keenan NL, Ayala C . Acute myocardial infarction hospitalization in the United States, 1979 to 2005. Am J Med. 2010;123:259–266.
+	3.	  Fryar CD, Chen T, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010. NCHS Data Brief, No. 103. Hyattsville, MD: National Center for Health Statistics, Centers for Disease Control and Prevention, US Dept of Health and Human Services; 2012.
+	4.	2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction: Executive Summary. A Report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. Circulation. 2013; 127: 529-555
+	5.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Hospitalization for heart failure among Medicare-eligible persons aged ≥ 65 years
+Category: Cardiovascular Disease
+Demographic Group:
+Medicare-eligible resident persons aged ≥65 years.
+Numerator:
+Hospitalizations with principal diagnosis of International Classification of Diseases (ICD)-9-CM code 428 among Medicare-eligible resident persons aged ≥65 years.
+Denominator:
+Residents aged ≥65 years who were eligible for Medicare Part A benefits on July 1 of the calendar year, excluding members of health maintenance organizations.
+Measures of Frequency:
+Annual number of hospitalizations. Annual hospitalization rates — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 181) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+Heart failure has become a major public health concern in the United States, especially among elderly. Data from the NHLBI’s NHLBI-sponsored Framingham Heart Study indicate that heart failure incidence is about 10 per 1,000 population after  age 65.2 Heart failure (HF) is the leading principal diagnosis for Medicare hospital claims.3 In 2007, the rate was 188.3 per 10,000.3
+Significance:
+Approximately 75% of persons with HF have antecedent hypertension.4  During 1979–1996, hospitalizations for HF increased by 130%.2
+Limitations of Indicator:
+Because heart failure is a chronic disease that can have a long preclinical phase, years might pass before changes in behavior or clinical practice affect population morbidity and mortality.
+Data Resources:
+Centers for Medicare and Medicaid Services (CMS) Part A claims data (numerator) and CMS estimates of the population of persons eligible for Medicare (denominator).
+Limitations of Data Resources:
+Diagnoses listed on Medicare claims data might be inaccurate. Practice patterns and payment mechanisms could affect decisions by health-care providers to hospitalize patients. Indicator is limited to Medicare-eligible population. Multiple admissions for an individual patient can falsely elevate the number of persons with HF.  The Medicare claims dataset cannot provide incident (new) hospitalizations for HF.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-24: Reduce hospitalizations of older adults with heart failure as the principal diagnosis (24.1 is specific for adults aged 65–74 years; 24.2 is specific for adults aged 75–84 years; 24.3 is specific for adults aged ≥85 years.)
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Older Adults; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+	3.	Hall MJ, DeFrances CJ, Williams SN, Golosinskiy A, Schwartzman A. National hospital discharge survey: 2007 summary.  National health statistics report; no 29. Hyattsville MD: National Center for Health Statistics. 2010.
+	4.	Institute of Medicine (US) Committee on a National Surveillance System for Cardiovascular and Select Chronic Diseases. A Nationwide Framework for Surveillance of Cardiovascular and Chronic Lung Diseases. Washington (DC): National Academies Press (US); 2011. 2, Cardiovascular Disease. Available from: http://www.ncbi.nlm.nih.gov/books/NBK83160/ 
+ 
+ Top of Page
+Hospitalization for stroke
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Hospitalizations with principal diagnosis International Classification of Diseases (ICD)-9-CM codes 430–434 and 436–438 among residents during a calendar year. When possible, include discharges for residents who are hospitalized in another state.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of hospitalizations. Annual hospitalization rates — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2009, stroke killed almost 130,000 of the 800,000 Americans who die of CVD each year—that’s 1 in every 19 deaths from all causes.2  More than 795,000 (about 800,000) people have a stroke each year in the United States (610,000 of those are first or new strokes, 185,000, or nearly 1 in 4, are recurrent strokes).3
+Significance:
+Modifiable risk factors for stroke include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition) and health status (e.g., untreated hypertension, hyperlipidemia, overweight, or diabetes).3 Approximately 26% of stroke deaths in the United States are attributable to high blood pressure and 12% to smoking.3 Substantial differences in stroke death rates and preventive measures exist by race, age, sex, place of residence, and other demographic factors. Historically, the southeastern United States has had high stroke death rates.
+Limitations of Indicator:
+Although the two major types of stroke — hemorrhagic (approximately 10% of stroke) 4 and ischemic (approximately 65% of stroke) 4— share certain risk factors, their treatment varies. Because cerebrovascular disease has a long latency period, years might pass before changes in behavior or clinical practice patterns affect cerebrovascular disease morbidity and mortality.
+Data Resources:
+State hospital discharge data (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Diagnoses listed on hospital discharge data might be inaccurate. Practice patterns and payment mechanisms could affect decisions by health-care providers to hospitalize patients. Residents of one state might be hospitalized in another state and not be reflected in the first state’s hospital data set. Multiple admissions for an individual patient can falsely elevate the number of persons with stroke. Because state hospital discharge data are not universally available, aggregation of state data to produce nationwide estimates will be incomplete.  State discharge records cannot identify incident (new) hospitalizations for stroke.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-3: Reduce stroke deaths. Healthy People 2020 Objective HDS-17 (Developmental):  Increase the proportion of adults aged 20 years and older who are aware of the symptoms of and how to respond to a stroke. Healthy People 2020 Objective HDS-23 (Developmental):  Increase the proportion of adult stroke survivors who are referred to a stroke rehabilitation program at discharge.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+	4.	Furie KL, Kasner SE, Adams RJ, Albers GW, Bush RL, Fagan SC, Halperin JL, Johnston SC, Katzan I, Kernan WN, Mitchell PH, Ovbiagele B, Palesch YY, Sacco RL, Schwamm LH, Wassertheil-Smoller S, Turan TN, Wentworth D; American Heart Association Stroke Council, Council on Cardiovascular Nursing, Council on Clinical Cardiology, and Interdisciplinary Council on Quality of Care and Outcomes Research. Guidelines for the prevention of stroke in patients with stroke or transient ischemic attack: a guideline for healthcare professionals from the american heart association/american stroke association. Stroke. 2011 Jan;42(1):227-76.
+  
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged ≥ 65 years with a history of coronary heart disease or stroke
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have had a heart attack or stroke or have angina or other coronary heart disease who report having received an influenza vaccination in the previous 12 months.
+Denominator:
+Respondents age ≥65 years ever told by a doctor or health professional that they have had a heart attack or stroke or have angina or other coronary heart disease who report having or not having an influenza vaccination in the past 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method)1 — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state level who have a history of coronary heart disease or stroke, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Previous 12 months (influenza vaccination). Lifetime (history of heart attack, stroke, angina or other coronary heart disease).
+Background:
+In 2005, only 34% of adults with coronary heart disease reported receiving an influenza vaccination in the previous 12 months.2
+Significance:
+Annual vaccination against seasonal influenza prevents cardiovascular morbidity and all-cause mortality in people with cardiovascular conditions.3 The American Heart Association and American College of Cardiology recommend influenza immunization with inactivated vaccine as part of comprehensive secondary prevention in persons with coronary and other atherosclerotic vascular disease.2 The American Heart Association estimates that 16.3 million people in the U.S. have a history of coronary heart disease and 7.0 million have a history of stroke.4 Influenza vaccination coverage levels in this population are well below national goals.2  People with cardiovascular disease (excluding isolated hypertension) are considered by the Advisory Committee on Immunization Practices to be a high-risk group for severe complications due to influenza. 5,6
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12.6:  Increase the percentage of noninstitutionalized adults aged 65 years and older who are vaccinated annually against seasonal influenza.  The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23.. Healthy People 2020 Objective HDS-2:  Reduce coronary heart disease deaths. Healthy People 2020 Objective HDS-3:  Reduce stroke deaths. Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Davis MM, Taubert K, Benin AL, Brown DW, Mensah GA, Baddour LM, Dunbar S,  Krumholz H. Influenza vaccination as secondary prevention for cardiovascular disease: a Science Advisory from the American Heart Association/American College of Cardiology. Circulation. 2006;114:1549-1553.
+	3.	Gurfinkel EP, Leon de la Fuente R, Mendiz O, et al. Flu vaccination in acute coronary syndromes and planned percutaneous coronary interventions (FLUVACS) Study. Eur Heart J 2004;25:25-31.
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+	5.	CDC. Prevention and control of seasonal influenza with vaccines. Recommendations of the Advisory Committee on Immunization Practices – United States, 2013-2014. MMWR 2013;62(No. RR-7):1-43.  http://www.cdc.gov/mmwr/pdf/rr/rr6207.pdf.   
+	6.	CDC. Errata: Vol. 62, No. RR-7. MMWR 2013;62(45):906.  http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6245a9.htm.
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged 18-64 years with a history of coronary heart disease or stroke
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged 18-64 years.
+Numerator:
+Respondents aged 18-64 years ever told by a doctor or health professional that they have had a heart attack or stroke or have angina or other coronary heart disease who report having received an influenza vaccination in the previous 12 months.
+Denominator:
+Respondents age 18-64 years ever told by a doctor or health professional that they have had a heart attack or stroke or have angina or other coronary heart disease who report having or not having an influenza vaccination in the past 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state level who have a history of coronary heart disease or stroke, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Previous 12 months (influenza vaccination). Lifetime (history of heart attack, stroke, angina or other coronary heart disease).
+Background:
+In 2005, only 34% of adults with coronary heart disease reported receiving an influenza vaccination in the previous 12 months.2
+Significance:
+Annual vaccination against seasonal influenza prevents cardiovascular morbidity and all-cause mortality in people with cardiovascular conditions.3 The American Heart Association and American College of Cardiology recommend influenza immunization with inactivated vaccine as part of comprehensive secondary prevention in persons with coronary and other atherosclerotic vascular disease.2 The American Heart Association estimates that 16.3 million people in the U.S. have a history of coronary heart disease and 7.0 million have a history of stroke.4 Influenza vaccination coverage levels in this population are well below national goals.2 People with cardiovascular disease (excluding isolated hypertension) are considered by the Advisory Committee on Immunization Practices to be a high-risk group for severe complications due to influenza.5,6
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12.6:  Increase the percentage of noninstitutionalized high-risk adults aged 18 to 64 years who are vaccinated annually against seasonal influenza.  The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23.  Healthy People 2020 Objective HDS-2: Reduce coronary heart disease deaths. Healthy People 2020 Objective HDS-3: Reduce stroke deaths. Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported influenza vaccination within the past year. Percent of adults who reported current smoking, diabetes, asthma or cardiovascular disease who have ever had a pneumococcal vaccination.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Davis MM, Taubert K, Benin AL, Brown DW, Mensah GA, Baddour LM, Dunbar S,  Krumholz H. Influenza vaccination as secondary prevention for cardiovascular disease: a Science Advisory from the American Heart Association/American College of Cardiology. Circulation. 2006;114:1549-1553.
+	3.	Gurfinkel EP, Leon de la Fuente R, Mendiz O, et al. Flu vaccination in acute coronary syndromes and planned percutaneous coronary interventions (FLUVACS) Study. Eur Heart J 2004;25:25-31.
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+	5.	CDC. Prevention and control of seasonal influenza with vaccines. Recommendations of the Advisory Committee on Immunization Practices – United States, 2013-2014. MMWR 2013;62(No. RR-7):1-43.  http://www.cdc.gov/mmwr/pdf/rr/rr6207.pdf 
+	6.	CDC. Errata: Vol. 62, No. RR-7. MMWR 2013;62(45):906.  http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6245a9.htm 
+ 
+ 
+ Top of Page
+Mortality from cerebrovascular disease (stroke)
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes I60–I69 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2009, stroke kills almost 130,000 of the 800,000 Americans who die of CVD each year—that’s 1 in every 19 deaths from all causes.2  Historically, the southeastern United States has experienced high stroke death rates.2
+Significance:
+Modifiable risk factors for stroke include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition) and health status (e.g., untreated hypertension, hyperlipidemia, overweight, or diabetes).3Approximately 26% of stroke deaths in the United States are attributable to high blood pressure and 12% to smoking.3Substantial differences in risk and preventive factors exist by race, age, sex, place of residence, and other demographic factors.
+Limitations of Indicator:
+Although the two major types of stroke — hemorrhagic (approximately 10% of stroke) 4 and Ischemic (approximately 65% of stroke)4— share certain risk factors, their treatment varies. Consequently, accurate interpretation of trends or patterns in total mortality from cerebrovascular disease is difficult. Because cerebrovascular disease has a long latency period, years might pass before changes in behavior or clinical practice patterns affect cerebrovascular disease mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-3:  Reduce stroke deaths.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+	4.	Furie KL, Kasner SE, Adams RJ, Albers GW, Bush RL, Fagan SC, Halperin JL, Johnston SC, Katzan I, Kernan WN, Mitchell PH, Ovbiagele B, Palesch YY, Sacco RL, Schwamm LH, Wassertheil-Smoller S, Turan TN, Wentworth D; American Heart Association Stroke Council, Council on Cardiovascular Nursing, Council on Clinical Cardiology, and Interdisciplinary Council on Quality of Care and Outcomes Research. Guidelines for the prevention of stroke in patients with stroke or transient ischemic attack: a guideline for healthcare professionals from the american heart association/american stroke association. Stroke. 2011 Jan;42(1):227-76.
+ 
+ Top of Page
+Mortality from coronary heart disease      
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes I20–I25 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+In 2009, coronary heart disease (CHD) is the largest category of heart disease, killing more than 385,000 people annually.2 In 2009, age-adjusted rate among males (138.7/ 100,000) is greater than the age-adjusted rate among females (113.3/100,000).2
+Significance:
+Modifiable risk factors for CHD include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition), health status (e.g., hypertension, hyperlipidemia, overweight, or diabetes), and policies (e.g., smoking policies in restaurants and worksites).3 Substantial differences in CHD death rates and preventive measures exist by race, age, sex, place of residence, and other demographic factors.4
+Limitations of Indicator:
+Historically, epidemiologists have used different groups of ICD rubrics to monitor CHD mortality. This has created differences in published mortality measures. Because CHD might have a long preclinical phase, years might pass before changes in behavior or clinical practice affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-2: Reduce coronary heart disease deaths.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	Fryar CD, Chen T, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010. NCHS Data Brief, No. 103. Hyattsville, MD: National Center for Health Statistics, Centers for Disease Control and Prevention, US Dept of Health and Human Services; 2012.
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Mortality from diseases of the heart
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes I00–I09, I11, I13, I20–I51 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+Of the nearly 800,000 Americans who die of CVD in 2009, 600,000 die from heart disease—that’s 1 in every 4 deaths.2  In 2009, the age-adjusted rate among males (202.9/ 100,000) is greater than the age-adjusted rate among females (187.89/100,000).2
+Significance:
+Modifiable risk factors for heart disease include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition), health status (e.g., hypertension, hyperlipidemia, overweight, or diabetes), and policies (e.g., smoking policies in restaurants and worksites).3 Substantial differences in heart disease death rates and preventive measures exist by race, age, sex, place of residence, and other demographic factors.4
+Limitations of Indicator:
+Heart disease is not a single disease, but rather multiple diseases with different causes, risks, and potential interventions. Interpretation of trends or patterns in mortality from heart disease can be made only by examination of specific types of heart disease. Because certain types of heart disease have a long latency period, years might pass before changes in behavior or clinical practice affect heart disease mortality. Certain types of heart disease (e.g., valvular and congenital heart disease) are not amenable to primary prevention or screening.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-2:  Reduce coronary heart disease deaths.
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	Fryar CD, Chen T, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010. NCHS Data Brief, No. 103. Hyattsville, MD: National Center for Health Statistics, Centers for Disease Control and Prevention, US Dept of Health and Human Services; 2012
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241. 
+ 
+ 
+ Top of Page
+Mortality from heart failure
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code I50 as the underlying or contributing (any mentioned) cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+Heart failure is the primary cause of more than 55,000 of the 600,000 heart disease deaths in 2009 and heart failure was mentioned as a contributing cause in more than 270,000 deaths (1 in 9) in 2009.2 Congestive heart failure (CHF) is the leading principal diagnosis for Medicare hospital claims.3
+Significance:
+Approximately 75% of persons with CHF have antecedent hypertension.4 During 1979–1996, hospitalization for CHF increased by 130%.5Substantial differences in CHF death rates and preventive measures exist by race, age, sex, place of residence, and other demographic factors.
+Limitations of Indicator:
+Because congestive heart failure is a chronic disease and can have a long preclinical phase, years might pass before changes in behavior or clinical practice affect population mortality.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+None.                                                                                                            
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	Hall MJ, Levant S, DeFrances CJ. Hospitalization for congestive heart failure: United States, 2000–2010. NCHS data brief, no 108. Hyattsville, MD: National Center for Health Statistics. 2012.
+	4.	Institute of Medicine (US) Committee on a National Surveillance System for Cardiovascular and Select Chronic Diseases. A Nationwide Framework for Surveillance of Cardiovascular and Chronic Lung Diseases. Washington (DC): National Academies Press (US); 2011. 2, Cardiovascular Disease. Available from: http://www.ncbi.nlm.nih.gov/books/NBK83160/
+	5.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Mortality from total cardiovascular diseases
+Category: Cardiovascular Disease
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 codes I00–-I99 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 11) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year.
+Background:
+Cardiovascular disease (CVD) is the major cause of death in the United States, nearly 800,000 people die in the United States each year from cardiovascular diseases—that’s 1 in every 3 deaths.2 About 150,000 Americans who died from CVD in 2009 were younger than age 65.2
+Significance:
+Modifiable risk factors for cardiovascular disease include behaviors (e.g., tobacco use, physical inactivity, and improper nutrition), health status (e.g., hypertension, hyperlipidemia, overweight, or diabetes), and policies (e.g., smoking policies in restaurants and worksites).3 Substantial differences in CVD death rates exist by race, age, sex, place of residence, and other demographic factors.4.
+Limitations of Indicator:
+CVD is not a single disease, but rather multiple diseases with different causes, risks, and potential interventions. Interpretation of trends or patterns in mortality from cardiovascular disease can be made only by examination of specific types of cardiovascular disease. Because certain types of cardiovascular disease have a long latency period, years might pass before changes in behavior or clinical practice affect CVD mortality. Certain types of CVD (e.g., valvular and congenital heart disease) are not amenable to primary prevention or screening.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-2:  Reduce coronary heart disease deaths. Healthy People 2020 Objective HDS-3:  Reduce stroke deaths. 
+Related CDI Topic Area:
+Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Kochanek KD, Xu JQ, Murphy SL, Miniño AM, Kung HC. Deaths: final data for 2009. Natl Vital Stat Rep. 2011;60(3).
+	3.	. Fryar CD, Chen T, Li X. Prevalence of uncontrolled risk factors for cardiovascular disease: United States, 1999–2010. NCHS Data Brief, No. 103. Hyattsville, MD: National Center for Health Statistics, Centers for Disease Control and Prevention, US Dept of Health and Human Services; 2012.
+	4.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged ≥65 years with a history of coronary heart disease
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have had a heart attack or have angina or other coronary heart disease who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged ≥65 years ever told by a doctor or health professional that they have had a heart attack or have angina or other coronary heart disease who report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method)1 — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state level who have a history of coronary heart disease, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Lifetime (ever vaccinated). Lifetime (history of heart attack, angina or other coronary heart disease).
+Background:
+In 2012, only 59.9% of persons aged >65 years reported ever receiving a pneumococcal vaccination.2
+Significance:
+Invasive pneumococcal infection is a major cause of illness and death in the United States, with an estimated 43,500 cases and 5,000 deaths among persons of all ages in 2009.3 People with chronic heart disease (excluding hypertension) are considered by the Advisory Committee on Immunization Practices to be a high-risk group who should receive pneumococcal vaccination.4 The American Heart Association estimates that 16.3 million people in the U.S. have a history of coronary heart disease.5 Pneumococcal vaccination rates among high-risk adults are well below national goals.2
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13.1:  Increase the percentage of noninstitutionalized adults aged 65 years and older who are vaccinated against pneumococcal disease. Healthy People 2020 Objective HDS-2: Reduce coronary heart disease deaths. Healthy People 2020 Objective HDS-3: Reduce stroke deaths. Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Noninfluenza vaccination coverage among adults – United States, 2012. MMWR 2014;63(05):95-102. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6305a4.htm?s_cid=mm6305a4_e
+	3.	CDC. Active Bacterial Core Surveillance (ABCs) Report: Emerging Infections Program Network. Streptococcus pneumonia, provisional-2009. Atlanta, GA: US Department of Health and Human Services, CDC:2010. Available at:http://www.cdc.gov/abcs/reports-findings/survreports/spneu09.pdf
+	4.	CDC. Prevention of pneumococcal disease: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 1997;46(No. RR-8).
+	5.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged 18-64 years with a history of coronary heart disease
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged 18-64 years.
+Numerator:
+Respondents aged 18-64 years ever told by a doctor or health professional that they have had a heart attack or have angina or other coronary heart disease who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged 18-64 years ever told by a doctor or health professional that they have had a heart attack or have angina or other coronary heart disease who report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified, and age-adjusted (to the 2000 U.S. Standard Population, using the direct method)1 — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state level who have a history of coronary heart disease, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Lifetime (ever vaccinated). Lifetime (history of heart attack, angina or other coronary heart disease).
+Background:
+In 2012, only 20.0% of high-risk persons aged 19 to 64 years reported ever receiving a pneumococcal vaccination.2
+Significance:
+Invasive pneumococcal infection is a major cause of illness and death in the United States, with an estimated 43,500 cases and 5,000 deaths among persons of all ages in 2009.3 People with chronic heart disease (excluding hypertension) are considered by the Advisory Committee on Immunization Practices to be a high-risk group who should receive pneumococcal vaccination.4 The American Heart Association estimates that 16.3 million people in the U.S. have a history of coronary heart disease.5 Pneumococcal vaccination rates among high-risk adults are well below national goals.2
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13.2:  Increase the percentage of noninstitutionalized high-risk adults aged 18 to 64 years who are vaccinated against pneumococcal disease. Healthy People 2020 Objective HDS-2: Reduce coronary heart disease deaths. Healthy People 2020 Objective HDS-3: Reduce stroke deaths. Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported influenza vaccination within the past year. Percent of adults who reported current smoking, diabetes, asthma or cardiovascular disease who have ever had a pneumococcal vaccination.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20.  http://www.cdc.gov/nchs/data/statnt/statnt20.pdf .
+	2.	CDC. Noninfluenza vaccination coverage among adults – United States, 2012. MMWR 2014;63(05):95-102. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6305a4.htm?s_cid=mm6305a4_e
+	3.	CDC. Active Bacterial Core Surveillance (ABCs) Report: Emerging Infections Program Network. Streptococcus pneumonia, provisional-2009. Atlanta, GA: US Department of Health and Human Services, CDC:2010. Available at: http://www.cdc.gov/abcs/reports-findings/survreports/spneu09.pdf
+	4.	CDC. Prevention of pneumococcal disease: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR 1997;46(No. RR-8).
+	5.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ 
+ Top of Page
+Pre-pregnancy hypertension
+Category: Cardiovascular Disease
+Demographic Group:
+Women aged 18-44 years who have had a live birth.
+Numerator:
+Respondents who reported having high blood pressure or hypertension before they became pregnant with their most recent live born infant.
+Denominator:
+Women who did or did not report having high blood pressure before they became pregnant with their most recent live born infant (excluding unknowns and refusals).
+Measures of Frequency:
+Crude prevalence and 95% confidence interval, weighted using the PRAMS methodology (to compensate for unequal probabilities of selection, and adjust for non-response and telephone non-coverage); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Before the pregnancy resulting in the most recent live birth.
+Background:
+In 2002, national data estimate that 3% of women of reproductive age had hypertension.1 As the number of pregnancies among women aged 35 years and older increases, this proportion is likely to grow. 
+Significance:
+Pregnancies among women with chronic hypertension can lead to preeclampsia or eclampsia, damage to the central nervous system, and kidney damage.2,3  Potential life threatening conditions related to chronic hypertension during pregnancy include preterm delivery, intrauterine growth retardation, placental abruption, and fetal demise.4  The Clinical Work Group of the Select Panel on Preconception Care recommends that all women of reproductive age with chronic hypertension be counseled before pregnancy about medication management and about the maternal and infant risks associated with hypertension during pregnancy.5  Based on studies making comparisons with clinical data, self- reports of hypertension status may underestimate hypertension prevalence.6
+Limitations of Indicator:
+Estimates are based on self-reported high blood pressure, which has not been confirmed by a physician. Based on studies comparing self-reports with clinical data, validity is deemed to be moderate as self-reported high blood pressure status may result in an underestimate of true hypertension prevalence.6 However, this underestimation is consistent with other research.6  There are other age group definitions recognized for “reproductive age” but these measurements will consistently use the age range of 18-44 years.
+Data Resources:
+Pregnancy Risk Assessment Monitoring System (PRAMS). 
+Limitations of Data Resources:
+PRAMS data is only collected from women who delivered a live-born infant, not all women of reproductive age, and from 40 states and one city, not the entire US.  PRAMS data are self-reported and may be subject to recall bias and under/over reporting of behaviors based on social desirability.   While most self-report surveys such as PRAMS might be subject to systematic error resulting from non-coverage (e.g. lower landline telephone coverage due to transition to cell phone only households or undeliverable addresses), nonresponse (e.g. refusal to participate in the survey or to answer specific questions), or measurement bias (e.g. recall bias), PRAMS attempts to contact potential respondents by mail and landline/cell telephone to increase response rates.  Another limitation is that women with fetal death or abortion are excluded.  PRAMS estimates only cover the population of residents in each state who also deliver in that state; therefore, residents who delivered in a different state are not captured in their resident state.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-5.1: Reduce the proportion of adults with hypertension.
+Related CDI Topic Area:
+Reproductive Health
+	1.	D’Angelo D, Williams L, Morrow B, et al. Preconception and interconception health status of women who recently gave birth to a live-born infant, Pregnancy Risk Assessment Monitoring System (PRAMS), United States, 26 reporting area, 2004. MMWR Surveill Summ 2007;56:1-35.
+	2.	Jain L. The effect of pregnancy-induced and chronic hypertension on pregnancy outcome. J Perinatol 1997; 17:425-27.
+	3.	Thorngren-Jereck K, Herbst A. Perinatal factors associated with cerebral palsy in children born in Sweden. Obstet Gynecol 2006;108:1499-1505.
+	4.	Barton J, Sibai B. Prediction and prevention of recurrent preeclampsia. Obstet Gynecol 2008;112:359-72.
+	5.	Dunlop AL, Jack BW, Bottalico JN, et al. The clinical content of preconception care: women with chronic medical conditions. Am J Obstet Gynecol 2008;199(6 Suppl 2): S310-27.
+	6.	Joint National Committee. Hypertension prevalence and the status of awareness, treatment, and control in the United States: final report. Hypertension 1985;7:456-468.
+ 
+ Top of Page
+Taking medicine for high blood pressure control among adults aged ≥18 years with high blood pressure
+Category: Cardiovascular Disease
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report taking medicine for high blood pressure.
+Denominator:
+Respondents aged ≥18 years who report having been told by a doctor, nurse, or other health professional of having high blood pressure other than during pregnancy (excluding unknowns and refusals).
+Measures of Frequency:
+Biennial (odd years) prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution 91) — with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+CDC vital signs (2012) showed that about half (47%) of people with high blood pressure have their condition under control.2 It is very important to improve the control rate to reduce the risk of heart attack and stroke.3 Studies showed that 46,000 deaths might be averted each year if 70% of patients with high blood pressure were treated according to goals established in current clinical guidelines.3 Reducing average population systolic blood pressure by only 12–13 mmHg could reduce stroke by 37%, coronary heart disease by 21%, and cardiovascular disease mortality by 25%, and all-cause mortality by 13%.3
+Significance:
+Approximately 20%–30% of coronary heart disease and 20%–50% of strokes in the United States are attributable to uncontrolled hypertension.3 Blood pressure-related cardiovascular complications can occur before the onset of established hypertension. Lifestyle risk factors for hypertension include high sodium intake, excessive caloric intake, physical inactivity, excessive alcohol consumption, and deficient potassium intake.3 Lifestyle changes and medications can be used to reduce blood pressure.3
+Limitations of Indicator:
+Indicator does not measure the proportion of adults with diagnosed hypertension who have their blood pressure successfully controlled. Also, the indicator does not include persons with hypertension who have their blood pressure successfully controlled through lifestyle changes and without medication.  Indicator only measures those aware of being told they have high blood pressure and not those who have been told they have hypertension.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., lower telephone coverage among populations of low socioeconomic status), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective HDS-11: Increase the proportion of adults with hypertension who are taking prescribed medications to lower their blood pressure.
+Related CDI Topic Area:
+Alcohol; Diabetes; Nutrition, Physical Activity, and Weight Status; Tobacco
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Vital signs: awareness and treatment of uncontrolled hypertension among adults—United States, 2003–2010. MMWR 2012;61:703–9.
+	3.	Go AS, Mozaffarian D, Roger VL, Benjamin EJ, Berry JD, Borden WB, et al. Heart disease and stroke statistics—2013 update: a report from the American Heart Association. Circulation. 2012:e2–241.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

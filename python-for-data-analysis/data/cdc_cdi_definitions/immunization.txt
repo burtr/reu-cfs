@@ -1,0 +1,169 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Immunization
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Influenza vaccination among non-institutionalized adults aged ≥18 years
+	•	
+Influenza vaccination among non-institutionalized adults aged ≥18 years
+Category: Immunization
+Demographic Group:
+Resident persons aged ≥18 years.
+Numerator:
+Respondents aged ≥18 years who report having received an influenza vaccination within the previous year.
+Denominator:
+Respondents aged ≥18 years who report having or not having an influenza vaccination within the previous year (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, master list1) with 95% confidence interval; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Previous year.
+Background:
+Although vaccination rates have increased, during the 2012-13 influenza season, only about 41.5% of adults aged ≥18 years were vaccinated against influenza.2
+Significance:
+In the United States during 1976 to 2007, estimates of annual influenza deaths ranged from 3,349 (in 1986-87) to 48,614 (in 2003-2004).3  During these annual epidemics, rates of serious illness and death are highest among persons ≥65 years, children under two years of age, and persons of any age who have medical conditions that place them at increased risk for complications from influenza.4,5  During seasonal influenza epidemics from 1979-80 through 2000-01,  the estimated annual overall mean number of influenza-associated hospitalizations in the United States was 226,000.6 An annual influenza vaccination might prevent or attenuate the clinical course of respiratory illness attributable to influenza. The Advisory Committee on Immunization Practices has recommended annual influenza vaccination for all persons aged ≥6 months in the United States.4,5
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations. Indicator does not measure vaccination rates among persons at high risk (e.g., persons with chronic illness) who should also be immunized.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12: Increase the percentage of children and adults who are vaccinated annually against seasonal influenza.   (IID-12.6 is specific for noninstitutionalized high-risk adults aged 18 to 64 years; and IID-12.7 is specific to noninstitutionalized adults aged 65 years and older).  The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23. Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.  Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported influenza vaccination within the past year.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. Flu vaccination coverage – United States, 2012-13 influenza season. Available at: http://www.cdc.gov/flu/fluvaxview/coverage-1213estimates.htm
+	3.	CDC. Estimates of deaths associated with seasonal influenza – United States, 1976-2007. MMWR 2010;59:1057-1062.   http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5933a1.htm?s_cid=mm5933a1_w
+	4.	CDC. Prevention and control of seasonal influenza with vaccines. Recommendations of the Advisory Committee on Immunization Practices – United States, 2013-2014. MMWR 2013;62(No. RR-7):1-43.  http://www.cdc.gov/mmwr/pdf/rr/rr6207.pdf   
+	5.	CDC. Errata: Vol. 62, No. RR-7. MMWR 2013;62(45):906.  http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6245a9.htm
+	6.	Thompson WW, Shay DK, Weintraub E, et al. Influenza-associated hospitalizations in the United States. JAMA 2004;292:1333-1340.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 

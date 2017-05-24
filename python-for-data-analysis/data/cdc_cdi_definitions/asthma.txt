@@ -1,0 +1,601 @@
+Skip directly to search Skip directly to A to Z list Skip directly to navigation Skip directly to page options Skip directly to site content 
+￼ ￼ 
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+CDC A-Z Index 
+	•	MENU
+	•	CDC A-Z
+	•	SEARCH
+	•	A
+	•	B
+	•	C
+	•	D
+	•	E
+	•	F
+	•	G
+	•	H
+	•	I
+	•	J
+	•	K
+	•	L
+	•	M
+	•	N
+	•	O
+	•	P
+	•	Q
+	•	R
+	•	S
+	•	T
+	•	U
+	•	V
+	•	W
+	•	X
+	•	Y
+	•	Z
+	•	#
+Start of Search Controls
+Search Form Controls
+Search The CDC 
+Cancel Submit 
+Search The CDC 
+Chronic Disease Indicators 
+
+Note: Javascript is disabled or is not supported by your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.
+Chronic Disease Indicators
+	•	Overview
+	•	Help Topics
+	◦	Introduction
+	◦	Explore CDI Data by Indicator
+	◦	Explore CDI Data by Location
+	◦	Comparison Report
+	•	Indicator Definitions
+	◦	Alcohol
+	◦	Arthritis
+	◦	Asthma
+	◦	Cancer
+	◦	Cardiovascular Disease
+	◦	Chronic Kidney Disease
+	◦	Chronic Obstructive Pulmonary Disease
+	◦	Diabetes
+	◦	Disability
+	◦	Immunization
+	◦	Mental Health
+	◦	Nutrition, Physical Activity, and Weight Status
+	◦	Older Adults
+	◦	Oral Health 
+	◦	Overarching Conditions
+	◦	Reproductive Health
+	◦	Tobacco
+
+
+Error processing SSI file
+Indicator Definitions - Asthma
+
+Recommend on Facebook Tweet ￼ShareCompartir 
+On this Page
+	•	Asthma mortality rate
+	•	Asthma prevalence among women aged 18-44 years
+	•	Current asthma prevalence
+	•	Emergency department visit rate for asthma
+	•	Hospitalizations for asthma
+	•	Influenza vaccination among non-institutionalized adults aged ≥65 years with asthma
+	•	Influenza vaccination among non-institutionalized adults aged 18-64 years with asthma
+	•	Pneumococcal vaccination among non-institutionalized adults aged ≥65 years with asthma
+	•	Pneumococcal vaccination among non-institutionalized adults aged 18-64 years with asthma
+	•	Risk-based asthma mortality rate (mortality from asthma among persons with asthma)
+	•	Risk-based emergency department visit rate for asthma (emergency department visits for asthma per persons with asthma)
+	•	Risk-based hospital discharge rate for asthma (hospitalizations for asthma per persons with asthma)
+Asthma mortality rate
+Category: Asthma
+Demographic Group:
+All resident persons.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code J45-J46 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Midyear resident population for the same calendar year, obtained from the US Census Bureau.
+Measures of Frequency:
+Annual number of deaths. Annual mortality rate per million — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year. States with fewer than 20 deaths in a calendar year should calculate 3 to 5 year moving averages to increase reliability.
+Background:
+The number of deaths with asthma as the underlying cause decreased from 4,483 in 20002 to 3,816 in 20042 and then to 3,388 in 2009.3 There was a very slight increase to 3,404 in 20104.  The population-based asthma mortality rate declined from 16.1 in 20002 to 10.6 per million population in 2010, while the risk-based asthma mortality rate declined from 2.1 in 2001 to 1.3 per 10,000 persons with asthma in 2010.4
+Significance:
+The majority of the problems associated with asthma are preventable if asthma is managed according to established guidelines. Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care. With proper management, deaths from asthma are theoretically preventable.5
+Limitations of Indicator:
+The reliability of death certificate data for asthma has been questioned, particularly for older age groups. Asthma may be over or under reported for adults because of misreporting the cause of death, particularly in people with confounding medical conditions.  In one study, inconsistencies in death certificate completion resulted in “asthma” automatically overriding the underlying cause chosen, leading to an overestimation of asthma deaths among people age 55 and older.6-7  In contrast, a larger and well-designed study concluded that asthma death coding had very high specificity (99%) and low sensitivity (42%); that asthma as a cause of death was under-reported rather than over-reported in preference to COPD (58% false negative, 1% false positive); and that there was no age effect.8 This study casts some doubt on the assumption that coding of asthma deaths in older individuals is unreliable in the United States. However, no studies representative of the entire US vital statistics system have been published.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and population estimates from the U.S. Census Bureau or suitable alternative (denominator). 
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective RD-1: Reduce asthma deaths. (RD-1.1 is specific for children and adults under age 35 years; RD-1.2 is specific for adults aged 35 to 64 years old; RD-1.3 is specific for adults aged 65 years and older.)
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC.  National surveillance for asthma – United States, 1980 – 2004.  MMWR 2007:56 (No. SS-8):1-54.
+	3.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	4.	CDC. Wonder On-line databases.  http://wonder.cdc.gov/
+	5.	National Asthma Education and Prevention Program. Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma.  Bethesda, MD: US Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute, 2007.
+	6.	Brunner WM, Ross SK, Johnson JE. Review of the asthma mortality rate for Minnesota residents aged 55 years or older, 2004-2005: when death certificates deserve a second look.  Prev Chronic Dis. 2009 Jul;6(3):A92. Epub 2009 Jun 15. 
+	7.	Rosenman KD, Hanna E, Wasilevich EA, Lyon-Callo SK. “2007 Annual Report on Asthma Deaths Among Individuals Aged 2-34 and 45-54 Years in Michigan”. Michigan State University Department of Medicine.  September 2010  (PDF available at www.GetAsthmaHelp.org)
+	8.	Hunt LW, Silverstein MD, Reed CE, O’Connell EJ, O’Fallon WM, Yunginger JW.  Accuracy of the death certificate in a population-based study of asthmatic patients.  JAMA 1993; 269: 1947-1952.
+ 
+ Top of Page
+Asthma prevalence among women aged 18-44 years
+Category: Asthma
+Demographic Group:
+Women aged 18-44 years.
+Numerator:
+Female respondents aged 18-44 years who reported that they had ever been told by a doctor, nurse, or other health professional that they had asthma and reported that they still have asthma.
+Denominator:
+Female respondents aged 18-44 years who reported that they had or had not ever been told by a doctor, nurse, or other health professional that they had asthma (excluding unknowns and refusals).
+Measures of Frequency:
+Annual number of women (aged 18-44 years) with current asthma; and 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+ Calendar year of survey.
+Background:
+Asthma affects at least 8.2% of pregnant women and 9.4% of women of reproductive age in the United States.1  For about 30% of women with asthma, the severity of the disease worsens during pregnancy.2
+Significance:
+While outcomes of pregnancy in which the woman’s asthma is mild or well-controlled are usually good, severe and poorly controlled asthma during pregnancy may be associated with an increased likelihood of premature delivery, the need for cesarean delivery, preeclampsia, growth restriction, other perinatal complications, and maternal morbidity and mortality.3  Furthermore, subsequent pregnancies tend to follow a course similar as the first pregnancy with respect to status of asthma severity.4 The Clinical Work Group of the Select Panel on Preconception Care recommends that women of reproductive age with asthma be counseled about the importance of achieving asthma control prior to pregnancy and the potential for their asthma control to decline during pregnancy.2   The panel also recommends that those women with poor control of their asthma is achieved.2   Finally, preventive therapy with inhaled corticosteroids is highly recommended for women with chronic asthma who are planning to become pregnant or who could become pregnant as use of these medications prior to pregnancy has been shown to reduce the rate of asthma-related health care utilization during pregnancy.4
+Limitations of Indicator:
+This survey-based indicator requires a doctor diagnosis of asthma, which may not include all persons with asthma.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+Reproductive Health
+	1.	Kwon HL, Belanger K, Bracken MB. Asthma prevalence among pregnant and childbearing-aged women in the United States: estimates from national health surveys. Ann Epidemiol 2003;13:317-24.
+	2.	Dunlop AL, Jack BW, Bottalico JN, et al. The clinical content of preconception care: women with chronic medical conditions. Am J Obstet Gynecol 2008; 199(6 Suppl B):S310-27.
+	3.	American College of Obstetricians and Gynecologists. Asthma in pregnancy. ACOG Practice Bulletin No. 90.  Obstet Gynecol 2008;111:457-64.
+	4.	Schatz M, Dombrowski MP, Wise R, et al. Asthma morbidity during pregnancy can be predicted by severity classification. J Allergy Clin Immunol 2003;112:283-8. 
+ 
+ Top of Page
+Current asthma prevalence
+Category: Asthma
+Demographic Group:
+Civilian non-institutional population.
+Numerator:
+Weighted number of respondents who answer “yes” to both the question “have you ever been told by a doctor, nurse, or other health professional that you have asthma?” and the question “do you still have asthma?”
+Denominator:
+Weighted number of respondents to BRFSS (or National Survey of Children’s Health) excluding “don’t know” and “refused” responses to the question “do you still have asthma?”
+Measures of Frequency:
+Annual number of state residents with current asthma; annual current asthma prevalence percent; and 95% confidence intervals; and by demographic characteristics when feasible.
+Annual number of adults (ages ≥18 years) with current asthma; adult current asthma prevalence percent; and 95% confidence intervals; and by demographic characteristics when feasible.
+Annual number of children (ages 0-17 years) with current asthma; child current asthma prevalence percent; and 95% confidence intervals; and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year of survey.
+Background:
+Estimates of asthma prevalence indicate the number and percentage of the population with asthma at a given point in time.  National estimates indicate that both adult and child current asthma prevalence estimates have been increasing from 20.3 million persons in 2001 to 25.7 million persons in 2010, of which 7.0 million were children1   Adult current asthma prevalence, available for states from BRFSS since 2001, varies by state and region as well as by many demographic characteristics.2  Child current asthma prevalence is available for a subset of states from BRFSS annually since 2005.2  Child current asthma prevalence is available for all states from the National Survey of Children’s Health for 2003, 2007, and 2011.3 
+Significance:
+Asthma prevalence describes the size of a state’s population with asthma as well as the overall asthma burden relative to other chronic conditions.  The greater the prevalence of asthma, the greater the likelihood of adverse outcomes from asthma including emergency department visits, hospitalizations, and death.1  Compared to persons without asthma, persons with asthma have more days of activity limitation, missed school and missed work and are more likely to report comorbid depression.4-8
+Limitations of Indicator:
+All states have collected adult BRFSS data annually since 2001, but not all states collect child data using the child asthma module of the BRFSS.  States that do not collect child asthma data from BRFSS cannot produce the total indicator for all years, only the adult indicator.  However, child asthma prevalence data for all states is available every 4 years using the National Survey of Children’s Health (2003, 2007 and 2011).  (Note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time.) For these years a total indicator can be produced for all states by combining the adult prevalence from BRFSS with the child prevalence from NSCH.  This survey-based indicator requires a doctor diagnosis of asthma, which may not include all persons with asthma.  The child information is provided by an adult proxy respondent.
+Data Resources:
+BRFSS survey for adults (all states) and for children (some states).  National Survey of Children’s Health (NSCH) for those states not collecting child data with BRFSS.
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	2.	CDC. Behavioral Risk Factor Surveillance System.  Available at: http://www.cdc.gov/brfss/annual_data/annual_data.htm.
+	3.	CDC. National Survey of Children’s Health.  Available at: http://www.cdc.gov/nchs/slaits/nsch.htm
+	4.	Moonie S, Sterling D, Figgs L, Castro M. Asthma status and severity affects missed school days.  J School Health 2006;  76 (1):000-000.
+	5.	King ME. Chapter 5: Serious psychological distress and asthma. IN: Preedy VR (ed). Scientific Basis of Healthcare.  Science Publishers; 2012:86–107.  http://www.crcnetbase.com/doi/abs/10.1201/b11607-6
+	6.	 Strine TW, Mokdad AH, Balluz LS, et al. Depression and anxiety in the United States: findings from the 2006 Behavioral Risk Factor Surveillance System. Psychiatr Serv 2008;59:1383--90.
+	7.	Chapman DP, Perry GS, Strine TW. The vital link between chronic disease and depressive disorders. Prev Chronic Dis 2005;2:A14.
+	8.	Scott KM, Von Korff M, Ormel J, et al. Mental disorders among adults with asthma: results from the World Mental Health Survey. Gen Hosp Psychiatry 2007;29(2):123-33. (doi:10.1016/j.genhosppsych.2006.12.006). 
+ 
+ Top of Page
+Emergency department visit rate for asthma
+Category: Asthma
+Demographic Group:
+All resident persons.
+Numerator:
+Emergency Department (ED) visits with a principal diagnosis of International Classification of Diseases (ICD)-9-CM code 493 AND (if not already included) hospitalizations where the source of admission was the ED and an admission diagnosis of ICD-9-CM code 493 AND (if not already included) 24-hour observation beds where the source of the admission was the ED with a principal admission diagnosis of ICD-9-CM code 493 among residents during a calendar year. When possible, include ED visits/24-hour observations/hospitalizations for residents who have an ED visit/24-hour observation/hospitalization in another state.
+Denominator:
+Midyear resident population for the same calendar year, obtained from the US Census Bureau.
+Measures of Frequency:
+Annual number of ED visits. Annual ED visit rate per 10,000 — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population distribution #11); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Use the ED discharge date if available for the calendar year.  For ED cases found in the hospitalization data which do not have an ED discharge date, use the hospital admission date as the ED discharge date.
+Background:
+Each year, approximately 3.2 million ED visits related to asthma occur in the United States2. As of 2010, an estimated 25.7 million U.S. residents currently have asthma, which is a 27% increase over 10 years.3  The cost of ED care is substantially higher than the cost of outpatient and pharmaceutical services.4
+Significance:
+Current scientific and clinical consensus is that the majority of acute asthma events, particularly emergency department visits, can be prevented if asthma is properly managed according to established medical guidelines.5 Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care.5
+Limitations of Indicator:
+This indicator may be an overestimate of the burden of asthma exacerbations since people sometime use the ED inappropriately – i.e., using the ED for primary care.  This indicator is calculated among the entire resident population, which includes people who do not have asthma. A more appropriate measure is one that is calculated among the population that has asthma (i.e., at risk based rate) - see indicator “At-risk Emergency Department (ED) Visit rate for Asthma”.  A subset of patients who appear in the numerator of ED indicators (those who were hospitalized with the ED as source of admission) will also appear in the numerator for both hospitalization indicators.  Since resources were used by the patients at each site (ED and inpatient), it is important to count the events in both indicators as an indicator of asthma burden on the hospital system.
+Data Resources:
+State ED visit, observation unit, and hospitalization discharge data (numerator) from AHRQ and population estimates from the U.S. Census Bureau (denominator).
+Limitations of Data Resources:
+Not all states have access to administrative billing ED data. The diagnosis information contained in this data source may or may not match perfectly with information on the medical records, which is considered the “gold standard”. State ED datasets may not include all facilities or populations.  They may exclude Veterans Administration hospitals, Indian Health Service facilities, or institutionalized (prison) populations.  For most states, this measure only includes state residents who visited the ED in their own state.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective RD-3: Reduce hospital emergency department visits for asthma (RD-3.1 is specific for children aged <5 years; RD-3.2 is specific for children and adults aged 5–64 years; RD-3.3 is specific for adults aged ≥65 years.)
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20 http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC.  Asthma prevalence, disease characteristics, and self-management education—United States, 2001-2009.  MMWR 2011;60:547-552.
+	3.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	4.	Barnett SBL, Nurmagambetov TA. Costs of asthma in the United States: 2002-2007. J Allergy Clin Immunol 2011; 127:145-152.National Asthma Education and Prevention Program. Expert Panel Report 3:  Guidelines for the Diagnosis and Management of Asthma. NIH: Bethesda MD; 2007.
+	5.	National Asthma Education and Prevention Program. Expert Panel Report 3:  Guidelines for the Diagnosis and Management of Asthma. NIH: Bethesda MD; 2007.
+ 
+ Top of Page
+Hospitalizations for asthma
+Category: Asthma
+Demographic Group:
+All resident persons.
+Numerator:
+Inpatient hospitalizations with a principal discharge diagnosis of International Classification of Diseases (ICD)-9-CM code 493 among residents during a calendar year. When possible, include hospitalizations for residents who are hospitalized in another state.
+Denominator:
+Midyear resident population for the same calendar year, obtained from the US Census Bureau.
+Measures of Frequency:
+Annual number of hospitalizations. Annual hospitalization rate per 10,000 — crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1); and by demographic characteristics when feasible.
+Time Period of Case Definition:
+Calendar year based on the hospital discharge date.
+Background:
+Each year, approximately 480,000 hospitalizations related to asthma occur in the United States.2  As of 2010, an estimated 25.7 million U.S. residents currently have asthma, which is a 27% increase over 10 years.3  Although inpatient hospitalization for asthma is less frequently used than outpatient and pharmaceutical services, its cost is substantially higher.
+Significance:
+Hospitalizations due to asthma could be reduced if asthma is managed according to established guidelines. Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care.4
+Limitations of Indicator:
+While reducing hospitalizations due to asthma is theoretically a function of better care and self-management knowledge, the economy and the health care system also greatly impact this measure.  Practice patterns and payment mechanisms can affect decisions by health-care providers to hospitalize patients.   The use of a population based-measure can be misleading as it is affected by changes in prevalence over space or time. As one person can have multiple hospitalizations for asthma in a single calendar year, this indicator describes rate of events, not rate of persons hospitalized. 
+Data Resources:
+State hospital discharge data (numerator) from AHRQ and population estimates from the U.S. Census Bureau or suitable alternative (denominator).
+Limitations of Data Resources:
+The diagnosis information contained in this data source may or may not match perfectly with information on the medical records, which is considered the “gold standard”.   Hospital discharge data may not be available for all states. State hospitalization datasets may not include all facilities or populations.  They may exclude Veterans Administration hospitals, Indian Health Service facilities, or institutionalized (prison) populations.  For most states, this measure only includes state residents who were hospitalized in their own state.   Hospital inpatient data files are usually organized by discharge date.  Some inpatient stays may have been initiated in the previous calendar year since some admissions at the end of one calendar year are discharged the following calendar year.  Consequently, rates based on discharge date may differ from other indicators based on admission date.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective RD-2: Reduce hospitalizations for asthma. (RD-2.1 is specific for children aged <5 years; RD-2.2 is specific for children and adults aged 5–64 years; RD-2.3 is specific for adults aged ≥65 years.)
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001.Healthy people 2010 statistical notes, no. 20 http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Number and rate of discharges from short-stay hospitals and of days of care, with average length of stay, and standard error, by selected first-listed diagnostic categories: United States, 2009.   National Hospital Discharge Survey. Accessed 10/30/12 at http://www.cdc.gov/nchs/data/nhds/2average/2009ave2_firstlist.pdf
+	3.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	4.	National Asthma Education and Prevention Program. Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma.  Bethesda, MD: US Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute, National Asthma Education and Prevention Program, 2007. 
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged ≥65 years with asthma
+Category: Asthma
+Demographic Group:
+Non-institutionalized resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years who report having ever been told that they have asthma and who still have asthma, and who report having received influenza vaccination in the previous 12 months.
+Denominator:
+Respondents aged ≥65 years who report having ever been told that they have asthma and who still have asthma, and who report having received influenza vaccination in the previous 12 months or not having received influenza vaccination in the previous 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of asthma, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Current (asthma) Previous 12 months (vaccinated)
+Background:
+Asthma is a significant public health burden.  Currently in the United States, approximately 18.5 million adults have asthma.2  During the 2010-2011 influenza season, 68.6% of adults aged ≥65 years received influenza vaccine.3
+Significance:
+Asthma appears to be related to influenza infection. Children and adults with asthma are at higher risk for influenza-related adverse health outcomes, including pneumonia, hospitalization for acute respiratory disease, and death.  Because 5 to 10% of the US population has asthma, the potential public health impact of influenza infection on this vulnerable subgroup is enormous.4
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12: Increase the percentage of children and adults who are vaccinated annually against seasonal influenza (IID-12.7 is specific for noninstitutionalized high-risk adults aged 65 years and older).   The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf , and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23. Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	3.	CDC.  Interim results: state-specific seasonal influenza vaccination coverage - United States,  August 2010-February 2011.  MMWR 2011; 60(22):737-743. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6022a3.htm
+	4.	Eisner MD. Asthma and influenza vaccination. Chest 2003;124:775-777. http://journal.publications.chestnet.org/article.aspx?articleid=1081881/
+ 
+ Top of Page
+Influenza vaccination among non-institutionalized adults aged 18-64 years with asthma
+Category: Asthma
+Demographic Group:
+Non-institutionalized resident persons aged 18 – 64 years.
+Numerator:
+Respondents aged 18-64 years who report having ever been told that they have asthma and who still have asthma, and who report having received influenza vaccination in the previous 12 months.
+Denominator:
+Respondents aged 18-64 years who report having ever been told that they have asthma and who still have asthma, and who report having received influenza vaccination in the previous 12 months or not having received influenza vaccination in the previous 12 months (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. Standard Population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible.  Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of asthma, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Current (still has asthma) Previous 12 months (vaccinated)
+Background:
+Asthma is a significant public health burden.  Currently in the United States, approximately 18.5 million adults have asthma.2  During the 2010-2011 influenza season, 48.4% of high risk adults 18 – 64 years of age received influenza vaccine.3
+Significance:
+Asthma appears to be related to influenza infection. Children and adults with asthma are at higher risk for influenza-related adverse health outcomes, including pneumonia, hospitalization for acute respiratory disease, and death.  Because 5 to 10% of the US population has asthma, the potential public health impact of influenza infection on this vulnerable subgroup is enormous.4
+Limitations of Indicator:
+Respondents might not distinguish between influenza and pneumococcal (Streptococcus pneumoniae) vaccinations.  Estimates are not specific to one influenza season; influenza vaccinations reported in the past 12 months could have been received for one or more of up to three prior influenza seasons.  For further information on the surveillance of influenza vaccination coverage, please refer to: http://www.cdc.gov/mmwr/preview/mmwrhtml/ss6204a1.htm?s_cid=ss6204a1_w.  To obtain influenza vaccination coverage estimates by season, please refer to:  http://www.cdc.gov/flu/fluvaxview/.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-12: Increase the percentage of children and adults who are vaccinated annually against seasonal influenza (IID-12.6 is specific for noninstitutionalized high-risk adults aged 18 to 64 years).   The Healthy People 2020 influenza vaccination objectives have been consolidated since the original publication of Healthy People 2020, but will continue to be monitored as part of HP2020 data reporting.  For more information, please refer to slide 3 in the following ACIP presentation: http://www.cdc.gov/vaccines/acip/meetings/downloads/slides-oct-2013/03-Influenza-Singleton.pdf, and the Healthy People 2020 web site: http://www.healthypeople.gov/2020/topicsobjectives2020/objectiveslist.aspx?topicId=23. Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported influenza vaccination within the past year.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	3.	CDC.  Interim results: state-specific seasonal influenza vaccination coverage - United States,  August 2010-February 2011. MMWR 2011; 60(22):737-743. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6022a3.htm
+	4.	Eisner MD. Asthma and influenza vaccination. Chest 2003;124:775-777. http://journal.publications.chestnet.org/article.aspx?articleid=1081881/ 
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged ≥65 years with asthma
+Category: Asthma
+Demographic Group:
+Non-institutionalized resident persons aged ≥65 years.
+Numerator:
+Respondents aged ≥65 years who report having ever been told that they have asthma and who still have asthma, and who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged ≥65 years who report having ever been told that they have asthma and who still have asthma, who report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. standard population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of asthma, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Current (still has asthma) Lifetime (ever vaccinated)
+Background:
+Asthma is a significant public health burden.  Currently in the United States, approximately 18.5 million adults have asthma.2 In 2012 in the United States, pneumococcal vaccination coverage among adults aged ≥65 years was 59.9% overall.3
+Significance:
+In 2011, an estimated 8.2% of adults aged ≥18 years reported current asthma (http://www.cdc.gov/asthma/nhis/2011/table4-1.htm).  A case-control study conducted in Tennessee, which identified cases through active, population-based and laboratory-based surveillance and verified history of asthma from the Tennessee Medicaid database, showed that among adults aged 18--49 years, invasive pneumococcal disease (IPD) was more common among persons with asthma than persons without asthma (adjusted odds ratio = 2.4; 95% confidence interval = 1.8--3.3). Among persons with high-risk asthma, the risk for IPD was nearly twice that for persons with low-risk asthma.4 In contrast, in a study conducted among a cohort of older veterans (average age: 53 years), persons with asthma did not have higher rates of hospitalization for pneumococcal pneumonia compared with persons in a group without asthma or chronic obstructive pulmonary disease (COPD) who were matched to the asthma patients by age, sex, and region. 5 However, in the same study, hospitalization rates for pneumococcal pneumonia among persons with COPD were higher compared with persons in the control group.5  Because distinguishing between COPD and asthma becomes more difficult with advancing age, misclassification of persons in this study is a possibility.6
+Limitations of Indicator:
+Although self-reported pneumococcal vaccination has been validated,7 the reliability and validity of this measure is unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13: Increase the percentage of adults who are vaccinated against pneumococcal disease.  IID-13.1 is specific to noninstitutionalized adults aged 65 years and older.  Healthy People 2020 Objective OA-2:  Increase the proportion of older adults who are up to date on a core set of clinical preventive services.
+Related CDI Topic Area:
+Immunization; Older Adults
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC.Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 1980–2004.  MMWR. 2007;56(SS-8):1-54. http://www.cdc.gov/mmwr/PDF/ss/ss5608.pdf /
+	3.	CDC. Noninfluenza vaccination coverage among adults – United States, 2012. MMWR 2014;63(05):95-102. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6305a4.htm?s_cid=mm6305a4_e.
+	4.	Talbot TR, Hartert TV, Mitchel E, et al. Asthma as a risk factor for invasive pneumococcal disease. N Engl J Med 2005;352:2082-2090.
+	5.	Lee TA, Weaver FM, Weiss KB. Impact of pneumococcal vaccination on pneumonia rates in patients with COPD and asthma. J Gen Intern med 2007;22:62-67.
+	6.	CDC. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23).  MMWR 2010;59:1102-1106.   http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5934a3.htm
+	7.	Shenson D, DiMartino D, Bolen J, Campbell M, Lu PJ, Singleton JA. Validation of self-reported pneumococcal vaccination in behavioral risk factor surveillance surveys: experience from the sickness prevention achieved through regional collaboration (SPARC) program. Vaccine 2005;23:1015-1020. http://www.ncbi.nlm.nih.gov/pubmed/15620474#
+ 
+ Top of Page
+Pneumococcal vaccination among non-institutionalized adults aged 18-64 years with asthma
+Category: Asthma
+Demographic Group:
+Non-institutionalized resident persons aged 18-64 years.
+Numerator:
+Respondents aged 18-64 years who report having ever been told that they have asthma and who still have asthma, and who report ever having received a pneumococcal vaccination.
+Denominator:
+Respondents aged 18-64 years who report having ever been told that they have asthma and who still have asthma, who report ever having or not ever having a pneumococcal vaccination (excluding unknowns and refusals).
+Measures of Frequency:
+Annual prevalence — crude, age-stratified and age-adjusted (to the 2000 U.S. standard population, using the direct method1) — with 95% confidence interval; and by demographic characteristics when feasible. Because of the relatively small numbers of BRFSS respondents at the state-level who have a history of asthma, 2 or 3-year averages may be needed to provide stable state-level estimates. U.S. estimates may be based on single years of data.
+Time Period of Case Definition:
+Current (still has asthma) Lifetime (ever vaccinated)
+Background:
+Asthma is a significant public health burden.  Currently in the United States, approximately 18.5 million adults have asthma.2  In 2012, only 20.0% of high-risk persons aged 19 to 64 years reported ever receiving a pneumococcal vaccination.3 
+Significance:
+In 2011, an estimated 8.2% of adults aged ≥18 years reported current asthma (http://www.cdc.gov/asthma/nhis/2011/table4-1.htm). A case-control study conducted in Tennessee, which identified cases through active, population-based and laboratory-based surveillance and verified history of asthma from the Tennessee Medicaid database, showed that among adults aged 18--49 years, invasive pneumococcal disease (IPD) was more common among persons with asthma than persons without asthma (adjusted odds ratio =2.4; 95% confidence interval =1.8--3.3).4 Among persons with high-risk asthma, the risk for IPD was nearly twice that for persons with low-risk asthma.4 In contrast, in a study conducted among a cohort of older veterans (average age: 53 years), persons with asthma did not have higher rates of hospitalization for pneumococcal pneumonia compared with persons in a group without asthma or chronic obstructive pulmonary disease (COPD) who were matched to the asthma patients by age, sex, and region.5 However, in the same study, hospitalization rates for pneumococcal pneumonia among persons with COPD were higher compared with persons in the control group.5  Because distinguishing between COPD and asthma becomes more difficult with advancing age, misclassification of persons in this study is a possibility.6 The Advisory Committee on Immunization Practices recommends that persons aged 19-64 years who have asthma should receive a single dose of pneumococcal vaccine.6
+Limitations of Indicator:
+Although self-reported pneumococcal vaccination has been validated7, the reliability and validity of this measure is unknown.
+Data Resources:
+Behavioral Risk Factor Surveillance System (BRFSS).
+Limitations of Data Resources:
+As with all self-reported sample surveys, BRFSS data might be subject to systematic error resulting from noncoverage (e.g., on college campuses or in the military), nonresponse (e.g., refusal to participate in the survey or to answer specific questions), or measurement (e.g., social desirability or recall bias).  In an effort to address some of these potential concerns, BRFSS began including cell phone only users in the 2011 data collection.  Due to changes in sampling and weighting methodology, 2011 is a new baseline for BRFSS, and comparisons with prior year data are inappropriate.
+Related Indicators or Recommendations:
+Healthy People 2020 Objective IID-13:  Increase the percentage of adults who are vaccinated against pneumococcal disease.  IID-13.2 is specific to noninstitutionalized high-risk adults aged 18 to 64 years. Promoting Preventive Services for Adults 50-64 -- Community and Clinical Partnerships: Percent of adults who reported current smoking, diabetes, asthma or cardiovascular disease who have ever had a pneumococcal vaccination.
+Related CDI Topic Area:
+Immunization
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	3.	CDC. Noninfluenza vaccination coverage among adults – United States, 2012. MMWR 2014;63(05):95-102. http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6305a4.htm?s_cid=mm6305a4_e
+	4.	Talbot TR, Hartert TV, Mitchel E, et al. Asthma as a risk factor for invasive pneumococcal disease. N Engl J Med 2005;352:2082-2090.
+	5.	Lee TA, Weaver FM, Weiss KB. Impact of pneumococcal vaccination on pneumonia rates in patients with COPD and asthma. J Gen Intern med 2007;22:62-67.
+	6.	CDC.  Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23).  MMWR 2010;59:1102-1106.   http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5934a3.htm/
+	7.	Shenson D, DiMartino D, Bolen J, Campbell M, Lu PJ, Singleton JA. Validation of self-reported pneumococcal vaccination in behavioral risk factor surveillance surveys: experience from the sickness prevention achieved through regional collaboration (SPARC) program. Vaccine 2005;23:1015-1020. http://www.ncbi.nlm.nih.gov/pubmed/15620474#/
+ 
+ 
+ Top of Page
+Risk-based asthma mortality rate (mortality from asthma among persons with asthma)
+Category: Asthma
+Demographic Group:
+Residents with asthma.
+Numerator:
+Deaths with International Classification of Diseases (ICD)-10 code J45-J46 as the underlying cause of death among residents during a calendar year.
+Denominator:
+Estimate of the number of state residents with current asthma for the same calendar year, obtained from the BRFSS (for adults), and for children from the BRFSS child module, if implemented, or from the National Survey of Children’s Health (NSCH) if the BRFSS child module was not implemented.
+Measures of Frequency:
+Annual number of residents with current asthma; annual number of asthma deaths; annual at-risk asthma death rate; and by demographic characteristics when feasible.  States with fewer than 20 deaths in a calendar year should calculate 3 to 5 year moving averages to increase reliability.
+Children (0-17 years) from BRFSS if available
+	•	Annual number of deaths for children ages 0-17 years.
+	•	Annual number of state residents ages 0-17 years with current asthma.
+	•	Annual risk-based child asthma mortality rate per million - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1)
+Children (0-17 years) from NSCH (if BRFSS data are not available)
+	•	Number of deaths for children ages 0-17 years for 2003, 2007, and 2011 (and every four years thereafter).
+	•	Number of state residents ages 0-17 years with current asthma for 2003, 2007, and 2011 (and every four years thereafter).
+	•	Risk-based child asthma mortality rate per million -  crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1) for 2003, 2007, and 2011 (and every four years thereafter).
+Adults (≥18 years)
+	•	Annual number of deaths for adults ages ≥18 years.
+	•	Annual number of state residents ages ≥18 years  with current asthma.
+	•	Annual risk-based adult asthma mortality rate per million -  crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1)
+Total (all ages)
+	•	Annual number of deaths
+	•	Annual number of state residents with current asthma (for states/years with both child and adult prevalence)
+	•	Annual risk-based asthma mortality rate per million -  crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1)
+Time Period of Case Definition:
+Calendar year. States with fewer than 20 deaths in a calendar year should calculate 3 to 5 year moving averages to increase reliability.
+Background:
+The number of deaths with asthma as the underlying cause decreased from 4,483 in 20002 to 3,816 in 20042 and then to 3,388 in 2009.3  There was a very slight increase to 3,404 in 2010.4  The population-based asthma mortality rate declined from 16.1 in 20002 to 10.6 per million population in 20104, while the risk-based asthma mortality rate declined from 2.1 in 20012 to 1.3 per 100,000 persons with asthma in 2010.5  As of 2010, an estimated 25.7 million U.S. residents currently had asthma3, which is a 27% increase over 10 years.  The at-risk based asthma mortality rate controls for the increase in the number of state residents with asthma that has occurred over time and differences in the underlying asthma prevalence across states.  Population-based asthma mortality rates could increase simply because there are more people with asthma each year (or in specific geographic areas) who are at risk of death from asthma.  The at-risk based rate reflects deaths among persons with asthma and is therefore independent of the number of people with asthma. 
+Significance:
+The majority of the problems associated with asthma are preventable if asthma is managed according to established guidelines. Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care.6 With proper management, deaths from asthma are theoretically preventable.
+Limitations of Indicator:
+The reliability of death certificate data for asthma has been questioned, particularly for older age groups. The cause of death in people with confounding medical conditions may be misreported.7-9 Some studies have reported inconsistencies in death certificate completion that resulted in “asthma” automatically overriding the underlying cause chosen, leading to an overestimate of asthma deaths.  In contrast, a larger and well-designed study concluded that asthma death coding had very high specificity (99%) and low sensitivity (42%); that asthma as a cause of death was under-reported rather than over-reported in preference to COPD (58% false negative, 1% false positive); and that there was no age effect. This study casts some doubt on the assumption that coding of asthma deaths in older individuals is unreliable in the United States. However, no studies representative of the entire US vital statistics system have been published.
+Data Resources:
+Death certificate data from vital statistics agencies (numerator) and estimates of the state population with current asthma from the BRFSS and the National Survey of Children’s Health (denominator). 
+Limitations of Data Resources:
+Causes of death and other variables listed on the death certificate might be inaccurate.  If the BRFSS child module was not implemented, annual child prevalence estimates will only be available for 2003, 2007, and 2011 from the National Survey of Children’s Health (NSCH).  (Note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time.)
+Related Indicators or Recommendations:
+Healthy People 2020 Objective RD-1: Reduce asthma deaths. (RD-1.1 is specific for children and adults under age 35 years; RD-1.2 is specific for adults aged 35 to 64 years old; RD-1.3 is specific for adults aged 65 years and older.)
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20. http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	CDC. National surveillance for asthma – United States, 1980 – 2004. MMWR 2007:56 (No. SS-8):1-54.
+	3.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	4.	CDC. Wonder On-line databases.  http://wonder.cdc.gov/
+	5.	CDC. National Asthma Control program; personal communication.
+	6.	National Asthma Education and Prevention Program.  Expert Panel Report 3:Guidelines for the Diagnosis and Management of Asthma.  Bethesda, MD: US Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute, 2007.
+	7.	Brunner WM, Ross SK, Johnson JE. Review of the asthma mortality rate for Minnesota residents aged 55 years or older, 2004-2005: when death certificates deserve a second look.  Prev Chronic Dis. 2009 Jul;6(3):A92. Epub 2009 Jun 15.
+	8.	Rosenman KD, Hanna E, Wasilevich EA, Lyon-Callo SK. “2007 Annual Report on Asthma Deaths Among Individuals Aged 2-34 and 45-54 Years in Michigan”. Michigan State University Department of Medicine.  September 2010.
+	9.	 Hunt LW, Silverstein MD, Reed CE, O’Connell EJ, O’Fallon WM and Yunginger JW.  Accuracy of the death certificate in a population-based study of asthmatic patients.  JAMA 1993;269:1947-1952. 
+ 
+ Top of Page
+Risk-based emergency department visit rate for asthma (emergency department visits for asthma per persons with asthma)
+Category: Asthma
+Demographic Group:
+Residents with asthma.
+Numerator:
+Emergency department (ED) visits with a principal diagnosis of International Classification of Diseases (ICD)-9-CM code 493 AND (if not already included) hospitalizations where the source of admission was the ED and an admission diagnosis of ICD-9-CM code 493 AND (if not already included) 24-hour observation beds where the source of the admission was the ED with a principal admission diagnosis of ICD-9-CM code 493 among residents during a calendar year. When possible, include ED visits/24-hour observations/hospitalizations for residents who have an ED visit/24-hour observation/hospitalization in another state.
+Denominator:
+Estimate of the number of state residents with current asthma for the same calendar year.  For adults the estimate is obtained from the BRFSS and, for children, from the BRFSS child asthma module, if implemented.  If not implemented the child estimate can be obtained from the National Survey of Children’s Health (NSCH).
+Measures of Frequency:
+Annual number of state residents with current asthma; annual number of asthma ED visits; annual at-risk asthma ED visit rate; and by demographic characteristics when feasible.
+Children (0-17) if BRFSS data are available
+	•	Annual number of ED visits for children ages 0-17 years. 
+	•	Annual number of state residents ages 0-17 years with current asthma. 
+	•	Annual risk-based child asthma ED rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1)
+Children (0-17 years) if BRFSS data are not available
+	•	Number of ED visits for children ages 0-17 years for 2003, 2007, and 2011 (and every 4 years thereafter).   
+	•	Number of state residents ages 0-17 years with current asthma for 2003, 2007, and 2011 (and every 4 years thereafter). 
+	•	Risk-based child asthma ED visit rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1) for 2003, 2007, and 2011 (and every 4 years thereafter).  
+Adults (≥18 years)
+	•	Annual number of ED visits for adults ages ≥18 years. 
+	•	Annual number of state residents ages ≥18 years with current asthma. 
+	•	Annual risk-based adult asthma ED visit rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1)
+Total (all ages)
+	•	Annual number of ED visits for states/years with both child and adult prevalence
+	•	Annual number of state residents with current asthma for states/years with both child and adult prevalence
+	•	Annual risk-based asthma ED visit rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population, distribution1) for states/years with both child and adult prevalence)
+Time Period of Case Definition:
+Use the ED discharge date if available for the calendar year.  For ED cases found in the hospitalization data which do not have an ED discharge date, use the hospital admission date as the ED discharge date.
+Background:
+In 2009, there were 2.1 million ED visits related to asthma in the United States.2 As of 2010, an estimated 25.7 million U.S. residents currently have asthma,2 which is a 27% increase over 10 years.  The at-risk based asthma ED rate controls for the increase in the number of state residents with asthma that has occurred over time or differences in the underlying asthma prevalence across states.  The population-based rates can increase simply because there are more people with asthma each year or in specific geographic areas.  The at-risk based rate reflects the use of ED’s for asthma care per person with asthma and is therefore independent of the number of people with asthma.  The cost of ED care is substantially higher than the cost of outpatient and pharmaceutical services.  An at-risk based asthma ED rate will better reflect the burden of asthma independent of the increase or differences in the number of people with asthma.  As more people with asthma achieve higher levels of asthma control, the at-risk rate should decline while population based rate may increase because more people have asthma.
+Significance:
+Current scientific and clinical consensus is that the majority of acute asthma events, particularly emergency department visits, can be prevented if asthma is properly managed according to established medical guidelines. Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care.3
+Limitations of Indicator:
+As with the population based rate, it is crucial to recognize that myriad environmental factors affect asthma control, including the use of the ED (as opposed to the doctor’s office) as the location to medically manage asthma.  Diagnoses listed in ED data might be inaccurate. Practice patterns and payment mechanisms can affect decisions by health-care providers to see patients in the ED. Because universal state emergency department data are not available, aggregation of state data to produce nationwide estimates will be incomplete.  Because repeat ED visits by the same person in a single calendar year are included in the numerator, the ED rate is a visit-level rate not a person-level rate.  Only a limited number of states have personal identifiers in the ED data and are able to de-duplicate4 ED visit data.  However, it is important to assess the full burden on the medical care system.  Accordingly, the ED rate includes multiple visits by the same person and the rate calculated is a visit-level, not a person-level rate.  However, multiple billing records for the same ED visit should only be counted as a single event.  A subset of patients who appear in the numerator of ED indicators (those who were hospitalized with the ED as source of admission) will also appear in the numerator for both hospitalization indicators.  Since resources were used by the patients at each site (ED and inpatient), it is important to count the events in both indicators as an indicator of asthma burden on the hospital system.
+Data Resources:
+State ED visit, observation unit, and state hospital discharge data (numerator) from AHRQ and estimates of the number of state residents with current asthma from the BRFSS (adults and children) or the NSCH (children) if the BRFSS child asthma module was not conducted (denominator).
+Limitations of Data Resources:
+If the BRFSS child module was not implemented, annual Child prevalence estimates will only be available for 2003, 2007, and 2011 from the National Survey of Children’s Health (NSCH) which is conducted every 4 years (note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time).  For ED cases found in the hospitalization data, cases with an ED discharge date or a hospital admit date in the calendar year of interest may require use of the hospital discharge data file from the next calendar year.  Some admissions at the end of the calendar year are discharged the following calendar year and are found in the hospital discharge file for the next year. Emergency department data will not be available for all states.  State ED datasets may not include all facilities or populations.  They may exclude Veterans Administration hospitals, Indian Health Service facilities, or institutionalized (prison) populations.  For most states, this measure only includes state residents who visited the ED in their own state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20 http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	3.	National Asthma Education and Prevention Program. Expert Panel Report 3:Guidelines for the Diagnosis and Management of Asthma.  Bethesda, MD: US Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute, National Asthma Education and Prevention Program, 2007.
+	4.	As used here, the term de-duplicated means that persons with multiple admissions during the calendar year are counted only once. However, de-duplication of multiple billing records for the same ED visit is assumed.  
+ 
+ Top of Page
+Risk-based hospital discharge rate for asthma (hospitalizations for asthma per persons with asthma)
+Category: Asthma
+Demographic Group:
+Residents with asthma.
+Numerator:
+In-patient hospitalizations with a principal discharge diagnosis of International Classification of Diseases (ICD)-9-CM code 493 among state residents during a calendar year. When possible include hospitalizations for state residents who have been hospitalized in another state.
+Denominator:
+Estimate of the number of state residents with current asthma for the same calendar year.  For adults the estimate is obtained from the BRFSS and, for children, from the BRFSS child asthma module, if implemented.  If not implemented the child estimate can be obtained from the National Survey of Children’s Health (NSCH). 
+Measures of Frequency:
+Annual number of state residents with current asthma; annual number of asthma inpatient hospitalizations; annual at-risk asthma hospital discharge rate; and by demographic characteristics when feasible.
+Children (0-17 years) if BRFSS data are available
+	•	Annual number of hospital discharges for children ages 0-17 years. 
+	•	Annual number of state residents ages 0-17 years with current asthma. 
+	•	Annual risk-based child asthma hospital discharge rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population distribution1)
+Children (0-17 years) if BRFSS data are not available
+	•	Number of hospital discharges for children ages 0-17 years for 2003, 2007, and 2011 (and every 4 years thereafter).
+	•	Number of state residents ages 0-17 years with current asthma for 2003, 2007, and 2011 (and every 4 years thereafter).
+	•	Risk-based child asthma hospital discharge rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population distribution1) for 2003, 2007, and 2011 (and every 4 years thereafter).
+Adults (≥18 years)
+	•	Annual number of hospital discharges for adults ages ≥18 years. 
+	•	Annual number of state residents ages ≥18 years with current asthma.
+	•	Annual risk-based adult asthma hospital discharge rate per 10,000 - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population distribution1)
+Total (all ages)
+	•	Annual number of hospital discharges for states/years with both child and adult prevalence
+	•	Annual number of state residents with current asthma for states/years with both child and adult prevalence
+	•	Annual risk-based asthma hospital discharge rate per 10,000  - crude and age-adjusted (standardized by the direct method to the year 2000 standard U.S. population distribution1) for states/years with both child and adult prevalence
+Time Period of Case Definition:
+Calendar year based on the hospital discharge date.
+Background:
+Each year, there are approximately 500,000 inpatient hospital stays for asthma in the United States.2  As of 2010, an estimated 25.7 million U.S. residents currently have asthma,2 which is a 27% increase over 10 years.  The at-risk based asthma hospital discharge rate controls for the increase in the number of state residents with asthma that has occurred over time or differences in the underlying asthma prevalence across states.  Population-based rates can increase simply because there are more people with asthma each year or in specific geographic areas.  The at-risk based rate reflects hospitalizations for asthma per person with asthma and is therefore independent of the number of people with asthma.   The cost of inpatient stays is substantially higher than the cost of outpatient and pharmaceutical services.3  An at-risk based asthma hospital discharge rate will better reflect the burden of asthma and improvements in asthma care independent of the increase or differences in the number of people with asthma.  As more people with asthma achieve higher levels of asthma control, the at-risk rate should decline while population based rate may continue to increase simply because more people have asthma.
+Significance:
+Current scientific and clinical consensus is that the majority of acute asthma events, including inpatient stays, can be prevented if asthma is properly managed according to established medical guidelines. Effective management includes control of exposure to factors that trigger exacerbations, adequate pharmacological management, continual monitoring of the disease, and patient education in asthma care.4
+Limitations of Indicator:
+As with the population based rate, it is crucial to recognize that myriad environmental factors affect asthma control, including hospitalizations (as opposed to the doctor’s office) as the location to medically manage asthma.  Diagnoses listed in hospital data might be inaccurate. Practice patterns and payment mechanisms can affect decisions by health-care providers to admit patients to the hospital.  Because universal state hospital discharge data are not available, aggregation of state data to produce nationwide estimates will be incomplete or differ from those resulting from the national surveys.  Because repeat stays by the same person in a single calendar year are included in the numerator, the at-risk based hospital discharge rate is an in-patient stay-level rate not a person-level rate.  Only a limited number of states have personal identifiers in the hospital discharge data and are able to de-duplicate5 inpatient data.  However, it is important to assess the full burden on the medical care system.  Accordingly, the hospital discharge rate includes multiple stays by the same person and the rate calculated is a stay-level, not a person-level rate.  However, multiple billing records for the same hospital admission should only be counted as a single admission.
+Data Resources:
+State hospital discharge data (numerator) and estimates of the number of state residents with current asthma from the BRFSS (adults and children) or the NSCH (children) if the BRFSS child asthma module was not conducted (denominator).
+Limitations of Data Resources:
+If the BRFSS child module was not implemented, annual child prevalence estimates will only be available for 2003, 2007, and 2011 from the National Survey of Children’s Health (NSCH).  (Note: because NSCH is being redesigned, its mode and future periodicity is unknown at this time.)  Hospital inpatient data files are usually organized by discharge date.  Some inpatient stays may have been initiated in the previous calendar year since some admissions at the end of one calendar year are discharged the following calendar year.  Consequently, rates based on discharge date may differ from other indicators based on admission date.  Hospital discharge data may not be available for all states. State hospital discharge datasets may not include all facilities or populations.  They may exclude Veterans Administration hospitals, Indian Health Service facilities, or institutionalized (prison) populations.  For most states, this measure only includes state residents who were hospitalized in their own state.
+Related Indicators or Recommendations:
+None.
+Related CDI Topic Area:
+ 
+	1.	Klein RJ, Schoenborn CA. Age adjustment using the 2000 projected U.S. population. Hyattsville, MD: US Department of Health and Human Services, CDC, National Center for Health Statistics, 2001. Healthy people 2010 statistical notes, no. 20 http://www.cdc.gov/nchs/data/statnt/statnt20.pdf
+	2.	Moorman JE, Akinbami LJ, Bailey CM, et al. National Surveillance of Asthma: United States, 2001–2010. National Center for Health Statistics. Vital Health Stat 3(35). 2012.
+	3.	Barnett SBL, Nurmagambetov TA. Costs of asthma in the United States: 2002-2007. J Allergy Clin Immunol 2011; 127:145-152.
+	4.	National Asthma Education and Prevention Program.  Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma.  Bethesda, MD: US Department of Health and Human Services, National Institutes of Health, National Heart, Lung, and Blood Institute; 2007.
+	5.	As used here, the term de-duplicated means that persons with multiple admissions during the calendar year are counted only once.  However, de-duplication of multiple billing records for the same hospital admission is assumed.
+ Top of Page
+
+
+
+File Formats Help:
+How do I view different file formats (PDF, DOC, PPT, MPEG) on this site?
+	•	Adobe PDF file
+	•	Microsoft PowerPoint file
+	•	Microsoft Word file
+	•	Microsoft Excel file
+	•	Audio/Video file
+	•	Apple Quicktime file
+	•	RealPlayer file
+	•	Text file
+	•	Zip Archive file
+	•	SAS file
+	•	ePub file
+	•	RIS file
+	•	Page last reviewed: January 15, 2015
+	•	Page last updated: January 15, 2015
+	•	Content source:
+	◦	National Center for Chronic Disease Prevention and Health Promotion
+Follow CDC
+	•	Email
+	•	Recommend
+	•	Tweet
+	•	Post
+	•	RSS
+CDC Media
+	•	Listen
+	•	Watch
+	•	eCards
+	•	YouTube
+￼
+	•	About CDC
+	◦	Employment
+	◦	Newsroom
+	◦	Training/Education
+	◦	Funding
+	◦	CDC's Organization
+	◦	Mission and Vision
+	◦	Using this Site
+	•	 
+	•	Legal
+	◦	Link to Us
+	◦	Policies
+	◦	FOIA
+	◦	Accessibility
+	◦	Privacy
+	◦	No FEAR Act
+	◦	Inspector General
+	◦	USA.gov
+	•	 
+	•	
+	•	Contact CDC Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, GA 30329-4027 USA  800-CDC-INFO (800-232-4636) Contact CDC-INFO    
+Top
+￼ 
