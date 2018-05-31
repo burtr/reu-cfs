@@ -26,7 +26,7 @@ This archives the materials used by Burt in the bootcamp (hey! it's my git!)
 This was used sporadically, as we focused more on Makefile, subversion, and command line python.
 * _svn/samples_, a series of challenge python programs. theses were pulled from a subversion
 repository, and the student responded by completing them in a parallel folder.
-* _svn/examples_, python programs to demonstart numpy concepts
+* _svn/examples_, python programs to demonstrate the numpy concepts of slices, views, and broadcasting.
 * _svn/c-lang_, examples used in the numpy presentation to explore the underlying C language arrays
 * _svn/cipher_, a challenge problem in ciphers and cryptanalysis to practice numpy
 * _svn/cuda_, a series of cuda programs for the cuda presentation. The last program was
