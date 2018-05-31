@@ -24,9 +24,10 @@ neural nets, and CUDA. The presenters were:
 This archives the materials used by Burt in the bootcamp (hey! it's my git!)
 * _python-the-language_, introduction to the python language and Jupyter by Burt Rosenberg. 
 This was used sporadically, as we focused more on Makefile, subversion, and command line python.
-* _samples_, a series of challenge python programs. theses were pulled from a subversion
+* _svn/samples_, a series of challenge python programs. theses were pulled from a subversion
 repository, and the student responded by completing them in a parallel folder.
-* _examples_, examples used in the Numby presentation to explore the underlying C language arrays
-* _cuda_, a series of cuda programs for the cuda presentation. The last program was
+* _svn/examples_, python programs to demonstart numpy concepts
+* _svn/c-lang_, examples used in the numpy presentation to explore the underlying C language arrays
+* _svn/cipher_, a challenge problem in ciphers and cryptanalysis to practice numpy
+* _svn/cuda_, a series of cuda programs for the cuda presentation. The last program was
 a challenge problem for the student to complete.
-
