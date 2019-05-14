@@ -29,6 +29,8 @@ If conda can not be find, then use the full path
 > /usr/local/anaconda3/bin/activate
 conda init # is this needed?
 
-https://docs.anaconda.com/anaconda/install/linux/
+For more information, see
+
+> https://docs.anaconda.com/anaconda/install/linux/
 
 
