@@ -34,13 +34,36 @@ The anaconda also includes,
 
 This should run on everything. Mac, Windows and Linux. That is nice.
 
+#### Using Jupyter
+
+Once git has been installed (see below), bring the REU-CFS githup repo to your local machine, 
+
+> `mkdir reu-cfs ; cd to reu-cfs ; git clone https://github.com/burtr/reu-cfs.git`
+
+Then start the notebook,
+
+> `jupyter notebook`
+
+If auto_actitvates as set false:
+
+> `conda config --set auto_activate_False`
+
+then activate it now,
+
+> `conda activate`
+
+If conda can not be found, then use the full pathname, or adjust your path environment variable. 
+The activate command is often found at `~/anaconda3/bin/activate`, where the tilde is 
+Unix-speak for "my home directory".
+
+For more information, see
+
+> https://docs.anaconda.com/anaconda/install/linux/
 
 
 
-### Git
 
-
-#### MacOS
+### Git: MacOS
 
 The MacOS terminal is basically unix. This is because MacOS was cobbled together
 from free and open source unix, with a next generation kernel, then layered with
@@ -94,7 +117,20 @@ do on one line what you would do on many lines. The semicolon is a call to actio
 for the command it precedes. 
 
 
-## Other stuff
+
+
+### Git: Windows
+
+
+
+### Git: Linux
+
+On Ubuntu,
+
+> `sudo apt-get install git`
+
+
+
 
 
 
