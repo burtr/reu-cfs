@@ -3,7 +3,7 @@
 # REU Computing For Structure:
 _A research experience for undergraduate at the University of Miami_
 
-_This is information for the 2021 edition, with a virtual bootcamp from May 17 to May 21.__
+_This is information for the 2021 edition, with a virtual bootcamp from May 17 to May 21._
 
 ## What do we need?
 
@@ -15,28 +15,6 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 ## How to get it?
 
 Depends on your platform. Are you Linux, MacOS or Windows?
-
-## MacOS
-
-Do you know how to get a terminal window on Mac? Did you know that Mac's are
-a blend of Linux? Well of Unix really, and Linux is a Unix. But everyone just says
-Linux. But Mac OS is four things:
-
-1. A Mach micro-kernel (developed at the University of Rochester and CMU)
-1. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
-the University of California at Berkeley)
-1. A proprietary desktop built on Quartz and other application packagers
-1. IOKit, for the drivers and all, proprietary and based on Objective C.
-
-Maybe that's true. It was once. 
-
-However, this means a good notion of Unix and command line is important for Mac's,
-as was the motivation for me to move to Mac, when it adopted the above 4 pillar 
-architecture. 
-
-We more about unix in my short tutorial.
-
-see: https://www.cs.miami.edu/home/burt/learning/unixmini/
 
 
 ### Python and Jupyter
@@ -65,16 +43,43 @@ This should run on everything. Mac, Windows and Linux. That is nice.
 
 ### Git
 
-see: https://git-scm.com/download/mac
 
-There are choices here. XCode is great, but it is a long download form the AppStore 
-and is picky about your MACOS version. Even after install you will have to do some
-"install CLI tools" magic. CLI means Command Line Interface
+#### MacOS
 
-Homebrew ports lots of Linux stuff to MacOS.
+MacOS is a form of Linux, and that is totally badly said. In fact, MacOS is,
+
+1. A Mach micro-kernel (developed at the University of Rochester and CMU)
+1. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
+the University of California at Berkeley)
+1. A proprietary desktop built on Quartz and other application packagers
+1. IOKit, for the drivers and all, proprietary and based on Objective C.
+
+The terminal window in MacOS gives access to the FreeBSD operating system, and is 
+therefore a Unix shell. More about Unix in my short tutorial.
+
+see: https://www.cs.miami.edu/home/burt/learning/unixmini/
+
+In that tutorial, you learn that Linux is a kernel and operating system based on 
+Unix, as is MacOS, so there is a lot of shared concepts. In the Linux world, 
+diversification is categorized as "distros" (distributions). A distro packages up
+the work of linux/unix developers for distribution. An amazing infrastructure of 
+repositories and package managers has evolved.
+
+Apple also has its for of distribution, called the AppStore.
+
+The Homebrew system is a bridge between the Apple distribution system and the 
+distribution system of Linux Distros. 
+
+The possibilities for getting Git are explained on the git website:
+ https://git-scm.com/download/mac
+
+We will try to get it through the Homebrew system. If mastered, Homebrew will 
+give access to the entire Linux universe of Free, Open Source Software.
 
 
-Getting Homebrew:
+_Terminology:_ CLI means Command Line Interface. GUI is Graphical User Interface.
+
+#### Getting Homebrew:
 
 see: https://brew.sh/
 
@@ -84,11 +89,15 @@ it says:
 but that fails, first you need:
 git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
 
-then you get:
-brew install git
-rehash
+
+#### Getting Git
+
+`brew install git`
+`rehash`
+`git --version` 
 
 
+## Other stuff
 
 
 
