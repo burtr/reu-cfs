@@ -42,7 +42,11 @@ This should run on everything. Mac, Windows and Linux. That is nice.
 
 #### MacOS
 
-MacOS is a form of Linux, and that is totally badly said. In fact, MacOS is,
+The MacOS terminal is basically unix. This is because MacOS was cobbled together
+from free and open source unix, with a next generation kernel, then layered with
+Apple proprietary code for things they do (or believed they do) better.
+
+_The pieces of MacOS_
 
 1. A Mach micro-kernel (developed at the University of Rochester and CMU)
 1. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
