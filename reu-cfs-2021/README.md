@@ -54,28 +54,19 @@ the University of California at Berkeley)
 1. A proprietary desktop built on Quartz and other application packagers
 1. IOKit, for the drivers and all, proprietary and based on Objective C.
 
-The terminal window in MacOS gives access to the FreeBSD operating system, and is 
-therefore a Unix shell. More about Unix in my short tutorial.
 
-see: https://www.cs.miami.edu/home/burt/learning/unixmini/
+__Distros__
 
-In that tutorial, you learn that Linux is a kernel and operating system based on 
-Unix, as is MacOS, so there is a lot of shared concepts. In the Linux world, 
-diversification is categorized as "distros" (distributions). A distro packages up
-the work of linux/unix developers for distribution. An amazing infrastructure of 
-repositories and package managers has evolved.
+In the Linux world, diversification is categorized as "distros" (distributions). 
+A distro packages up the work of linux developers for distribution. Package managers
+allow you to install the packages you want, and keep up-to-date the packages you have.
 
 Apple also has its for of distribution, called the AppStore.
 
-The Homebrew system is a bridge between the Apple distribution system and the 
-distribution system of Linux Distros. 
-
-The possibilities for getting Git are explained on the git website:
- https://git-scm.com/download/mac
-
-We will try to get it through the Homebrew system. If mastered, Homebrew will 
-give access to the entire Linux universe of Free, Open Source Software.
-
+The Homebrew system is a bridge between the Mac and the  distribution system of 
+Linux Distros. It is modelled after distro system, but it runs native on Mac.
+Homebrew will give access to the entire Linux universe of free and 
+open source Software.
 
 _Terminology:_ CLI means Command Line Interface. GUI is Graphical User Interface.
 
@@ -90,7 +81,11 @@ but that fails, first you need:
 `git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow`
 
 
-#### Getting Git
+#### Getting Git with Homebrew
+
+
+The possibilities for getting Git on the Mac are explained on the git website:
+`https://git-scm.com/download/mac`.
 
    brew install git
    rehash
