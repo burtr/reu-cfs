@@ -3,8 +3,7 @@
 # REU Computing For Structure:
 _A research experience for undergraduate at the University of Miami_
 
-
-## Welcome REU-CFS, 2021 edition. 
+_This is information for the 2021 edition, with a virtual bootcamp from May 17 to May 21.__
 
 ## What do we need?
 
