@@ -12,10 +12,6 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. Jupyter
 1. Git and github
 
-## How to get it?
-
-Depends on your platform. Are you Linux, MacOS or Windows?
-
 
 ### Python and Jupyter
 
@@ -84,17 +80,17 @@ _Terminology:_ CLI means Command Line Interface. GUI is Graphical User Interface
 see: https://brew.sh/
 
 it says:
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+``/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"``
 
 but that fails, first you need:
-git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
+`git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow`
 
 
 #### Getting Git
 
-`brew install git`
-`rehash`
-`git --version` 
+   brew install git
+   rehash
+   git --version 
 
 
 ## Other stuff
