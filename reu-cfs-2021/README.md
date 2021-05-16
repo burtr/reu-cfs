@@ -134,19 +134,29 @@ on the bash shell program.
 
 ## Full Ubuntu Install
 
-An alternative approach is to create an Ubuntu 20.04 virtual machine.
+An alternative approach is to create an Ubuntu 18.05 virtual machine.
 
 1. Install Virtual Box for your platform, `https://www.virtualbox.org/`
 1. Also install the Extension Pack.
-1. Download the Ubuntun Desktop ISO, `https://ubuntu.com/download/desktop`
+1. Download the Ubuntu 18.04 Desktop ISO, `https://ubuntu.com/download/desktop`
+1. **NOTE** I did not have success with Ubuntu 20.
 1. Start Virtual Box and select the Ubuntu Desktop ISO.
    1. Under Machine->New
-   1. I choose 2048 of memory
-   1. I choose 35G of disk (dynamically sized)
+   1. I choose 4096 of memory
+   1. I choose 45G of disk (dynamically sized)
    1. When you "start" the created VM you navigate to the ISO file (the icon next to the file choice)
    1. Take all defaults (although maybe adjust location and you need to choose a username).
-1. Install the extensions and get cut and paste and file system sharing working.
-1. sudo apt-get update ; sudo apt-get upgrade ; sudo apt-get install build-essential
+1. sudo apt-get install build-essential
+1. From the VM menu bar, selected Devices->Insert Guest Additions ...
+1. Run the CD folder. (It either prompts to run the folder, or there is a button.)
+1. Set Devicse->Shared Clipboard as desired (e.g. Bidirectional)
+1. Configure Devices->Shared Folders->Shared Folders Settings as desired.
+   1. For instance, create a new share from a folder on you host to a folder on your VM.
+   1. Auto-mount and Make Permanent 
+   1. `sudo adduser $USER vboxsf` to gain permissions on the folder.
+1. Reboot
+
+
 
 Then use the Linux install for git and Anaconda.
 
