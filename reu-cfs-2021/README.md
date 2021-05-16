@@ -87,9 +87,11 @@ but that fails, first you need:
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/mac`.
 
-> `brew install git
-> rehash
-> git --version `
+> `brew install git ; rehash ; git --version `
+
+__Note:__ The semi-colon on the Unix command line just allows you to 
+do on one line what you would do on many lines. The semicolon is a call to action
+for the command it precedes. 
 
 
 ## Other stuff
