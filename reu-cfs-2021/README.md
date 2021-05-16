@@ -93,7 +93,7 @@ open source Software.
 
 _Terminology:_ CLI means Command Line Interface. GUI is Graphical User Interface.
 
-#### Getting Homebrew:
+### Getting Homebrew:
 
 see: https://brew.sh/
 
@@ -104,7 +104,7 @@ but that fails, first you need:
 `git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow`
 
 
-#### Getting Git with Homebrew
+### Getting Git with Homebrew
 
 
 The possibilities for getting Git on the Mac are explained on the git website:
@@ -117,49 +117,36 @@ do on one line what you would do on many lines. The semicolon is a call to actio
 for the command it precedes. 
 
 
-
-
-### Git: Windows
-
-
-
 ### Git: Linux
 
 On Ubuntu,
 
 > `sudo apt-get install git`
 
+### Git: Windows
 
 
+The possibilities for getting Git on the Mac are explained on the git website:
+`https://git-scm.com/download/win`.
+
+A git-bash is installed, which is both the git program, and a unix shell based 
+on the bash shell program. 
+
+## Full Ubuntu Install
+
+An alternative approach is to create an Ubuntu 20.04 virtual machine.
+
+1. Install Virtual Box for your platform, `https://www.virtualbox.org/`
+1. Also install the Extension Pack.
+1. Download the Ubuntun Desktop ISO, `https://ubuntu.com/download/desktop`
+1. Start Virtual Box and select the Ubuntu Desktop ISO.
+   1. Under Machine->New
+   1. I choose 2048 of memory
+   1. I choose 35G of disk (dynamically sized)
+   1. When you "start" the created VM you navigate to the ISO file (the icon next to the file choice)
+   1. Take all defaults (although maybe adjust location and you need to choose a username).
+1. Install the extensions and get cut and paste and file system sharing working.
 
 
-
-mkdir git and cd to git
-then clone the repo:
-
-> git clone https://github.com/burtr/reu-cfs.git
-
-Jupyter should be installed in your lab machines and will start with:
-
-> jupyter notebook
-
-from the command line.
-
-If auto_actitvates as set false:
-
-> conda config --set auto_activate_False
-
-then activate it now,
-
-> conda activate
-
-If conda can not be find, then use the full path
-
-> /usr/local/anaconda3/bin/activate
-conda init # is this needed?
-
-For more information, see
-
-> https://docs.anaconda.com/anaconda/install/linux/
 
 
