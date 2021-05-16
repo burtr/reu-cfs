@@ -87,9 +87,9 @@ but that fails, first you need:
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/mac`.
 
-   brew install git
-   rehash
-   git --version 
+> `brew install git
+> rehash
+> git --version `
 
 
 ## Other stuff
