@@ -146,6 +146,9 @@ An alternative approach is to create an Ubuntu 20.04 virtual machine.
    1. When you "start" the created VM you navigate to the ISO file (the icon next to the file choice)
    1. Take all defaults (although maybe adjust location and you need to choose a username).
 1. Install the extensions and get cut and paste and file system sharing working.
+1. sudo apt-get update ; sudo apt-get upgrade ; sudo apt-get install build-essential
+
+Then use the Linux install for git and Anaconda.
 
 
 
