@@ -4,19 +4,67 @@
 _A research experience for undergraduate at the University of Miami_
 
 
-For 2021 edition. 
+## Welcome REU-CFS, 2021 edition. 
 
-What do we need?
+## What do we need?
+
 1. Python
-2. Python packages for Scientific computing
-3. Jupyter
-4. Git and github
+1. Python packages for Scientific computing
+1. Jupyter
+1. Git and github
 
-How to get it?
+## How to get it?
 
 Depends on your platform. Are you Linux, MacOS or Windows?
 
-MACOS Git
+## MacOS
+
+Do you know how to get a terminal window on Mac? Did you know that Mac's are
+a blend of Linux? Well of Unix really, and Linux is a Unix. But everyone just says
+Linux. But Mac OS is four things:
+
+1. A Mach micro-kernel (developed at the University of Rochester and CMU)
+1. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
+the University of California at Berkeley)
+1. A proprietary desktop built on Quartz and other application packagers
+1. IOKit, for the drivers and all, proprietary and based on Objective C.
+
+Maybe that's true. It was once. 
+
+However, this means a good notion of Unix and command line is important for Mac's,
+as was the motivation for me to move to Mac, when it adopted the above 4 pillar 
+architecture. 
+
+We more about unix in my short tutorial.
+
+see: https://www.cs.miami.edu/home/burt/learning/unixmini/
+
+
+### Python and Jupyter
+
+This is the easiest, 
+
+see: https://www.anaconda.com/products/individual
+
+This is the "individual edition", which is the Free, Open Source edition. 
+
+It includes Python 3-point-something. Python version 2 and version 3 are slightly
+incompatible. Choose 3 if ever you have a choice.
+
+The anaconda also includes,
+
+1. Python3
+1. Jupyter, the notebook/browser interface to the scientific computing world
+1. Packages. Lots of packages, such as Numby, Pandas, Matplotlib
+1. The conda package manager
+1. The conda python virtual environment system
+
+This should run on everything. Mac, Windows and Linux. That is nice.
+
+
+
+
+### Git
 
 see: https://git-scm.com/download/mac
 
@@ -26,15 +74,6 @@ and is picky about your MACOS version. Even after install you will have to do so
 
 Homebrew ports lots of Linux stuff to MacOS.
 
-Do you know how to get a terminal window on Mac? Did you know that Mac's are
-a blend of Linux? Well of Unix really, and Linux is a Unix. But everyone just says
-Linux. But Mac OS is four things:
-
-1. A Mach micro-kernel (developed at the University of Rochester and CMU)
-2. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
-the University of California at Berkeley)
-3. A proprietary desktop built on Quartz and other application packagers
-4. IOKit, for the drivers and all, proprietary and based on Objective C.
 
 Getting Homebrew:
 
@@ -48,6 +87,9 @@ git -C /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core fetch --unshallow
 
 then you get:
 brew install git
+rehash
+
+
 
 
 
