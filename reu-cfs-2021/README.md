@@ -166,6 +166,12 @@ Download the .sh file from `https://www.anaconda.com/products/individual` and ru
 
 > `cd Downloads ; chmod a+x Anaconda3-2021.05-Linux-x86_64.sh ; ./Anaconda3-2021.05-Linux-x86_64.sh`
 
+Exit the terminal and reopen the terminal. Navigate to the reu-cfs folder with Jupyter notebooks 
+and start Jupyter, 
+
+> `jupyter notebook`
+
+
 
 
 
