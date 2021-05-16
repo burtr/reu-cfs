@@ -156,9 +156,15 @@ An alternative approach is to create an Ubuntu 18.05 virtual machine.
    1. `sudo adduser $USER vboxsf` to gain permissions on the folder.
 1. Reboot
 
+### Install git and get repo
 
+> `sudo apt-get install git ; mkdir git ; cd git ; git clone https://github.com/burtr/reu-cfs`
 
-Then use the Linux install for git and Anaconda.
+### Install Anaconda
+
+Download the .sh file from `https://www.anaconda.com/products/individual` and run it,
+
+> `cd Downloads ; chmod a+x Anaconda3-2021.05-Linux-x86_64.sh ; ./Anaconda3-2021.05-Linux-x86_64.sh`
 
 
 
