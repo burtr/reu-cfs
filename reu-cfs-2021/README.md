@@ -11,6 +11,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. Python packages for Scientific computing
 1. Jupyter
 1. Git and github
+1. ssh
 
 
 ### Python and Jupyter
