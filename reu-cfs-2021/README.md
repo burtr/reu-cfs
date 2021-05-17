@@ -125,6 +125,7 @@ On Ubuntu,
 
 ### Git: Windows
 
+We could also download and install from Cygwin, https://www.cygwin.com/
 
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/win`.
