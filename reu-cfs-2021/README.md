@@ -45,6 +45,8 @@ Then start the notebook,
 
 > `jupyter notebook`
 
+This works on the terminal of MacOS, and from the Anaconda Prompt on windows.
+
 If auto_actitvates as set false:
 
 > `conda config --set auto_activate_False`
@@ -60,8 +62,6 @@ Unix-speak for "my home directory".
 For more information, see
 
 > https://docs.anaconda.com/anaconda/install/linux/
-
-
 
 
 ### Git: MacOS
@@ -151,12 +151,11 @@ Cygwin works as a custom terminal window, and a completely isolated file system 
 The file system branch it install is a traditional Unix file system. For instance, /usr/local/bin,
 and other names familiar to unix users.
 
-WHen completed, the command `which ssh` should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
+When completed, you can a _Cygwin64 Terminal_. The default install leaves an icon for this on the desktop.
+Inside this window, you are on what seems to be a unix machine. The window is a unix shell, and the filesystem
+is laid out as is familiar to unix programer.
 
-You are all ready to use everything you know about the unix shell on a windows machine.
-
-
-
+Check the install with the command `which ssh`, and it should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
 
 
 ## Full Ubuntu Install
