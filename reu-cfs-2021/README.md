@@ -11,8 +11,8 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 2. [Python and Jupyter](#PythonJupyter)
 3. [Git for MacOS](#GitMac)
 4. [Getting Homebrew for MacOS](#GetHomebrew)
-5. [Git fo Linux](#GitLinux)
-6. [Git fo Windows](#GitWindows)
+5. [Git for Linux](#GitLinux)
+6. [Git for Windows](#GitWindows)
 7. [Cygwin for Windows](#Cygwin)
 8. [Ubuntu on a VM](#FullUbuntu)
 
