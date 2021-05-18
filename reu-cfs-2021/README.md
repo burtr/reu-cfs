@@ -11,6 +11,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. Python packages for Scientific computing
 1. Jupyter
 1. Git and github
+1. ssh
 
 
 ### Python and Jupyter
@@ -44,6 +45,8 @@ Then start the notebook,
 
 > `jupyter notebook`
 
+This works on the terminal of MacOS, and from the Anaconda Prompt on windows.
+
 If auto_actitvates as set false:
 
 > `conda config --set auto_activate_False`
@@ -59,8 +62,6 @@ Unix-speak for "my home directory".
 For more information, see
 
 > https://docs.anaconda.com/anaconda/install/linux/
-
-
 
 
 ### Git: MacOS
@@ -125,13 +126,37 @@ On Ubuntu,
 
 ### Git: Windows
 
-We could also download and install from Cygwin, https://www.cygwin.com/
-
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/win`.
 
 A git-bash is installed, which is both the git program, and a unix shell based 
 on the bash shell program. 
+
+### Cygwin
+
+Install Cygwin, www.cygwin.com. You can get git from cygwin and also the important
+ssh program.
+
+From the cygwin home page select setup-x86_64.exe. Take any download server, and it will
+show a long list of "pending downloads". Just go ahead and install all this.
+
+When done, repeat the visit to cygwin.com and the click on the setup exe, and this time
+choose to install git and ssh. There is a selection window. Change the pulldown on the 
+upper left for View to Not Installed. Search for git, and it has "skip" in the new column. 
+Use the pull-down on the right to change that to a version to install.
+
+Do the same for ssh (called openssh). The proceed to Next/Next and it installs.
+
+Cygwin works as a custom terminal window, and a completely isolated file system branch.
+The file system branch it install is a traditional Unix file system. For instance, /usr/local/bin,
+and other names familiar to unix users.
+
+When completed, you can a _Cygwin64 Terminal_. The default install leaves an icon for this on the desktop.
+Inside this window, you are on what seems to be a unix machine. The window is a unix shell, and the filesystem
+is laid out as is familiar to unix programer.
+
+Check the install with the command `which ssh`, and it should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
+
 
 ## Full Ubuntu Install
 
