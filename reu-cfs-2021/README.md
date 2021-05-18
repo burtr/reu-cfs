@@ -7,8 +7,8 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 
 ## Table of Contents
 
-1. [What do we need](What do we need)
-2. [Python and Jupyter](Python and Jupyter)
+1. [What do we need](#What do we need)
+2. [Python and Jupyter](#Python and Jupyter)
 
 ## What do we need?
 
