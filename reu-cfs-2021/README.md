@@ -5,6 +5,11 @@ _A research experience for undergraduate at the University of Miami_
 
 _This is information for the 2021 edition, with a virtual bootcamp from May 17 to May 21._
 
+## Table of Contents
+
+1. [What do we need](What do we need)
+2. [Python and Jupyter](Python and Jupyter)
+
 ## What do we need?
 
 1. Python
