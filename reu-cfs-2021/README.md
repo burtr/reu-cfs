@@ -10,7 +10,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. [What do we need](#WhatNeed)
 2. [Python and Jupyter](#PythonJupyter)
 
-## <a hname="WhatNeed">What do we need?</a>
+## <a name="WhatNeed">What do we need?</a>
 
 1. Python
 1. Python packages for Scientific computing
@@ -19,7 +19,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. ssh
 
 
-### <a hname="PythonJupyter">Python and Jupyter</a>
+### <a name="PythonJupyter">Python and Jupyter</a>
 
 This is the easiest, 
 
