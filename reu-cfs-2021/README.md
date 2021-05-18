@@ -5,7 +5,18 @@ _A research experience for undergraduate at the University of Miami_
 
 _This is information for the 2021 edition, with a virtual bootcamp from May 17 to May 21._
 
-## What do we need?
+## Table of Contents
+
+1. [What do we need](#WhatNeed)
+2. [Python and Jupyter](#PythonJupyter)
+3. [Git for MacOS](#GitMac)
+4. [Getting Homebrew for MacOS](#GetHomebrew)
+5. [Git for Linux](#GitLinux)
+6. [Git for Windows](#GitWindows)
+7. [Cygwin for Windows](#Cygwin)
+8. [Ubuntu on a VM](#FullUbuntu)
+
+## <a name="WhatNeed">What do we need?</a>
 
 1. Python
 1. Python packages for Scientific computing
@@ -14,7 +25,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. ssh
 
 
-### Python and Jupyter
+### <a name="PythonJupyter">Python and Jupyter</a>
 
 This is the easiest, 
 
@@ -64,7 +75,7 @@ For more information, see
 > https://docs.anaconda.com/anaconda/install/linux/
 
 
-### Git: MacOS
+### <a name="GitMac">Git: MacOS</a>
 
 The MacOS terminal is basically unix. This is because MacOS was cobbled together
 from free and open source unix, with a next generation kernel, then layered with
@@ -94,7 +105,7 @@ open source Software.
 
 _Terminology:_ CLI means Command Line Interface. GUI is Graphical User Interface.
 
-### Getting Homebrew:
+### <a name="GetHomebrew">Getting Homebrew:</a>
 
 see: https://brew.sh/
 
@@ -118,13 +129,13 @@ do on one line what you would do on many lines. The semicolon is a call to actio
 for the command it precedes. 
 
 
-### Git: Linux
+### <a name="GitLinux">Git: Linux</a>
 
 On Ubuntu,
 
 > `sudo apt-get install git`
 
-### Git: Windows
+### <a name="GitWindows">Git: Windows</a>
 
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/win`.
@@ -132,7 +143,7 @@ The possibilities for getting Git on the Mac are explained on the git website:
 A git-bash is installed, which is both the git program, and a unix shell based 
 on the bash shell program. 
 
-### Cygwin
+### <a name="Cygwin">Cygwin</a>
 
 Install Cygwin, www.cygwin.com. You can get git from cygwin and also the important
 ssh program.
@@ -158,7 +169,7 @@ is laid out as is familiar to unix programer.
 Check the install with the command `which ssh`, and it should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
 
 
-## Full Ubuntu Install
+## <a name="FullUbuntu">Full Ubuntu Install</a>
 
 An alternative approach is to create an Ubuntu 18.05 virtual machine.
 
