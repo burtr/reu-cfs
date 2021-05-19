@@ -25,6 +25,11 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. Git and github
 1. ssh
 
+We also need unix proficiency,
+
+1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) by William Shotts
+2. My [unix mini-course](https://www.cs.miami.edu/home/burt/learning/unixmini/)
+
 
 ### <a name="PythonJupyter">Python and Jupyter</a>
 
