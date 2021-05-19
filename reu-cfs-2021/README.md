@@ -11,11 +11,11 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 2. [Python and Jupyter](#PythonJupyter)
 3. [Git for MacOS](#GitMac)
 4. [Getting Homebrew for MacOS](#GetHomebrew)
-5. [Git for Linux](#GitLinux)
 6. [Git for Windows](#GitWindows)
 7. [Cygwin for Windows](#Cygwin)
 9. [Windows Subsystem for Linux](#WSL)
-10. [Ubuntu on a VM](#FullUbuntu)
+10. [Git for Linux](#GitLinux)
+11. [Ubuntu on a VM](#FullUbuntu)
 
 ## <a name="WhatNeed">What do we need?</a>
 
@@ -76,6 +76,8 @@ For more information, see
 > https://docs.anaconda.com/anaconda/install/linux/
 
 
+## MacOS
+
 ### <a name="GitMac">Git: MacOS</a>
 
 The MacOS terminal is basically unix. This is because MacOS was cobbled together
@@ -130,11 +132,7 @@ do on one line what you would do on many lines. The semicolon is a call to actio
 for the command it precedes. 
 
 
-### <a name="GitLinux">Git: Linux</a>
-
-On Ubuntu,
-
-> `sudo apt-get install git`
+## Windows
 
 ### <a name="GitWindows">Git: Windows</a>
 
@@ -193,7 +191,17 @@ implemented.
 See the [How To Geek](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for the procedure.
 
 
-## <a name="FullUbuntu">Full Ubuntu Install</a>
+## Linux
+
+
+### <a name="GitLinux">Git: Linux</a>
+
+On Ubuntu,
+
+> `sudo apt-get install git`
+
+
+### <a name="FullUbuntu">Full Ubuntu Install</a>
 
 An alternative approach is to create an Ubuntu 18.05 virtual machine.
 
