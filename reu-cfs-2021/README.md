@@ -14,8 +14,8 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 5. [Git for Linux](#GitLinux)
 6. [Git for Windows](#GitWindows)
 7. [Cygwin for Windows](#Cygwin)
-8. [Ubuntu on a VM](#FullUbuntu)
 9. [Windows Subsystem for Linux](#WSL)
+10. [Ubuntu on a VM](#FullUbuntu)
 
 ## <a name="WhatNeed">What do we need?</a>
 
