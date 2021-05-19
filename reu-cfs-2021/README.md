@@ -15,6 +15,7 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 6. [Git for Windows](#GitWindows)
 7. [Cygwin for Windows](#Cygwin)
 8. [Ubuntu on a VM](#FullUbuntu)
+9. [Windows Subsystem for Linux](#WSL)
 
 ## <a name="WhatNeed">What do we need?</a>
 
@@ -167,6 +168,12 @@ Inside this window, you are on what seems to be a unix machine. The window is a 
 is laid out as is familiar to unix programer.
 
 Check the install with the command `which ssh`, and it should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
+
+### <a name="WSL">Windows Subsystem for Linux</a>
+
+The other possiblity is to turn on Windows long-awaited (it was part of the original design idea of Windows NT) subsystem for linux. 
+
+See the [How To Geek](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for the procedure.
 
 
 ## <a name="FullUbuntu">Full Ubuntu Install</a>
