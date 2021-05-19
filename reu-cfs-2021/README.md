@@ -173,6 +173,23 @@ Check the install with the command `which ssh`, and it should return `/usr/bin/s
 
 The other possiblity is to turn on Windows long-awaited (it was part of the original design idea of Windows NT) subsystem for linux. 
 
+1. Goto Control Panel --> Programs --> Turn Windows Features On Or Off. 
+2. Enable the “Windows Subsystem for Linux” option in the list.
+3. Click ok and reboot
+4. After reboot install the linux distro using the Microsoft App Store.
+
+When accomplished, you can start and Bash shell, and you will see a standard unix file hierarchy. This is a standard linux install, 
+so native Ubuntu packages work. 
+
+The windows files are found in `/mnt/c`, and if there were other drive letters, they to we be found in `/mnt`.
+
+The original Windows NT was intended to run three "flavors" &mdash; win32, os2 and posix. Application level "OS Servers" ran, and
+all operating system calls were routed through these servers, and these servers forwarded the command to the NT Kernel. The original
+NT Kernel project as a collaboration. When Microsoft found that it was better off on its own, only the win32 OS server was fully
+implemented.
+
+
+
 See the [How To Geek](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for the procedure.
 
 
