@@ -31,7 +31,7 @@ We also need unix proficiency,
 2. My [unix mini-course](https://www.cs.miami.edu/home/burt/learning/unixmini/)
 
 
-### <a name="PythonJupyter">Python and Jupyter</a>
+## <a name="PythonJupyter">Python and Jupyter</a>
 
 This is the easiest, 
 
