@@ -184,7 +184,7 @@ so native Ubuntu packages work.
 The windows files are found in `/mnt/c`, and if there were other drive letters, they to we be found in `/mnt`.
 
 The original Windows NT was intended to run three "flavors" &mdash; win32, os2 and posix. Application level "OS Servers" ran, and
-all operating system calls were routed through these servers, and these servers forwarded the command to the NT Kernel. The original
+all operating system calls were routed through these servers, and these servers forwarded the service request to the NT Kernel. The original
 NT Kernel project as a collaboration. When Microsoft found that it was better off on its own, only the win32 OS server was fully
 implemented.
 
