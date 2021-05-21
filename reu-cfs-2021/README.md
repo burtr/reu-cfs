@@ -11,10 +11,11 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 2. [Python and Jupyter](#PythonJupyter)
 3. [Git for MacOS](#GitMac)
 4. [Getting Homebrew for MacOS](#GetHomebrew)
-5. [Git for Linux](#GitLinux)
 6. [Git for Windows](#GitWindows)
 7. [Cygwin for Windows](#Cygwin)
-8. [Ubuntu on a VM](#FullUbuntu)
+9. [Windows Subsystem for Linux](#WSL)
+10. [Git for Linux](#GitLinux)
+11. [Ubuntu on a VM](#FullUbuntu)
 
 ## <a name="WhatNeed">What do we need?</a>
 
@@ -24,8 +25,13 @@ _This is information for the 2021 edition, with a virtual bootcamp from May 17 t
 1. Git and github
 1. ssh
 
+We also need unix proficiency,
 
-### <a name="PythonJupyter">Python and Jupyter</a>
+1. [The Linux Command Line](http://linuxcommand.org/tlcl.php) by William Shotts
+2. My [unix mini-course](https://www.cs.miami.edu/home/burt/learning/unixmini/)
+
+
+## <a name="PythonJupyter">Python and Jupyter</a>
 
 This is the easiest, 
 
@@ -74,6 +80,8 @@ For more information, see
 
 > https://docs.anaconda.com/anaconda/install/linux/
 
+
+## MacOS
 
 ### <a name="GitMac">Git: MacOS</a>
 
@@ -129,11 +137,7 @@ do on one line what you would do on many lines. The semicolon is a call to actio
 for the command it precedes. 
 
 
-### <a name="GitLinux">Git: Linux</a>
-
-On Ubuntu,
-
-> `sudo apt-get install git`
+## Windows
 
 ### <a name="GitWindows">Git: Windows</a>
 
@@ -168,8 +172,41 @@ is laid out as is familiar to unix programer.
 
 Check the install with the command `which ssh`, and it should return `/usr/bin/ssh`, and `which git` should return `/usr/bin/git`.
 
+### <a name="WSL">Windows Subsystem for Linux</a>
 
-## <a name="FullUbuntu">Full Ubuntu Install</a>
+The other possiblity is to turn on Windows long-awaited (it was part of the original design idea of Windows NT) subsystem for linux. 
+
+1. Goto Control Panel --> Programs --> Turn Windows Features On Or Off. 
+2. Enable the “Windows Subsystem for Linux” option in the list.
+3. Click ok and reboot
+4. After reboot install the linux distro using the Microsoft App Store.
+
+When accomplished, you can start and Bash shell, and you will see a standard unix file hierarchy. This is a standard linux install, 
+so native Ubuntu packages work. 
+
+The windows files are found in `/mnt/c`, and if there were other drive letters, they to we be found in `/mnt`.
+
+The original Windows NT was intended to run three "flavors" &mdash; win32, os2 and posix. Application level "OS Servers" ran, and
+all operating system calls were routed through these servers, and these servers forwarded the service request to the NT Kernel. The original
+NT Kernel project as a collaboration. When Microsoft found that it was better off on its own, only the win32 OS server was fully
+implemented.
+
+
+
+See the [How To Geek](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for the procedure.
+
+
+## Linux
+
+
+### <a name="GitLinux">Git: Linux</a>
+
+On Ubuntu,
+
+> `sudo apt-get install git`
+
+
+### <a name="FullUbuntu">Full Ubuntu Install</a>
 
 An alternative approach is to create an Ubuntu 18.05 virtual machine.
 
