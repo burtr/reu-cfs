@@ -7,7 +7,7 @@ I already have the link current at this time. Using that,
 
 `bash Anaconda3-2021.05-Linux-x86_64.sh`
 
-and answer the questions in the default.
+and answer the questions in the default, and YES to the running of conda init.
 
 ### important
 
@@ -18,6 +18,8 @@ logout and login and verify your path,
 `~/anaconda3/bin/python`
 
 ### install gpu and deep learning stuff
+
+It often takes awhile to solve the environment. Not more than five minutes, but it can seem very long.
 
 `conda install cudnn`
 
