@@ -13,6 +13,6 @@ and answer the questions in the default.
 
 logout and login and verify your path,
 
-`$ which python
-~/anaconda3/bin/python
+`$ which python`
+`~/anaconda3/bin/python`
 `
