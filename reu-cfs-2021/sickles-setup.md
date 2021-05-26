@@ -19,18 +19,15 @@ logout and login and verify your path,
 
 ### install gpu and deep learning stuff
 
-It often takes awhile to solve the environment. Not more than five minutes, but it can seem very long.
+It often takes awhile to solve the environment. This might mean you need to adjust the versions of your 
+software. It can help to run:
 
 <pre>
-$ conda install pytorch
-Collecting package metadata (current_repodata.json): done
-Solving environment: failed with initial frozen solve. Retrying with flexible solve.
-Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
-Collecting package metadata (repodata.json): done
-Solving environment: failed with initial frozen solve. Retrying with flexible solve.
-Solving environment: - 
+conda update conda --all
+conda update anaconda
 </pre>
 
+I had to run this to install pytorch. They did a few downgrades to get pytorch.
 
 `conda install cudnn`
 
