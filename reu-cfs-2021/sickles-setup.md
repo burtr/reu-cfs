@@ -14,5 +14,17 @@ and answer the questions in the default.
 logout and login and verify your path,
 
 `$ which python`
+
 `~/anaconda3/bin/python`
-`
+
+### install gpu and deep learning stuff
+
+`conda install cudnn`
+
+`conda install tensorflow-gpu`
+
+`conda install tensorflow`
+
+`conda install pytorch`
+
+
