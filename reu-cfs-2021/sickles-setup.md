@@ -21,6 +21,17 @@ logout and login and verify your path,
 
 It often takes awhile to solve the environment. Not more than five minutes, but it can seem very long.
 
+<pre>
+$ conda install pytorch
+Collecting package metadata (current_repodata.json): done
+Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: failed with repodata from current_repodata.json, will retry with next repodata source.
+Collecting package metadata (repodata.json): done
+Solving environment: failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: - 
+</pre>
+
+
 `conda install cudnn`
 
 `conda install tensorflow-gpu`
