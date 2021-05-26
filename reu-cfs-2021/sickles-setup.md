@@ -23,8 +23,6 @@ logout and login and verify your path,
 
 `conda install tensorflow-gpu`
 
-`conda install tensorflow`
-
 `conda install pytorch`
 
 
