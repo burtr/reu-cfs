@@ -9,3 +9,10 @@ I already have the link current at this time. Using that,
 
 and answer the questions in the default.
 
+### important
+
+logout and login and verify your path,
+
+`$ which python
+~/anaconda3/bin/python
+`
