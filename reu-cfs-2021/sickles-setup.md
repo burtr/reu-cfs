@@ -19,15 +19,16 @@ logout and login and verify your path,
 
 ### install gpu and deep learning stuff
 
-It often takes awhile to solve the environment. This might mean you need to adjust the versions of your 
-software. It can help to run:
+It often takes awhile to solve the environment. If it says it found conflicts and starts to try to tell you about them, warning that it can take a few minutes, try another approach.
+
+It helped me to update all:
 
 <pre>
 conda update conda --all
 conda update anaconda
 </pre>
 
-I had to run this to install pytorch. They did a few downgrades to get pytorch.
+After updating all, install pytorch worked, but the enviornment solver downgrading some packages.
 
 `conda install cudnn`
 
