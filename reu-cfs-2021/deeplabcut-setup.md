@@ -13,6 +13,7 @@ conda activate DLC-GPU-LITE
 conda install -c conda-forge ffmpeg-python
 cd ../examples
 # remove line 318 in testscript.py:   allow_growth=True
+rm -rf TEST-Alex-2021-06-08/
 python testscript.py
 conda deactivate
 </pre>
