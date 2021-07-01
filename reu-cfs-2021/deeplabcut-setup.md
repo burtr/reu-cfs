@@ -23,7 +23,7 @@ conda deactivate
 
 The yaml file was removed from the repo on May 28, 2021. Here is the file:
 
-<code>
+<pre>
 # DLC-GPU-LITE.yaml
 
 #DeepLabCut2.0 Toolbox (deeplabcut.org)
@@ -50,4 +50,4 @@ dependencies:
   - pip:
     - tensorflow-gpu==1.15.5
     - deeplabcut
-</code>
+</pre>
