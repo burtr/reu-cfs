@@ -1,8 +1,8 @@
 ## The Discussions
 
 
-A. A: Defs and the Execution Model
-B. B: Classes and Inheritance
-C. C: Iterators and Mutability
-D. D: Assertions and Loop Invariants
+1. A: Defs and the Execution Model
+1. B: Classes and Inheritance
+1. C: Iterators and Mutability
+1. D: Assertions and Loop Invariants
 
