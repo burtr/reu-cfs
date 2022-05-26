@@ -8,3 +8,4 @@ The three popular packages are Numpy, Pandas, and Mathplotlib.
 - https://scikit-learn.org/stable/index.html
 - Python for Data Science Handbook by Jake VanderPlas
 
+The Fish.csv is from https://www.kaggle.com/datasets/aungpyaeap/fish-market
