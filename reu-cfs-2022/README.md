@@ -28,12 +28,60 @@ It will prompt for the name of the file to create. I suggesst `id_rsa_triton`, a
 The program will create two files: `id_rsa_triton` and `id_rsa_triton.pub`. The first contains the private key and <u>must</u> be kept secret.
 The .pub file is the public key and you can share that freely. 
 
-<menu>
+__public key in a nutshell__
+
 The public key system will be a conversation between the public key holder and 
-the private key holder during which the public key holder becomes convinced that the counter-party  knows the contents of the private key, 
-and hence (under favorable assumptions) is authentic. However, this converstation reveals nothing about the private key to any party, not
-  to an eavesdropper nor to the holder of the public key.
-</menu>
+the private key holder during which the public key holder becomes convinced that the counter-party  knows the contents of the private key. 
+However, this converstation reveals nothing about the private key to any party, not to an eavesdropper not even to the holder of the public key.
+
+__Part 1__
+
+My suggestion is that you create the key pair on Triton, and you must do so in the directory `~/.ssh`.
+
+1. logon onto triton. use your cane id and your cane id password
+2. `mkdir .ssh`
+3. `cd .ssh`
+4. `ssh-keygen` (at the prompt: `id_rsa_triton`, and the pass phrase prompt, just return (no pass phrase), and confirm return)
+5. `cat id_rsa_triton >> authorized_keys`
+6. logout
+
+Now transfer `id_rsa_triton` onto you laptop/friendly home machine.
+
+1. `cd` (to make sure you are in your home directory)
+2. `mkdir .ssh` (not needed if `~/.ssh` already exists)
+3. `cd .ssh`
+4. `scp _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton` (and use your cane id password to authenticate)
+5. `chmod go-rw id_rsa_triton`
+6. `ssh -i id_rsa_triton _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton`
+
+You should have be able to login without any password prompts. If this did not happen, fix the situtation.
+
+__Part 2__
+
+There are three pieces of information in the ssh login line:
+
+1. your cane id
+2. the host name triton.ccs.miami.edu
+3. the file name id_rsa_triton.
+
+Theses things can be written into the `~/.ssh/config` file and given a single name, triton, and then you can
+log into triton with just the command `ssh triton`.
+
+On your laptop/friendly machine, where you have the `~/.ssh/id_rsa_triton` file,
+
+1. `cd` (to make sure you are in your home directory)
+2. `cd .ssh`
+3. `nano config`
+
+Now put this into that file:
+
+<pre>
+
+Host triton
+HostName triton.ccs.miami.edu
+User _caneid_
+IdentityFile ~/.ssh/rsa_id_triton
 
 
-1. Logon onto Triton. 
+</pre>
+
