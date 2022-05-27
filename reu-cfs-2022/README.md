@@ -14,6 +14,9 @@ Our mentors this year are,
 - Laura Vitale 
 - Prof. Vanessa Aguiar-Pulido 
 
+and I am very grateful for their dedication to the REU program.
+
+
 ### SSH Public Key
 
 Your Cane ID is your name you received at the Cane ID website. To manage or reset your password, visit https://caneidhelp.miami.edu/caneid/.
