@@ -17,6 +17,12 @@ Our mentors this year are,
 
 and I am very grateful for their dedication to the REU program.
 
+### Markdown references
+
+- https://www.markdownguide.org/basic-syntax/
+- https://www.markdownguide.org/extended-syntax/
+
+_Note:_ There are some helpful shortcuts to use when using the Jupyter frame (the browswer window). When properly focuses (where you click) (and that is actually not that obvious) the letter "M" will turn the cell into a markdown cell. "B" will insert a new cell (__B__(elow) the current cell.
 
 ### SSH Public Key
 
