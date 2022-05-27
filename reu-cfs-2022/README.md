@@ -54,7 +54,7 @@ Now transfer `id_rsa_triton` onto you laptop/friendly home machine.
 1. `cd` (to make sure you are in your home directory)
 2. `mkdir .ssh` (not needed if `~/.ssh` already exists)
 3. `cd .ssh`
-4. `scp _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton` (and use your cane id password to authenticate)
+4. `scp _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton .` (and use your cane id password to authenticate; don't forget the dot at the end of the line)
 5. `chmod go-rw id_rsa_triton`
 6. `ssh -i id_rsa_triton _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton`
 
