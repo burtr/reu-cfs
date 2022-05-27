@@ -58,7 +58,7 @@ Now transfer `id_rsa_triton` onto you laptop/friendly home machine.
 5. `chmod go-rw id_rsa_triton`
 6. `ssh -i id_rsa_triton _caneid_@triton.ccs.miami.edu`
 
-You should have be able to login without any password prompts. If this did not happen, fix the situtation.
+You should have logged in without any password prompts. If this did not happen, fix the situtation.
 
 __Part 2__
 
