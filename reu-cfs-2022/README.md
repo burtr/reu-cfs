@@ -3,7 +3,8 @@
 The website for the project is at https://www.cs.miami.edu/reu-cfs.
 
 - Funding for summers 2017&ndash;2019 by NSF grant CNS-1659144. 
-- The renewal grant CNS-1949972 was postponed for Covid in 2020 and resumes for years 2021&ndash;2023.
+- Funding for summers 2021&ndash;2023 by NFS grant CNS-1949972.
+- The program was postponed for Covid the summer of 2020.
 
 Our mentors this year are, 
 
