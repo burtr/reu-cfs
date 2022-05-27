@@ -85,3 +85,8 @@ IdentityFile ~/.ssh/rsa_id_triton
 
 </pre>
 
+Exit nano with control-X, and confir to save the changes with Y.
+
+Now `ssh triton` and you should logon without a password. You can also `scp triton:remote_file local_file` to copy
+files from triton to your local machine, or `scp local_file triton:remote_file` to copy files in the other direction.
+Do not forget the : else it will think you are referring to a local file, scp is both cp and scp in one program.
