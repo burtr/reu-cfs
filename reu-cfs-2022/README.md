@@ -36,7 +36,7 @@ __public key in a nutshell__
 
 The public key system will be a conversation between the public key holder and 
 the private key holder during which the public key holder becomes convinced that the counter-party  knows the contents of the private key. 
-However, this converstation reveals nothing about the private key to any party, not to an eavesdropper not even to the holder of the public key.
+However, this conversation reveals nothing about the private key to any party, not to an eavesdropper not even to the holder of the public key.
 
 __Part 1__
 
