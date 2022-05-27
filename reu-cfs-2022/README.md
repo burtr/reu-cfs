@@ -56,7 +56,7 @@ Now transfer `id_rsa_triton` onto you laptop/friendly home machine.
 3. `cd .ssh`
 4. `scp _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton .` (and use your cane id password to authenticate; don't forget the dot at the end of the line)
 5. `chmod go-rw id_rsa_triton`
-6. `ssh -i id_rsa_triton _caneid_@triton.ccs.miami.edu:~/.ssh/id_rsa_triton`
+6. `ssh -i id_rsa_triton _caneid_@triton.ccs.miami.edu`
 
 You should have be able to login without any password prompts. If this did not happen, fix the situtation.
 
