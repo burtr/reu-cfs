@@ -12,5 +12,6 @@ The bootcamp is to establish a common best of practice for scientific computatio
 - [Anaconda](https://www.anaconda.com/)
 - [Jupyter notebooks](https://jupyter.org/)
 - [Github](https://git-scm.com/book/en/v2)
-- SSH and the Unix command line
+- SSH
+- the Unix command line see the [mini-course](https://www.cs.miami.edu/home/burt/learning/unixmini/)
 
