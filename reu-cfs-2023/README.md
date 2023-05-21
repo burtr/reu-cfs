@@ -8,8 +8,9 @@ at the University of Miami with PI Burton Rosenberg.
 
 The bootcamp is to establish a common best of practice for scientific computation. These are to be elements that assist you in your summer project with your mentor. Those elements are, 
 
-- Python
-- Jupyter notebooks
-- Github
+- [Python](https://docs.python.org/3/)
+- [Anaconda](https://www.anaconda.com/)
+- [Jupyter notebooks](https://jupyter.org/)
+- [Github](https://git-scm.com/book/en/v2)
 - SSH and the Unix command line
 
