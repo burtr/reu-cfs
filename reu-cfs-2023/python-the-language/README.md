@@ -5,7 +5,7 @@ This size fits none.
 
 What it is meant to do, is to resume quickly the important points, particularly for programmers already familiar with some other language. 
 This presentation tends to highlight where Python is different, and highlight what I feel are the most iconic, and most useful, aspects
-of the language.
+of the language. It will range unhindered by a purity of topic, in order to achieve a unity of aim: to program quickly and well.
 
 1. [The boom program](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/1_BoomProgram.ipynb). 
 This first chapter uses the Boom program to illustrate the syntax of the language, to get the reader to the point of writing something.
