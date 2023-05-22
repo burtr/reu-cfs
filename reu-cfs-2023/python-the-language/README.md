@@ -9,7 +9,7 @@ of the language.
 
 1. [The boom program](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/1_BoomProgram.ipynb). 
 This first chapter uses the Boom program to illustrate the syntax of the language, to get the reader to the point of writing something.
-1. [Data types](vhttps://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/2_PythonDatatypes.ipynb).
+1. [Data types](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/2_PythonDatatypes.ipynb).
 This second chapter attempts to point out to the Python learner what data types you will be using, and should be using.
 1. [The execution model](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/3_execution_model.ipynb).
 This third chapter is a more sophisticated look at the language. It might be something new for many programmers, as this information
@@ -22,5 +22,7 @@ its semantic nuances and grace (the executtion model), and that ones programs ac
 Previous editions of this learning trail,
 
 -[2018](https://github.com/burtr/reu-cfs/tree/master/reu-cfs-2018/python-the-language)
+
 -[2019](https://github.com/burtr/reu-cfs/tree/master/reu-cfs-2019/python-the-language)
+
 -[2022](https://github.com/burtr/reu-cfs/tree/master/reu-cfs-2022/discussion)
