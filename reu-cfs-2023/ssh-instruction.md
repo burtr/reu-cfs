@@ -71,10 +71,10 @@ IdentityFile ~/.ssh/rsa_id_thoreau
 
 Exit nano with control-X, and confirm to save the changes with Y.
 
-Now `ssh triton` and you should logon without a password. 
+Now `ssh thoreau` and you should logon without a password. 
 
-- You can also `scp triton:remote_file local_file` to copy
-files from triton to your local machine, 
-- or `scp local_file triton:remote_file` to copy files in the other direction.
+- You can also `scp thoreau:remote_file local_file` to copy
+files from thoreau to your local machine, 
+- or `scp local_file thoreau:remote_file` to copy files in the other direction.
 
 Do not forget the : else it will think you are referring to a local file, scp is both cp and scp in one program.
