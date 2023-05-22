@@ -17,7 +17,7 @@ is generally just found in the reference manuals. But that leaves the work-a-day
 1. [Assertion programming](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/4_assertion_programming.ipynb).
 One might think this fourth chapter should not be here, as it is about things totally different. However, this learning trail's
 goal is success at the entire programming bundle: the language, its innate switfness in implemenation\,
-its semantic nuances and grace, and that one writes programs that are correct. Hence loop invariants.
+its semantic nuances and grace, and that one writes programs that are correct. Hence loop invariants and assertion programming.
 
 Previous editions of this learning trail,
 
