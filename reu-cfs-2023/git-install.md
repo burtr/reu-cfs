@@ -3,27 +3,6 @@
 
 ### <a name="GitMac">Git: MacOS</a>
 
-The MacOS terminal is basically unix. This is because MacOS was cobbled together
-from free and open source unix, with a next generation kernel, then layered with
-Apple proprietary code for things they do (or believed they do) better.
-
-__The pieces of MacOS__
-
-1. A Mach micro-kernel (developed at the University of Rochester and CMU)
-1. A FreeBSD operating system (a spin-off of Berkeley Systems Devision Unix from 
-the University of California at Berkeley)
-1. A proprietary desktop built on Quartz and other application packagers
-1. IOKit, for the drivers and all, proprietary and based on Objective C.
-
-
-__Distros__
-
-In the Linux world, diversification is categorized as "distros" (distributions). 
-A distro packages up the work of linux developers for distribution. Package managers
-allow you to install the packages you want, and keep up-to-date the packages you have.
-
-Apple also has its for of distribution, called the AppStore.
-
 The Homebrew system is a bridge between the Mac and the  distribution system of 
 Linux Distros. It is modelled after distro system, but it runs native on Mac.
 Homebrew will give access to the entire Linux universe of free and 
@@ -44,7 +23,6 @@ but that fails, first you need:
 
 ### Getting Git with Homebrew
 
-
 The possibilities for getting Git on the Mac are explained on the git website:
 `https://git-scm.com/download/mac`.
 
@@ -53,7 +31,6 @@ The possibilities for getting Git on the Mac are explained on the git website:
 __Note:__ The semi-colon on the Unix command line just allows you to 
 do on one line what you would do on many lines. The semicolon is a call to action
 for the command it precedes. 
-
 
 ## Windows
 
@@ -109,17 +86,17 @@ all operating system calls were routed through these servers, and these servers 
 NT Kernel project as a collaboration. When Microsoft found that it was better off on its own, only the win32 OS server was fully
 implemented.
 
-
-
 See the [How To Geek](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) for the procedure.
 
 
 ## Linux
-
 
 ### <a name="GitLinux">Git: Linux</a>
 
 On Ubuntu,
 
 > `sudo apt-get install git`
+
+Note that MacOs has <a href="https://multipass.run/">Multipass</a>, a frameless Ubuntu virtual machine for Mac. It might be tricky for Jupyter, as the running Ubuntu does not know about the Mac windowing system. However, the file systems are merged, so you can work in both worls on the same file.
+
 
