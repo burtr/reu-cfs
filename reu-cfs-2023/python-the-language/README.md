@@ -16,8 +16,8 @@ This third chapter is a more sophisticated look at the language. It might be som
 is generally just found in the reference manuals. But that leaves the work-a-day programmer without a correct model of the language's framework.
 1. [Assertion programming](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/4_assertion_programming.ipynb).
 One might think this fourth chapter should not be here, as it is about things totally different. However, this learning trail's
-goal is success at the entire programming bundle: the language, its innate switfness in implemenation (the datay types chapter),
-its semantic nuances and grace (the executtion model), and that ones programs actually work. Hence loop invariants.
+goal is success at the entire programming bundle: the language, its innate switfness in implemenation\,
+its semantic nuances and grace, and that one writes programs that are correct. Hence loop invariants.
 
 Previous editions of this learning trail,
 
