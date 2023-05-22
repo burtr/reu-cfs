@@ -13,7 +13,7 @@ This first chapter uses the Boom program to illustrate the syntax of the languag
 This second chapter attempts to point out to the Python learner what data types you will be using, and should be using.
 1. [The execution model](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/3_execution_model.ipynb).
 This third chapter is a more sophisticated look at the language. It might be something new for many programmers, as this information
-is generally just it reference manuals, leaving the work-a-day programmer unaware of the underlying harmony of the language's framework.
+is generally just found in the reference manuals. But that leaves the work-a-day programmer unaware of the underlying harmony of the language's framework.
 1. [Assertion programming](https://github.com/burtr/reu-cfs/blob/master/reu-cfs-2023/python-the-language/4_assertion_programming.ipynb).
 One might think this fourth chapter should not be here, as it is about things totally different. However, this learning trail's
 goal is success at the entire programming bundle: the language, its innate switfness in implemenation (the datay types chapter),
