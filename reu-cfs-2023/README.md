@@ -11,7 +11,7 @@ The bootcamp is to establish a common best of practice for scientific computatio
 - [Python](https://docs.python.org/3/)
 - [Anaconda](https://www.anaconda.com/)
 - [Jupyter notebooks](https://jupyter.org/) also the [install instructions](./jupyter-install.md)
-- [Github](https://git-scm.com/book/en/v2) [install instructions](./git-install.md)
+- [Github](https://git-scm.com/book/en/v2), instructs to  [install git](./git-install.md)
 - SSH [getting started](./ssh-instruction.md)
 - the Unix command line see the [mini-course](https://www.cs.miami.edu/home/burt/learning/unixmini/)
 
